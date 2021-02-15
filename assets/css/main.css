@@ -1498,6 +1498,11 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		.same-height img {
+			object-fit: cover;
+			max-height: 256px;
+		}
+
 		.image.fit {
 			display: block;
 			width: 100%;
