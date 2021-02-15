@@ -1620,100 +1620,40 @@ input, select, textarea {
 	ul.icons {
 		list-style: none;
 		padding-left: 0;
+		text-align: center;
 	}
 
-		ul.icons > li {
-			position: relative;
-			padding: 2em 0 0 3em;
-			margin: 0;
-		}
+	ul.icons > li {
+		position: relative;
+		padding: 2em;
+		margin: 0;
+		display: inline;
+	}
 
-			ul.icons > li:before {
-				position: absolute;
-				left: 0;
-				top: 2.6em;
-				display: block;
-				font-size: 0.8em;
-				background: #878787;
-				color: #e4e4e4;
-				width: 2em;
-				height: 2em;
-				border-radius: 2em;
-				line-height: 2em;
-				text-align: center;
-				box-shadow: 0.125em 0.175em 0 0 rgba(0, 0, 0, 0.125);
-			}
-
-			ul.icons > li:first-child {
-				padding-top: 0;
-			}
-
-				ul.icons > li:first-child:before {
-					top: 0;
-				}
-
-/* Form */
-
-	form label {
-		font-weight: 600;
-		text-transform: uppercase;
-		color: #888;
+	ul.icons > li:before {
+		position: absolute;
+		left: 0;
+		top: 2.6em;
 		display: block;
-		margin: 0 0 1em 0;
+		font-size: 0.8em;
+		background: #878787;
+		color: #e4e4e4;
+		width: 2em;
+		height: 2em;
+		border-radius: 2em;
+		line-height: 2em;
+		text-align: center;
+		box-shadow: 0.125em 0.175em 0 0 rgba(0, 0, 0, 0.125);
 	}
 
-	form input[type="text"],
-	form input[type="email"],
-	form input[type="password"],
-	form select,
-	form textarea {
-		-moz-transition: background-color 0.25s ease-in-out;
-		-webkit-transition: background-color 0.25s ease-in-out;
-		-ms-transition: background-color 0.25s ease-in-out;
-		transition: background-color 0.25s ease-in-out;
-		-webkit-appearance: none;
-		display: block;
-		border: 0;
-		background: #e8e8e8;
-		width: 100%;
-		box-shadow: inset 2px 2px 0px 0px rgba(0, 0, 0, 0.1);
-		border-radius: 4px;
-		line-height: 1.25em;
-		padding: 0.75em 1em 0.75em 1em;
+	ul.icons > li:first-child {
+		padding-top: 0;
 	}
 
-		form input[type="text"]:focus,
-		form input[type="email"]:focus,
-		form input[type="password"]:focus,
-		form select:focus,
-		form textarea:focus {
-			background: #f0f0f0;
-		}
-
-	form textarea {
-		min-height: 11em;
+	ul.icons > li:first-child:before {
+		top: 0;
 	}
 
-	form ::-webkit-input-placeholder {
-		color: #555 !important;
-		line-height: 1.35em;
-	}
-
-	form :-moz-placeholder {
-		color: #555 !important;
-	}
-
-	form ::-moz-placeholder {
-		color: #555 !important;
-	}
-
-	form :-ms-input-placeholder {
-		color: #555 !important;
-	}
-
-	form ::-moz-focus-inner {
-		border: 0;
-	}
 
 /* Table */
 
@@ -2206,7 +2146,7 @@ input, select, textarea {
 		overflow: hidden;
 		border-top: solid 2px #e5e5e5;
 		background: #f0f0f0;
-		padding: 6em 0 8em 0;
+		padding: 2em 0 4em 0;
 	}
 
 		#footer form input[type="text"],
@@ -2232,10 +2172,9 @@ input, select, textarea {
 /* Copyright */
 
 	#copyright {
-		border-top: solid 2px #e5e5e5;
 		text-align: center;
-		margin-top: 6em;
-		padding-top: 4em;
+		margin-top: 0;
+		padding-top: 1em;
 	}
 
 /* XLarge */
