@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /assets/
 Disallow: /images/
-Sitemap: https://cphanvan.github.io/cphanvan/index.html
+Sitemap: https://cphanvan.github.io/cphanvan/sitemap.txt
