@@ -128,7 +128,7 @@ input, select, textarea {
 	h3 {
 		font-size: 1em;
 		letter-spacing: 2px;
-		margin: 0 0 1.25em 0;
+		margin: 1.25em 0 1.25em 0;
 	}
 
 	a {
@@ -191,7 +191,7 @@ input, select, textarea {
 
 	p {
 		text-align: justify;
-		margin-bottom: 2em;
+		margin-bottom: 0.5em;
 	}
 
 	ul, ol, dl, table, blockquote {
