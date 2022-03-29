@@ -7,7 +7,7 @@ publication_date: 2021-06-21T00:00:00Z
 excerpt: |
   Une nouvelle fantastique à lire au son des cornemuses
 header:
-  teaser: /assets/images/publications/le-cadeau-des-fees-teaser.jpg
+  teaser: /assets/images/publications/le-cadeau-des-fees-teaser.png
 sidebar:
   - title: "Le cadeau des fées"
     image: /assets/images/publications/le-cadeau-des-fees-cover.png

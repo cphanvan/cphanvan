@@ -24,4 +24,4 @@ Pourquoi est-elle là ? Pourquoi reste-t-elle immobile ? Elle réalise qu'elle n
 
 Vous pouvez lire la courte nouvelle ***Évasion nocturne*** gratuitement **<a href="https://www.pasvupaslumagazine.fr/Les-Nouvelles-et-leurs-laur%C3%A9ats/#wb_element_instance9227" target="_blank">sur le site du magazine *Pas vu, pas lu*</a>**.
 
-{% include figure image_path="/assets/images/publications/evasion-nocturne-teaser.png" %}
+{% include figure image_path="/assets/images/publications/evasion-nocturne-mag-cover.png" %}

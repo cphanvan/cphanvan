@@ -16,7 +16,7 @@ permalink: /bonus
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /assets/images/bandeau-bonus.png
+  overlay_image: /assets/images/bandeau-bonus.jpg
 bonus: true
 books:
   - teaser: "Un écrin pour toi, ma bien-aimée"

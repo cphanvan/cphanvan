@@ -7,7 +7,7 @@ publication_date: 2021-12-15T00:00:00Z
 excerpt: |
   Une nouvelle horrifique qui vous fera frissonner même au coin du feu !
 header:
-  teaser: /assets/images/publications/echos-graphiques-teaser.jpg
+  teaser: /assets/images/publications/echos-graphiques-teaser.png
 sidebar:
   - title: "Échos graphiques"
     image: /assets/images/publications/echos-graphiques-cover.png
