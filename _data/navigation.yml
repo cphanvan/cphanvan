@@ -1,19 +1,19 @@
 # main links
 main:
   - title: "Publications"
-    url: /publications/
+    url: /publications
     icon: "fas fa-book"
   - title: "Textes gratuits"
-    url: /echantillons/
+    url: /echantillons
     icon: "fas fa-pen-fancy"
   - title: "Bonus abonnés"
-    url: /bonus/
+    url: /bonus
     icon: "fas fa-gift"
   - title: "À propos"
-    url: /a-propos/
+    url: /a-propos
     icon: "fas fa-info"
   - title: "Contact"
-    url: /contact/
+    url: /contact
     icon: "fas fa-envelope"
 
 publications:
