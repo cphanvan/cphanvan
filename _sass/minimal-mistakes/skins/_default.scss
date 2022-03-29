@@ -1,0 +1,19 @@
+/* ==========================================================================
+   Default skin
+   ========================================================================== */
+
+/* Colors */
+$background-color: #ffffff !default;
+$text-color: #888888 !default;
+$muted-text-color: #7395ae !default;
+$primary-color: #11999e !default;
+$border-color: mix(#fff, #40514e, 75%) !default;
+$footer-background-color: #f0f0f0 !default;
+$link-color: #557a95 !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+
+.page__footer {
+  color: #777777 !important; // override
+}

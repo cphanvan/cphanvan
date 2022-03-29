@@ -1,0 +1,98 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you: 
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+# Site Settings
+locale                   : "fr-FR"
+title                    : "Graine d'autrice"
+title_separator          : "-"
+subtitle                 : "Le site de l'autrice Catherine Phan&nbsp;van"
+name                     : "Catherine Phan van"
+description              : "Site officiel de l'autrice Catherine Phan van"
+url                      : "https://catherinephanvan.fr"
+logo                     : "/assets/images/logo_CPV_transparent.png"
+masthead_title           : "Accueil"
+consents                 : "/consents.html"
+date_format              : "%d/%m/%Y"
+
+author:
+  name      : "Catherine Phan van"
+  avatar    : "/assets/images/C_Phanvan.jpg"
+  bio       : |
+    Catherine Phan van est née en 1976 au pays des sapins et du froid, qu'elle a quitté pour s'installer près de Bordeaux, où elle vit depuis 2008.
+
+    Ingénieure de formation mais autrice de cœur depuis sa plus tendre adolescence, elle a attendu, avec patience à défaut de courage, d'atteindre sa quarante-cinquième année avant d'oser enfin brandir sa plume et dévoiler ses textes.
+
+    Si elle ne s'est pas absentée quelques heures de ce monde pour se promener en compagnie de ses personnages, vous la trouverez peut-être occupée à déguster une tisane devant un bon roman, tirer des sons inharmonieux de sa clarinette, confectionner le pire gâteau jamais imaginé, ou contempler les petites bêtes le long d'une promenade à quelques pas de chez elle…
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/cathphanvan/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/CathPhanvan"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-f"
+      url: "https://www.facebook.com/CathPhanvan"
+
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+
+# Site Footer
+footer:
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/cathphanvan/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/CathPhanvan"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-f"
+      url: "https://www.facebook.com/CathPhanvan"
+
+
+# Build settings
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default"
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

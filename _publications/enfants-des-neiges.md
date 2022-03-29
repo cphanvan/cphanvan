@@ -1,0 +1,53 @@
+---
+title: "Enfants des neiges"
+layout: single
+classes: wide
+share: true
+publication_date: 2021-11-14T00:00:00Z
+excerpt: |
+  Un (non-)conte hivernal, garanti 100% sans Père Noël, qui vous emportera au pays des sapins, de la neige et du froid !
+header:
+  teaser: /assets/images/publications/enfants-des-neiges-teaser.png
+sidebar:
+  - title: "Enfants des neiges"
+    image: /assets/images/publications/enfants-des-neiges-cover.jpg
+    image_alt: "couverture"
+    text: |
+      Nouvelle hivernale\
+      Autoédition\
+      Novembre 2021
+---
+
+Marre des contes de Noël qui ne font qu'égrener tous les codes du genre ?
+
+*Enfants des neiges*, nouvelle d'une vingtaine de pages, est un (non-)conte hivernal, atypique et garanti 100% sans Père Noël, qui vous fera voyager en compagnie de deux enfants et de leur grand-mère sur les traces de l'histoire familiale et de la légende de la Fée Neige, à la découverte du Haut-Doubs et d'une petite partie de son patrimoine…
+
+Offrez-vous cette courte lecture et laissez-vous emporter au pays des sapins 🌲, de la neige ❄ et du froid !
+
+{% include figure image_path="/assets/images/publications/enfants-des-neiges-teaser.png" %}
+
+**<a href="https://www.amazon.fr/dp/B09LXQ7LX7" target="_blank">En vente sur Amazon</a>** (0,99€)\
+Disponible également à l'emprunt dans l'abonnement Kindle.
+
+
+## Vos retours de lecture :
+
+- Nancy : *«&nbsp;une nouvelle prenante et très intéressante. J'ai lu ces 28 pages d'une seule traite&nbsp;»*, *«&nbsp;J'ai adoré la thématique de la transmission de l'histoire familiale au fil des générations.&nbsp;»*
+
+    Retrouvez la chronique complète de Nancy <a href="https://les-livres-de-nancy.blogspot.com/2022/01/enfants-des-neiges-catherine-phan-van.html" target="_blank">sur son blog</a>.
+
+- Manon : *«&nbsp;L’histoire est magnifiquement racontée comme le ferait une vraie mamie gâteau&nbsp;»*, *«&nbsp;J’ai donc beaucoup apprécié ma lecture, tout en étant transportée dans un autre lieu, dans une autre époque et dans une autre famille.&nbsp;»*
+
+    Retrouvez la chronique complète de Manon <a href="https://www.instagram.com/p/CYR6Au5qZ6X/" target="_blank">sur son compte instagram</a>.
+
+- Camille : *«&nbsp;La nouvelle est très joliment écrite, on plonge immédiatement dans l’univers de l’auteur. Je l’ai trouvée très poétique et particulièrement agréable à lire.&nbsp;»*, *«&nbsp;Si vous voulez une lecture rapide pleine de douceur qui change des romans feel good classique de Noël mais qui vous mette dans le même mood, foncez lire Enfants des Neiges&nbsp;»*
+
+    Retrouvez la chronique complète de Camille <a href="https://camillexlmn.wixsite.com/eclatdelune/post/chronique-enfants-des-neiges-catherine-phan-van-sp" target="_blank">sur son blog</a>.
+
+- Didier : *«&nbsp;Cette nouvelle ne ressemble pas à un conte de Noël classique, mais elle n'en est pas moins passionnante (…) surtout parce qu'elle traite de la transmission d'une histoire familiale, et de ce qui lie vraiment les membres d'une famille. Tout cela avec une grande douceur, mais dans une féerie presque inquiétante…&nbsp;»*
+
+    Retrouvez l'avis complet de Didier <a href="https://www.amazon.fr/gp/customer-reviews/R3ATMLJZFGR3JT/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09LXQ7LX7" target="_blank">sur Amazon</a>.
+
+- Nora : *«&nbsp;J'ai tout de suite été happée par le récit&nbsp;»*, *«&nbsp;on a aussi droit à des descriptions de paysages qui ont l’air magnifiques et qui m’ont donné l’impression d’avoir traversé l’armoire magique qui amène à Narnia&nbsp;»*, *«&nbsp;J’ai énormément aimé la relation que Marie a avec ses petits enfants, une relation vraiment touchante, tout comme celle de Rose et Noël qui respire la pureté…&nbsp;»*
+
+    Retrouvez la chronique complète de Nora <a href="https://www.instagram.com/p/CWgUwHmKSFq/" target="_blank">sur son compte instagram</a>.

@@ -1,0 +1,9 @@
+{% capture logo_path %}{{ site.logo }}{% endcapture %}
+
+<section id="header">
+  <h1>{{ site.title | upcase }}</h1>
+  {% if site.subtitle %}<p>{{ site.subtitle }}</p>{% endif %}
+  {% unless logo_path == empty %}
+    <p id="logo"><img src="{{ site.logo | relative_url }}" alt="logo" itemprop="image" /></p>
+  {% endunless %}
+</section>

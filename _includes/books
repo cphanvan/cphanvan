@@ -1,0 +1,38 @@
+{% assign books = page.books %}
+
+
+{% for b in books %}
+  {% if b.title %}<h3>{{ b.title }}</h3>{% endif %}
+
+  <div class="book">
+      {% if b.image_path %}
+        <div class="book_img">
+          <img src="{{ b.image_path | relative_url }}" alt="{% if b.image_alt %}{{ b.image_alt }}{% endif %}">
+        </div>
+      {% endif %}
+
+      <div class="book_descr">
+        {% if b.teaser %}
+          <p><strong>{{ b.teaser }}</strong></p>
+        {% endif %}
+
+        {% if b.description %}
+          <p>
+            {{ b.description | markdownify }}
+          </p>
+        {% endif %}
+
+        {% if b.url %}
+          <p><a href="{{ b.url | relative_url }}">Pour lire <strong><em>{{ b.title }}</em></strong>, suivez le lien</a>&nbsp;!</p>
+        {% endif %}
+
+        {% if page.bonus %}
+          <form id="{{ b.bonus_id }}" class="bonusDownloadLink bonusDownloadForm" onsubmit="event.preventDefault(); downloadFile(this, 1);">
+            <input type="submit" value="Télécharger">
+          </form>
+        {% endif %}
+      </div>
+
+  </div>
+
+{% endfor %}

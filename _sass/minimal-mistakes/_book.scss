@@ -1,0 +1,61 @@
+.book {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin: 2em 0;
+}
+
+
+.book_img {
+  margin-bottom: 1em;
+  margin-right: 0;
+  border-radius: $border-radius;
+  -webkit-transition: $global-transition;
+  transition: $global-transition;
+
+  flex: 1 100%;
+  @include breakpoint($medium) {
+    margin-right: 1em;
+    flex: 1;
+  }
+  @include breakpoint($large) {
+    margin-right: 1em;
+    flex: 1;
+  }
+}
+
+.book_descr {
+  flex: 1 100%;
+  @include breakpoint($medium) {
+    flex: 3;
+  }
+  @include breakpoint($large) {
+    flex: 2;
+  }
+}
+
+.bonusDownloadLink {
+  display: none;
+}
+
+#bonusCredentialsForm,
+#bonusCredentialsForm > form {
+  background-color: mix(#fff, $steel-blue, 85%);
+  input::placeholder {
+    font-style: italic;
+    color: mix(#fff, $gray, 50%);
+  }
+}
+
+.bonusDownloadForm {
+  background-color: #fff;
+}
+
+input[type=submit] {
+  background-color: $air-superiority-blue;
+  color: #fff;
+}

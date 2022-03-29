@@ -1,0 +1,33 @@
+# main links
+main:
+  - title: "Publications"
+    url: /publications/
+    icon: "fas fa-book"
+  - title: "Textes gratuits"
+    url: /echantillons/
+    icon: "fas fa-pen-fancy"
+  - title: "Bonus abonnés"
+    url: /bonus/
+    icon: "fas fa-gift"
+  - title: "À propos"
+    url: /a-propos/
+    icon: "fas fa-info"
+  - title: "Contact"
+    url: /contact/
+    icon: "fas fa-envelope"
+
+publications:
+  - title: "Nouvelles"
+    children:
+      - title: "Échos graphiques"
+        url: /publications/echos-graphiques
+      - title: "Enfants des neiges"
+        url: /publications/enfants-des-neiges
+      - title: "Évasion nocturne"
+        url: /publications/evasion-nocturne
+      - title: "Le cadeau des fées"
+        url: /publications/le-cadeau-des-fees
+      - title: "Les pipistrelles de Gabriel"
+        url: /publications/les-pipistrelles-de-gabriel
+      - title: "Plein Sud"
+        url: /publications/plein-sud
