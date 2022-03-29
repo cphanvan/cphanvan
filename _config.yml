@@ -29,6 +29,7 @@ url                      : "https://catherinephanvan.fr"
 logo                     : "/assets/images/logo_CPV_transparent.png"
 masthead_title           : "Accueil"
 consents                 : "/consents.html"
+mentions-legales         : "/mentions-legales"
 date_format              : "%d/%m/%Y"
 
 author:
