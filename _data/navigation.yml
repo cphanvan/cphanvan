@@ -9,6 +9,9 @@ main:
   - title: "Bonus abonnés"
     url: /bonus
     icon: "fas fa-gift"
+  - title: "Blog"
+    url: /blog
+    icon: "fas fa-blog"
   - title: "À propos"
     url: /a-propos
     icon: "fas fa-info"
