@@ -6,7 +6,7 @@ page_js:
   - /assets/js/bonus.js
 sidebar_newsletter: true
 sidebar:
-  - title: "Bonus exclusifs"
+  - title: "Bonus offerts"
     text: |
       Ces textes vous intéressent&nbsp;? Ils sont accessibles en téléchargement libre pour tous les abonnés à la newsletter.
 

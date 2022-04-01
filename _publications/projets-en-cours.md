@@ -8,9 +8,7 @@ excerpt: |
   Regard sur l'avenir...
 header:
   teaser: /assets/images/publications/projets-en-cours-teaser.png
-sidebar:
-  - image: /assets/images/publications/projets-en-cours-cover.jpg
-    image-alt: "matériel d'écriture"
+sidebar_newsletter: true
 ---
 
 {% include figure image_path="/assets/images/publications/projets-en-cours-teaser.png" alt="Projets en cours" %}

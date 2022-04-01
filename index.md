@@ -35,8 +35,8 @@ contenu_site:
     btn_label: "Lire"
   - image_path: /assets/images/bonus_abonnes.png
     alt: "Bonus abonnés"
-    title: "Bonus abonnés"
-    excerpt: "Abonnez-vous gratuitement à la newsletter mensuelle et retrouvez ici les textes exclusifs qui vous sont réservés !"
+    title: "Textes offerts"
+    excerpt: "Abonnez-vous gratuitement à la newsletter mensuelle et retrouvez ici les textes qui vous sont réservés en exclusivité !"
     url: "/bonus#abonnez-vous"
     btn_label: "S'abonner"
 contact:
