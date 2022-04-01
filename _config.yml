@@ -58,6 +58,10 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+# Posts
+posts:
+  excerpt_separator: <!--excerptEnd-->
+
 # Site Footer
 footer:
   links:

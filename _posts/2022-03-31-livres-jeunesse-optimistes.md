@@ -1,11 +1,13 @@
 ---
 title:  "3 livres jeunesse résolument optimistes !"
-layout: single
+layout: blogpost
+excerpt_separator: <!--excerptEnd-->
 classes: wide
 date: 2022-03-31 22:30:00 +0200
 categories: lecture jeunesse
 tags: lecture jeunesse optimiste bd roman album
 sidebar_newsletter: true
+share: true
 gallery:
     - url: /assets/images/posts/lettres-amour-0-a-10.png
       image_path: /assets/images/posts/lettres-amour-0-a-10.png
@@ -20,7 +22,9 @@ gallery:
 
 Je lis facilement de tout.
 
-Pourtant, il y a peu, quand on m'a demandé si je pouvais citer les titres de mes 3 livres optimistes favoris, j'ai eu un gros blanc. Le temps de prendre conscience que, parmi toutes les lectures que j'ai réellement appréciées et dont les titres me viennent spontanément en tête, il n'y a **aucune** &oelig;uvre à laquelle on puisse accoler le qualificatif d'optimiste&hellip;
+Pourtant, il y a peu, quand on m'a demandé si je pouvais citer les titres de mes 3 livres optimistes favoris, j'ai eu un gros blanc.
+<!--excerptEnd-->
+Le temps de prendre conscience que, parmi toutes les lectures que j'ai réellement appréciées et dont les titres me viennent spontanément en tête, il n'y a **aucune** &oelig;uvre à laquelle on puisse accoler le qualificatif d'optimiste&hellip;
 
 *Bon sang, c'est incroyable, il m'est quand même déjà arrivé de lire des livres optimistes&nbsp;! Allez, il suffit de chercher un peu, il y a bien un titre qui mérite d'être cité, non&nbsp;? Du feel-good, par exemple, si quelque chose est optimiste, ça doit bien se trouver dans ce genre-là&nbsp;!*
 
@@ -28,7 +32,7 @@ Bon. Désolée, je n'ai réussi à arrêter mon choix sur aucun titre *adulte*&n
 
 Bien-sûr, que j'avais déjà lu des livres optimistes&nbsp;! Et il se trouve que les meilleurs d'entre eux, à mes yeux, sont tous des livres jeunesse.
 
-Alors, en ces temps troublés, si vous souhaitez mettre un peu de baume au c&oelig;ur de vos enfants (ou au vôtre 😉), je vous dévoile mon top 3 des livres jeunesse les plus optimistes.
+Alors, en ces temps troublés, si vous souhaitez mettre un peu de baume au c&oelig;ur de vos enfants (ou au vôtre 😉), je vous dévoile mon top 3 des livres jeunesse les plus optimistes, parmi les parutions d'auteurs ou autrices francophones (relativement) récentes.
 
 {% include gallery %}
 
