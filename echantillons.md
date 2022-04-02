@@ -22,7 +22,7 @@ books:
         <a href="https://www.instagram.com/catherineuguelle/" target="_blank">sur Instagram</a> ou
         <a href="https://www.facebook.com/profile.php?id=100073347313013" target="_blank">sur Facebook</a>.
 
-        Je n'emploie pas le verbe **récidiver** au hasard. En effet, l'exercice consiste pour nous à écrire à tour de rôle environ 500 mots, avant de passer la main à notre partenaire, et ainsi de suite. Il se trouve que les 500 premiers mots de cette nouvelle histoire sont les miens&hellip; et sont exactement les mêmes que pour Cœur brisé et tasse de thé&nbsp;! En revanche, vous pourrez constater que l'histoire a ensuite pris un tour bien différent&hellip; 😉
+        Je n'emploie pas le verbe **récidiver** au hasard. En effet, l'exercice consiste pour nous à écrire à tour de rôle environ 500 mots, avant de passer la main à notre partenaire, et ainsi de suite. Il se trouve que les 500 premiers mots de cette nouvelle histoire sont les miens&hellip; et sont exactement les mêmes que pour *Cœur brisé et tasse de thé*&nbsp;! En revanche, vous pourrez constater que l'histoire a ensuite pris un tour bien différent&hellip; 😉
 
         Sur ce, place au récit. J'espère que vous avez le cœur bien accroché&nbsp;: âmes sensibles, passez votre tour&nbsp;!
   - title: "Cœur brisé et tasse de thé"

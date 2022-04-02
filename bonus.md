@@ -19,6 +19,13 @@ header:
   overlay_image: /assets/images/bandeau-bonus.jpg
 bonus: true
 books:
+  - teaser: "Du noir aux flammes"
+    bonus_id: "DuNoirAuxFlammes"
+    image_path: /assets/images/bonus/DuNoirAuxFlammes-couv.jpg
+    description: |
+        Jusqu'où la noiceur d'une ville peut-elle corrompre les êtres qu'elle abrite ?
+
+        Cette courte nouvelle paraîtra courant 2023 au sein du recueil [*Fragments de solitudes*](/publications/projets-en-cours/#fragments-de-solitudes).
   - teaser: "Un écrin pour toi, ma bien-aimée"
     bonus_id: "UnÉcrinPourToiMaBienAimée"
     image_path: /assets/images/bonus/UnÉcrinPourToiMaBienAimée-couv.png

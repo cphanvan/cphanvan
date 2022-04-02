@@ -37,7 +37,7 @@ Je souhaite publier ces 2 novellas ensemble, et pour le moment, je penche à nou
 
 *recueil de nouvelles - objectif&nbsp;: au plus tard courant 2023*
 
-L'idée de ce recueil traîne dans un coin de ma tête depuis de longs mois. J'ai déjà 3 nouvelles candidates prêtes à y figurer, mais je compte bien étoffer le matériau et ajouter d'autres récits avant de le publier.
+L'idée de ce recueil traîne dans un coin de ma tête depuis de longs mois. J'ai déjà 3 nouvelles candidates prêtes à y figurer (dont [*Du noir aux flammes*, accessible en avant-première pour les abonnés de la newsletter](/bonus#textes-à-télécharger)), mais je compte bien étoffer le matériau et ajouter d'autres récits avant de le publier.
 
 Pour ce projet, je n'ai aucune hésitation&nbsp;: ce sera de l'autoédition.
 
