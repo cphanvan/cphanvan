@@ -56,7 +56,7 @@ books:
 
 <div id="bonusCredentialsForm">
     <p>Pour activer les liens de t&eacute;l&eacute;chargement, veuillez saisir ci-dessous le mot de passe abonn&eacute;s. Vous pouvez retrouver ce mot de passe dans la section <em>Le texte du mois</em> de chaque newsletter.</p>
-    <p><em>Si vous avez supprim&eacute; ou &eacute;gar&eacute; mes mails ou le mot de passe, n'h&eacute;sitez pas &agrave; <a href="who-am-i.html#contact" target="_blank">me contacter</a> pour me demander de vous le renvoyer&nbsp;!</em> 😉</p>
+    <p><em>Si vous avez supprim&eacute; ou &eacute;gar&eacute; mes mails ou le mot de passe, n'h&eacute;sitez pas &agrave; <a href="/contact" target="_blank">me contacter</a> pour me demander de vous le renvoyer&nbsp;!</em> 😉</p>
     <form onsubmit="event.preventDefault(); onSubmit(this);">
         <input type="password" id="bonusCredentialsToken" name="token" placeholder="Mot de passe abonnés" required>
         <input type="submit" value="Activer">
