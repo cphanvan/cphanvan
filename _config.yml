@@ -21,8 +21,9 @@
 # Site Settings
 locale                   : "fr-FR"
 title                    : "Graine d'autrice"
+seo_title                : "Catherine Phan van"
 title_separator          : "-"
-subtitle                 : "Le site de l'autrice Catherine Phan&nbsp;van"
+subtitle                 : "Le site de l'autrice Catherine Phan van"
 name                     : "Catherine Phan van"
 description              : "Site officiel de l'autrice Catherine Phan van"
 url                      : "https://catherinephanvan.fr"
@@ -51,6 +52,28 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-f"
       url: "https://www.facebook.com/CathPhanvan"
+
+# SEO
+og_image: /assets/images/logo_CPV_transparent.png
+twitter:
+  username: "CathPhanvan"
+facebook:
+  publisher: "105571458596033"
+  username: "https://www.facebook.com/CathPhanvan"
+social:
+  type: Person
+  name: Catherine Phan van
+  links:
+    - https://twitter.com/CathPhanvan
+    - https://www.instagram.com/cathphanvan/
+    - https://www.facebook.com/CathPhanvan
+
+# Google Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-BE0T8E1ZDZ"
+    anonymize_ip: false
 
 # Collections
 collections:
@@ -82,6 +105,7 @@ minimal_mistakes_skin: "default"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.

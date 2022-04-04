@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: "Dernières parutions"
+seo_title: "Site officiel"
 layout: splash
 permalink: /
 date: 2022-03-23T22:40:00Z

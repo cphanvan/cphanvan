@@ -1,5 +1,6 @@
 ---
 title: Nouvelles
+seo_title: Publications
 layout: collection
 sidebar_newsletter: true
 sidebar:

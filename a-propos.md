@@ -1,5 +1,6 @@
 ---
 title: À propos de l'autrice
+seo_title: À propos
 layout: single
 classes: wide
 author_profile: true
