@@ -4,6 +4,7 @@
 
 title: "Dernières parutions"
 seo_title: "Site officiel"
+description: Bienvenue ! Vous pouvez retrouver ici des informations sur l'autrice Catherine Phan van et sur ses publications passées ou à venir, mais aussi plusieurs textes gratuits et inédits disponibles en exclusivité, des billets qu'elle alimente au gré de ses humeurs, son actualité... Bref, des réponses à toutes les questions que vous vous posez à son sujet. Et si ce n'est pas le cas, n'ayez surtout pas peur de la contacter directement. Promis, elle ne mord pas !
 layout: splash
 permalink: /
 date: 2022-03-23T22:40:00Z
@@ -25,13 +26,13 @@ a_propos:
 contenu_site:
   - image_path: assets/images/publications.jpg
     title: "Publications"
-    excerpt: "Découvrez ici mes nouvelles publiées"
+    excerpt: "Découvrez ici mes nouvelles publiées, mais aussi mes recueils, romans ou novellas qui trépignent de suivre un jour le même chemin"
     url: "/publications"
     btn_label: "Découvrir"
   - image_path: /assets/images/echantillons.jpg
     alt: "Echantillons"
     title: "Échantillons"
-    excerpt: "Quelques-uns de mes textes sont à lire ici en accès libre : micro-nouvelles, nouvelles, extraits..."
+    excerpt: "Quelques-uns de mes textes sont à lire ici en accès libre : nouvelles à quatre mains avec des autrices amies, micronouvelles, jeux d'écriture..."
     url: "/echantillons"
     btn_label: "Lire"
   - image_path: /assets/images/bonus_abonnes.png

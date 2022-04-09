@@ -1,5 +1,6 @@
 ---
 title: Textes gratuits
+description: Vous pouvez lire ici plusieurs textes gratuits, nouvelles écrites à quatre mains avec d'autres autrices, micronouvelles, jeux ou défis d'écriture...
 layout: single
 classes: wide
 sidebar_newsletter: true

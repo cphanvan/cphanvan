@@ -1,5 +1,6 @@
 ---
 title: "Projets en cours"
+description: Regard sur l'avenir. Mes projets en cours d'écriture, ceux à paraître, ceux qui attendent que les autres leur laissent la place...
 layout: single
 classes: wide
 share: true

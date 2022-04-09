@@ -1,5 +1,6 @@
 ---
 title: Blog
+description: Classés par date de publication, des billets à retrouver sur divers thèmes qui me touchent. Ici, je peux parler écriture ou lecture, mais pas que !
 layout: posts
 sidebar_newsletter: true
 permalink: /blog

@@ -1,6 +1,7 @@
 ---
 title: Nouvelles
 seo_title: Publications
+description: Découvrez ici toutes les publications de Catherine Phan van, mais aussi ses projets en cours d'écriture ou à paraître.
 layout: collection
 sidebar_newsletter: true
 sidebar:

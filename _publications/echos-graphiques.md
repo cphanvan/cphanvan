@@ -1,5 +1,6 @@
 ---
 title: "Échos graphiques"
+description: Une nouvelle horrifique qui vous fera frissonner même au coin du feu ! Parue en décembre 2021 dans le recueil Creepy Christmas and bloody New Year, aux éditions BeetleBooks Publishing
 layout: single
 classes: wide
 share: true

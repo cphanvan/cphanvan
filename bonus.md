@@ -1,5 +1,6 @@
 ---
 title: Bonus abonnés
+description: De nombreux textes intégraux et inédits en téléchargement gratuit, à retrouver en exclusivité sur ce site (nouvelles, légendes, récits jeunesse...)
 layout: single
 classes: wide
 page_js:

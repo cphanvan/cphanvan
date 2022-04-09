@@ -1,5 +1,6 @@
 ---
 title: Blog
+description: Classés par catégories, des billets à retrouver sur divers thèmes qui me touchent. Ici, je peux parler écriture ou lecture, mais pas que !
 layout: categories
 sidebar_newsletter: true
 permalink: /blog/categories

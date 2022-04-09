@@ -1,5 +1,6 @@
 ---
 title: Contact
+description: Vous souhaitez me contacter ? Vous êtes au bon endroit !
 layout: single
 classes: wide
 author_social_only: true

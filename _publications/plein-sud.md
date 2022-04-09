@@ -1,5 +1,6 @@
 ---
 title: "Plein Sud"
+description: Une courte plongée dans l'univers caché des jeux vidéo. Nouvelle parue en mars 2021 dans la newsletter littéraire Réticule (numéro 11, sur le thème New Game+)
 layout: single
 classes: wide
 share: true

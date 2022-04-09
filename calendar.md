@@ -1,5 +1,6 @@
 ---
 title: Événements
+description: Vous souhaitez savoir sur quoi je travaille ? Venir me rencontrer lors d'un salon ou d'une dédicace, ou me rencontrer lors d'un événement en live sur internet ? Voici mon agenda !
 layout: single
 sidebar_newsletter: true
 permalink: /evenements

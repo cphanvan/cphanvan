@@ -1,5 +1,6 @@
 ---
 title: "Enfants des neiges"
+description: Un (non-)conte hivernal, garanti 100% sans Père Noël, qui vous emportera au pays des sapins, de la neige et du froid ! Paru en novembre 2021 en autoédition
 layout: single
 classes: wide
 share: true

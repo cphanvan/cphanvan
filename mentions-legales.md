@@ -1,5 +1,6 @@
 ---
 title: Mentions légales
+description : mentions légales
 layout: single
 classes: wide
 permalink: /mentions-legales
