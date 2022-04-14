@@ -1,6 +1,6 @@
 ---
 title: "Les pipistrelles de Gabriel"
-description: Une nouvelle fantastique thème des créatures de la nuit. Parue en juin 2021 dans le recueil Crétures de la nuit, publié dans le cadre du Festival du Fantastique de Béziers
+description: Une nouvelle fantastique sur le thème des créatures de la nuit. Parue en juin 2021 dans le recueil Créatures de la nuit, publié dans le cadre du Festival du Fantastique de Béziers
 layout: single
 classes: wide
 share: true
@@ -15,7 +15,7 @@ sidebar:
     image_alt: "couverture"
     text: |
       Nouvelle fantastique\
-      Parue dans le recueil *Crétures de la nuit*, publié dans le cadre du Festival du Fantastique de Béziers\
+      Parue dans le recueil *Créatures de la nuit*, publié dans le cadre du Festival du Fantastique de Béziers\
       Juin 2021
 ---
 
