@@ -18,7 +18,7 @@ sidebar_newsletter: true
 
 *roman jeunesse*
 
-Il s'agit d'un roman comportant une petite touche de fantastique et destiné aux adolescents de 12 ans et plus. J'ai mûri l'histoire au début du premier trimestre 2022 et je suis actuellement en cours d'écriture du premier jet, que j'espère terminer si tout va bien d'ici fin mai.
+Il s'agit d'un roman comportant une petite touche de fantastique et destiné aux adolescents de 13 ans et plus. J'ai mûri l'histoire au début du premier trimestre 2022 et je suis actuellement en cours d'écriture du premier jet, que j'espère terminer si tout va bien d'ici fin mai.
 
 Je n'ai pas encore décidé si je l'autoéditerais ou si je le soumettrais en maisons d'édition. Un jour je penche pour une option, le lendemain pour l'autre... 😅 Je vais donc déjà commencer par essayer de me concentrer sur l'écriture en elle-même&nbsp;!
 

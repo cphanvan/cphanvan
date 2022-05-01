@@ -20,6 +20,11 @@ header:
   overlay_image: /assets/images/bandeau-bonus.jpg
 bonus: true
 books:
+  - teaser: "Chasseuse de rêves (premiers chapitres)"
+    bonus_id: "ChasseuseDeRêves-extrait"
+    image_path: /assets/images/bonus/ChasseuseDeRêves-extrait-couv.jpg
+    description: |
+        Découvrez ici le premier jet du prologue et des deux premiers chapitres de mon roman jeunesse (13 ans et +) en cours d'écriture, [*Chasseuse de rêves*](/publications/projets-en-cours/#chasseuse-de-r%C3%AAves-titre-provisoire).
   - teaser: "Du noir aux flammes"
     bonus_id: "DuNoirAuxFlammes"
     image_path: /assets/images/bonus/DuNoirAuxFlammes-couv.jpg
