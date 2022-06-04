@@ -20,6 +20,13 @@ header:
   overlay_image: /assets/images/bandeau-bonus.jpg
 bonus: true
 books:
+  - teaser: "Au fond des bois"
+    bonus_id: "AuFondDesBois"
+    image_path: /assets/images/bonus/AuFondDesBois-couv.jpg
+    description: |
+        Lou est sortie marcher dans les bois. Juste pour prendre un peu l'air, après une banale dispute de couple…
+
+        Mais que va-t-elle y trouver&nbsp;?
   - teaser: "Chasseuse de rêves (premiers chapitres)"
     bonus_id: "ChasseuseDeRêves-extrait"
     image_path: /assets/images/bonus/ChasseuseDeRêves-extrait-couv.jpg
