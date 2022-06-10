@@ -8,6 +8,7 @@ categories: lecture jeunesse
 tags: lecture jeunesse optimiste bd roman album
 sidebar_newsletter: true
 share: true
+comments: true
 gallery:
     - url: /assets/images/posts/lettres-amour-0-a-10.png
       image_path: /assets/images/posts/lettres-amour-0-a-10.png

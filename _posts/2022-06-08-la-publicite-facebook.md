@@ -8,9 +8,10 @@ categories: autre
 tags: livre marketing autre
 sidebar_newsletter: true
 share: true
+comments: true
 ---
 
-Et si c'étaient ***vos choix*** qui provoquaient leur apparition&nbsp;?
+Et si ***vos choix*** et ***votre comportement*** jouaient sur la ***quantité de pubs Facebook*** auxquelles vous êtes exposé·e&nbsp;?
 
 J'ai testé les publicités Facebook et j'ai fait quelques découvertes un peu&hellip; surprenantes&nbsp;!
 <!--excerptEnd-->
@@ -19,7 +20,7 @@ J'ai testé les publicités Facebook et j'ai fait quelques découvertes un peu&h
 
 Lorsque j'ai mis en place la section blog de ce site, je ne pensais vraiment pas que l'un de mes premiers articles parlerait de marketing&hellip;
 
-Il faut dire que lorsque je me suis lancée sérieusement dans l'écriture, je n'avais même pas idée que c'était un sujet auquel je devrais m'intéresser&nbsp;! C'est beau, la naïveté, n'est-ce pas&nbsp;?
+Il faut dire que quand je me suis lancée sérieusement dans l'écriture, je n'avais même pas idée que c'était un sujet auquel je devrais m'intéresser&nbsp;! C'est beau, la naïveté, n'est-ce pas&nbsp;?
 
 Et pourtant, c'est bien de publicité Facebook que j'ai envie de vous parler aujourd'hui.
 
@@ -30,7 +31,9 @@ Mais d'abord, une question&nbsp;:
 
 ## Savez-vous comment on crée une publicité Facebook ?
 
-Si ce n'est pas votre métier, si vous n'avez rien à vendre, si vous ne cherchez pas à augmenter votre nombre d'abonnés pour une raison qui vous est propre, je suppose que la réponse est non.
+Non. Évidemment.
+
+Si ce n'est pas votre métier, si vous n'avez rien à vendre, si vous ne cherchez pas à augmenter votre nombre d'abonnés pour une raison qui vous est propre, vous n'avez aucune raison de le savoir.
 
 Rien de plus normal&nbsp;: j'étais encore comme vous il y a peu&nbsp;! 😉
 
@@ -45,8 +48,8 @@ C'est le *premier* élément que Facebook demande de définir lors de la créati
 
 Quelques exemples parmi les objectifs proposés&nbsp;:
 
-- Obtenir plus d'interactions
-- Recevoir plus de messages
+- **Obtenir plus d'interactions**
+- **Recevoir plus de messages**
 - Obtenir plus de vues de vidéos
 - Encourager les visites en ligne
 
@@ -74,6 +77,8 @@ des personnes à qui l'on souhaite que la publicité soit affichée.
 ## Et alors, ça fonctionne ?
 
 D'abord, à toutes les personnes qui souhaiteraient se lancer dans la publicité sur Facebook, conseil d'amie&nbsp;: ***ne vous pressez pas***&nbsp;!
+
+Pourquoi&nbsp;? Parce que si vous attendez, vous pouvez économiser de l'argent.
 
 Personnellement, je ne voulais pas le faire.
 
@@ -119,6 +124,18 @@ Les réactions également&nbsp;: cette publicité a fâché 6 (ou 7&nbsp;?) pers
 
 ![détail des réactions à une publicité Facebook](/assets/images/posts/2022-06-08_resultats4-pub-facebook.png)
 
+Et le pire&nbsp;?
+
+Ces réactions et ce commentaire ne sont pas considérés comme négatifs par Facebook. Au contraire.
+**Facebook les considère comme l'effet recherché par l'annonceur&nbsp;!**
+
+Eh oui, rappelez-vous&nbsp;: *obtenir plus d'interactions*&hellip;
+
+La preuve, ***Commentaires négatifs&nbsp;: 0.***
+
+![détail des réactions à une publicité Facebook - aucune classé négativement](/assets/images/posts/2022-06-08_resultats5-pub-facebook.png)
+
+*(chiffres légèrement différents car capture d'écran effectuée un autre jour)*
 
 
 ## Vous voyez où je veux en venir ?
@@ -133,7 +150,7 @@ Je crains que vous risquiez d'en voir plus souvent&nbsp;! 😬
 
 ## En conclusion ?
 
-Si les publicités Facebook vous dérangent, le mieux est encore de rester discret sur vous-même&nbsp;: moins l'algorithme en sait sur vous, moins vous serez ciblé·e.
+Si les publicités Facebook vous importunent, le mieux est encore de rester discret sur vous-même&nbsp;: moins l'algorithme en sait sur vous, moins vous serez ciblé·e.
 
 Bref&nbsp;: ce que Facebook vend aux annonceurs, ce sont ***vos données personnelles***.
 
