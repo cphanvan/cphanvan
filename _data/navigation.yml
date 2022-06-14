@@ -15,8 +15,8 @@ main:
   - title: "À propos"
     url: /a-propos
     icon: "fas fa-info"
-  - title: "Événements"
-    url: /evenements
+  - title: "Agenda"
+    url: /agenda
     icon: "fas fa-calendar"
   - title: "Contact"
     url: /contact

@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: "Dernières parutions"
-seo_title: "Site officiel"
-description: Bienvenue ! Vous pouvez retrouver ici des informations sur l'autrice Catherine Phan van et sur ses publications passées ou à venir, mais aussi plusieurs textes gratuits et inédits disponibles en exclusivité, des billets qu'elle alimente au gré de ses humeurs, son actualité... Bref, des réponses à toutes les questions que vous vous posez à son sujet. Et si ce n'est pas le cas, n'ayez surtout pas peur de la contacter directement. Promis, elle ne mord pas !
+seo_title: "Graine d'autrice"
+description: Site officiel de l'autrice Catherine Phan van. Retrouvez ses publications, des textes gratuits et inédits en exclusivité, son actu...
 layout: splash
 permalink: /
 date: 2022-03-23T22:40:00Z

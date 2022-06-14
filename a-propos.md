@@ -1,7 +1,7 @@
 ---
 title: À propos de l'autrice
 seo_title: À propos
-description: Biographie de l'autrice. Découvrez ici la personne derrière les mots !
+description: Biographie de l'autrice Catherine Phan van. Découvrez ici la personne derrière les mots !
 layout: single
 classes: wide
 author_profile: true
