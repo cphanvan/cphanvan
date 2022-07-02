@@ -20,6 +20,11 @@ header:
   overlay_image: /assets/images/bandeau-bonus.jpg
 bonus: true
 books:
+  - teaser: "La lumière perdue"
+    bonus_id: "LaLumierePerdue"
+    image_path: /assets/images/bonus/LaLumierePerdue-couv.jpg
+    description: |
+        La lumière l'a quittée. Que lui reste-t-il, désormais&nbsp;?
   - teaser: "Au fond des bois"
     bonus_id: "AuFondDesBois"
     image_path: /assets/images/bonus/AuFondDesBois-couv.jpg
@@ -31,7 +36,9 @@ books:
     bonus_id: "ChasseuseDeRêves-extrait"
     image_path: /assets/images/bonus/ChasseuseDeRêves-extrait-couv.jpg
     description: |
-        Découvrez ici le premier jet du prologue et des deux premiers chapitres de mon roman jeunesse (13 ans et +) en cours d'écriture, [*Chasseuse de rêves*](/publications/projets-en-cours/#chasseuse-de-r%C3%AAves-titre-provisoire).
+        Découvrez ici le premier jet du prologue et des deux premiers chapitres de mon roman jeunesse (13 ans et +), [*Chasseuse de rêves*](/publications/projets-en-cours/#chasseuse-de-r%C3%AAves-titre-provisoire).
+
+        Ce roman est actuellement en cours de bêta-lecture.
   - teaser: "Du noir aux flammes"
     bonus_id: "DuNoirAuxFlammes"
     image_path: /assets/images/bonus/DuNoirAuxFlammes-couv.jpg

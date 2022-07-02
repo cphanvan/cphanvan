@@ -32,6 +32,9 @@ Même si techniquement, en réalité, c'est plutôt moi, et non le roman lui-mê
 
 Je fais donc appel humblement aux bonnes volontés égarées par ici. 🙏
 
+***MISE À JOUR DU 2 JUILLET 2022 - J'ai trouvé mes bêta-lectrices&nbsp;! Un grand merci à toutes les personnes qui se sont portées volontaires pour m'aider&nbsp;!*** 🙏
+{: .notice--info}
+
 Commençons par quelques informations sur le roman.
 
 
