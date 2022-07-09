@@ -4,8 +4,8 @@ layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
 date: 2022-06-07 23:30:00 +0200
-categories: autre
-tags: livre marketing autre
+categories: divers
+tags: marketing publicité
 sidebar_newsletter: true
 share: true
 comments: true
