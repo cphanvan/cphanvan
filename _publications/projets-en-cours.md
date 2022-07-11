@@ -18,20 +18,26 @@ sidebar_newsletter: true
 
 *roman jeunesse*
 
-Il s'agit d'un roman comportant une petite touche de fantastique et destiné aux adolescents de 13 ans et plus. J'ai mûri l'histoire au début du premier trimestre 2022 et je suis actuellement en cours d'écriture du premier jet, que j'espère terminer si tout va bien d'ici fin mai.
+Il s'agit d'un roman contemporain destiné aux adolescents de 13 ans et plus. J'ai mûri l'histoire au début du premier trimestre 2022 et ai terminé l'écriture du premier jet courant juin. Le [manuscrit est actuellement en cours de bêtalecture](/lecture/jeunesse/2022/06/23/b%C3%AAta-lecture-chasseuse-de-r%C3%AAves.html) et j'ai prévu de commencer à attaquer les corrections début août.
 
-Je n'ai pas encore décidé si je l'autoéditerais ou si je le soumettrais en maisons d'édition. Un jour je penche pour une option, le lendemain pour l'autre... 😅 Je vais donc déjà commencer par essayer de me concentrer sur l'écriture en elle-même&nbsp;!
+J'ai longuement hésité entre autoédition ou soumission en maisons d'édition pour ce roman. À ce jour, je penche plutôt pour une soumission. Je sais donc d'ores et déjà que je vais devoir m'armer de patience&nbsp;!
 
 
 ## (En attente de titre)
 
-*novellas policières - objectif&nbsp;: automne 2022*
+*novellas policières - objectif&nbsp;: fin 2022&nbsp;?*
 
 Une première novella policière est déjà écrite et a passé les phases de betalecture et de première correction.
 
-J'ai une idée pour un second récit mettant en scène le même duo d'enquêteurs. Il me reste à développer l'histoire avant de pouvoir en démarrer l'écriture.
+J'avais en début d'année une idée pour un second récit mettant en scène le même duo d'enquêteurs. Il me restait à développer l'histoire avant de pouvoir en démarrer l'écriture.
 
-Je souhaite publier ces 2 novellas ensemble, et pour le moment, je penche à nouveau plutôt pour de l'autoédition pour ce projet-là, que j'aimerais bien mener à terme pour l'automne 2022.
+Je souhaitais publier ces 2 novellas ensemble, a priori plutôt en autoédition, à l'automne 2022.
+
+Sauf que&hellip; Nous voici désormais en juillet et non seulement mon second récit avance beaucoup moins vite que prévu, mais je crains aussi qu'il ne soit plutôt de format roman que novella.
+
+Ce qui me laisse avec sur les bras une novella solitaire, pour l'avenir de laquelle je n'ai à ce jour encore rien décidé, et un roman qui ne sera clairement pas achevé à l'automne. 🤔
+
+Bref, vous l'aurez compris, il va me falloir revoir mes prévisions&nbsp;!
 
 
 ## Fragments de solitudes
