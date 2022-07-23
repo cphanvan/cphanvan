@@ -9,6 +9,8 @@ tags: lecture chronique thriller roman
 sidebar_newsletter: true
 share: true
 comments: true
+header:
+  teaser: /assets/images/posts/2022-07-20_teaser-fille-nulle-part.jpg
 gallery:
     - url: /assets/images/posts/2022-07-20_fille-nulle-part-cover.jpg
       image_path: /assets/images/posts/2022-07-20_fille-nulle-part-cover.jpg

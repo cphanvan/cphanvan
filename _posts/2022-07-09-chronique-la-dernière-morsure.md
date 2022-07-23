@@ -9,6 +9,8 @@ tags: lecture chronique polar roman
 sidebar_newsletter: true
 share: true
 comments: true
+header:
+  teaser: /assets/images/posts/2022-07-09_teaser-derniere-morsure.jpg
 gallery:
     - url: /assets/images/posts/2022-07-09_derniere-morsure-cover.jpg
       image_path: /assets/images/posts/2022-07-09_derniere-morsure-cover.jpg

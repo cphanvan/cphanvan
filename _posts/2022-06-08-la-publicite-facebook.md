@@ -9,6 +9,8 @@ tags: marketing publicité
 sidebar_newsletter: true
 share: true
 comments: true
+header:
+    teaser: /assets/images/posts/2022-06-08_teaser-pub-facebook.jpg
 ---
 
 Et si ***vos choix*** et ***votre comportement*** jouaient sur la ***quantité de pubs Facebook*** auxquelles vous êtes exposé·e&nbsp;?

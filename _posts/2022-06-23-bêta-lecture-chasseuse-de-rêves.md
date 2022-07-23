@@ -9,6 +9,8 @@ tags: actu roman jeunesse betalecture
 sidebar_newsletter: true
 share: true
 comments: true
+header:
+  teaser: /assets/images/posts/2022-06-23_teaser-recherche-BL.jpg
 gallery:
     - url: /assets/images/posts/2022-06-23-recherche-BL-1.png
       image_path: /assets/images/posts/2022-06-23-recherche-BL-1.png

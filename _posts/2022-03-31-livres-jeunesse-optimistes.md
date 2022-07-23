@@ -9,6 +9,8 @@ tags: lecture jeunesse optimiste bd roman album
 sidebar_newsletter: true
 share: true
 comments: true
+header:
+  teaser: /assets/images/posts/2022-03-31_teaser-livres-optimistes.jpg
 gallery:
     - url: /assets/images/posts/lettres-amour-0-a-10.png
       image_path: /assets/images/posts/lettres-amour-0-a-10.png
