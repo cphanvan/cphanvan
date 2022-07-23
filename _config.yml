@@ -33,6 +33,7 @@ consents                 : "/consents.html"
 mentions-legales         : "/mentions-legales"
 date_format              : "%d/%m/%Y"
 breadcrumbs              : true
+search                   : true
 
 author:
   name      : "Catherine Phan van"
@@ -76,6 +77,10 @@ analytics:
   google:
     tracking_id: "G-BE0T8E1ZDZ"
     anonymize_ip: false
+
+# Search engine
+google:
+  search_engine_id: 36bef7c824f1e4375
 
 # Collections
 collections:
