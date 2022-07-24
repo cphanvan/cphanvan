@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Étiquettes
 description: Classés par étiquettes, des billets à retrouver sur divers thèmes qui me touchent. Ici, je peux parler écriture ou lecture, mais pas que !
 layout: tags
 sidebar_newsletter: true

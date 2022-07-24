@@ -1,0 +1,4 @@
+# catherinephanvan.fr/robots.txt
+User-agent: googlebot
+Disallow: /404.html
+Disallow: /confirmation.html
