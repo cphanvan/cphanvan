@@ -5,7 +5,7 @@ layout: single
 classes: wide
 page_js:
   - /assets/js/bonus.js
-sidebar_newsletter: true
+sidebar_newsletter_full: true
 sidebar:
   - title: "Bonus offerts"
     text: |
