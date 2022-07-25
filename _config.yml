@@ -34,6 +34,7 @@ mentions-legales         : "/mentions-legales"
 date_format              : "%d/%m/%Y"
 breadcrumbs              : true
 search                   : true
+search_provider          : "google"
 
 author:
   name      : "Catherine Phan van"
