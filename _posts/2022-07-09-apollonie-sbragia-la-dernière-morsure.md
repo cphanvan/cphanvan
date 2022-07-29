@@ -1,5 +1,6 @@
 ---
 title: "Chronique du roman d'Apollonie Sbragia&nbsp;: *La dernière morsure*"
+seo_title: "La dernière morsure - Apollonie Sbragia&nbsp;: chronique"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide

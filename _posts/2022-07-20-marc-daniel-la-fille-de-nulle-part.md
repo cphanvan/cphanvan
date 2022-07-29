@@ -1,5 +1,6 @@
 ---
 title: "Chronique du roman de Marc Daniel&nbsp;: *La fille de nulle part*"
+seo_title: "*La fille de nulle part* - Marc Daniel&nbsp;: chronique"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
