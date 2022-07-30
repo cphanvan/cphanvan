@@ -27,7 +27,7 @@ subtitle                 : "Le site de l'autrice Catherine Phan van"
 name                     : "Catherine Phan van"
 description              : "Site officiel de l'autrice Catherine Phan van"
 url                      : "https://catherinephanvan.fr"
-logo                     : "/assets/images/logo_CPV_transparent.png"
+logo                     : "/assets/images/logo_CPV_transparent.webp"
 masthead_title           : "Accueil"
 consents                 : "/consents.html"
 mentions-legales         : "/mentions-legales"
@@ -38,7 +38,7 @@ search_provider          : "google"
 
 author:
   name      : "Catherine Phan van"
-  avatar    : "/assets/images/C_Phanvan.jpg"
+  avatar    : "/assets/images/C_Phanvan.webp"
   bio       : |
     Catherine Phan van est née en 1976 au pays des sapins et du froid, qu'elle a quitté pour s'installer près de Bordeaux, où elle vit depuis 2008.
 
@@ -57,7 +57,7 @@ author:
       url: "https://www.facebook.com/CathPhanvan"
 
 # SEO
-og_image: /assets/images/logo_CPV_transparent.png
+og_image: /assets/images/logo_CPV_transparent.webp
 twitter:
   username: "CathPhanvan"
 facebook:

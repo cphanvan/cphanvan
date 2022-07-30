@@ -10,13 +10,13 @@ sidebar_newsletter: true
 share: true
 comments: true
 header:
-  teaser: /assets/images/posts/2022-06-23_teaser-recherche-BL.jpg
+  teaser: /assets/images/posts/2022-06-23_teaser-recherche-BL.webp
 gallery:
-    - url: /assets/images/posts/2022-06-23-recherche-BL-1.png
-      image_path: /assets/images/posts/2022-06-23-recherche-BL-1.png
+    - url: /assets/images/posts/2022-06-23-recherche-BL-1.webp
+      image_path: /assets/images/posts/2022-06-23-recherche-BL-1.webp
       alt: "avis de recherche de bêta-lectrices ou bêta-lecteurs"
-    - url: /assets/images/posts/2022-06-23-recherche-BL-2.png
-      image_path: /assets/images/posts/2022-06-23-recherche-BL-2.png
+    - url: /assets/images/posts/2022-06-23-recherche-BL-2.webp
+      image_path: /assets/images/posts/2022-06-23-recherche-BL-2.webp
       alt: "pitch de *Chasseuse de rêves*"
 ---
 

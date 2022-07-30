@@ -10,16 +10,16 @@ sidebar_newsletter: true
 share: true
 comments: true
 header:
-  teaser: /assets/images/posts/2022-03-31_teaser-livres-optimistes.jpg
+  teaser: /assets/images/posts/2022-03-31_teaser-livres-optimistes.webp
 gallery:
-    - url: /assets/images/posts/lettres-amour-0-a-10.png
-      image_path: /assets/images/posts/lettres-amour-0-a-10.png
+    - url: /assets/images/posts/lettres-amour-0-a-10.webp
+      image_path: /assets/images/posts/lettres-amour-0-a-10.webp
       alt: "couverture de Lettres d'amour de 0 à 10"
-    - url: /assets/images/posts/azuro-le-dragon-bleu.jpg
-      image_path: /assets/images/posts/azuro-le-dragon-bleu.jpg
+    - url: /assets/images/posts/azuro-le-dragon-bleu.webp
+      image_path: /assets/images/posts/azuro-le-dragon-bleu.webp
       alt: "couverture de Azuro le dragon bleu"
-    - url: /assets/images/posts/emile-et-margot.jpg
-      image_path: /assets/images/posts/emile-et-margot.jpg
+    - url: /assets/images/posts/emile-et-margot.webp
+      image_path: /assets/images/posts/emile-et-margot.webp
       alt: "couverture de Émile et Margot"
 ---
 

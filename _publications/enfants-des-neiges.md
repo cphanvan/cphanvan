@@ -8,10 +8,10 @@ publication_date: 2021-11-14T00:00:00Z
 excerpt: |
   Un (non-)conte hivernal, garanti 100% sans Père Noël, qui vous emportera au pays des sapins, de la neige et du froid !
 header:
-  teaser: /assets/images/publications/enfants-des-neiges-teaser.png
+  teaser: /assets/images/publications/enfants-des-neiges-teaser.webp
 sidebar:
   - title: "Enfants des neiges"
-    image: /assets/images/publications/enfants-des-neiges-cover.jpg
+    image: /assets/images/publications/enfants-des-neiges-cover.webp
     image_alt: "couverture"
     text: |
       Nouvelle hivernale\
@@ -25,7 +25,7 @@ Marre des contes de Noël qui ne font qu'égrener tous les codes du genre ?
 
 Offrez-vous cette courte lecture et laissez-vous emporter au pays des sapins 🌲, de la neige ❄ et du froid !
 
-{% include figure image_path="/assets/images/publications/enfants-des-neiges-teaser.png" %}
+{% include figure image_path="/assets/images/publications/enfants-des-neiges-teaser.webp" %}
 
 **<a href="https://amzn.to/3nT8KJK" target="_blank">En vente sur Amazon (lien partenaire)</a>** (0,99€)\
 Disponible également à l'emprunt dans l'abonnement Kindle.

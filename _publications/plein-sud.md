@@ -8,10 +8,10 @@ publication_date: 2021-03-31T00:00:00Z
 excerpt: |
   Une courte plongée dans l'univers caché des jeux vidéo
 header:
-  teaser: /assets/images/publications/plein-sud-teaser.png
+  teaser: /assets/images/publications/plein-sud-teaser.webp
 sidebar:
   - title: "Plein Sud"
-    image: /assets/images/publications/plein-sud-cover.png
+    image: /assets/images/publications/plein-sud-cover.webp
     image_alt: "couverture"
     text: |
       Nouvelle\

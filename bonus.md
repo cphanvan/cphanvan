@@ -17,60 +17,60 @@ permalink: /bonus
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /assets/images/bandeau-bonus.jpg
+  overlay_image: /assets/images/bandeau-bonus.webp
 bonus: true
 books:
   - teaser: "La lumière perdue"
     bonus_id: "LaLumierePerdue"
-    image_path: /assets/images/bonus/LaLumierePerdue-couv.jpg
+    image_path: /assets/images/bonus/LaLumierePerdue-couv.webp
     description: |
         La lumière l'a quittée. Que lui reste-t-il, désormais&nbsp;?
   - teaser: "Au fond des bois"
     bonus_id: "AuFondDesBois"
-    image_path: /assets/images/bonus/AuFondDesBois-couv.jpg
+    image_path: /assets/images/bonus/AuFondDesBois-couv.webp
     description: |
         Lou est sortie marcher dans les bois. Juste pour prendre un peu l'air, après une banale dispute de couple…
 
         Mais que va-t-elle y trouver&nbsp;?
   - teaser: "Chasseuse de rêves (premiers chapitres)"
     bonus_id: "ChasseuseDeRêves-extrait"
-    image_path: /assets/images/bonus/ChasseuseDeRêves-extrait-couv.jpg
+    image_path: /assets/images/bonus/ChasseuseDeRêves-extrait-couv.webp
     description: |
         Découvrez ici le premier jet du prologue et des deux premiers chapitres de mon roman jeunesse (13 ans et +), [*Chasseuse de rêves*](/publications/projets-en-cours/#chasseuse-de-r%C3%AAves-titre-provisoire).
 
         Ce roman est actuellement en cours de bêta-lecture.
   - teaser: "Du noir aux flammes"
     bonus_id: "DuNoirAuxFlammes"
-    image_path: /assets/images/bonus/DuNoirAuxFlammes-couv.jpg
+    image_path: /assets/images/bonus/DuNoirAuxFlammes-couv.webp
     description: |
         Jusqu'où la noiceur d'une ville peut-elle corrompre les êtres qu'elle abrite ?
 
         Cette courte nouvelle paraîtra courant 2023 au sein du recueil [*Fragments de solitudes*](/publications/projets-en-cours/#fragments-de-solitudes).
   - teaser: "Un écrin pour toi, ma bien-aimée"
     bonus_id: "UnÉcrinPourToiMaBienAimée"
-    image_path: /assets/images/bonus/UnÉcrinPourToiMaBienAimée-couv.png
+    image_path: /assets/images/bonus/UnÉcrinPourToiMaBienAimée-couv.webp
     description: |
         Dans cette très courte nouvelle, découvrez une histoire d'amour et de mort, où les vampires rôdent…
   - teaser: "Mauvais swing"
     bonus_id: "MauvaisSwing"
-    image_path: /assets/images/bonus/MauvaisSwing-couv.png
+    image_path: /assets/images/bonus/MauvaisSwing-couv.webp
     description: |
         Une pianiste, un saxophoniste, du jazz… Et un jour, un mauvais swing.
   - teaser: "La légende de la Fée Neige"
     bonus_id: "LaLegendeDeLaFeeNeige"
-    image_path: /assets/images/bonus/LaLegendeDeLaFeeNeige-couv.png
+    image_path: /assets/images/bonus/LaLegendeDeLaFeeNeige-couv.webp
     description: |
         Une incursion au pays des sapins, de la neige et du froid…
 
         Retrouvez ici la légende qui a donné naissance à <a href="https://www.amazon.fr/dp/B09LXQ7LX7" target="_blank">ma nouvelle Enfants des neiges</a>&nbsp;!
   - teaser: "Pitchi et la Gardienne des Âmes"
     bonus_id: "PitchiEtLaGardienneDesAmes"
-    image_path: /assets/images/bonus/PitchiEtLaGardienneDesAmes-couv.png
+    image_path: /assets/images/bonus/PitchiEtLaGardienneDesAmes-couv.webp
     description: |
         Quand Greer doit se résoudre à confier sa fille, âgée de sept jours à peine, à celui que lui a envoyé la gardiennes des âmes pour protéger l'enfant, Pitchi n'est sûrement pas le sauveur qu'elle espérait…
   - teaser: "Le lapin rose"
     bonus_id: "LeLapinRose"
-    image_path: /assets/images/bonus/LeLapinRose-couv.png
+    image_path: /assets/images/bonus/LeLapinRose-couv.webp
     description: |
         Au travers d'une expérience qui ne tourne pas comme prévu, ce court récit jeunesse aborde le thème de la différence.
 

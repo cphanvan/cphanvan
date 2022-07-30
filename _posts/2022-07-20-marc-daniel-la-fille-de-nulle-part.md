@@ -11,10 +11,10 @@ sidebar_newsletter: true
 share: true
 comments: true
 header:
-  teaser: /assets/images/posts/2022-07-20_teaser-fille-nulle-part.jpg
+  teaser: /assets/images/posts/2022-07-20_teaser-fille-nulle-part.webp
 gallery:
-    - url: /assets/images/posts/2022-07-20_fille-nulle-part-cover.jpg
-      image_path: /assets/images/posts/2022-07-20_fille-nulle-part-cover.jpg
+    - url: /assets/images/posts/2022-07-20_fille-nulle-part-cover.webp
+      image_path: /assets/images/posts/2022-07-20_fille-nulle-part-cover.webp
       alt: "couverture du roman La fille de nulle part"
 ---
 

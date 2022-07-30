@@ -8,11 +8,11 @@ publication_date: 1970-01-01T00:00:00Z
 excerpt: |
   Regard sur l'avenir...
 header:
-  teaser: /assets/images/publications/projets-en-cours-teaser.png
+  teaser: /assets/images/publications/projets-en-cours-teaser.webp
 sidebar_newsletter: true
 ---
 
-{% include figure image_path="/assets/images/publications/projets-en-cours-teaser.png" alt="Projets en cours" %}
+{% include figure image_path="/assets/images/publications/projets-en-cours-teaser.webp" alt="Projets en cours" %}
 
 ## Chasseuse de rêves (titre provisoire)
 

@@ -11,10 +11,10 @@ sidebar_newsletter: true
 share: true
 comments: true
 header:
-  teaser: /assets/images/posts/2022-07-09_teaser-derniere-morsure.jpg
+  teaser: /assets/images/posts/2022-07-09_teaser-derniere-morsure.webp
 gallery:
-    - url: /assets/images/posts/2022-07-09_derniere-morsure-cover.jpg
-      image_path: /assets/images/posts/2022-07-09_derniere-morsure-cover.jpg
+    - url: /assets/images/posts/2022-07-09_derniere-morsure-cover.webp
+      image_path: /assets/images/posts/2022-07-09_derniere-morsure-cover.webp
       alt: "couverture du roman La dernière morsure"
 ---
 

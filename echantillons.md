@@ -9,11 +9,11 @@ permalink: /echantillons
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /assets/images/bandeau-echantillons.jpg
+  overlay_image: /assets/images/bandeau-echantillons.webp
 books:
   - title: "Derrière la porte"
     teaser: "Un même début, pour une histoire très différente !"
-    image_path: /assets/images/echantillons/derriere-la-porte.png
+    image_path: /assets/images/echantillons/derriere-la-porte.webp
     image_alt: "Derrière la porte"
     url: /assets/textes/Derriere_la_porte.pdf
     description: |
@@ -28,7 +28,7 @@ books:
         Sur ce, place au récit. J'espère que vous avez le cœur bien accroché&nbsp;: âmes sensibles, passez votre tour&nbsp;!
   - title: "Cœur brisé et tasse de thé"
     teaser: "Une Saint-Valentin en solitaire... ou pas !"
-    image_path: /assets/images/echantillons/coeur-brise-et-tasse-de-the.png
+    image_path: /assets/images/echantillons/coeur-brise-et-tasse-de-the.webp
     image_alt: "Derrière la porte"
     url: /assets/textes/Coeur_brise_et_tasse_de_the.pdf
     description: |
@@ -46,7 +46,7 @@ books:
 
 ### Halloween sous la neige
 
-{% include figure image_path="/assets/images/echantillons/halloween-sous-la-neige.jpg" alt="paysage enneigé" caption="Image de rawpixel.com" %}
+{% include figure image_path="/assets/images/echantillons/halloween-sous-la-neige.webp" alt="paysage enneigé" caption="Image de rawpixel.com" %}
 
 Avec Aude Boireau, à travers les défis Sprint et Marathon auxquels nous avons participé au cours de l'été 2021, nous avons découvert les joies de l'écriture à quatre mains&hellip; Et nous avons eu envie de renouveler l'expérience&nbsp;!
 
@@ -319,13 +319,13 @@ Blam&nbsp;! Je sursaute. La porte vient de claquer derrière moi. J’ai la chai
 
 ### Jour 7
 
-{% include figure image_path="/assets/images/echantillons/defi-sprint-7.png" alt="défi sprint 7" %}
+{% include figure image_path="/assets/images/echantillons/defi-sprint-7.webp" alt="défi sprint 7" %}
 
 ## Nanonouvelles
 
 ### Dérive
 
-{% include figure image_path="/assets/images/echantillons/derive.jpg" alt="derive" caption="Image par Jupi Lu de Pixabay" %}
+{% include figure image_path="/assets/images/echantillons/derive.webp" alt="derive" caption="Image par Jupi Lu de Pixabay" %}
 
 Tu t'es éteint, et la nuit m'a envahie.
 
@@ -336,7 +336,7 @@ Je dérive, portée par les flots d'un océan de regrets, le cœur serré de ces
 
 ### Dernier soupir
 
-{% include figure image_path="/assets/images/echantillons/dernier-soupir.jpg" alt="dernier soupir" caption="Image par Erika Varga de Pixabay" %}
+{% include figure image_path="/assets/images/echantillons/dernier-soupir.webp" alt="dernier soupir" caption="Image par Erika Varga de Pixabay" %}
 
 Son regard se posa sur elle, et il sut qu’il l’avait enfin retrouvée. Les couleurs avaient déserté ce monde depuis bien longtemps. Pourtant, il n’avait jamais oublié l’indigo profond de ses pupilles.
 
@@ -347,14 +347,14 @@ Ils restèrent ainsi, immobiles, jusqu’au soir. Puis, lorsque la dernière lue
 
 ### Divination
 
-{% include figure image_path="/assets/images/echantillons/divination.jpg" alt="divination" caption="Image par Free-Photos de Pixabay" %}
+{% include figure image_path="/assets/images/echantillons/divination.webp" alt="divination" caption="Image par Free-Photos de Pixabay" %}
 
 La sphère de cristal luisait dans l'obscurité, illuminait son visage d'un éclat énigmatique. Ce qu'elle y avait déchiffré ne m'importait plus. Elle avait relevé sa capuche, et le monde s'était noyé dans son regard. Seuls existaient encore ses yeux de braise, posés sur les miens.
 
 
 ### Atoll
 
-{% include figure image_path="/assets/images/echantillons/atoll.jpg" alt="atoll" caption="Image par Bessi de Pixabay" %}
+{% include figure image_path="/assets/images/echantillons/atoll.webp" alt="atoll" caption="Image par Bessi de Pixabay" %}
 
 Le mage retint son souffle et ouvrit timidement un œil. Pitié, pas à nouveau un champignon&hellip;
 
@@ -367,7 +367,7 @@ Il s'assit, savoura le silence, offrit son visage au firmament. Plus rien n'exis
 
 ### Alzheimer
 
-{% include figure image_path="/assets/images/echantillons/alzheimer.jpg" alt="mains" %}
+{% include figure image_path="/assets/images/echantillons/alzheimer.webp" alt="mains" %}
 
 Ding. Elle n’attend pourtant personne. Elle regarde par l’œilleton&nbsp;: un beau jeune-homme brun attend patiemment derrière la porte. Qui peut-il bien être&nbsp;? Elle lisse les plis de sa jupe, passe machinalement une main dans ses cheveux avant d’ouvrir.
 

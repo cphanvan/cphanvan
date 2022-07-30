@@ -10,7 +10,7 @@ sidebar_newsletter: true
 share: true
 comments: true
 header:
-    teaser: /assets/images/posts/2022-06-08_teaser-pub-facebook.jpg
+    teaser: /assets/images/posts/2022-06-08_teaser-pub-facebook.webp
 ---
 
 Et si ***vos choix*** et ***votre comportement*** jouaient sur la ***quantité de pubs Facebook*** auxquelles vous êtes exposé·e&nbsp;?
@@ -55,7 +55,7 @@ Quelques exemples parmi les objectifs proposés&nbsp;:
 - Obtenir plus de vues de vidéos
 - Encourager les visites en ligne
 
-![objectifs publicitaires proposés par Facebook](/assets/images/posts/2022-06-08_objectifs-pub-facebook.png)
+![objectifs publicitaires proposés par Facebook](/assets/images/posts/2022-06-08_objectifs-pub-facebook.webp)
 
 *Retenez bien les deux premiers.*
 
@@ -73,7 +73,7 @@ Et plus précisément, il faut sélectionner :
 
 des personnes à qui l'on souhaite que la publicité soit affichée.
 
-![critères proposés par Facebook pour cibler une audience publicitaire](/assets/images/posts/2022-06-08_audience-pub-facebook.png)
+![critères proposés par Facebook pour cibler une audience publicitaire](/assets/images/posts/2022-06-08_audience-pub-facebook.webp)
 
 
 ## Et alors, ça fonctionne ?
@@ -88,7 +88,7 @@ En revanche, Facebook ***veut*** que vous le fassiez&nbsp;!
 
 La preuve&nbsp;?
 
-![email de Facebook offrant un crédit publicitaire](/assets/images/posts/2022-06-08_email-pub-facebook.png)
+![email de Facebook offrant un crédit publicitaire](/assets/images/posts/2022-06-08_email-pub-facebook.webp)
 
 Des emails comme celui-ci, depuis que j'ai créé ma page Facebook (je parle bien de page), j'en ai reçu des dizaines.
 
@@ -102,7 +102,7 @@ Au premier abord, en tenant compte du fait que ma page compte à ce jour moins d
 
 D'un peu plus près, c'est déjà moins enthousiasmant&nbsp;: 46 interactions, donc moins de 3% des personnes qui ont vu la publicité. Ça fait cher le clic (à mon avis en tout cas&nbsp;; heureusement que je n'ai rien dépensé&nbsp;!)
 
-![résultats d'une publicité Facebook](/assets/images/posts/2022-06-08_resultats1-pub-facebook.png)
+![résultats d'une publicité Facebook](/assets/images/posts/2022-06-08_resultats1-pub-facebook.webp)
 
 
 ### Et en détail ?
@@ -115,16 +115,16 @@ Parmi ces 46 interactions&nbsp;:
 - 35 réactions
 - (et le reste, je n'ai même pas trouvé ce que c'était&nbsp;!)
 
-![résultats détaillés d'une publicité Facebook](/assets/images/posts/2022-06-08_resultats2-pub-facebook.png)
+![résultats détaillés d'une publicité Facebook](/assets/images/posts/2022-06-08_resultats2-pub-facebook.webp)
 
 
 Le commentaire est savoureux&nbsp;: *STOP À LA PUBLICITÉ DANS MON FIL D'ACTUALITÉ*.
 
-![commentaire en réaction à une publicité Facebook](/assets/images/posts/2022-06-08_resultats3-pub-facebook.png)
+![commentaire en réaction à une publicité Facebook](/assets/images/posts/2022-06-08_resultats3-pub-facebook.webp)
 
 Les réactions également&nbsp;: cette publicité a fâché 6 (ou 7&nbsp;?) personnes sur 46, soit 13&nbsp;% de celles qui ont réagi.
 
-![détail des réactions à une publicité Facebook](/assets/images/posts/2022-06-08_resultats4-pub-facebook.png)
+![détail des réactions à une publicité Facebook](/assets/images/posts/2022-06-08_resultats4-pub-facebook.webp)
 
 Et le pire&nbsp;?
 
@@ -135,7 +135,7 @@ Eh oui, rappelez-vous&nbsp;: *obtenir plus d'interactions*&hellip;
 
 La preuve, ***Commentaires négatifs&nbsp;: 0.***
 
-![détail des réactions à une publicité Facebook - aucune classé négativement](/assets/images/posts/2022-06-08_resultats5-pub-facebook.png)
+![détail des réactions à une publicité Facebook - aucune classé négativement](/assets/images/posts/2022-06-08_resultats5-pub-facebook.webp)
 
 *(chiffres légèrement différents car capture d'écran effectuée un autre jour)*
 

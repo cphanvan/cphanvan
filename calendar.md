@@ -7,7 +7,7 @@ permalink: /agenda
 classes: wide
 ---
 
-{% include figure image_path="/assets/images/events/pexels-cottonbro-8369512.jpg" alt="tableau d'investigation criminelle" caption="[Photo de cottonbro - Pexels](https://www.pexels.com/photo/city-landscape-man-people-8369512/)" %}
+{% include figure image_path="/assets/images/events/pexels-cottonbro-8369512.webp" alt="tableau d'investigation criminelle" caption="[Photo de cottonbro - Pexels](https://www.pexels.com/photo/city-landscape-man-people-8369512/)" %}
 
 Au mois de juin 2022, je termine le premier jet de [*Chasseuse de rêves*](/publications/projets-en-cours/#chasseuse-de-r%C3%AAves-titre-provisoire), mon roman jeunesse.
 

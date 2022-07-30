@@ -9,7 +9,7 @@ permalink: /contact
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /assets/images/contact-bandeau.jpg
+  overlay_image: /assets/images/contact-bandeau.webp
 ---
 
 

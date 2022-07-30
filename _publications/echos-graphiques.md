@@ -8,10 +8,10 @@ publication_date: 2021-12-15T00:00:00Z
 excerpt: |
   Une nouvelle horrifique qui vous fera frissonner même au coin du feu !
 header:
-  teaser: /assets/images/publications/echos-graphiques-teaser.png
+  teaser: /assets/images/publications/echos-graphiques-teaser.webp
 sidebar:
   - title: "Échos graphiques"
-    image: /assets/images/publications/echos-graphiques-cover.png
+    image: /assets/images/publications/echos-graphiques-cover.webp
     image_alt: "couverture"
     text: |
       Nouvelle horrifique\

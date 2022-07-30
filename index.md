@@ -11,7 +11,7 @@ date: 2022-03-23T22:40:00Z
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/bandeau.png
+  overlay_image: /assets/images/bandeau.webp
   actions:
     - label: "En savoir plus"
       url: "/publications"
@@ -24,18 +24,18 @@ a_propos:
     url: "/a-propos"
     btn_label: "En savoir plus"
 contenu_site:
-  - image_path: assets/images/publications.jpg
+  - image_path: assets/images/publications.webp
     title: "Publications"
     excerpt: "Découvrez ici mes nouvelles publiées, mais aussi mes recueils, romans ou novellas qui trépignent de suivre un jour le même chemin"
     url: "/publications"
     btn_label: "Découvrir"
-  - image_path: /assets/images/echantillons.jpg
+  - image_path: /assets/images/echantillons.webp
     alt: "Echantillons"
     title: "Échantillons"
     excerpt: "Quelques-uns de mes textes sont à lire ici en accès libre : nouvelles à quatre mains avec des autrices amies, micronouvelles, jeux d'écriture..."
     url: "/echantillons"
     btn_label: "Lire"
-  - image_path: /assets/images/bonus_abonnes.png
+  - image_path: /assets/images/bonus_abonnes.webp
     alt: "Bonus abonnés"
     title: "Textes offerts"
     excerpt: "Abonnez-vous gratuitement à la newsletter mensuelle et retrouvez ici les textes qui vous sont réservés en exclusivité !"
