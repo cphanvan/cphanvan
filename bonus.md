@@ -20,6 +20,15 @@ header:
   overlay_image: /assets/images/bandeau-bonus.webp
 bonus: true
 books:
+  - teaser: "Ne te fie jamais à tes cauchemars"
+    bonus_id: "NeTeFieJamaisÀTesCauchemars"
+    image_path: /assets/images/bonus/NeTeFieJamaisÀTesCauchemars-couv.webp
+    description: |
+        *Été 1962*
+        
+        Dans une petite église de village, debout devant l'autel, Madeleine attend l'homme qu'elle s'apprête à épouser.
+        
+        Mais la vie réserve parfois des surprises&hellip;
   - teaser: "La lumière perdue"
     bonus_id: "LaLumierePerdue"
     image_path: /assets/images/bonus/LaLumierePerdue-couv.webp
