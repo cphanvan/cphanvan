@@ -15,7 +15,7 @@ header:
 gallery:
     - url: /assets/images/posts/2022-08-07_chou_a_la_crim-cover.webp
       image_path: /assets/images/posts/2022-08-07_chou_a_la_crim-cover.webp
-      alt: "couverture du roman Chou à la crim' - Les thés meurtriers d'Oxford - volume 1"
+      alt: "couverture du roman Chou à la crim' - Les thés meurtriers d'Oxford - tome 1"
 ---
 
 Un pittoresque salon de thé des Cotswolds, un groupe de vieilles dames aux oreilles indiscrètes, une arme du crime pour le moins étonnante&hellip; Voici un cosy mystery comme on les aime, dans une ambiance délicieusement britannique&nbsp;!
