@@ -29,7 +29,12 @@ Une intrigue prenante, des enjeux forts, une héroïne tourmentée dont le pass�
 <span class="fa fa-star rating_checked"></span>
 <span class="fa fa-star rating_unchecked"></span>
 
-Genre&nbsp;: policier
+## Le roman
+
+### Genre&nbsp;: roman policier
+
+Autoédition <br />
+Disponible en versions brochée et numérique
 
 **Résumé**<br />
 Un jeune garçon assassiné et sauvagement mutilé. Un autre enfant disparu. Pour Alex, capitaine à la Crim', Giancarlo, son coéquipier et Malik, nouvelle recrue, un compte à rebours macabre est lancé pour retrouver la prochaine victime avant qu'il ne soit trop tard. <br />
@@ -40,7 +45,7 @@ Hantée par son passé, Alex ira jusqu'au bout d'elle-même pour découvrir la v
 
 
 
-## Le roman
+## Mon avis
 
 Tout débute par la découverte fortuite du corps d'un jeune garçon, sauvagement mutilé. Le cas est confié à un duo d'enquêteurs chevronnés, Alex et Giancarlo, qui ont notamment fait leurs preuves 7&nbsp;ans plus tôt en parvenant à résoudre une affaire complexe, qui a laissé à Alex des séquelles dont elle n'est jamais parvenue à se débarrasser. Malik, une nouvelle recrue, vient compléter l'équipe.
 
@@ -48,7 +53,7 @@ Le trio ne tarde pas à suspecter que le cas dont ils s'occupent n'est pas isol�
 
 
 
-## Ce que j'ai aimé
+### Ce que j'ai aimé
 
 Le **personnage d'Alex** est la réussite incontestable du roman. Le lecteur est tenu en haleine au moins autant par ce qui hante la jeune femme que par les enjeux de l'enquête. L'autrice entretient avec habileté une ambiguïté constante au sujet des intuitions d'Alex&nbsp;: difficile de démêler ce qui est probable et ce qui relève uniquement de ses traumatismes jamais surmontés. La lutte d'Alex pour faire aboutir l'enquête côtoie celle qu'elle mène pour ne pas se perdre elle-même, et l'imbrication de l'une dans l'autre permet de maintenir tout au long du récit une tension qui ne faiblit jamais.
 
@@ -58,7 +63,7 @@ La **plume** est fluide, le rythme bon, et le style sert la narration. Car oui, 
 
 
 
-## Ce que j'ai moins apprécié
+### Ce que j'ai moins apprécié
 
 Les **personnages secondaires** m'ont un peu laissée sur ma faim.  J'aurais aimé que ceux de Giancarlo et Malik en particulier soient davantage approfondis, mais aussi dans une moindre mesure Michel, ou même le commissaire ou la légiste.
 

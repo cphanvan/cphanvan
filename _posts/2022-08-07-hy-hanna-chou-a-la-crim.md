@@ -28,7 +28,13 @@ Un pittoresque salon de thé des Cotswolds, un groupe de vieilles dames aux orei
 <span class="fa fa-star rating_checked"></span>
 <span class="fa fa-star rating_unchecked"></span>
 
-Genre&nbsp;: policier (cosy mystery)
+## Le roman
+
+### Genre&nbsp;: roman policier (cosy mystery)
+
+City éditions (broché) - Autoédition (ebook) <br />
+Traduit de l'anglais (britannique) par Diane Garo <br />
+Disponible en versions brochée et numérique
 
 **Résumé**<br /><br />
 Gemma abandonne son emploi prestigieux pour rentrer à Oxford et réaliser son rêve&nbsp;: ouvrir un salon de thé traditionnel anglais. Pour ce faire, elle doit dépenser toutes ses économies, retourner vivre chez ses parents et supporter sa mère autoritaire qui joue les entremetteuses, mais elle en est persuadée&nbsp;: c’est pour la bonne cause. La preuve&nbsp;: ses affaires sont déjà en plein essor&hellip; jusqu’à ce qu’elle découvre un jour en ouvrant sa boutique qu’un touriste américain a été tué par l’un de ses fameux scones&nbsp;!<br />
@@ -41,7 +47,7 @@ Une affaire de meurtre n’est jamais bonne pour les affaires, surtout quand les
 
 
 
-## Le roman
+## Mon avis
 
 Aucun doute, nous ne sommes pas ici dans un thriller&nbsp;: le roman démarre en douceur. On prend le temps de faire connaissance avec Gemma, son salon de thé fraîchement acquis, son amie Cassie, le chef pâtissier Fletcher et sa chatte Muesli, les premiers habitués&hellip; dont, en particulier, un groupe de quatre vieilles dames capables de tenir en respect tout un village.
 
@@ -51,7 +57,7 @@ Lorsque Gemma retrouve l'homme en question mort à l'une de ses tables, un scone
 
 
 
-## Ce que j'ai aimé
+### Ce que j'ai aimé
 
 Les **personnages**. On aime s'identifier à Gemma, l'héroïne. Pas forcément parce qu'elle nous ressemble, même si c'est peut-être le cas par certains aspects de son caractère, mais surtout parce que son entourage ressemble au nôtre. Vous savez, ces personnes qu'on aime, ou qu'on aime détester, malgré (ou à cause de) leurs horribles défauts. La voisine un peu trop curieuse, qui laisse traîner ses oreilles avec un flagrant manque de discrétion. La mère qui essaie à tout prix de caser sa fille, et joue les entremetteuses sans être consciente de son cruel manque de subtilité. La meilleure amie, qui sait ce qu'on ressent quand on n'ose soi-même pas encore se l'avouer. L'ami de toujours, qui se languit d'amour pour une de nos copines, sans pourtant jamais avoir osé tenter sa chance. Le chat qui fait sans cesse les pires bêtises aux pires moments, mais pour lequel on ne peut s'empêcher d'éprouver de la tendresse. Ce sont ces petites touches merveilleusement, ou horriblement, réelles qui rendent le monde créé par H.Y. Hanna si vivant&nbsp;!
 
@@ -63,7 +69,7 @@ Le **rythme**. L'intrigue est rondement menée. Les événements s'enchaînent s
 
 
 
-## Ce que j'ai moins apprécié
+### Ce que j'ai moins apprécié
 
 L'intrigue en elle-même se tient tout à fait, même si elle ne constitue pas *la* raison pour laquelle je conseillerais ce roman. En revanche, la **succession de coïncidences** qui permet à Gemma d'avancer dans ses investigations nécessite d'être bien disposé quand on se lance dans la lecture, pour ne pas risquer une déception. Le roman est très divertissant et a visiblement été écrit dans ce but&nbsp;; mais si vous cherchez une enquête bien ficelée dans laquelle rien n'est laissé au hasard et où chaque progrès doit tout au seul talent de déduction des protagonistes, passez votre chemin. Ici, certains indices semblent parfois tomber un peu du ciel. Ce qui n'enlève rien à toutes les autres qualités citées plus haut&nbsp;! 😊
 

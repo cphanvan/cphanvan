@@ -29,7 +29,14 @@ Pour ma part, je ne l'avais pas lu avant de terminer le roman, et je m'en félic
 <span class="fa fa-star rating_checked"></span>
 <span class="fa fa-star rating_checked"></span>
 
-Genre&nbsp;: thriller
+## Le roman
+
+### Genre&nbsp;: thriller
+
+Autoédition <br />
+Traduit de l'anglais (américain) par Caroline Fouchard <br />
+Disponible en versions brochée et numérique
+
 
 **Résumé** (adapté du résumé officiel, sans les *spoils* 🤷‍♀️)<br /><br />
 Depuis le drame qui a transformé son existence en véritable cauchemar, Ethan Archer, ancien profileur criminel, n'a pas travaillé sur une affaire de meurtre et n'a aucune envie de s'y remettre. Pourtant, lorsque les cadavres se multiplient et qu'il se retrouve dans la ligne de mire du tueur, il n'a plus d'autre choix.
@@ -41,7 +48,7 @@ Dans une affaire aux apparences des plus trompeuses, Archer saura-t-il affronter
 
 
 
-## Le roman
+## Mon avis
 
 Après un prologue mystérieux, dont le lien avec l'intrigue ne sera dévoilé qu'en temps voulu (⚠️ *ne lisez pas le résumé officiel*&nbsp;! Oui, je sais, je me répète&hellip;), on rencontre les deux personnages principaux&nbsp;: Ethan Archer, détective privé dont on comprend rapidement qu'il est hanté par des démons personnels et a connu des jours meilleurs (ainsi que des missions plus haletantes), et Jennifer MacKay, son énigmatique secrétaire écossaise, qui semble un peu trop maligne pour le poste qu'elle occupe.
 
@@ -51,7 +58,7 @@ Saupoudrez le tout d'une poignée de meurtres qui se ressemblent trop pour n'avo
 
 
 
-## Ce que j'ai aimé
+### Ce que j'ai aimé
 
 L'**intrigue**. Vous visualisez ces tableaux d'enquête, qu'on voit souvent dans les films ou séries policières, avec des indices punaisés un peu partout et reliés entre eux par des fils tendus en tous sens, formant un enchevêtrement duquel on est persuadé qu'on ne parviendra jamais à dégager une quelconque logique&nbsp;? Eh bien, on pourrait être tenté de croire que l'intrigue de *La fille de nulle part* a été construite ainsi. Ce serait grandement sous-estimer l'auteur&nbsp;: Marc Daniel sait parfaitement ce qu'il fait, et tous ses fils se dénouent un à un jusqu'à la grande révélation finale&hellip; que j'étais, je l'avoue, un peu vexée de n'avoir pas vue venir&nbsp;!
 
@@ -62,7 +69,7 @@ Le **rythme**. Difficile de décrocher. Pas de temps mort. Rien à redire sur ce
 Les **personnages**. Le héros, d'abord, Ethan Fletcher. Tout ce qu'il ressent est parfaitement restitué, ses blessures, ses doutes, ses failles, ses travers, ses craintes&nbsp;: tout cela le rend très humain. Et ***tous*** les personnages&nbsp;: ils sont nombreux, je trouve que cela contribue à rendre le roman très vivant et à renforcer l'immersion du lecteur, au contraire de ce que je peux éprouver par exemple quand l'intrigue se déroule exclusivement en huis-clos, et qui me donne alors l'impression de me tenir dans le rôle d'une observatrice très extérieure.
 
 
-## Ce que j'ai moins apprécié
+### Ce que j'ai moins apprécié
 
 Euh&hellip; Laissez-moi réfléchir&hellip; Pas grand-chose, en fait&nbsp;! 😉
 
