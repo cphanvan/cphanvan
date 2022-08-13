@@ -47,7 +47,7 @@ books:
     description: |
         Découvrez ici le premier jet du prologue et des deux premiers chapitres de mon roman jeunesse (13 ans et +), [*Chasseuse de rêves*](/publications/projets-en-cours/#chasseuse-de-r%C3%AAves-titre-provisoire).
 
-        Ce roman est actuellement en cours de bêta-lecture.
+        La [phase de bêtalecture](/lecture/jeunesse/2022/06/23/bêta-lecture-chasseuse-de-rêves.html) de ce roman est terminée, il est actuellement en cours de correction.
   - teaser: "Du noir aux flammes"
     bonus_id: "DuNoirAuxFlammes"
     image_path: /assets/images/bonus/DuNoirAuxFlammes-couv.webp
@@ -71,7 +71,7 @@ books:
     description: |
         Une incursion au pays des sapins, de la neige et du froid…
 
-        Retrouvez ici la légende qui a donné naissance à <a href="https://www.amazon.fr/dp/B09LXQ7LX7" target="_blank">ma nouvelle Enfants des neiges</a>&nbsp;!
+        Retrouvez ici la légende qui a donné naissance à <a href="https://amzn.to/3nT8KJK" target="_blank">ma nouvelle Enfants des neiges</a>&nbsp;! (lien partenaire)
   - teaser: "Pitchi et la Gardienne des Âmes"
     bonus_id: "PitchiEtLaGardienneDesAmes"
     image_path: /assets/images/bonus/PitchiEtLaGardienneDesAmes-couv.webp
