@@ -19,8 +19,8 @@ Pour consulter, modifier ou révoquer vos consentements concernant le recueil de
 
 ### Propriété intellectuelle
 
-- Les textes hébergés sur ce site sont la propriété de l'autrice. Les quelques textes écrits en collaboration avec d'autres auteurs ou autrices et publiés ici le sont avec leur aimable consentement.
-- Les photographies et images éditoriales proviennent du domaine public, de <a href="https://pixabay.com/" target="_blank">Pixabay</a> et de <a href="https://www.rawpixel.com/" target="_blank">rawpixel.com</a>.
+- Les textes hébergés sur ce site sont la propriété de l'autrice. Les quelques textes écrits en collaboration avec d'autres auteurs ou autrices et publiés ici le sont avec leur aimable autorisation.
+- Les photographies et images éditoriales proviennent du domaine public, de <a href="https://pixabay.com/" target="_blank">Pixabay</a>, de <a href="https://www.rawpixel.com/" target="_blank">rawpixel.com</a> et de <a href="https://www.pexels.com/" target="_blank">Pexels.com</a>.
 
 
 Le site [https://catherinephanvan.fr](https://catherinephanvan.fr) est la propriété de Catherine Phan van, artiste-auteur (SIRET 900&nbsp;407&nbsp;875&nbsp;00013)\
