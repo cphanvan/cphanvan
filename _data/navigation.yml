@@ -23,8 +23,12 @@ main:
     icon: "fas fa-envelope"
 
 publications:
+  - title: "Projets en cours..."
+    url: /publications/projets-en-cours
   - title: "Nouvelles"
     children:
+      - title: "Élégie à une selkie"
+        url: /publications/elegie-a-une-selkie
       - title: "Échos graphiques"
         url: /publications/echos-graphiques
       - title: "Enfants des neiges"
@@ -37,5 +41,3 @@ publications:
         url: /publications/les-pipistrelles-de-gabriel
       - title: "Plein Sud"
         url: /publications/plein-sud
-  - title: "Projets en cours..."
-    url: /publications/projets-en-cours
