@@ -235,7 +235,7 @@ Vous trouverez des livres d'occasion chez certains libraires, dans les brocantes
 
 Vous pouvez d'ailleurs revendre de la même manière les livres que vous ne voulez pas garder.
 
-Je préfère ne pas vous parle pas de Recyclivre, dont les pratiques sont controversées.
+Je préfère ne pas vous parler de Recyclivre, dont les pratiques sont controversées.
 {: .notice--info}
 
 
