@@ -3,13 +3,14 @@ title: "Lire gratuitement&nbsp;: 25 astuces 100% légales pour lire sans se ruin
 seo_title: "Lire gratuitement&nbsp;: 25 astuces 100% légales"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
-classes: wide
-date: 2022-08-20 11:00:00 +0200
+date: 2022-08-22 23:00:00 +0200
 categories: lecture
 tags: lecture
 sidebar_newsletter: true
 share: true
 comments: true
+toc: true
+toc_label: Sommaire
 header:
   teaser: /assets/images/posts/2022-08-22_teaser_lecture-gratuite.webp
 ---
@@ -17,6 +18,8 @@ header:
 <!--excerptEnd-->
 
 ![pile à lire](/assets/images/posts/2022-08-22-pile-a-lire.webp)
+
+## Ce que vous trouverez dans cet article&hellip; et ce que vous n'y trouverez pas&nbsp;!
 
 Oui, il est parfaitement possible de **lire gratuitement ou à petit prix**, et ce, en toute légalité&nbsp;!
 
@@ -26,7 +29,7 @@ Au moment où j'écris ces lignes, tous les sites et liens que vous trouverez r�
 
 Avant d'entrer dans le vif du sujet, je me permets un petit aparté, pour vous parler du prix unique du livre en France et de ce qu'il implique. Vous pourrez constater en parcourant les diverses astuces que cette brève mise au point a son importance et permet de comprendre certaines subtilités.
 
-#### Le prix unique du livre&nbsp;: de quoi s'agit-il&nbsp;? {#prix-unique}
+### Le prix unique du livre&nbsp;: de quoi s'agit-il&nbsp;? {#prix-unique}
 
 En France, le prix du livre neuf est régi par la loi Lang n° 81-766 du 10 août 1981, qui a instauré ce qu'on appelle le **prix unique du livre**.
 
@@ -40,46 +43,12 @@ Quelques exceptions à cela&nbsp;:
 - certains ouvrages ne sont pas considérés comme des livres, par exemple les albums à colorier&hellip; mais aussi les **livres numériques**, ou **ebooks**.
 
 
-#### Les *autres* solutions
+### Les *autres* solutions
 
 Enfin, si vous voulez connaître mon avis sur le piratage, j'en touche [un petit mot à la fin de cet article](#piratage).
 
 Ces points étant posés, passons aux choses sérieuses.
 
-## Sommaire
-
-- [Trouver des livres gratuits en version papier](#trouver-des-livres-gratuits-en-version-papier)
-    - [Comment lire des livres gratuitement&nbsp;: du bookcrossing au désherbage, tour d'horizon des diverses possibilités, plus ou moins connues](#comment-lire-des-livres-gratuitement-du-bookcrossing-au-désherbage-tour-dhorizon-des-diverses-possibilités-plus-ou-moins-connues)
-        - [L'emprunt](#lemprunt)
-        - [Le troc](#le-troc)
-        - [Les dons](#les-dons)
-        - [Les partenariats](#les-partenariats)
-    - [Comment lire sans se ruiner&nbsp;: quelques astuces complémentaires, pour se procurer des livres pas chers](#comment-lire-sans-se-ruiner-quelques-astuces-complémentaires-pour-se-procurer-des-livres-pas-chers)
-        - [Le prix de lancement](#le-prix-de-lancement)
-        - [Les promotions](#les-promotions)
-        - [Les livres d'occasion](#les-livres-doccasion)
-        - [Les villages du livre](#les-villages-du-livre)
-- [Télécharger des ebooks gratuits](#télécharger-des-ebooks-gratuits)
-    - [&laquo;&nbsp;Oui, mais je n'ai pas de liseuse&nbsp;!&nbsp;&raquo;](#oui-mais-je-nai-pas-de-liseuse)
-        - [Quelle app pour lire des ebooks sur smartphone ou tablette Android&nbsp;?](#quelle-app-pour-lire-des-ebooks-sur-smartphone-ou-tablette-android)
-        - [Quel logiciel pour lire des ebooks sur ordinateur&nbsp;?](#quel-logiciel-pour-lire-des-ebooks-sur-ordinateur)
-    - [Comment lire des ebooks gratuitement&nbsp;: tour d’horizon des diverses possibilités, plus ou moins connues](#comment-lire-des-ebooks-gratuitement-tour-dhorizon-des-diverses-possibilités-plus-ou-moins-connues)
-        - [L'emprunt](#lemprunt-1)
-        - [Les partenariats](#les-partenariats-1)
-        - [Le domaine public](#le-domaine-public)
-        - [Les livres récents mis à disposition gratuitement par leurs auteurs ou autrices](#les-livres-récents-mis-à-disposition-gratuitement-par-leurs-auteurs-ou-autrices)
-    - [Comment lire sans trop dépenser&nbsp;: d'autres astuces, pour acheter des ebooks à bas prix](#comment-lire-sans-trop-dépenser-dautres-astuces-pour-acheter-des-ebooks-à-bas-prix)
-        - [Les promotions](#les-promotions-1)
-        - [L'abonnement](#labonnement)
-        - [Les newsletters des auteurs/autrices&nbsp; ! 😉](#les-newsletters-des-auteursautrices--)
-- [Lire gratuitement en ligne](#lire-gratuitement-en-ligne)
-    - [Comment lire en ligne](#comment-lire-en-ligne)
-    - [Des sites de lecture en ligne](#des-sites-de-lecture-en-ligne)
-    - [Des app de lecture](#des-app-de-lecture)
-- [Trouver des livres audio gratuits](#trouver-des-livres-audio-gratuits)
-- [Ma position au sujet du piratage](#piratage)
-- [FAQ - Questions fréquentes](#faq---questions-fréquentes)
-- [Le mot de la fin](#le-mot-de-la-fin)
 
 ---
 ---
@@ -138,9 +107,9 @@ Alors souvent, elles les donnent. D'ailleurs, si vous manquez de place, n'hésit
 
 Vous avez sûrement déjà vu ces boîtes emplies de livres qui fleurissent un peu partout. On y trouve parfois des pépites, alors n'hésitez pas à regarder ce qui s'y cache, et à y déposer vous aussi des trésors que vous souhaitez partager&nbsp;!
 
-Certaines associations s'investissent pour développer ces bibliothèques de rue. Par exemple, [l'association Les livres des rues](https://www.facebook.com/Leslivresdesrues). Vous avez toujours eu envie de vous lancer dans la vie associative&nbsp;? Pourquoi ne pas suivre leur exemple&nbsp;?
+Certaines associations s'investissent pour développer ces bibliothèques de rue. Par exemple, [l'association Les livres des rues](https://www.facebook.com/Leslivresdesrues){:target="_blank"}. Vous avez toujours eu envie de vous lancer dans la vie associative&nbsp;? Pourquoi ne pas suivre leur exemple&nbsp;?
 
-Pour localiser les boîtes à livre ou bibliothèques de rue proches de l'endroit où vous vous trouvez, vous pouvez [consulter cette carte](https://www.boite-a-lire.com/#search), ou encore [cette autre carte](https://www.google.fr/maps/@46.3136325,2.4515292,6z/data=!3m1!4b1!4m2!6m1!1szu7hOrBJpIKI.kKrkivPegWRI?hl=fr), qui en recensent un très grand nombre.
+Pour localiser les boîtes à livre ou bibliothèques de rue proches de l'endroit où vous vous trouvez, vous pouvez [consulter cette carte](https://www.boite-a-lire.com/#search){:target="_blank"}, ou encore [cette autre carte](https://www.google.fr/maps/@46.3136325,2.4515292,6z/data=!3m1!4b1!4m2!6m1!1szu7hOrBJpIKI.kKrkivPegWRI?hl=fr){:target="_blank"}, qui en recensent un très grand nombre.
 
 
 - Le partage de livres de proximité
@@ -149,7 +118,7 @@ Il n'y a pas forcément besoin de boîtes à livres placées dans un lieu public
 
 - L'échange de livres entre enfants d'une même école
 
-Je relaie ici une [initiative lancée par des parents d'élèves&nbsp;: *Troc' tes livres*.](https://www.facebook.com/PERLLJeanMoulin/posts/pfbid02HDjgSDgREVX6AZ31VgEWjCGF8YkBsEdFkMhqLDtmqXq9KXq2xrJoCCqNiEWSx5kRl)
+Je relaie ici une [initiative lancée par des parents d'élèves&nbsp;: *Troc' tes livres*.](https://www.facebook.com/PERLLJeanMoulin/posts/pfbid02HDjgSDgREVX6AZ31VgEWjCGF8YkBsEdFkMhqLDtmqXq9KXq2xrJoCCqNiEWSx5kRl){:target="_blank"}
 
 Lors de l'opération, ces parents volontaires récupèrent, à la sortie de l'école, les livres que les enfants souhaitent donner. Ils leur remettent en contrepartie des bons d'échange. Ils s'occupent ensuite de nettoyer et remettre en état les livres qui le nécessitent. (Il est possible aussi de n'accepter que des livres en assez bon état pour être redistribués tels quels.) Puis, dans le stock ainsi constitué, les enfants peuvent revenir choisir les livres qui leur plaisent, contre les bons d'échange reçus lors de leur don. Chouette, non&nbsp;?
 
@@ -157,15 +126,15 @@ Lors de l'opération, ces parents volontaires récupèrent, à la sortie de l'é
 
 Vos souvenirs d'enfance sont peuplés de fabuleuses chasses aux trésors&nbsp;? Vous donneriez tout pour perdre quelques années et retrouver ces sensations inégalables&nbsp;? Vous allez adorer le bookcrossing&nbsp;!
 
-Qu'est-ce que le bookcrossing&nbsp;? La bibliothèque du monde, une invention du 21ème siècle pour échanger des livres, un moyen de connecter les lecteurs entre eux à travers des livres voyageurs&hellip; Ou, moins poétiquement, pour en savoir plus sur ce qu'est le bookcrossing et devenir vous-même *BookCrosser*, vous pouvez [consulter le site officiel du bookcrossing](https://www.bookcrossing.com/about)&nbsp;!
+Qu'est-ce que le bookcrossing&nbsp;? La bibliothèque du monde, une invention du 21ème siècle pour échanger des livres, un moyen de connecter les lecteurs entre eux à travers des livres voyageurs&hellip; Ou, moins poétiquement, pour en savoir plus sur ce qu'est le bookcrossing et devenir vous-même *BookCrosser*, vous pouvez [consulter le site officiel du bookcrossing](https://www.bookcrossing.com/about){:target="_blank"}&nbsp;!
 
-Chaque livre déposé dans la nature par un *BookCrosser* ne demande qu'à être trouvé. Pour partir à la chasse, c'est facile, il suffit de [vous rendre sur cette page et de repérer où se trouvent les livres que vous voulez traquer](https://www.bookcrossing.com/hunt).
+Chaque livre déposé dans la nature par un *BookCrosser* ne demande qu'à être trouvé. Pour partir à la chasse, c'est facile, il suffit de [vous rendre sur cette page et de repérer où se trouvent les livres que vous voulez traquer](https://www.bookcrossing.com/hunt){:target="_blank"}.
 
 - Via les associations
 
 Certaines associations organisent du troc de livres à l'échelle d'une ville, d'un quartier, d'une agglomération.
 
-C'est par exemple le cas de [l'association Circul'Livre](http://circul-livre.blogspirit.com/qu-est-ce-que-circul-livre.html), en région parisienne, qui fixe des rendez-vous fréquents où les habitants peuvent venir récupérer des livres, à la seule condition de les remettre en circulation après les avoir lus.
+C'est par exemple le cas de [l'association Circul'Livre](http://circul-livre.blogspirit.com/qu-est-ce-que-circul-livre.html){:target="_blank"}, en région parisienne, qui fixe des rendez-vous fréquents où les habitants peuvent venir récupérer des livres, à la seule condition de les remettre en circulation après les avoir lus.
 
 Renseignez-vous auprès de votre mairie pour savoir si des initiatives de ce genre existent près de chez vous&nbsp;!
 
@@ -184,9 +153,9 @@ Désormais, les médiathèques sont de plus en plus nombreuses à donner ou brad
 
 Certaines associations récupèrent des livres pour les donner.
 
-Un exemple en région parisienne, celui de [l'association Vitry Livres Échanges](https://www.facebook.com/vitrylivresechanges/), qui collecte des livres puis les redistribue lors de manifestations populaires.
+Un exemple en région parisienne, celui de [l'association Vitry Livres Échanges](https://www.facebook.com/vitrylivresechanges/){:target="_blank"}, qui collecte des livres puis les redistribue lors de manifestations populaires.
 
-Un autre exemple avec [l'association RESPECTS Occitanie](https://www.respects.fr/Un-livre-en-cadeau.html), qui a déjà organisé plusieurs opérations de dons de livres.
+Un autre exemple avec [l'association RESPECTS Occitanie](https://www.respects.fr/Un-livre-en-cadeau.html){:target="_blank"}, qui a déjà organisé plusieurs opérations de dons de livres.
 
 Pour savoir si des associations donnent des livres près de chez vous, vous pouvez contacter votre mairie.
 
@@ -194,7 +163,7 @@ Pour savoir si des associations donnent des livres près de chez vous, vous pouv
 
 Je vous l'ai déjà dit, rares sont les personnes qui jettent les livres dont elles ne veulent plus. Alors, si elles n'ont pas trouvé où les donner ou les revendre, il est possible qu'elles cherchent à s'en séparer en déposant des petites annonces.
 
-Vous dénicherez peut-être ce que vous cherchez tout bêtement en consultant des sites comme [Le bon coin](https://www.leboncoin.fr/livres/offres), [Donnons](https://donnons.org/Livres-Magazines), ou [Geev](https://www.geev.com/fr).
+Vous dénicherez peut-être ce que vous cherchez tout bêtement en consultant des sites comme [Le bon coin](https://www.leboncoin.fr/livres/offres){:target="_blank"}, [Donnons](https://donnons.org/Livres-Magazines){:target="_blank"}, ou [Geev](https://www.geev.com/fr){:target="_blank"}.
 
 
 #### Les partenariats
@@ -205,7 +174,7 @@ Vous adorez donner votre avis sur vos lectures&nbsp;? Avez-vous déjà envisagé
 
 Le saviez-vous&nbsp;? Votre avis importe.
 
-Que ce soient des auteurs ou autrices indépendants ou des maisons d'édition, ils comptent tous sur les lecteurs pour parler de leurs livres. Sur des sites généralistes, comme [Babelio](https://www.babelio.com/), [Booknode](https://booknode.com/) ou [Livraddict](https://www.livraddict.com/), sur leur blog personnel (si si, je vous assure qu'il est très facile de créer son propre blog&nbsp;!), sur les réseaux sociaux, ou directement sur les sites de vente. Le top, ce sont les lecteurs qui postent leur avis à **tous** ces endroits. (*Oui, ceci est une astuce pour vous faire adorer de vos partenaires&nbsp;!* 😉)
+Que ce soient des auteurs ou autrices indépendants ou des maisons d'édition, ils comptent tous sur les lecteurs pour parler de leurs livres. Sur des sites généralistes, comme [Babelio](https://www.babelio.com/){:target="_blank"}, [Booknode](https://booknode.com/){:target="_blank"} ou [Livraddict](https://www.livraddict.com/){:target="_blank"}, sur leur blog personnel (si si, je vous assure qu'il est très facile de créer son propre blog&nbsp;!), sur les réseaux sociaux, ou directement sur les sites de vente. Le top, ce sont les lecteurs qui postent leur avis à **tous** ces endroits. (*Oui, ceci est une astuce pour vous faire adorer de vos partenaires&nbsp;!* 😉)
 
 Et pour ça, ils sont prêts à vous offrir leurs livres. Gratuitement, en échange de votre avis posté en ligne. Souvent, même, **avant** la sortie officielle dudit livre. Pour que votre avis soit en ligne dès le jour de sortie. Alors, elle n'est pas belle, la vie&nbsp;?
 
@@ -213,7 +182,7 @@ Et pour ça, ils sont prêts à vous offrir leurs livres. Gratuitement, en écha
 
 Parfois, vous n'avez pas besoin de demander. Si vous commencez déjà à avoir votre petite renommée, il est possible que vous soyez contacté sans avoir rien à faire.
 
-En revanche, si vous vous lancez tout juste, vous pouvez vous inscrire par exemple sur la plateforme [SimplementPro](https://simplement.pro/) ou sur des [groupes Facebook comme celui-ci](https://www.facebook.com/groups/1688845881392965), et postuler pour les SP qui vous intéressent.
+En revanche, si vous vous lancez tout juste, vous pouvez vous inscrire par exemple sur la plateforme [SimplementPro](https://simplement.pro/){:target="_blank"} ou sur des [groupes Facebook comme celui-ci](https://www.facebook.com/groups/1688845881392965){:target="_blank"}, et postuler pour les SP qui vous intéressent.
 
 - La bêtalecture et l'alphalecture
 
@@ -221,7 +190,7 @@ De quoi s'agit-il&nbsp;? Avant de soumettre son manuscrit à des maisons d'édit
 
 Quelle est la différence entre l'alphalecture et la bêtalecture&nbsp;? Dans l'alphalecture, l'auteur ou l'autrice va faire lire son manuscrit petit à petit, pendant qu'il ou elle continue à avancer dans son écriture. Dans la bêtalecture, la version du manuscrit qui va être lue est déjà terminée.
 
-Alors si vous aimez donner votre avis, constructif, ne vous privez pas de répondre aux appels à bêtalecture ou alphalecture que vous voyez passer. Si vous n'en avez jamais vu passer, pas de panique&nbsp;: abonnez-vous aux réseaux sociaux ou aux newsletters d'auteurs ou autrices qui écrivent dans les genres que vous aimez lire, faites un petit tour sur leur blog de temps en temps, ou inscrivez-vous, encore une fois, sur [ce genre de groupes Facebook](https://www.facebook.com/groups/1688845881392965), et vous ne pourrez plus les rater&nbsp;! Il n'est pas rare ensuite que l'auteur ou l'autrice tienne à vous remercier pour votre aide, en vous offrant un exemplaire dédicacé de son livre après publication&hellip; si publication il y a.
+Alors si vous aimez donner votre avis, constructif, ne vous privez pas de répondre aux appels à bêtalecture ou alphalecture que vous voyez passer. Si vous n'en avez jamais vu passer, pas de panique&nbsp;: abonnez-vous aux réseaux sociaux ou aux newsletters d'auteurs ou autrices qui écrivent dans les genres que vous aimez lire, faites un petit tour sur leur blog de temps en temps, ou inscrivez-vous, encore une fois, sur [ce genre de groupes Facebook](https://www.facebook.com/groups/1688845881392965){:target="_blank"}, et vous ne pourrez plus les rater&nbsp;! Il n'est pas rare ensuite que l'auteur ou l'autrice tienne à vous remercier pour votre aide, en vous offrant un exemplaire dédicacé de son livre après publication&hellip; si publication il y a.
 
 Si vous voulez voir ce qu'on peut vous demander dans le cadre d'une bêtalecture, vous pouvez aller jeter un coup d'&oelig;il à [ce post, de juin&nbsp;2022](/lecture/jeunesse/2022/06/23/bêta-lecture-chasseuse-de-rêves.html), pour la bêtalecture de mon roman *Chasseuse de rêves*.
 
@@ -262,7 +231,7 @@ C'est ainsi que vous pouvez parfois voir fleurir des offres parfaitement légale
 
 Contrairement aux livres neufs, le tarif des livres d'occasion n'est pas réglementé. Vous pouvez donc dénicher de vraies bonnes affaires.
 
-Vous trouverez des livres d'occasion chez certains libraires, dans les brocantes, vides-greniers, braderies, bourses aux livres, chez les bouquinistes, à Emmaüs ou encore Easy Cash&nbsp;; mais aussi sur internet, sur des sites comme [Momox](https://www.momox-shop.fr/livres-C08/) ou via les petites annonces diffusées par exemple sur [Le bon coin](https://www.leboncoin.fr/livres/offres) (encore lui), [Vinted](https://www.vinted.fr/divertissement/livres), ou sur [l'app BookVillage](https://bookvillage.app/livres-doccasion/).
+Vous trouverez des livres d'occasion chez certains libraires, dans les brocantes, vides-greniers, braderies, bourses aux livres, chez les bouquinistes, à Emmaüs ou encore Easy Cash&nbsp;; mais aussi sur internet, sur des sites comme [Momox](https://www.momox-shop.fr/livres-C08/){:target="_blank"} ou via les petites annonces diffusées par exemple sur [Le bon coin](https://www.leboncoin.fr/livres/offres){:target="_blank"} (encore lui), [Vinted](https://www.vinted.fr/divertissement/livres){:target="_blank"}, ou sur [l'app BookVillage](https://bookvillage.app/livres-doccasion/){:target="_blank"}.
 
 Vous pouvez d'ailleurs revendre de la même manière les livres que vous ne voulez pas garder.
 
@@ -272,9 +241,9 @@ Je préfère ne pas vous parle pas de Recyclivre, dont les pratiques sont contro
 
 #### Les villages du livre
 
-Ce sont des villages dans lesquels vous trouverez une foule de commerces dédiés aux livres, mais aussi de nombreux artisans dont le métier a un lien avec les livres. Si vous en avez un près de chez vous, ou si vous passez à proximité, je suis sûre qu'une petite visite vous ravira. Beaucoup organisent des événements autour du livre, parfois plusieurs fois dans l'année, comme le [village de Bécherel](https://mairie-de-becherel.bzh/la-cit%C3%A9-du-livre), par exemple.
+Ce sont des villages dans lesquels vous trouverez une foule de commerces dédiés aux livres, mais aussi de nombreux artisans dont le métier a un lien avec les livres. Si vous en avez un près de chez vous, ou si vous passez à proximité, je suis sûre qu'une petite visite vous ravira. Beaucoup organisent des événements autour du livre, parfois plusieurs fois dans l'année, comme le [village de Bécherel](https://mairie-de-becherel.bzh/la-cit%C3%A9-du-livre){:target="_blank"}, par exemple.
 
-Pour connaître la liste des villages du livre, vous pouvez [consulter cette page wikipedia](https://fr.wikipedia.org/wiki/Village_du_livre).
+Pour connaître la liste des villages du livre, vous pouvez [consulter cette page wikipedia](https://fr.wikipedia.org/wiki/Village_du_livre){:target="_blank"}.
 
 
 ---
@@ -298,16 +267,16 @@ Personnellement, je préfère lire sur liseuse, pour le confort des yeux procur�
 
 #### Quelle app pour lire des ebooks sur smartphone ou tablette Android&nbsp;?
 
-Pour ma part, j'utilise l'application [ReadEra](https://play.google.com/store/apps/details?id=org.readera&hl=fr), capable de lire la plupart des formats d'ebooks, mais aussi des documents Word ou Libre Office.
+Pour ma part, j'utilise l'application [ReadEra](https://play.google.com/store/apps/details?id=org.readera&hl=fr){:target="_blank"}, capable de lire la plupart des formats d'ebooks, mais aussi des documents Word ou Libre Office.
 
-Pour le cas particulier des bandes dessinées ou mangas, je vous conseille plutôt l'utilisation de l'app [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=fr).
+Pour le cas particulier des bandes dessinées ou mangas, je vous conseille plutôt l'utilisation de l'app [Perfect Viewer](https://play.google.com/store/apps/details?id=com.rookiestudio.perfectviewer&hl=fr){:target="_blank"}.
 
 Ces 2 applications ne sont pas disponibles sur l'AppStore. Ne disposant personnnellement d'aucun appareil Apple, je ne saurais vous conseiller, j'en suis désolée.
 {: .notice--info}
 
 #### Quel logiciel pour lire des ebooks sur ordinateur&nbsp;?
 
-Sans aucune hésitation, [Calibre](https://calibre-ebook.com/fr/download). C'est **LE** logiciel incontournable pour gérer et lire vos ebooks.
+Sans aucune hésitation, [Calibre](https://calibre-ebook.com/fr/download){:target="_blank"}. C'est **LE** logiciel incontournable pour gérer et lire vos ebooks.
 
 Si vous avez une liseuse, il vous permet en outre de convertir les divers formats d'ebooks entre eux. Ce qui s'avère fort pratique, quand celui dont vous disposez n'est pas compatible avec votre matériel&nbsp;! (Oui, c'est du vécu. 😉)
 
@@ -329,7 +298,7 @@ Rien d'extraordinaire, le principe est exactement le même que pour les livres p
 
 Quelques précisions propres au prêt numérique&nbsp;:
 1. vous pouvez emprunter un livre numérique à vos proches. Si le livre est protégé par un verrou numérique (DRM), il existe parfois une fonctionnalité de prêt qui permet de déverrouiller le livre pour une durée déterminée&nbsp;: demandez à votre proche de se renseigner à ce sujet auprès de son vendeur.
-2. vous pouvez aussi emprunter des livres via une bibliothèque numérique. Parfois, certains employeurs en proposent à leurs salariés via un comité d'entreprise. Certaines bibliothèques ou médiathèques proposent aussi le prêt de livres numériques à leurs adhérents. Enfin, vous pouvez également vous inscrire gratuitement à la [bibliothèque numérique de la ville de Paris](https://bibliotheques.paris.fr/numerique/presentation-de-la-bibliotheque-numerique.aspx?_lg=fr-FR).
+2. vous pouvez aussi emprunter des livres via une bibliothèque numérique. Parfois, certains employeurs en proposent à leurs salariés via un comité d'entreprise. Certaines bibliothèques ou médiathèques proposent aussi le prêt de livres numériques à leurs adhérents. Enfin, vous pouvez également vous inscrire gratuitement à la [bibliothèque numérique de la ville de Paris](https://bibliotheques.paris.fr/numerique/presentation-de-la-bibliotheque-numerique.aspx?_lg=fr-FR){:target="_blank"}.
 
 
 #### Les partenariats
@@ -354,19 +323,19 @@ Bon à savoir&nbsp;: vous pouvez aussi les trouver en version payante. Parfois, 
 **Les bons sites**
 
 Voici une sélection de sites fiables sur lesquels télécharger des ebooks gratuits du domaine public&nbsp;:
-- [EbookEnBib](https://ebookenbib.net/)&nbsp;: assez peu de choix, mais offre des packs thématiques avec des ebooks de qualité
-- [EbooksLibresEtGratuits](https://www.ebooksgratuits.com/ebooks.php)&nbsp;: beaucoup de choix, divers formats disponibles&nbsp;; il est possible que certains ebooks contiennent des coquilles car ils peuvent être issus de scans automatiques de livres papier, avec certains caractères mal reconnus
-- [Gallica](http://gallica.bnf.fr/)&nbsp;: les colletions numérisées de la Bibliothèque Nationale de France (BNF)
-- [BibEbook](http://www.bibebook.com/)&nbsp;: un site géré par l'association APEL, Association de Promotion de l'Écriture et de la Lecture
-- [Bibliothèque Électronique du Québec (BEQ)](http://beq.ebooksgratuits.com/)&nbsp;: divers formats disponibles&nbsp;; attention, la loi concernant le droit d'auteur diffère entre le Québec et la France, vous devez donc vous assurer que les ebooks que vous téléchargez sur ce site font bien partie du domaine public en France
-- [NosLivres](http://www.noslivres.net/)&nbsp;: recense les livres de plusieurs sites, dont BEQ, Gallica, le projet Gutenberg ou ÉFÉLÉ
-- [Classiques UQAC](http://classiques.uqac.ca/)&nbsp;: de très nombreux classiques des sciences sociales&nbsp;; attention, site québécois, la loi concernant le droit d'auteur diffère entre le Québec et la France, vous devez donc vous assurer que les ebooks que vous téléchargez sur ce site font bien partie du domaine public en France
+- [EbookEnBib](https://ebookenbib.net/){:target="_blank"}&nbsp;: assez peu de choix, mais offre des packs thématiques avec des ebooks de qualité
+- [EbooksLibresEtGratuits](https://www.ebooksgratuits.com/ebooks.php){:target="_blank"}&nbsp;: beaucoup de choix, divers formats disponibles&nbsp;; il est possible que certains ebooks contiennent des coquilles car ils peuvent être issus de scans automatiques de livres papier, avec certains caractères mal reconnus
+- [Gallica](http://gallica.bnf.fr/){:target="_blank"}&nbsp;: les colletions numérisées de la Bibliothèque Nationale de France (BNF)
+- [BibEbook](http://www.bibebook.com/){:target="_blank"}&nbsp;: un site géré par l'association APEL, Association de Promotion de l'Écriture et de la Lecture
+- [Bibliothèque Électronique du Québec (BEQ)](http://beq.ebooksgratuits.com/){:target="_blank"}&nbsp;: divers formats disponibles&nbsp;; attention, la loi concernant le droit d'auteur diffère entre le Québec et la France, vous devez donc vous assurer que les ebooks que vous téléchargez sur ce site font bien partie du domaine public en France
+- [NosLivres](http://www.noslivres.net/){:target="_blank"}&nbsp;: recense les livres de plusieurs sites, dont BEQ, Gallica, le projet Gutenberg ou ÉFÉLÉ
+- [Classiques UQAC](http://classiques.uqac.ca/){:target="_blank"}&nbsp;: de très nombreux classiques des sciences sociales&nbsp;; attention, site québécois, la loi concernant le droit d'auteur diffère entre le Québec et la France, vous devez donc vous assurer que les ebooks que vous téléchargez sur ce site font bien partie du domaine public en France
 
 #### Les livres récents mis à disposition gratuitement par leurs auteurs ou autrices
 
 Certains auteurs ou autrices contemporains choisissent de mettre à disposition leurs écrits via des sites qui en permettent la publication. C'est par exemple le cas des 2 sites suivants&nbsp;:
-- [Lire en ligne](https://lirenligne.net/)&nbsp;: les livres y sont disponibles au format pdf
-- [Atramenta](https://www.atramenta.net/lecture-libre/)&nbsp;: les livres peuvent y être téléchargés aux formats pdf ou epub
+- [Lire en ligne](https://lirenligne.net/){:target="_blank"}&nbsp;: les livres y sont disponibles au format pdf
+- [Atramenta](https://www.atramenta.net/lecture-libre/){:target="_blank"}&nbsp;: les livres peuvent y être téléchargés aux formats pdf ou epub
 
 
 ### Comment lire sans trop dépenser&nbsp;: d'autres astuces, pour acheter des ebooks à bas prix
@@ -390,11 +359,11 @@ Plusieurs entreprises proposent des services d'abonnement permettant d'accéder 
 Si vous optez pour cette solution, attention cependant lorsque vous faites votre choix, tous les services ne sont pas compatibles avec tous les types de matériels&nbsp;: pensez à bien vérifier les conditions indiquées.
 
 Les principales offres disponibles actuellement&nbsp;:
-- [Amazon Kindle Unlimited](https://www.amazon.fr/kindle-dbs/hz/subscribe/ku)
-- [YouScribe](https://www.youscribe.com/abo)
-- [Nextory (anciennement Youboox)](https://nextory.com/fr)
-- [Scribd](https://fr.scribd.com/subscribe-now)
-- [Izneo (orienté BD, manga, webtoon)](https://www.izneo.com/fr/abonnement)
+- [Amazon Kindle Unlimited](https://www.amazon.fr/kindle-dbs/hz/subscribe/ku){:target="_blank"}
+- [YouScribe](https://www.youscribe.com/abo){:target="_blank"}
+- [Nextory (anciennement Youboox)](https://nextory.com/fr){:target="_blank"}
+- [Scribd](https://fr.scribd.com/subscribe-now){:target="_blank"}
+- [Izneo (orienté BD, manga, webtoon)](https://www.izneo.com/fr/abonnement){:target="_blank"}
 
 #### Les newsletters des auteurs/autrices&nbsp; ! 😉
 
@@ -421,44 +390,44 @@ Plusieurs possibilités s'offrent à vous&nbsp;:
 - Les sites des services d'abonnement
 
 Certains des services qui proposent des offres d'abonnement permettent aussi de lire directement sur leur site.
-C'est par exemple le cas de YouScribe, dont une partie du catalogue est accessible gratuitement (dans les filtres, il faut désactiver l'option *Voir les premiums*). Pour créer un [compte YouScribe gratuit, suivez ce lien](https://www.youscribe.com/Account/Login/SignUp).
+C'est par exemple le cas de YouScribe, dont une partie du catalogue est accessible gratuitement (dans les filtres, il faut désactiver l'option *Voir les premiums*). Pour créer un [compte YouScribe gratuit, suivez ce lien](https://www.youscribe.com/Account/Login/SignUp){:target="_blank"}.
 
-- Le site [Lire des livres](https://www.lire-des-livres.com/)
+- Le site [Lire des livres](https://www.lire-des-livres.com/){:target="_blank"}
 
 Rien à installer, aucune inscription, vous pouvez lire tous les livres disponibles directement via votre navigateur favori.
 
 Vous trouverez sur ce site uniquement des livres du domaine public, classés par catégorie, ou par auteur.
 
-- [Wattpad](https://www.wattpad.com/)
+- [Wattpad](https://www.wattpad.com/){:target="_blank"}
 
 Si vous ne connaissez pas déjà Wattpad, sachez qu'il s'agit sans doute de la plus importante plateforme au monde sur laquelle des auteurs ou autrices, plus ou moins chevronnés, publient leurs textes. Elle a servi de tremplin à un certain nombre d'entre eux, qui y ont rencontré un franc succès et ont été ensuite approchés par des maisons d'édition traditionnelles. En tant que lecteur ou lectrice, vous pouvez y trouver de tout. Y compris du bon ou du moins bon. Cette remarque vaut d'ailleurs pour tout ce qui est publié sans être passé au préalable entre les mains de professionnels de l'édition, que ce soit de l'autoédition ou des publications via quelques sites cités ici ou d'autres, semblables.
 
-- Le site [Atramenta](https://www.atramenta.net/lecture-libre/)
+- Le site [Atramenta](https://www.atramenta.net/lecture-libre/){:target="_blank"}
 
-Outre la possibilité de télécharger des ebooks, ce site offre également celle de lire ce qui y est publié, directement en ligne et sans inscription.
+Outre la possibilité de télécharger des ebooks, ce site offre également celle de lire ce qui y est publié, directement en ligne et sans inscription. (*Je vais éviter de donner mon avis sur l'ergonomie proposée, et vous laisser le soin de vous faire le vôtre&hellip;*)
 
 ### Des app de lecture
 
 #### Wattpad
 
 Wattpad, dont j'ai déjà parlé plus haut, met aussi à disposition des app que vous pouvez installer sur votre smartphone ou tablette&nbsp;:
-- [sur le playstore Android](https://play.google.com/store/apps/details?id=wp.wattpad&hl=fr)
-- [sur l'appstore Apple](https://apps.apple.com/fr/app/wattpad/id306310789 )
+- [sur le playstore Android](https://play.google.com/store/apps/details?id=wp.wattpad&hl=fr){:target="_blank"}
+- [sur l'appstore Apple](https://apps.apple.com/fr/app/wattpad/id306310789){:target="_blank"}
 
 #### Webtoon
 
 Plusieurs app proposent des webtoons, bandes dessinées inspirées des manhwas, l'équivalent coréen des mangas, ou des webcomics. La plus connue d'entre elles est Webtoon, disponible&nbsp;:
-- [sur le playstore Android](https://play.google.com/store/apps/details?id=com.naver.linewebtoon&hl=fr)
-- [sur l'appstore Apple](https://apps.apple.com/fr/app/webtoon-histoires-illimit%C3%A9es/id894546091)
+- [sur le playstore Android](https://play.google.com/store/apps/details?id=com.naver.linewebtoon&hl=fr){:target="_blank"}
+- [sur l'appstore Apple](https://apps.apple.com/fr/app/webtoon-histoires-illimit%C3%A9es/id894546091){:target="_blank"}
 
 
 ---
 ---
 ## Trouver des livres audio gratuits
     
-Le site [AudioCité](https://www.audiocite.net/) propose des livres audio, classiques ou contemporains, libres d'accès, à télécharger gratuitement au format mp3.
+Le site [AudioCité](https://www.audiocite.net/){:target="_blank"} propose des livres audio, classiques ou contemporains, libres d'accès, à télécharger gratuitement au format mp3.
 
-Vous y trouverez également un [moteur de recherche dédié](https://www.audiocite.net/livres-audio-gratuits.html), qui fouille parmi des sites et blogs référencés par l'association.
+Vous y trouverez également un [moteur de recherche dédié](https://www.audiocite.net/livres-audio-gratuits.html){:target="_blank"}, qui fouille parmi des sites et blogs référencés par l'association.
 
 
 ---
@@ -470,7 +439,7 @@ Maintenant, permettez-moi quelques nuances.
 
 D'une part, pirater un livre se fait à vos risques et périls. D'abord, parce que c'est illégal. Ensuite, parce que vous pouvez vous retrouver avec du contenu qui n'est pas celui attendu (un virus informatique ou un livre pas adapté à l'âge du lecteur, par exemple).
 
-D'autre part, pirater un livre se fait au détriment de la personne qui l'a écrit. Alors, entendons-nous bien&nbsp;: si parmi tous les moyens légaux, aucun ne vous permet de vous procurer le livre que vous avez envie de lire, personnellement, je préfère que vous le piratiez plutôt que de ne pas le lire. Je trouve en effet injuste que la lecture soit un loisir réservé aux seules personnes qui en ont les moyens financiers. En revanche, ayez en tête que la personne qui l'a écrit y a consacré généralement plusieurs mois, voire plusieurs années, de travail (eh oui, écrire un livre, c'est long&nbsp;! 😅) Et que, le plus souvent, elle est bien loin de pouvoir en vivre&nbsp;: 2 tableaux pour vous en convaincre, issus d'une [étude menée en 2013, que vous pouvez retrouver sur le site du ministère de la culture](https://www.culture.gouv.fr/Thematiques/Livre-et-lecture/Actualites/Etude-sur-la-situation-economique-et-sociale-des-auteurs-du-livre-resultats).
+D'autre part, pirater un livre se fait au détriment de la personne qui l'a écrit. Alors, entendons-nous bien&nbsp;: si parmi tous les moyens légaux, aucun ne vous permet de vous procurer le livre que vous avez envie de lire, personnellement, je préfère que vous le piratiez plutôt que de ne pas le lire. Je trouve en effet injuste que la lecture soit un loisir réservé aux seules personnes qui en ont les moyens financiers. En revanche, ayez en tête que la personne qui l'a écrit y a consacré généralement plusieurs mois, voire plusieurs années, de travail (eh oui, écrire un livre, c'est long&nbsp;! 😅) Et que, le plus souvent, elle est bien loin de pouvoir en vivre&nbsp;: 2 tableaux pour vous en convaincre, issus d'une [étude menée en 2013, que vous pouvez retrouver sur le site du ministère de la culture](https://www.culture.gouv.fr/Thematiques/Livre-et-lecture/Actualites/Etude-sur-la-situation-economique-et-sociale-des-auteurs-du-livre-resultats){:target="_blank"}.
 Vous pouvez constater notamment que&nbsp;:
 - **50%** des auteurs et autrices touchent **moins de 886€ par an**,
 - **92%** des auteurs et autrices touchent **moins de 1 SMIC par an**.
@@ -494,6 +463,6 @@ En tout cas, et j'arrête là sur le sujet du piratage, **si vous souhaitez lire
 ---
 ## Le mot de la fin
 
-Voilà, j'ai fait le tour de toutes les astuces que je connais. J'espère que vous avez trouvé ici des pistes qui vous permettront de passer de longs moments de détente en compagnie de nombreux livres ou ebooks.
+Voilà, il me semble avoir fait le tour de toutes les astuces que je connais. J'espère que vous avez trouvé ici des pistes qui vous permettront de passer de longs moments de détente en compagnie de nombreux livres ou ebooks.
 
 N'hésitez pas à me faire part en commentaire de vos réactions, remarques, ou suggestions si vous avez des astuces auxquelles je n'aurais pas pensé&nbsp;!
