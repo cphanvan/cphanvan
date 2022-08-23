@@ -85,3 +85,11 @@ Alors, déjà, que l'on puisse entrer dans une chambre de réanimation (car c'es
 ## Au bilan
 
 Le personnage principal est réussi, pitoyable à souhait. La tension est très bien maîtrisée, on n'a pas envie de refermer le livre avant sa conclusion. On peut vraiment regretter que la grosse incohérence finale vienne gâcher l'impression générale.
+
+---
+---
+👉 *Retrouvez mes autres chroniques de [thrillers](/blog/tags#thriller) ou [polars](/blog/tags#polar).*
+{: .text-center}
+
+👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉
+{: .text-center}

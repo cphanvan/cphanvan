@@ -79,3 +79,11 @@ Je crois que je n'ai qu'un seul regret à formuler&nbsp;: **donnez-moi davantage
 ## Au bilan
 
 En conclusion, vous l'aurez compris, j'ai grandement savouré cette lecture. Si vous cherchez un thriller captivant, je ne peux que vous conseiller *La fille de nulle part*&nbsp;!
+
+---
+---
+👉 *Retrouvez mes autres chroniques de [thrillers](/blog/tags#thriller) ou [polars](/blog/tags#polar).*
+{: .text-center}
+
+👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉
+{: .text-center}
