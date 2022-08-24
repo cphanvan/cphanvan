@@ -499,3 +499,5 @@ N'hésitez pas à la partager&nbsp;!
 Voilà, il me semble avoir fait le tour de toutes les astuces que je connais. J'espère que vous avez trouvé ici des pistes qui vous permettront de passer de longs moments de détente en compagnie de nombreux livres ou ebooks.
 
 N'hésitez pas à me faire part en commentaire de vos réactions, remarques, ou suggestions si vous avez des astuces auxquelles je n'aurais pas pensé&nbsp;!
+
+{% include video id="blGh_uShKco" provider="youtube" %}
