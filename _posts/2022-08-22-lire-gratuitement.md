@@ -1,6 +1,6 @@
 ---
-title: "Lire gratuitement&nbsp;: 25 astuces 100% légales pour lire sans se ruiner"
-seo_title: "Lire gratuitement&nbsp;: 25 astuces 100% légales"
+title: "Lire gratuitement&nbsp;: plus de 20&nbsp;astuces 100% légales pour lire sans se ruiner"
+seo_title: "Lire gratuitement&nbsp;: 23&nbsp;astuces 100% légales"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 date: 2022-08-22 23:00:00 +0200
@@ -14,7 +14,7 @@ toc_label: Sommaire
 header:
   teaser: /assets/images/posts/2022-08-22_teaser_lecture-gratuite.webp
 ---
-*Entretenez votre pile à lire sans énerver votre banquier&nbsp;: découvrez 25 astuces concrètes pour lire des livres gratuitement et en toute légalité&nbsp;!*
+*Entretenez votre pile à lire sans énerver votre banquier&nbsp;: découvrez plus de 20&nbsp;astuces concrètes pour lire des livres gratuitement et en toute légalité&nbsp;!*
 <!--excerptEnd-->
 
 ![pile à lire](/assets/images/posts/2022-08-22-pile-a-lire.webp)
@@ -54,6 +54,8 @@ Ces points étant posés, passons aux choses sérieuses.
 ---
 ## Trouver des livres gratuits en version papier
 
+![comment trouver des livres gratuits](/assets/images/posts/2022-08-22_comment-trouver-des-livres-gratuits.webp){: .align-center}
+
 Pour vous, rien n'égale le contact du papier, le son feutré des pages qui se tournent, l'odeur de l'encre. Vos étagères croulent sous les ouvrages, vous aimez caresser d'un doigt amoureux la couverture chatoyante de vos romans favoris, corner les pages et griffonner des notes dans la marge, ou au contraire prendre un soin presque maniaque de ce qui n'est pas seulement un objet d'évasion mais aussi un plaisir pour les yeux&hellip;
 
 Bref, vous voulez vous procurer des livres papier&nbsp;: vous êtes au bon endroit, alors suivez le guide&nbsp;! 😊
@@ -73,6 +75,8 @@ Je commence par une petite liste pour vous mettre en appétit, et je détaillera
 - les partenariats.
 
 #### L'emprunt
+
+![lecture gratuite par emprunt en médiathèque](/assets/images/posts/2022-08-22_lecture-gratuite-par-emprunt-en-mediatheque.webp){: .align-center}
 
 C'est la solution la plus évidente, et pourtant, on n'a pas forcément le réflexe d'y penser.
 
@@ -96,8 +100,10 @@ Vos proches lisent aussi&nbsp;? Pourquoi ne pas leur prêter vos livres et empru
 
 Vos proches ne lisent pas ou ont des goûts trop différents des vôtres&nbsp;? Aïe, je compatis. 😕
 Mais avez-vous pensé à demander à vos collègues&nbsp;? Aux parents des amis de vos enfants&nbsp;? À vos voisins&nbsp;? À la personne avec laquelle vous échangez un sourire et un bonjour timides tous les week-ends depuis 10&nbsp;ans en faisant votre footing, sans que ni vous ni elle n'ait encore osé lier connaissance&nbsp;? Car partager des livres, c'est parfois aussi l'occasion de faire de belles rencontres et de nouer de nouvelles amitiés&nbsp;!
-    
+
 #### Le troc
+
+![livre gratuit grâce au BookCrossing](/assets/images/posts/2022-08-22_livre-gratuit-grace-au-bookcrossing.webp){: .align-center}
 
 De nombreuses personnes cherchent à se séparer de leurs livres. Très peu les jettent&nbsp;: le livre n'est pas un objet comme un autre, et c'est tant-mieux.
 
@@ -138,8 +144,9 @@ C'est par exemple le cas de [l'association Circul'Livre](http://circul-livre.blo
 
 Renseignez-vous auprès de votre mairie pour savoir si des initiatives de ce genre existent près de chez vous&nbsp;!
 
-
 #### Les dons
+
+![don de livre gratuit](/assets/images/posts/2022-08-22_don-de-livre-gratuit.webp){: .align-center}
 
 - Le désherbage des médiathèques
 
@@ -167,6 +174,8 @@ Vous dénicherez peut-être ce que vous cherchez tout bêtement en consultant de
 
 
 #### Les partenariats
+
+![livre à lire via partenarait](/assets/images/posts/2022-08-22_livre-a-lire-via-partenariat.webp){: .align-center}
 
 Vous adorez donner votre avis sur vos lectures&nbsp;? Avez-vous déjà envisagé que cela puisse intéresser un cercle plus large que celui de votre entourage&nbsp;?
 
@@ -209,6 +218,8 @@ Enfin, ayez conscience que ce type de partenariat n'est pas forcément sans inco
 
 ### Comment lire sans se ruiner&nbsp;: quelques astuces complémentaires, pour se procurer des livres pas chers
 
+![trouver des livres pas cher](/assets/images/posts/2022-08-22_livres-pas-cher.webp){: .align-center}
+
 Je conclus cette section sur les livres papier avec quelques astuces complémentaires, qui ne vous permettront pas forcément de vous procurer des livres gratuitement, mais vous aideront à mieux maîtriser le volume de votre budget que vous allouez à la lecture.
 
 #### Le prix de lancement
@@ -249,6 +260,8 @@ Pour connaître la liste des villages du livre, vous pouvez [consulter cette pag
 ---
 ---
 ## Télécharger des ebooks gratuits
+
+![télécharger des livres gratuits en ligne](/assets/images/posts/2022-08-22_telecharger-des-livres-gratuits-en-ligne.webp){: .align-center}
 
 Vous n'avez plus de place chez vous, votre smartphone ne vous quitte jamais, vous rêvez de vous promener avec une bibliothèque complète au fond de votre poche ou de partir en vacances avec plus de livres que ce votre valise peut contenir&nbsp;?
 
@@ -377,6 +390,8 @@ Oui, je me répète&nbsp;: abonnez-vous aux newsletters de vos auteurs ou autric
 ---
 ## Lire gratuitement en ligne
 
+![lire gratuitement sur internet](/assets/images/posts/2022-08-22_lire-gratuitement-sur-internet.webp){: .align-center}
+
 ### Comment lire en ligne
 
 Si télécharger des ebooks présente certains avantages, comme par exemple la possibilité de lire hors ligne, il est aussi possible de lire directement en ligne. On peut y trouver un intérêt par exemple si on ne souhaite pas se casser la tête avec des problèmes de format d'ebook.
@@ -425,6 +440,8 @@ Plusieurs app proposent des webtoons, bandes dessinées inspirées des manhwas, 
 ---
 ## Trouver des livres audio gratuits
     
+![trouver des livres audio gratuits](/assets/images/posts/2022-08-22_trouver-des-livres-audio-gratuits.webp){: .align-center}
+
 Le site [AudioCité](https://www.audiocite.net/){:target="_blank"} propose des livres audio, classiques ou contemporains, libres d'accès, à télécharger gratuitement au format mp3.
 
 Vous y trouverez également un [moteur de recherche dédié](https://www.audiocite.net/livres-audio-gratuits.html){:target="_blank"}, qui fouille parmi des sites et blogs référencés par l'association.
@@ -458,6 +475,22 @@ En tout cas, et j'arrête là sur le sujet du piratage, **si vous souhaitez lire
 ## FAQ - Questions fréquentes
 
 *Rubrique à venir*&hellip;
+
+
+---
+---
+## Infographie
+
+Pour terminer, je vous propose une petite infographie pour récapituler ces astuces.
+N'hésitez pas à la partager&nbsp;!
+
+![infographie astuces légales pour lire des livres gratuitement](/assets/images/posts/2022-08-22_infographie-astuces-legales-pour-lire-des-livres-gratuitement.webp){: .align-center}
+
+*Vous aimez cette infographie&nbsp;? Intégrez la gratuitement sur votre site web en copiant le code ci-dessous&nbsp;:*
+{: .text-center}
+
+<xmp onclick='this.focus();this.select()' style='overflow-x: auto;white-space: pre-wrap;white-space: -moz-pre-wrap;white-space: -pre-wrap;white-space: -o-pre-wrap;word-wrap: break-word;line-height: 21px;font-size: 16px;font-family: Dosis, Arial, Helvetica, sans-serif;border: 2px solid #eee;padding: 5px; width:100%;height:80px'><a target='_blank' href='https://catherinephanvan.fr/lecture/2022/08/22/lire-gratuitement.html' title='infographie astuces légales pour lire des livres gratuitement'><img data-no-lazy='1' src='https://catherinephanvan.fr/assets/images/posts/2022-08-22_infographie-astuces-legales-pour-lire-des-livres-gratuitement.webp' alt='infographie astuces légales pour lire des livres gratuitement' width='540px' border='0'/></a><br/>Source de l’image&nbsp;: infographie astuces légales pour lire des livres gratuitement | <a target='_blank' href='https://catherinephanvan.fr/lecture/2022/08/22/lire-gratuitement.html'>https://catherinephanvan.fr/</a></xmp>
+{: .align-center}
 
 ---
 ---
