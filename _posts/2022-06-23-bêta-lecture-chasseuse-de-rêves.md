@@ -4,6 +4,7 @@ layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
 date: 2022-06-23 16:00:00 +0200
+last_modified_at: 2022-07-02 23:30:00 +0200
 categories: lecture jeunesse
 tags: actu roman jeunesse betalecture
 sidebar_newsletter: true
