@@ -7,7 +7,7 @@ page_js:
 excerpt_separator: <!--excerptEnd-->
 classes: wide
 date: 2022-08-30 22:30:00 +0200
-last_modified_at: 2022-08-30 22:30:00 +0200
+last_modified_at: 2022-08-31 14:00:00 +0200
 categories: chronique jeunesse
 tags: lecture chronique roman jeunesse young-adult
 sidebar_newsletter: true
@@ -103,4 +103,12 @@ Oui. Bien. Alors donc je viens de proposer au Soleil de prendre une douche avec 
 
 ## Au bilan
 
-C'est un **coup de c&oelig;ur**&nbsp;! Une lecture que je recommanderais sans hésiter à tous les ados. Et au delà du divertissement, je ne serais pas étonnée que chacun et chacune d'entre eux puisse y trouver un ou des messages qui lui parleront. 
+C'est un **coup de c&oelig;ur**&nbsp;! Une lecture que je recommanderais sans hésiter à tous les ados. Et au delà du divertissement, je ne serais pas étonnée que chacun et chacune d'entre eux puisse y trouver un ou des messages qui lui parleront.
+
+---
+---
+👉 *Retrouvez mes autres [chroniques de livres](/blog/tags#chronique).*
+{: .text-center}
+
+👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉
+{: .text-center}
