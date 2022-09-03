@@ -20,6 +20,16 @@ header:
   overlay_image: /assets/images/bandeau-bonus.webp
 bonus: true
 books:
+  - teaser: "Le secret de Mélusine"
+    bonus_id: "LeSecretDeMelusine"
+    image_path: /assets/images/bonus/LeSecretDeMelusine-couv.webp
+    description: |
+        &laquo;&nbsp;&ndash;&nbsp;Est-ce que tu es une fée&nbsp;?<br />
+        &ndash;&nbsp;Non. Bien-sûr que non&nbsp;! Les fées n'existent pas.&nbsp;&raquo;
+
+        Et si être une fée n'était en réalité pas un sort particulièrement enviable&nbsp;?
+
+        *(À suivre&hellip;)* 
   - teaser: "Ne te fie jamais à tes cauchemars"
     bonus_id: "NeTeFieJamaisÀTesCauchemars"
     image_path: /assets/images/bonus/NeTeFieJamaisÀTesCauchemars-couv.webp
