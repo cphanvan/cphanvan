@@ -14,13 +14,18 @@ sidebar_newsletter: true
 
 {% include figure image_path="/assets/images/publications/projets-en-cours-teaser.webp" alt="Projets en cours" %}
 
-## Chasseuse de rêves (titre provisoire)
+## Chasseuse de rêves
 
 *roman jeunesse*
 
-Il s'agit d'un roman contemporain destiné aux adolescents de 13 ans et plus. J'ai mûri l'histoire au début du premier trimestre 2022 et ai terminé l'écriture du premier jet courant juin. La [phase de bêtalecture](/lecture/jeunesse/2022/06/23/b%C3%AAta-lecture-chasseuse-de-r%C3%AAves.html) est terminée et j'ai commencé les corrections début août. Mon objectif&nbsp;: les terminer d'ici mi-septembre.
+Il s'agit d'un roman contemporain destiné aux adolescents de 12 ans et plus. J'ai mûri l'histoire au début du premier trimestre 2022 et ai terminé l'écriture du premier jet courant juin. La [phase de bêtalecture](/lecture/jeunesse/2022/06/23/b%C3%AAta-lecture-chasseuse-de-r%C3%AAves.html) et les corrections sont terminées depuis mi-septembre 2022&nbsp;: ce roman est désormais en recherche d'éditeur&nbsp;! 🤞
 
-J'ai longuement hésité entre autoédition ou soumission en maisons d'édition pour ce roman. À ce jour, je penche plutôt pour une soumission. Je sais donc d'ores et déjà que je vais devoir m'armer de patience&nbsp;!
+
+## Les oubliées d'Epeirandria
+
+*roman de science-fiction young-adult*
+
+J'ai une idée de départ, quelques personnages, plusieurs scènes. Il me reste à développer l'intrigue avant de pouvoir me lancer dans l'écriture. J'espère profiter du NaNoWriMo de novembre 2022 pour commencer à travailler sur ce projet.
 
 
 ## Fragments de solitudes
@@ -30,13 +35,6 @@ J'ai longuement hésité entre autoédition ou soumission en maisons d'édition 
 L'idée de ce recueil traîne dans un coin de ma tête depuis de longs mois. J'ai déjà 3 nouvelles candidates prêtes à y figurer (dont [*Du noir aux flammes*, accessible en avant-première pour les abonnés de la newsletter](/bonus#textes-à-télécharger)), mais je compte bien étoffer le matériau et ajouter d'autres récits avant de le publier.
 
 Pour ce projet, je n'ai aucune hésitation&nbsp;: ce sera de l'autoédition.
-
-
-## Les oubliées d'Epeirandria
-
-*roman de science-fiction young-adult*
-
-J'ai une idée de départ, quelques personnages, plusieurs scènes. Il me reste à développer l'intrigue avant de pouvoir me lancer dans l'écriture. J'espère profiter du NaNoWriMo de novembre 2022 pour commencer à travailler sur ce projet.
 
 
 ## (En attente de titre)
