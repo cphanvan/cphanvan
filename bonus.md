@@ -28,8 +28,6 @@ books:
         &ndash;&nbsp;Non. Bien-sûr que non&nbsp;! Les fées n'existent pas.&nbsp;&raquo;
 
         Et si être une fée n'était en réalité pas un sort particulièrement enviable&nbsp;?
-
-        *(À suivre&hellip;)* 
   - teaser: "Ne te fie jamais à tes cauchemars"
     bonus_id: "NeTeFieJamaisÀTesCauchemars"
     image_path: /assets/images/bonus/NeTeFieJamaisÀTesCauchemars-couv.webp
@@ -57,7 +55,7 @@ books:
     description: |
         Découvrez ici le premier jet du prologue et des deux premiers chapitres de mon roman jeunesse (13 ans et +), [*Chasseuse de rêves*](/publications/projets-en-cours/#chasseuse-de-r%C3%AAves-titre-provisoire).
 
-        La [phase de bêtalecture](/lecture/jeunesse/2022/06/23/bêta-lecture-chasseuse-de-rêves.html) de ce roman est terminée, il est actuellement en cours de correction.
+        Ce roman est achevé, il est actuellement en recherche d'éditeur.
   - teaser: "Du noir aux flammes"
     bonus_id: "DuNoirAuxFlammes"
     image_path: /assets/images/bonus/DuNoirAuxFlammes-couv.webp
