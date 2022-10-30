@@ -8,10 +8,10 @@ publication_date: 2022-08-19T00:00:00Z
 excerpt: |
   Une nouvelle fantastique, à paraître prochainement
 header:
-  teaser: /assets/images/publications/elegie_a_une_selkie-teaser.webp
+  teaser: /assets/images/publications/elegie-a-une-selkie-teaser.webp
 sidebar:
   - title: "Élégie à une selkie"
-    image: /assets/images/publications/elegie_a_une_selkie-cover.webp
+    image: /assets/images/publications/coming-soon-cover.webp
     image_alt: "couverture"
     text: |
       Nouvelle fantastique\

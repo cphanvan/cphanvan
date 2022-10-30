@@ -27,6 +27,8 @@ publications:
     url: /publications/projets-en-cours
   - title: "Nouvelles"
     children:
+      - title: "Pot à céder"
+        url: /publications/pot-a-ceder
       - title: "Élégie à une selkie"
         url: /publications/elegie-a-une-selkie
       - title: "Échos graphiques"
