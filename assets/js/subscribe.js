@@ -19,7 +19,7 @@ function validateEmail(email) {
 }
 
 function postContact(email, firstName) {
-	const apiUrl = `https://cphanvan-api.herokuapp.com/subscribers`;
+	const apiUrl = `https://sfyyfdj2go4pngumrojdy4nyfy0mwdyu.lambda-url.eu-west-3.on.aws/`;
 	const request = new Request(
 		apiUrl,
 		{
@@ -35,7 +35,7 @@ function postContact(email, firstName) {
 	});
 	fetch(request)
 	.then(response => {
-		if (response.status !== 201) {
+		if (response.status !== 200) {
 			alert("Une erreur s'est produite lors de votre inscription. Je vous suggère d'utiliser le navigateur Chrome. Si le problème persiste, n'hésitez pas à me contacter par email.")
 		} else {
 			alert("Votre demande d'inscription a bien été prise en compte. Pour la confirmer, veuillez cliquer sur le lien dans le mail que vous allez recevoir.")
