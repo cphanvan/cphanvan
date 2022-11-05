@@ -24,9 +24,10 @@ books:
     bonus_id: "LesOubliéesDÉpeirandria-extrait"
     image_path: /assets/images/bonus/LesOubliéesDÉpeirandria-extrait-couv.webp
     description: |
-        Découvrez ici le premier jet du prologue et du chapitre 1 de mon roman de science-fiction young-adult, [*Les oubliées d'Épeirandria*](/publications/projets-en-cours/#les-oubli%C3%A9es-depeirandria).
+        > À chaque solstice d'été, sur l'île où est née Mika, a lieu une cérémonie rituelle&nbsp;: tous les garçons qui ont atteint l'âge de neuf ans sont sacrifiés à Skaphos, une divinité maléfique. C'est le sort qu'a connu le frère de Mika, et dont leur mère ne s'est pas remise. <br>
+        Mais la fillette refuse de croire que son aîné est mort. Elle est prête à tout tenter pour le ramener. Alors, à l'aube du solstice, l'année de ses neuf ans, elle se glisse parmi les garçons&hellip;
 
-        Ce roman est actuellement en cours d'écriture.
+        Découvrez le prologue et le chapitre&nbsp;1 de mon roman de science-fiction young-adult en cours d'écriture, [*Les oubliées d'Épeirandria*](/publications/projets-en-cours/#les-oubli%C3%A9es-depeirandria).
   - teaser: "Le secret de Mélusine"
     bonus_id: "LeSecretDeMelusine"
     image_path: /assets/images/bonus/LeSecretDeMelusine-couv.webp

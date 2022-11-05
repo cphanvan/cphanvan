@@ -20,6 +20,8 @@ sidebar_newsletter: true
 
 Il s'agit d'un roman contemporain destiné aux adolescents de 12 ans et plus. J'ai mûri l'histoire au début du premier trimestre 2022 et ai terminé l'écriture du premier jet courant juin. La [phase de bêtalecture](/lecture/jeunesse/2022/06/23/b%C3%AAta-lecture-chasseuse-de-r%C3%AAves.html) et les corrections sont terminées depuis mi-septembre 2022&nbsp;: ce roman est désormais en recherche d'éditeur&nbsp;! 🤞
 
+Le [prologue et les chapitres&nbsp;1 et 2](/bonus#textes-à-télécharger) sont disponibles gratuitement pour les abonnés à la newsletter.
+
 
 ## Les oubliées d'Epeirandria
 
@@ -27,6 +29,11 @@ Il s'agit d'un roman contemporain destiné aux adolescents de 12 ans et plus. J'
 
 J'ai une idée de départ, quelques personnages, plusieurs scènes. Il me reste à développer l'intrigue avant de pouvoir me lancer dans l'écriture. J'espère profiter du NaNoWriMo de novembre 2022 pour commencer à travailler sur ce projet.
 
+En voici le pitch&nbsp;:
+> À chaque solstice d'été, sur l'île où est née Mika, a lieu une cérémonie rituelle&nbsp;: tous les garçons qui ont atteint l'âge de neuf ans sont sacrifiés à Skaphos, une divinité maléfique. C'est le sort qu'a connu le frère de Mika, et dont leur mère ne s'est pas remise. <br>
+Mais la fillette refuse de croire que son aîné est mort. Elle est prête à tout tenter pour le ramener. Alors, à l'aube du solstice, l'année de ses neuf ans, elle se glisse parmi les garçons&hellip;
+
+Le [prologue et le chapitre&nbsp;1](/bonus#textes-à-télécharger) sont disponibles gratuitement pour les abonnés à la newsletter.
 
 ## Fragments de solitudes
 
