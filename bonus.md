@@ -20,6 +20,13 @@ header:
   overlay_image: /assets/images/bandeau-bonus.webp
 bonus: true
 books:
+  - teaser: "Les oubliées d'Épeirandria (prologue et chapitre 1)"
+    bonus_id: "LesOubliéesDÉpeirandria-extrait"
+    image_path: /assets/images/bonus/LesOubliéesDÉpeirandria-extrait-couv.webp
+    description: |
+        Découvrez ici le premier jet du prologue et du chapitre 1 de mon roman de science-fiction young-adult, [*Les oubliées d'Épeirandria*](/publications/projets-en-cours/#les-oubli%C3%A9es-depeirandria).
+
+        Ce roman est actuellement en cours d'écriture.
   - teaser: "Le secret de Mélusine"
     bonus_id: "LeSecretDeMelusine"
     image_path: /assets/images/bonus/LeSecretDeMelusine-couv.webp
