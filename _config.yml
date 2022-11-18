@@ -52,6 +52,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/CathPhanvan"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://piaille.fr/@cathphanvan"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-f"
       url: "https://www.facebook.com/CathPhanvan"
@@ -70,6 +73,7 @@ social:
   links:
     - https://twitter.com/CathPhanvan
     - https://www.instagram.com/cathphanvan/
+    - https://piaille.fr/@cathphanvan
     - https://www.facebook.com/CathPhanvan
 
 # Google Analytics
@@ -113,6 +117,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/CathPhanvan"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://piaille.fr/@cathphanvan"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-f"
       url: "https://www.facebook.com/CathPhanvan"

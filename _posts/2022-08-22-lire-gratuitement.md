@@ -20,6 +20,24 @@ header:
 
 ![pile à lire](/assets/images/posts/2022-08-22-pile-a-lire.webp)
 
+
+## Infographie
+
+Je commence avec une petite infographie, que vous pouvez partager librement, pour récapituler mes astuces et vous permettre de savoir où vous mettez les pieds. 😉
+
+Les liens utiles pour passer à l'action sont dans la suite de l'article&nbsp;!
+
+![infographie astuces légales pour lire des livres gratuitement](/assets/images/posts/2022-08-22_infographie-astuces-legales-pour-lire-des-livres-gratuitement.webp){: .align-center}
+
+*Vous aimez cette infographie&nbsp;? Intégrez la gratuitement sur votre site web en copiant le code ci-dessous&nbsp;:*
+{: .text-center}
+
+<xmp onclick='this.focus();this.select()' style='overflow-x: auto;white-space: pre-wrap;white-space: -moz-pre-wrap;white-space: -pre-wrap;white-space: -o-pre-wrap;word-wrap: break-word;line-height: 21px;font-size: 16px;font-family: Dosis, Arial, Helvetica, sans-serif;border: 2px solid #eee;padding: 5px; width:100%;height:80px'><a target='_blank' href='https://catherinephanvan.fr/lecture/2022/08/22/lire-gratuitement.html' title='infographie astuces légales pour lire des livres gratuitement'><img data-no-lazy='1' src='https://catherinephanvan.fr/assets/images/posts/2022-08-22_infographie-astuces-legales-pour-lire-des-livres-gratuitement.webp' alt='infographie astuces légales pour lire des livres gratuitement' width='540px' border='0'/></a><br/>Source de l’image&nbsp;: infographie astuces légales pour lire des livres gratuitement | <a target='_blank' href='https://catherinephanvan.fr/lecture/2022/08/22/lire-gratuitement.html'>https://catherinephanvan.fr/</a></xmp>
+{: .align-center}
+---
+---
+
+
 ## Ce que vous trouverez dans cet article&hellip; et ce que vous n'y trouverez pas&nbsp;!
 
 Oui, il est parfaitement possible de **lire gratuitement ou à petit prix**, et ce, en toute légalité&nbsp;!
@@ -476,22 +494,6 @@ En tout cas, et j'arrête là sur le sujet du piratage, **si vous souhaitez lire
 ## FAQ - Questions fréquentes
 
 *Rubrique à venir*&hellip;
-
-
----
----
-## Infographie
-
-Pour terminer, je vous propose une petite infographie pour récapituler ces astuces.
-N'hésitez pas à la partager&nbsp;!
-
-![infographie astuces légales pour lire des livres gratuitement](/assets/images/posts/2022-08-22_infographie-astuces-legales-pour-lire-des-livres-gratuitement.webp){: .align-center}
-
-*Vous aimez cette infographie&nbsp;? Intégrez la gratuitement sur votre site web en copiant le code ci-dessous&nbsp;:*
-{: .text-center}
-
-<xmp onclick='this.focus();this.select()' style='overflow-x: auto;white-space: pre-wrap;white-space: -moz-pre-wrap;white-space: -pre-wrap;white-space: -o-pre-wrap;word-wrap: break-word;line-height: 21px;font-size: 16px;font-family: Dosis, Arial, Helvetica, sans-serif;border: 2px solid #eee;padding: 5px; width:100%;height:80px'><a target='_blank' href='https://catherinephanvan.fr/lecture/2022/08/22/lire-gratuitement.html' title='infographie astuces légales pour lire des livres gratuitement'><img data-no-lazy='1' src='https://catherinephanvan.fr/assets/images/posts/2022-08-22_infographie-astuces-legales-pour-lire-des-livres-gratuitement.webp' alt='infographie astuces légales pour lire des livres gratuitement' width='540px' border='0'/></a><br/>Source de l’image&nbsp;: infographie astuces légales pour lire des livres gratuitement | <a target='_blank' href='https://catherinephanvan.fr/lecture/2022/08/22/lire-gratuitement.html'>https://catherinephanvan.fr/</a></xmp>
-{: .align-center}
 
 ---
 ---
