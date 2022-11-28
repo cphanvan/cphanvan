@@ -4,13 +4,14 @@ seo_title: "Gérer les commentaires sur un blog Jekyll avec Staticman et AWS"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 date: 2022-11-27 12:45:00 +0100
-last_modified_at: 2022-11-27 12:45:00 +0100
+last_modified_at: 2022-11-28 12:15:00 +0100
 categories: technique
 tags: technique blog astuces jekyll staticman
 sidebar_newsletter: true
 share: true
 comments: true
-toc: false
+toc: true
+toc_label: Sommaire
 header:
   teaser: /assets/images/posts/2022-11-27_teaser-staticman-jekyll-aws.webp
 ---
@@ -23,7 +24,7 @@ Vous souhaitez offrir la possibilité à vos visiteurs de déposer des commentai
 
 Je suppose ici que votre blog <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> est déjà en ligne, et que vous vous y connaissez un minimum côté technique, assez au moins pour savoir ce que sont <a href="https://nodejs.org/" target="_blank">NodeJS</a>, <a href="https://github.com/" target="_blank">GitHub</a> et comment les utiliser.
 
-Je ne prétends pas que la solution que j'ai mise en place pour mon propre blog est la meilleure, mais elle a le mérite de fonctionner et d'être gratuite. Et pour une autrice fauchée, l'argument du coût n'est pas négligeable&nbsp;!
+Je ne prétends pas que la solution que j'ai mise en place pour mon propre blog est la meilleure, mais elle a le mérite de fonctionner et d'être gratuite *(en tout cas les 12 premiers mois, et pour un volume de requêtes tout à fait suffisant pour mes besoins&nbsp;; ce qui me laisse un peu de temps pour voir si je parviens à me passer de la couche API Gateway, pour bénéficier de la gratuité sans limite de durée)*. Et pour une autrice fauchée, l'argument du coût n'est pas négligeable&nbsp;!
 
 Je précise en outre que j'utilise le <a href="https://mmistakes.github.io/minimal-mistakes/" target="_blank">thème Jekyll Minimal Mistakes</a>, qui a l'avantage d'être précâblé pour fonctionner avec Staticman. Si ce n'est pas le cas du thème que vous avez choisi, vous aurez un peu de travail à faire pour gérer le formulaire de dépôt de commentaire, et l'affichage des commentaires reçus. De plus, mon blog est hébergé sur <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>, ce qui fait que je n'ai même pas à lever le petit doigt quand un commentaire est déposé (sauf modération si je le souhaite)&nbsp;: la mise en ligne se fait automatiquement.
 
@@ -192,3 +193,5 @@ Dans la partie Configuration, Déclencheurs, vous allez trouver l'URL de votre A
 Ce fichier devra être poussé dans votre repository GitHub, où il sera lu directement par votre instance Staticman.
 
 Voilà, c'est terminé&nbsp;! J'espère que cela vous aura été utile et vous aura permis de passer moins de temps que moi (et d'y perdre moins de cheveux) à déployer Staticman sur AWS&nbsp;! 😊
+
+Et devinez quoi&nbsp;? Si vous le souhaitez, vous pouvez même me laisser un petit commentaire&nbsp;! 😉
