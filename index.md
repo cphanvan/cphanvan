@@ -2,20 +2,20 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: "Dernières parutions"
+title: "Ebook offert"
 seo_title: "Graine d'autrice"
 description: Site officiel de l'autrice Catherine Phan van. Retrouvez ses publications, des textes gratuits et inédits en exclusivité, son actu...
 layout: splash
 permalink: /
-date: 2022-03-23T22:40:00Z
+date: 2022-12-02T12:00:00Z
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/bandeau.webp
+  overlay_image: /assets/images/bandeau-ebook-gratuit.webp
   actions:
-    - label: "En savoir plus"
-      url: "/publications"
-excerpt: "Nouvelles hivernales : pour vos lectures au coin du feu, vous êtes plutôt douceur ou frissons ?"
+    - label: "Je le veux&nbsp;!"
+      url: "https://amzn.to/3nT8KJK"
+excerpt: "Du 2 au 4 décembre 2022 inclus, l'ebook de ma nouvelle <em>Enfants des neiges</em> est gratuit. Alors, une petite lecture toute douce, ça vous tente&nbsp;?"
 a_propos:
   - excerpt: |
       Catherine Phan van est née en 1976 au pays des sapins et du froid, qu'elle a quitté pour s'installer près de Bordeaux, où elle vit depuis 2008.
