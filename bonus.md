@@ -20,6 +20,11 @@ header:
   overlay_image: /assets/images/bandeau-bonus.webp
 bonus: true
 books:
+  - teaser: "Le Noël d'Églantine Dorienne"
+    bonus_id: "LeNoëlDÉglantineDorienne"
+    image_path: /assets/images/bonus/LeNoëlDÉglantineDorienne-couv.webp
+    description: |
+        En cette soirée de Noël, une jeune femme marche d'un pas pressé pour ne pas rater le dernier bus. Mais les événements vont-ils se dérouler comme prévu&nbsp;?
   - teaser: "Les oubliées d'Épeirandria (prologue et chapitre 1)"
     bonus_id: "LesOubliéesDÉpeirandria-extrait"
     image_path: /assets/images/bonus/LesOubliéesDÉpeirandria-extrait-couv.webp
