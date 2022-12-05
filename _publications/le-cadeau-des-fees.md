@@ -23,7 +23,6 @@ Avec son cancer, elle a tout perdu&nbsp;: ses espoirs, ses rêves, son compagnon
 
 Le recueil ***Solstice d'été*** est disponible :
 
-- directement **<a href="https://editionsinusitees.com/?product=prevente-collectif-du-solstice-dete-nouvelles-fantastiques" target="_blank">sur le site des Éditions Inusitées</a>** (paiement en dollars canadiens)
 - en <a href="https://amzn.to/3SywBfT" target="_blank">**version numérique**</a> ou <a href="https://amzn.to/3JB78hR" target="_blank">**brochée**, sur Amazon</a> (liens partenaire)
 - en version numérique **<a href="https://www.kobo.com/fr/fr/ebook/solstice-d-ete-nouvelles-fantastiques" target="_blank">sur Kobo</a>**
 
