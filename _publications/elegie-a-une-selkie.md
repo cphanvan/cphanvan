@@ -18,4 +18,4 @@ sidebar:
       À paraître prochainement
 ---
 
-Nouvelle à paraître prochainement dans une anthologie dirigée par Hélène Marchetto.
+Nouvelle à paraître prochainement aux <a href="https://www.vagabondsdureve.fr/" target="_blank">Vagabonds du rêve</a>, dans une anthologie dirigée par Hélène Marchetto.

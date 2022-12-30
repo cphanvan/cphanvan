@@ -31,7 +31,15 @@ Offrez-vous cette courte lecture et laissez-vous emporter au pays des sapins �
 Disponible également à l'emprunt dans l'abonnement Kindle.
 
 
-## Vos retours de lecture :
+## Un grand merci pour vos retours de lecture&nbsp;!
+
+- Delphine&nbsp;: *«&nbsp;La plume est pleine de poésie, d'émotions et de fluidité. L'écriture est douce et féérique. Une nouvelle pleine de poésie et de douceur, idéale à lire avant Noël.&nbsp;»*
+
+    Retrouvez la chronique complète de Delphine <a href="https://www.instagram.com/p/Cmexys4qfCa/" target="_blank">sur son compte instagram</a>.
+
+- Anne-Justine&nbsp;: *«&nbsp;un conte parfait pour Noël, à la fois doux et glaçant, dont j'ai beaucoup aimé l'ambiance, la légende et la chute.&nbsp;»*
+
+    Retrouvez l'avis d'Anne-Justine <a href="https://www.instagram.com/p/CmEjYiNKx3U/" target="_blank">sur son compte instagram</a>.
 
 - Nancy&nbsp;: *«&nbsp;une nouvelle prenante et très intéressante. J'ai lu ces 28 pages d'une seule traite&nbsp;»*, *«&nbsp;J'ai adoré la thématique de la transmission de l'histoire familiale au fil des générations.&nbsp;»*
 
@@ -56,3 +64,7 @@ Disponible également à l'emprunt dans l'abonnement Kindle.
 - Athena et Istya&nbsp;: *«&nbsp;Un vrai moment hors du temps, doux comme un chocolat chaud au coin de la cheminée&nbsp;»*
 
     Retrouvez la chronique complète d'Athena et Istya <a href="https://www.instagram.com/p/Ck-0w9GKj8K/" target="_blank">sur leur compte instagram</a>.
+
+- Alicia&nbsp;: *«&nbsp;un super conte que je vous invite à lire le soir de Noël&nbsp;! Alors certes, le père Noël est absent, mais cela n’enleve rien à la magie&nbsp;»*
+
+    Retrouvez l'avis complet d'Alicia <a href="https://www.instagram.com/p/Cl3zyyFN5KQ/" target="_blank">sur son compte instagram</a>.
