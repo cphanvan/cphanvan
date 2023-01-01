@@ -9,7 +9,7 @@ classes: wide
 
 ## Prochaines dédicaces
 
-Je serai présente au **salon L'imagina'livres** le **samedi 15&nbsp;avril&nbsp;2023 à Portet-sur-Garonne** pour dédicacer l'anthologie [***Sorcellerie végétale***](/_publications/pot-a-ceder.md)&nbsp;! J'aurai aussi quelques exemplaires de ***Solstice d'été***.
+Je serai présente au **salon L'imagina'livres** le **samedi 15&nbsp;avril&nbsp;2023 à Portet-sur-Garonne** pour dédicacer l'anthologie [***Sorcellerie végétale***](/publications/pot-a-ceder)&nbsp;! J'aurai aussi quelques exemplaires de ***Solstice d'été***.
 
 
 ## Mes activités d'écriture en cours
