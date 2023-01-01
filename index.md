@@ -15,7 +15,9 @@ header:
   actions:
     - label: "Je le veux&nbsp;!"
       url: "https://amzn.to/3nT8KJK"
-excerpt: "L'ebook de ma nouvelle <em>Enfants des neiges</em> est à seulement 0,99&nbsp;€. Alors, une petite lecture toute douce, ça vous tente&nbsp;?"
+excerpt: |
+  <em>Enfants des neiges</em> est à seulement 0,99&nbsp;€ (ou disponible via l'abonnement Kindle).
+  Alors, une petite lecture toute douce, ça vous tente&nbsp;?
 a_propos:
   - excerpt: |
       Catherine Phan van est née en 1976 au pays des sapins et du froid, qu'elle a quitté pour s'installer près de Bordeaux, où elle vit depuis 2008.
@@ -42,8 +44,10 @@ contenu_site:
     url: "/bonus#abonnez-vous"
     btn_label: "S'abonner"
 contact:
+  - url: "/agenda"
+    btn_label: "Vous souhaitez me rencontrer lors d'une séance de dédicaces ?"
   - url: "/contact"
-    btn_label: "Vous souhaitez me contacter ?"
+    btn_label: "Vous pouvez également me contacter ici !"
 ---
 
 {% include feature_row id="a_propos" type="center" %}
