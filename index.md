@@ -15,9 +15,7 @@ header:
   actions:
     - label: "Je le veux&nbsp;!"
       url: "https://amzn.to/3nT8KJK"
-excerpt: |
-  <em>Enfants des neiges</em> est à seulement 0,99&nbsp;€ (ou disponible via l'abonnement Kindle).
-  Alors, une petite lecture toute douce, ça vous tente&nbsp;?
+excerpt: "<em>Enfants des neiges</em> est à seulement 0,99&nbsp;€ (ou disponible via l'abonnement Kindle).  Alors, une petite lecture toute douce, ça vous tente&nbsp;?"
 a_propos:
   - excerpt: |
       Catherine Phan van est née en 1976 au pays des sapins et du froid, qu'elle a quitté pour s'installer près de Bordeaux, où elle vit depuis 2008.
