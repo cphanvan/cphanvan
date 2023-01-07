@@ -92,7 +92,7 @@ books:
     description: |
         Une incursion au pays des sapins, de la neige et du froid…
 
-        Retrouvez ici la légende qui a donné naissance à <a href="https://amzn.to/3nT8KJK" target="_blank">ma nouvelle Enfants des neiges</a>&nbsp;! (lien partenaire)
+        Retrouvez ici la légende qui a donné naissance à <a href="https://amzn.to/3X9gBTD" target="_blank">ma nouvelle Enfants des neiges</a>&nbsp;! (lien partenaire)
   - teaser: "Pitchi et la Gardienne des Âmes"
     bonus_id: "PitchiEtLaGardienneDesAmes"
     image_path: /assets/images/bonus/PitchiEtLaGardienneDesAmes-couv.webp

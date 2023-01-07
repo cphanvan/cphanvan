@@ -14,7 +14,7 @@ header:
   overlay_image: /assets/images/bandeau-ebook-gratuit.webp
   actions:
     - label: "Je le veux&nbsp;!"
-      url: "https://amzn.to/3nT8KJK"
+      url: "https://amzn.to/3X9gBTD"
 excerpt: "<em>Enfants des neiges</em> est à seulement 0,99&nbsp;€ (ou disponible via l'abonnement Kindle).  Alors, une petite lecture toute douce, ça vous tente&nbsp;?"
 a_propos:
   - excerpt: |

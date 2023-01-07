@@ -27,7 +27,7 @@ Offrez-vous cette courte lecture et laissez-vous emporter au pays des sapins �
 
 {% include figure image_path="/assets/images/publications/enfants-des-neiges-teaser.webp" %}
 
-**<a href="https://amzn.to/3nT8KJK" target="_blank">En vente sur Amazon (lien partenaire)</a>** (0,99€)\
+**<a href="https://amzn.to/3X9gBTD" target="_blank">En vente sur Amazon (lien partenaire)</a>** (0,99€)\
 Disponible également à l'emprunt dans l'abonnement Kindle.
 
 
