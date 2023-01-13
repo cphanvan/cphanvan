@@ -4,7 +4,7 @@ layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
 date: 2022-06-23 16:00:00 +0200
-last_modified_at: 2022-07-02 23:30:00 +0200
+last_modified_at: 2023-01-13 12:30:00 +0200
 categories: lecture jeunesse
 tags: actu roman jeunesse betalecture
 sidebar_newsletter: true
@@ -35,24 +35,26 @@ Même si techniquement, en réalité, c'est plutôt moi, et non le roman lui-mê
 
 Je fais donc appel humblement aux bonnes volontés égarées par ici. 🙏
 
-***MISE À JOUR DU 2 JUILLET 2022 - J'ai trouvé mes bêta-lectrices&nbsp;! Un grand merci à toutes les personnes qui se sont portées volontaires pour m'aider&nbsp;!*** 🙏
-{: .notice--info}
-
 Commençons par quelques informations sur le roman.
 
 
 
 ## *Chasseuse de rêves*, qu'est-ce que c'est ?
 
+***MISE À JOUR DU 2 JUILLET 2022 - J'ai trouvé mes bêta-lectrices&nbsp;! Un grand merci à toutes les personnes qui se sont portées volontaires pour m'aider&nbsp;!*** 🙏
+{: .notice--info}
+
 D'abord, le pitch&nbsp;:
 
-*Alors que la meilleure amie de Maïssane vient de déménager au Québec et qu'une dépense familiale imprévue met en péril la visite qu'elle devait lui rendre à l'automne suivant, l'adolescente se lance en quête d'un job d'été afin de financer son voyage.*
-
-*Mais que cache en réalité le poste de « Chasseuse de rêves » qu'elle finit par dénicher ?*
+> Maïssane le sait bien, ce ne sont pas seulement ses valises, que son amie Emma ferme avant de s’envoler vers le Québec. C’est tout un chapitre de sa propre existence, quatre belles années de complicité et de bonheur insouciant.
+<br>
+L’adolescente a trop souffert de la solitude par le passé pour accepter de laisser la distance balayer cette relation&nbsp;: elle rendra visite à Emma dès l’automne, même s’il lui faut pour cela financer elle-même son voyage&nbsp;!
+<br>
+Cependant, quand on est paralysé par la timidité, trouver un job d’été ne s’avère pas chose aisée, d’autant plus que Maïssane se refuse à renier ses propres convictions en acceptant n’importe quelle proposition. Alors, un poste de «&nbsp;chasseuse de rêves&nbsp;» au sein d’une organisation qui vient en aide aux personnes souffrant de solitude&nbsp;? C’est davantage que ce qu’elle aurait osé espérer&nbsp;! Mais les intentions réelles de son employeur sont-elles aussi pures qu’il l’affirme&nbsp;?
 
 Il s'agit d'un **roman jeunesse contemporain**, destiné aux 13 ans et +. **Ce n'est pas** un roman des genres de l'imaginaire (SFFF).
 
-Il pèse environ 36&nbsp;000&nbsp;mots, soit environ une centaine de pages A4 avec une mise en forme aérée.
+Il pèse environ 40&nbsp;000&nbsp;mots, soit environ 120&nbsp;pages A4 avec une mise en forme aérée.
 
 Je vous dévoile ici l'intégralité du prologue, pour vous permettre de vous faire une première idée
 (les deux premiers chapitres sont disponibles en téléchargement pour tous les abonnés à ma newsletter, si ce début vous donne envie d'en lire davantage)&nbsp;:
@@ -60,13 +62,20 @@ Je vous dévoile ici l'intégralité du prologue, pour vous permettre de vous fa
 
 ### *Chasseuse de rêves* - Prologue
 
-*24 décembre 1990*
+*Lundi 24 décembre 1990*
 
-Mortimer caressa du bout du doigt l’une des fioles que l’homme lui avait laissées. Était-ce possible&nbsp;? Touchait-il enfin au but&nbsp;? Il avait vu défiler tant de charlatans, au cours des décennies précédentes, qu’il avait presque perdu espoir&hellip;
+Du bout du doigt, Lord Mortimer Berlington caressa l’une des fioles. Touchait-il enfin au
+but&nbsp;? Il avait vu défiler tant de charlatans, au long de ses années d’existence, qu’il avait
+presque perdu espoir. Pourtant, l’étranger qui venait de quitter son bureau s’était comporté de
+manière différente. Plus distante. Moins obséquieuse.
 <br />
-Pourtant, le savant qui venait de quitter son bureau s’était comporté de manière différente. Plus distante. Moins obséquieuse. Une part de mystère avait paru l’envelopper. Était-ce dû à son fort accent&nbsp;? À la raideur de son attitude&nbsp;? La seule chose que Mortimer était parvenu à apprendre au sujet de ses travaux concernait le lieu où ils avaient été menés&nbsp;: en ex-RDA. «&nbsp;Dans le plus grand secret&nbsp;», avait précisé l’étranger. La chute du mur de Berlin en novembre 1989 les avait interrompus. Puis, avec la signature du traité de réunification allemande trois mois plus tôt, l’homme avait renoncé à ses tentatives de relancer le projet et s’était résolu à vendre son prototype au plus offrant. Lequel n’était autre que Mortimer lui-même.
+Était-ce dû à son fort accent&nbsp;? À la raideur de son attitude&nbsp;? L’homme avait en tout cas
+accompli l’exploit d’éveiller chez son hôte une certaine forme de sympathie. Et l’aura de
+mystère qui enveloppait ses travaux avait achevé d’aiguiser l’intérêt du vieillard.
 <br />
-Bien. Il n’y avait qu’un seul moyen de savoir s’il avait une nouvelle fois dépensé son argent en vain. Il réfléchit un moment à la meilleure stratégie à adopter, avant d’appuyer sur le bouton de la sonnette. Quelques instants plus tard, la porte s’ouvrit sur son domestique&nbsp;:
+Bien. Ce dernier n’avait qu’un seul moyen de savoir s’il avait une nouvelle fois dépensé
+son argent en vain&nbsp;: mettre son acquisition à l’épreuve. Il demeura pensif un moment, puis
+appuya sur le bouton de la sonnette. La porte ne tarda guère à s’ouvrir sur son domestique&nbsp;:
 <br />
 –&nbsp;Monsieur&nbsp;?
 <br />
@@ -74,24 +83,29 @@ Mortimer lui désigna la chaise qui lui faisait face.
 <br />
 –&nbsp;Approchez, Jacques. Asseyez-vous donc.
 
-Quelques heures plus tard, Jacques s’enfonça dans la nuit. Que Lord Mortimer Berlington le fasse s’installer face à lui à son bureau, dans l’après-midi, n’avait été que la moindre des surprises auxquelles il s’était trouvé confronté en cette journée peu ordinaire. Les explications qui avaient suivi sur l’utilité des divers instruments posés entre eux lui avaient semblé totalement extravagantes. Mais le pire était sans conteste ce qui avait suivi&nbsp;: la description du contenu de la mission qui lui était assignée pour la soirée.
+Quelques heures plus tard, Jacques s’enfonçait dans la nuit. Que Lord Mortimer Berlington
+le fasse s’installer face à lui à son bureau, dans l’après-midi, n’avait été que la moindre des
+surprises auxquelles il s’était trouvé confronté en cette journée peu ordinaire. Les explications
+que le vieil homme lui avait livrées sur l’utilité des divers instruments posés entre eux lui
+avaient semblé totalement extravagantes. Mais le pire était sans conteste ce qui avait suivi&nbsp;: la
+description du contenu de la mission qui lui était assignée pour la soirée.
 <br />
-–&nbsp;Vous avez bien compris, Jacques&nbsp;? s’était enquis Lord Berlington, au terme de son long monologue.
+–&nbsp;Vous avez bien compris, Jacques&nbsp;? s’était enquis Lord Berlington au terme de son long monologue.
 <br />
 Jacques avait acquiescé d’un signe de tête muet.
 <br />
-–&nbsp;Répétez-moi ce que vous devrez faire, c’est important&nbsp;! avait insisté son maître.
+–&nbsp;Répétez-moi ce que vous devrez faire, c’est important&nbsp;! avait insisté son maître, sourcils froncés.
 <br />
-Il avait alors récité, presque comme un automate&nbsp;:
+D’un ton incrédule, le domestique avait récité les consignes qui lui avaient été énoncées.
+La mine satisfaite, Lord Berlington l’avait alors congédié.
 <br />
-–&nbsp;Attendre qu’il fasse nuit noire, me mettre en quête du premier SDF venu, m’assurer qu’il dorme, positionner ces pièces sur ses tempes, appuyer sur ce bouton après avoir vérifié que la fiole était bien fixée dans l’appareil, puis patienter jusqu’à ce qu’elle change de couleur avant de tout ranger et de rentrer ici sans m’être fait voir.
-<br />
-Lord Berlington l’avait congédié, la mine satisfaite.
-<br />
-–&nbsp;Parfait. Considérez-vous comme un pionnier&nbsp;: le tout premier «&nbsp;chasseur de rêves&nbsp;»&nbsp;! Sur ce, vous pouvez disposer, je crois qu’il est bientôt l’heure du thé.
+–&nbsp;Parfait. Considérez-vous comme un pionnier&nbsp;: le tout premier «&nbsp;chasseur de rêves&nbsp;»&nbsp;!
 
-Et c’est ainsi que lui, Jacques Delestey, homme ordinaire et d’une parfaite intégrité, entré comme valet au service d’un Lord anglais excentrique en 1963 à l’âge de 18&nbsp;ans, s’était trouvé affublé d’une dénomination des plus ridicules, et arpentait désormais les rues en pleine nuit de Noël, en quête d’un SDF sur qui expérimenter un matériel digne d’un mauvais film de science-fiction…
-
+Et c’est ainsi que lui, Jacques Delestey, homme ordinaire et d’une parfaite intégrité, entré
+comme valet au service d’un Lord anglais excentrique en 1963 à l’âge de 18 ans, s’était
+trouvé affublé d’un sobriquet des plus ridicules, et arpentait désormais les rues en pleine nuit
+de Noël, en quête d’un SDF sur lequel expérimenter un matériel digne d’un mauvais film de
+science-fiction.
 
 
 ## Comment se passe une bêta-lecture ?
