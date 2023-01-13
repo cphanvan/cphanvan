@@ -94,4 +94,8 @@
   &--small {
     font-size: $type-size-7;
   }
+
+  &--linktree {
+    display: block !important;
+  }
 }

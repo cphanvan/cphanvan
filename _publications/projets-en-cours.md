@@ -13,9 +13,9 @@ sidebar_newsletter: true
 toc: true
 ---
 
-# En recherche d'éditeur&nbsp;:
+## En recherche d'éditeur&nbsp;:
 
-## Chasseuse de rêves
+### Chasseuse de rêves
 
 *roman jeunesse*
 
@@ -26,9 +26,9 @@ Vous pouvez [en découvrir le pitch et en lire le prologue ici.](/lecture/jeunes
 Les [chapitres&nbsp;1 et 2](/bonus#textes-à-télécharger) sont disponibles gratuitement pour les abonnés à la newsletter.
 
 
-# En cours d'écriture&nbsp;:
+## En cours d'écriture&nbsp;:
 
-## Les oubliées d'Epeirandria
+### Les oubliées d'Epeirandria
 
 *roman de science-fiction young-adult*
 
@@ -40,7 +40,7 @@ Mais la fillette refuse de croire que son aîné est mort. Elle est prête à to
 
 Le [prologue et le chapitre&nbsp;1](/bonus#textes-à-télécharger) sont disponibles gratuitement pour les abonnés à la newsletter.
 
-## Fragments de solitudes
+### Fragments de solitudes
 
 *recueil de nouvelles - objectif&nbsp;: au plus tard courant 2023*
 
@@ -49,7 +49,7 @@ L'idée de ce recueil traîne dans un coin de ma tête depuis de longs mois. J'a
 Pour ce projet, je n'ai aucune hésitation&nbsp;: ce sera de l'autoédition.
 
 
-## (En attente de titre)
+### (En attente de titre)
 
 *novellas policières - objectif&nbsp;: à redéfinir&nbsp;!*
 
@@ -66,7 +66,7 @@ Ce qui me laisse avec sur les bras une novella solitaire, pour l'avenir de laque
 Bref, vous l'aurez compris, il va me falloir revoir mes prévisions&nbsp;!
 
 
-# Envie de suivre l'avancée de mes projets&nbsp;?
+## Envie de suivre l'avancée de mes projets&nbsp;?
 
 N'hésitez pas à <a href="{{ '/bonus' | relative_url }}">vous abonner à ma newsletter</a>&nbsp;!
 
