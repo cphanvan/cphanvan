@@ -20,11 +20,13 @@ header:
   overlay_image: /assets/images/bandeau-bonus.webp
 bonus: true
 books:
-  - teaser: "Le Noël d'Églantine Dorienne"
-    bonus_id: "LeNoëlDÉglantineDorienne"
-    image_path: /assets/images/bonus/LeNoëlDÉglantineDorienne-couv.webp
+  - teaser: "Chasseuse de rêves (premiers chapitres)"
+    bonus_id: "ChasseuseDeRêves-extrait"
+    image_path: /assets/images/bonus/ChasseuseDeRêves-extrait-couv.webp
     description: |
-        En cette soirée de Noël, une jeune femme marche d'un pas pressé pour ne pas rater le dernier bus. Mais les événements vont-ils se dérouler comme prévu&nbsp;?
+        Découvrez ici le prologue et les deux premiers chapitres de mon roman jeunesse (13 ans et +), [*Chasseuse de rêves*](/publications/projets-en-cours/#chasseuse-de-r%C3%AAves).
+
+        Ce roman est achevé, il est actuellement en recherche d'éditeur.
   - teaser: "Les oubliées d'Épeirandria (prologue et chapitre 1)"
     bonus_id: "LesOubliéesDÉpeirandria-extrait"
     image_path: /assets/images/bonus/LesOubliéesDÉpeirandria-extrait-couv.webp
@@ -33,6 +35,47 @@ books:
         Mais la fillette refuse de croire que son aîné est mort. Elle est prête à tout tenter pour le ramener. Alors, à l'aube du solstice, l'année de ses neuf ans, elle se glisse parmi les garçons&hellip;
 
         Découvrez le prologue et le chapitre&nbsp;1 de mon roman de science-fiction young-adult en cours d'écriture, [*Les oubliées d'Épeirandria*](/publications/projets-en-cours/#les-oubli%C3%A9es-depeirandria).
+  - teaser: "Du noir aux flammes"
+    bonus_id: "DuNoirAuxFlammes"
+    image_path: /assets/images/bonus/DuNoirAuxFlammes-couv.webp
+    description: |
+        Jusqu'où la noiceur d'une ville peut-elle corrompre les êtres qu'elle abrite ?
+
+        Cette courte nouvelle paraîtra courant 2023 au sein du recueil [*Fragments de solitudes*](/publications/projets-en-cours/#fragments-de-solitudes).
+  - teaser: "Mauvais swing"
+    bonus_id: "MauvaisSwing"
+    image_path: /assets/images/bonus/MauvaisSwing-couv.webp
+    description: |
+        Une pianiste, un saxophoniste, du jazz… Et un jour, un mauvais swing.
+  - teaser: "La légende de la Fée Neige"
+    bonus_id: "LaLegendeDeLaFeeNeige"
+    image_path: /assets/images/bonus/LaLegendeDeLaFeeNeige-couv.webp
+    description: |
+        Une incursion au pays des sapins, de la neige et du froid…
+
+        Retrouvez ici la légende qui a donné naissance à <a href="https://amzn.to/3X9gBTD" target="_blank">ma nouvelle Enfants des neiges</a>&nbsp;! (lien partenaire)
+  - teaser: "Un écrin pour toi, ma bien-aimée"
+    bonus_id: "UnÉcrinPourToiMaBienAimée"
+    image_path: /assets/images/bonus/UnÉcrinPourToiMaBienAimée-couv.webp
+    description: |
+        Dans cette très courte nouvelle, découvrez une histoire d'amour et de mort, où les vampires rôdent…
+  - teaser: "La lumière perdue"
+    bonus_id: "LaLumierePerdue"
+    image_path: /assets/images/bonus/LaLumierePerdue-couv.webp
+    description: |
+        La lumière l'a quittée. Que lui reste-t-il, désormais&nbsp;?
+  - teaser: "Au fond des bois"
+    bonus_id: "AuFondDesBois"
+    image_path: /assets/images/bonus/AuFondDesBois-couv.webp
+    description: |
+        Lou est sortie marcher dans les bois. Juste pour prendre un peu l'air, après une banale dispute de couple…
+
+        Mais que va-t-elle y trouver&nbsp;?
+  - teaser: "Le Noël d'Églantine Dorienne"
+    bonus_id: "LeNoëlDÉglantineDorienne"
+    image_path: /assets/images/bonus/LeNoëlDÉglantineDorienne-couv.webp
+    description: |
+        En cette soirée de Noël, une jeune femme marche d'un pas pressé pour ne pas rater le dernier bus. Mais les événements vont-ils se dérouler comme prévu&nbsp;?
   - teaser: "Le secret de Mélusine"
     bonus_id: "LeSecretDeMelusine"
     image_path: /assets/images/bonus/LeSecretDeMelusine-couv.webp
@@ -50,49 +93,6 @@ books:
         Dans une petite église de village, debout devant l'autel, Madeleine attend l'homme qu'elle s'apprête à épouser.
         
         Mais la vie réserve parfois des surprises&hellip;
-  - teaser: "La lumière perdue"
-    bonus_id: "LaLumierePerdue"
-    image_path: /assets/images/bonus/LaLumierePerdue-couv.webp
-    description: |
-        La lumière l'a quittée. Que lui reste-t-il, désormais&nbsp;?
-  - teaser: "Au fond des bois"
-    bonus_id: "AuFondDesBois"
-    image_path: /assets/images/bonus/AuFondDesBois-couv.webp
-    description: |
-        Lou est sortie marcher dans les bois. Juste pour prendre un peu l'air, après une banale dispute de couple…
-
-        Mais que va-t-elle y trouver&nbsp;?
-  - teaser: "Chasseuse de rêves (premiers chapitres)"
-    bonus_id: "ChasseuseDeRêves-extrait"
-    image_path: /assets/images/bonus/ChasseuseDeRêves-extrait-couv.webp
-    description: |
-        Découvrez ici le premier jet du prologue et des deux premiers chapitres de mon roman jeunesse (13 ans et +), [*Chasseuse de rêves*](/publications/projets-en-cours/#chasseuse-de-r%C3%AAves-titre-provisoire).
-
-        Ce roman est achevé, il est actuellement en recherche d'éditeur.
-  - teaser: "Du noir aux flammes"
-    bonus_id: "DuNoirAuxFlammes"
-    image_path: /assets/images/bonus/DuNoirAuxFlammes-couv.webp
-    description: |
-        Jusqu'où la noiceur d'une ville peut-elle corrompre les êtres qu'elle abrite ?
-
-        Cette courte nouvelle paraîtra courant 2023 au sein du recueil [*Fragments de solitudes*](/publications/projets-en-cours/#fragments-de-solitudes).
-  - teaser: "Un écrin pour toi, ma bien-aimée"
-    bonus_id: "UnÉcrinPourToiMaBienAimée"
-    image_path: /assets/images/bonus/UnÉcrinPourToiMaBienAimée-couv.webp
-    description: |
-        Dans cette très courte nouvelle, découvrez une histoire d'amour et de mort, où les vampires rôdent…
-  - teaser: "Mauvais swing"
-    bonus_id: "MauvaisSwing"
-    image_path: /assets/images/bonus/MauvaisSwing-couv.webp
-    description: |
-        Une pianiste, un saxophoniste, du jazz… Et un jour, un mauvais swing.
-  - teaser: "La légende de la Fée Neige"
-    bonus_id: "LaLegendeDeLaFeeNeige"
-    image_path: /assets/images/bonus/LaLegendeDeLaFeeNeige-couv.webp
-    description: |
-        Une incursion au pays des sapins, de la neige et du froid…
-
-        Retrouvez ici la légende qui a donné naissance à <a href="https://amzn.to/3X9gBTD" target="_blank">ma nouvelle Enfants des neiges</a>&nbsp;! (lien partenaire)
   - teaser: "Pitchi et la Gardienne des Âmes"
     bonus_id: "PitchiEtLaGardienneDesAmes"
     image_path: /assets/images/bonus/PitchiEtLaGardienneDesAmes-couv.webp
