@@ -25,7 +25,9 @@ toc_label: Liens utiles
 
 [En accès libre](/echantillons){: .btn .btn--info .btn--large .btn--linktree}
 
-[Réservés aux abonnés à la newsletter](/bonus){: .btn .btn--info .btn--large .btn--linktree}
+[Réservés aux abonnés à ma newsletter](/bonus){: .btn .btn--info .btn--large .btn--linktree}
+
+[Abonnement à ma newsletter gratuite](/bonus#abonnez-vous){: .btn .btn--info .btn--large .btn--linktree}
 
 
 ## Mon blog
