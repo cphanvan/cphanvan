@@ -19,3 +19,5 @@ sidebar:
 ---
 
 Nouvelle à paraître en avril 2023 dans une anthologie publiée par <a href="https://limagin-arium.com/" target="_blank">L'imagin'arium</a> sur le thème «&nbsp;Sorcellerie végétale&nbsp;».
+
+Je serai présente avec d'autres autrices au salon Imagina'livres, à Portet-sur-Garonne, le samedi 15&nbsp;avril 2023 pour dédicacer l'anthologie, alors n'hésitez pas à venir me faire un petit coucou&nbsp;! 😉
