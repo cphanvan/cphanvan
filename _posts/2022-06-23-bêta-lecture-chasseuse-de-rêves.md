@@ -5,7 +5,7 @@ excerpt_separator: <!--excerptEnd-->
 classes: wide
 date: 2022-06-23 16:00:00 +0200
 last_modified_at: 2023-01-13 12:30:00 +0200
-categories: lecture jeunesse
+categories: ecriture
 tags: écriture actu roman jeunesse betalecture
 sidebar_newsletter: true
 share: true
@@ -52,7 +52,7 @@ L’adolescente a trop souffert de la solitude par le passé pour accepter de la
 <br>
 Cependant, quand on est paralysé par la timidité, trouver un job d’été ne s’avère pas chose aisée, d’autant plus que Maïssane se refuse à renier ses propres convictions en acceptant n’importe quelle proposition. Alors, un poste de «&nbsp;chasseuse de rêves&nbsp;» au sein d’une organisation qui vient en aide aux personnes souffrant de solitude&nbsp;? C’est davantage que ce qu’elle aurait osé espérer&nbsp;! Mais les intentions réelles de son employeur sont-elles aussi pures qu’il l’affirme&nbsp;?
 
-Il s'agit d'un **roman jeunesse contemporain**, destiné aux 13 ans et +. **Ce n'est pas** un roman des genres de l'imaginaire (SFFF).
+Il s'agit d'un **roman jeunesse contemporain, à coloration fantastique**, destiné aux 13&nbsp;ans et +.
 
 Il pèse environ 40&nbsp;000&nbsp;mots, soit environ 120&nbsp;pages A4 avec une mise en forme aérée.
 
