@@ -220,7 +220,7 @@ Quelle est la différence entre l'alphalecture et la bêtalecture&nbsp;? Dans l'
 
 Alors si vous aimez donner votre avis, constructif, ne vous privez pas de répondre aux appels à bêtalecture ou alphalecture que vous voyez passer. Si vous n'en avez jamais vu passer, pas de panique&nbsp;: abonnez-vous aux réseaux sociaux ou aux newsletters d'auteurs ou autrices qui écrivent dans les genres que vous aimez lire, faites un petit tour sur leur blog de temps en temps, ou inscrivez-vous, encore une fois, sur [ce genre de groupes Facebook](https://www.facebook.com/groups/1688845881392965){:target="_blank"}, et vous ne pourrez plus les rater&nbsp;! Il n'est pas rare ensuite que l'auteur ou l'autrice tienne à vous remercier pour votre aide, en vous offrant un exemplaire dédicacé de son livre après publication&hellip; si publication il y a.
 
-Si vous voulez voir ce qu'on peut vous demander dans le cadre d'une bêtalecture, vous pouvez aller jeter un coup d'&oelig;il à [ce post, de juin&nbsp;2022](/lecture/jeunesse/2022/06/23/bêta-lecture-chasseuse-de-rêves.html), pour la bêtalecture de mon roman *Chasseuse de rêves*.
+Si vous voulez voir ce qu'on peut vous demander dans le cadre d'une bêtalecture, vous pouvez aller jeter un coup d'&oelig;il à [ce post, de juin&nbsp;2022](/ecriture/2022/06/23/bêta-lecture-chasseuse-de-rêves.html), pour la bêtalecture de mon roman *Chasseuse de rêves*.
 
 - Le partenariat avec une maison d'édition
 

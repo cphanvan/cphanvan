@@ -19,9 +19,9 @@ toc: true
 
 *roman jeunesse*
 
-Il s'agit d'un roman contemporain destiné aux adolescents de 12 ans et plus. J'ai mûri l'histoire au début du premier trimestre 2022 et ai terminé l'écriture du premier jet courant juin. La [phase de bêtalecture](/lecture/jeunesse/2022/06/23/b%C3%AAta-lecture-chasseuse-de-r%C3%AAves.html) et les corrections sont terminées depuis mi-septembre 2022&nbsp;: ce roman est désormais en recherche d'éditeur&nbsp;! 🤞
+Il s'agit d'un roman contemporain destiné aux adolescents de 12 ans et plus. J'ai mûri l'histoire au début du premier trimestre 2022 et ai terminé l'écriture du premier jet courant juin. La [phase de bêtalecture](/ecriture/2022/06/23/b%C3%AAta-lecture-chasseuse-de-r%C3%AAves.html) et les corrections sont terminées depuis mi-septembre 2022&nbsp;: ce roman est désormais en recherche d'éditeur&nbsp;! 🤞
 
-Vous pouvez [en découvrir le pitch et en lire le prologue ici.](/lecture/jeunesse/2022/06/23/bêta-lecture-chasseuse-de-rêves.html#chasseuse-de-rêves-quest-ce-que-cest-) 
+Vous pouvez [en lire le pitch et le prologue par ici](/ecriture/2022/06/23/bêta-lecture-chasseuse-de-rêves.html#chasseuse-de-rêves-quest-ce-que-cest-) ou <a href="https://www.tiktok.com/@cathphanvan/video/7198190517853670661" target="_blank">découvrir le pitch en vidéo par là</a>.
 
 Les [chapitres&nbsp;1 et 2](/bonus#textes-à-télécharger) sont disponibles gratuitement pour les abonnés à la newsletter.
 

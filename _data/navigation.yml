@@ -25,10 +25,18 @@ main:
 publications:
   - title: "Projets en cours..."
     url: /publications/projets-en-cours
-  - title: "Nouvelles"
+  - title: "Nouvelles gratuites"
     children:
       - title: "L'ours en flanelle"
         url: /publications/l-ours-en-flanelle
+      - title: "Évasion nocturne"
+        url: /publications/evasion-nocturne
+      - title: "Les pipistrelles de Gabriel"
+        url: /publications/les-pipistrelles-de-gabriel
+      - title: "Plein Sud"
+        url: /publications/plein-sud
+  - title: "Nouvelles"
+    children:
       - title: "Pot à céder"
         url: /publications/pot-a-ceder
       - title: "Élégie à une selkie"
@@ -37,11 +45,5 @@ publications:
         url: /publications/echos-graphiques
       - title: "Enfants des neiges"
         url: /publications/enfants-des-neiges
-      - title: "Évasion nocturne"
-        url: /publications/evasion-nocturne
       - title: "Le cadeau des fées"
         url: /publications/le-cadeau-des-fees
-      - title: "Les pipistrelles de Gabriel"
-        url: /publications/les-pipistrelles-de-gabriel
-      - title: "Plein Sud"
-        url: /publications/plein-sud

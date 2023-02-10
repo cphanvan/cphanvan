@@ -13,10 +13,12 @@ toc_label: Liens utiles
 
 [*Enfants des neiges*&nbsp;: acheter sur Amazon](https://amzn.to/3GFmfWv){: .btn .btn--info .btn--large .btn--linktree}
 
-[Découvrir mes autres nouvelles publiées](/publications){: .btn .btn--info .btn--large .btn--linktree}
+[Découvrir mes autres nouvelles publiées (dont 4 gratuites)](/publications){: .btn .btn--info .btn--large .btn--linktree}
 
 
 ### Projets en cours et à venir
+
+[*Chasseuse de rêves* (roman en recherche d'éditeur)](/publications/projets-en-cours/#chasseuse-de-rêves){: .btn .btn--info .btn--large .btn--linktree}
 
 [Mes futures histoires](/publications/projets-en-cours){: .btn .btn--info .btn--large .btn--linktree}
 

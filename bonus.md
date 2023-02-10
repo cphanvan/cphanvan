@@ -27,6 +27,8 @@ books:
         Découvrez ici le prologue et les deux premiers chapitres de mon roman jeunesse (13 ans et +), [*Chasseuse de rêves*](/publications/projets-en-cours/#chasseuse-de-r%C3%AAves).
 
         Ce roman est achevé, il est actuellement en recherche d'éditeur.
+
+        Vous pouvez <a href="https://www.tiktok.com/@cathphanvan/video/7198190517853670661" target="_blank">retrouver ici le pitch en vidéo</a> (et n'hésitez pas à liker si vous le trouvez cool&nbsp;! 😉)
   - teaser: "Les oubliées d'Épeirandria (prologue et chapitre 1)"
     bonus_id: "LesOubliéesDÉpeirandria-extrait"
     image_path: /assets/images/bonus/LesOubliéesDÉpeirandria-extrait-couv.webp
