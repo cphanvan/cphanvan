@@ -9,6 +9,13 @@ toc_label: Liens utiles
 
 ## Mes livres
 
+### 3&nbsp;lectures gratuites pour la Saint-Valentin&nbsp;:
+
+[*L'ours en flanelle*&nbsp;: feel-good romantique paru dans le m(AE)g'](https://annuaire-auto-edites.johnlucas.fr/magazine/numero-4/){: .btn .btn--info .btn--large .btn--linktree}
+
+[2 récits horrifiques à 4 mains, avec un même début](/echantillons#nouvelles-à-4-mains){: .btn .btn--info .btn--large .btn--linktree}
+
+
 ### Nouvelles publiées
 
 [*Enfants des neiges*&nbsp;: acheter sur Amazon](https://amzn.to/3GFmfWv){: .btn .btn--info .btn--large .btn--linktree}
@@ -66,6 +73,8 @@ toc_label: Liens utiles
 [Twitter](https://twitter.com/CathPhanvan){: .btn .btn--info .btn--large .btn--linktree}
 
 [Facebook](https://www.facebook.com/CathPhanvan){: .btn .btn--info .btn--large .btn--linktree}
+
+[TikTok](https://www.tiktok.com/@cathphanvan){: .btn .btn--info .btn--large .btn--linktree}
 
 [Mastodon](https://piaille.fr/@cathphanvan){: .btn .btn--info .btn--large .btn--linktree}
 
