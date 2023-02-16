@@ -9,11 +9,9 @@ toc_label: Liens utiles
 
 ## Mes livres
 
-### 3&nbsp;lectures gratuites pour la Saint-Valentin&nbsp;:
+### Dernière parution
 
 [*L'ours en flanelle*&nbsp;: feel-good romantique paru dans le m(AE)g'](https://annuaire-auto-edites.johnlucas.fr/magazine/numero-4/){: .btn .btn--info .btn--large .btn--linktree}
-
-[2 récits horrifiques à 4 mains, avec un même début](/echantillons#nouvelles-à-4-mains){: .btn .btn--info .btn--large .btn--linktree}
 
 
 ### Nouvelles publiées
