@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: "Ebook à prix mini"
+title: "Une petite dédicace&nbsp;?"
 seo_title: "Graine d'autrice"
 description: Site officiel de l'autrice Catherine Phan van. Retrouvez ses publications, des textes gratuits et inédits en exclusivité, son actu...
 layout: splash
@@ -11,11 +11,11 @@ date: 2022-12-02T12:00:00Z
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/bandeau-ebook-gratuit.webp
+  overlay_image: /assets/images/bandeau-dedicace-imaginalivres.webp
   actions:
-    - label: "Je le veux&nbsp;!"
-      url: "https://amzn.to/3X9gBTD"
-excerpt: "<em>Enfants des neiges</em> est à seulement 0,99&nbsp;€ (ou disponible via l'abonnement Kindle).  Alors, une petite lecture toute douce, ça vous tente&nbsp;?"
+    - label: "Je le veux"
+      url: "https://www.helloasso.com/associations/l-imagin-arium/boutiques/sorcellerie-vegetale-anthologie"
+excerpt: "Samedi 15 avril 2023, entre 11h30 et 18h15, je serai au salon Imagina'livres à Portet-sur-Garonne pour dédicacer l'anthologie <em>Sorcellerie végétale</em>.<br>Vous pouvez dès aujourd'hui réserver votre exemplaire (à retirer sur place)&nbsp;!"
 a_propos:
   - excerpt: |
       Catherine Phan van est née en 1976 au pays des sapins et du froid, qu'elle a quitté pour s'installer près de Bordeaux, où elle vit depuis 2008.
