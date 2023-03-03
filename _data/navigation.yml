@@ -37,6 +37,8 @@ publications:
         url: /publications/plein-sud
   - title: "Nouvelles"
     children:
+      - title: "La vallée cachée"
+        url: /publications/la-vallee-cachee
       - title: "Pot à céder"
         url: /publications/pot-a-ceder
       - title: "Élégie à une selkie"
