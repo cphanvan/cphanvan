@@ -9,7 +9,12 @@ toc_label: Liens utiles
 
 ## Mes livres
 
-### Dernière parution
+### À la une&nbsp;: concours «&nbsp;*Comme dans un film*&nbsp;»
+
+[*Cercueil et préjugés*&nbsp;: comédie romantique (sur Fyctia)](https://fyctia.com/stories/cercueil-et-prejuges){: .btn .btn--info .btn--large .btn--linktree}
+
+
+### Dernières parutions
 
 [*L'ours en flanelle*&nbsp;: feel-good romantique paru dans le m(AE)g'](https://annuaire-auto-edites.johnlucas.fr/magazine/numero-4/){: .btn .btn--info .btn--large .btn--linktree}
 
