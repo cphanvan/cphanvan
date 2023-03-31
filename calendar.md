@@ -18,5 +18,4 @@ Le **samedi 15&nbsp;avril 2023**, de **11h30** à **18h15**, je serai présente 
 
 Mon roman ado, [*Chasseuse de rêves*](/publications/projets-en-cours/#chasseuse-de-r%C3%AAves-titre-provisoire), est en recherche d'éditeur depuis mi-septembre 2022&nbsp;! 🤞
 
-Actuellement, quand je parviens à ne pas me laisser distraire par des appels à textes, je travaille sur mon nouveau roman&nbsp;: de la science-fiction young-adult, avec [*Les oubliées d'Epeirandria*](/publications/projets-en-cours/#les-oubli%C3%A9es-depeirandria).
-
+Actuellement, je travaille sur mon nouveau roman&nbsp;: une comédie romantique contemporaine sans prétention, [*Cercueil et Préjugés*](/publications/projets-en-cours/#cercueil-et-préjugés), que vous pouvez découvrir au fil de l'écriture <a href="https://fyctia.com/stories/cercueil-et-prejuges" target="_blank">sur Fyctia</a>, dans le cadre de ma participation au concours "Comme dans un film".

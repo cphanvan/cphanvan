@@ -1,12 +1,12 @@
 ---
 title: "Élégie à une selkie"
-description: À paraître prochainement
+description: À paraître en juin 2023
 layout: single
 classes: wide
 share: true
 publication_date: 2022-08-19T00:00:00Z
 excerpt: |
-  Une nouvelle fantastique, à paraître prochainement
+  Une nouvelle fantastique, à paraître en juin 2023
 header:
   teaser: /assets/images/publications/elegie-a-une-selkie-teaser.webp
 sidebar:
@@ -15,7 +15,7 @@ sidebar:
     image_alt: "couverture"
     text: |
       Nouvelle fantastique\
-      À paraître prochainement
+      À paraître en juin 2023
 ---
 
-Nouvelle à paraître prochainement aux <a href="https://www.vagabondsdureve.fr/" target="_blank">Vagabonds du rêve</a>, dans une anthologie dirigée par Hélène Marchetto.
+Nouvelle à paraître en juin 2023 aux <a href="https://www.vagabondsdureve.fr/" target="_blank">Vagabonds du rêve</a>, dans une anthologie dirigée par Hélène Marchetto.

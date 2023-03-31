@@ -28,9 +28,22 @@ Les [chapitres&nbsp;1 et 2](/bonus#textes-à-télécharger) sont disponibles gra
 
 ## En cours d'écriture&nbsp;:
 
+
+### Cercueil et Préjugés
+
+*comédie romantique contemporaine - <a href="https://fyctia.com/stories/cercueil-et-prejuges" target="_blank">participe au concours Fyctia "Comme dans un film"</a>*
+
+![couverture de la story Fyctia "Cercueil et Préjugés"](/assets/images/publications/cercueil-et-prejuges-cover.webp){: .align-center}
+
+Le pitch&nbsp;:
+> Virée d'un job qu'elle exerçait sans passion, Adélie a ressenti le besoin de partir quelques mois loin de tout et de tous pour faire le point. Mais à son retour, deux surprises de taille l'attendent. La première se prénomme Alexandre et a emménagé dans son appartement en son absence. La seconde concerne sa nouvelle situation personnelle&nbsp;: décédée (en tout cas, aux yeux de l'administration). Or, se reconstruire une vie quand on est morte et sans domicile ne s'avère pas de tout repos&nbsp;!
+
+Je vous en dis davantage [dans cet article de blog](/ecriture/2023/03/31/objectifs-écriture-2023.html#pourquoi-le-concours-fyctia) sur les raisons pour lesquelles j'ai décidé de me lancer dans ce projet.
+
+
 ### Les oubliées d'Epeirandria
 
-*roman de science-fiction young-adult*
+*roman de science-fiction young-adult - projet mis en attente*
 
 J'ai une idée de départ, quelques personnages, plusieurs scènes. Il me reste à développer l'intrigue avant de pouvoir me lancer dans l'écriture. J'espère profiter du NaNoWriMo de novembre 2022 pour commencer à travailler sur ce projet.
 
@@ -42,11 +55,13 @@ Le [prologue et le chapitre&nbsp;1](/bonus#textes-à-télécharger) sont disponi
 
 ### Fragments de solitudes
 
-*recueil de nouvelles - objectif&nbsp;: au plus tard courant 2023*
+*recueil de nouvelles - projet abandonné*
 
-L'idée de ce recueil traîne dans un coin de ma tête depuis de longs mois. J'ai déjà 3 nouvelles candidates prêtes à y figurer (dont [*Du noir aux flammes*, accessible en avant-première pour les abonnés de la newsletter](/bonus#textes-à-télécharger)), mais je compte bien étoffer le matériau et ajouter d'autres récits avant de le publier.
+L'idée de ce recueil traînait dans un coin de ma tête depuis de longs mois. J'avais déjà 3 nouvelles candidates prêtes à y figurer (dont [*Du noir aux flammes*, accessible en avant-première pour les abonnés de la newsletter](/bonus#textes-à-télécharger)), et je comptais bien étoffer le matériau et ajouter d'autres récits avant de le publier.
 
-Pour ce projet, je n'ai aucune hésitation&nbsp;: ce sera de l'autoédition.
+Pour ce projet, je n'avais aucune hésitation&nbsp;: ce serait de l'autoédition.
+
+Et puis&hellip; j'ai changé d'avis. J'explique pourquoi dans [cet article de blog](/ecriture/2023/03/31/objectifs-écriture-2023.html#pourquoi-abandonner-mon-projet-de-recueil-de-nouvelles-fragments-de-solitude).
 
 
 ### (En attente de titre)
