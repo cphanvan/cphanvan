@@ -3,7 +3,7 @@ title: "Chronique de la novella de Jérôme Vialleton&nbsp;: *Pronostics*"
 seo_title: "*Pronostics* - Jérôme Vialleton&nbsp;: chronique"
 layout: blogpost
 page_js:
-  - /assets/js/spoils.js
+  - /assets/js/spoils.min.js
 excerpt_separator: <!--excerptEnd-->
 classes: wide
 date: 2022-08-10 11:00:00 +0200

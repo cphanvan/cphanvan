@@ -3,7 +3,7 @@ title: "Mes objectifs d'écriture 2022"
 seo_title: "Objectifs d'écriture 2022"
 layout: blogpost
 page_js:
-  - /assets/js/spoils.js
+  - /assets/js/spoils.min.js
 excerpt_separator: <!--excerptEnd-->
 classes: wide
 date: 2023-01-28 14:00:00 +0100

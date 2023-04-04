@@ -4,7 +4,7 @@ description: De nombreux textes intégraux et inédits (nouvelles, légendes, r�
 layout: single
 classes: wide
 page_js:
-  - /assets/js/bonus.js
+  - /assets/js/bonus.min.js
 sidebar_newsletter_full: true
 sidebar:
   - title: "Bonus offerts"

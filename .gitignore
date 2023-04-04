@@ -3,3 +3,6 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+assets/js/bonus.js
+assets/js/spoils.js
+assets/js/subscribe.js

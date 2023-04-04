@@ -11,7 +11,7 @@ toc_label: Liens utiles
 
 ### À la une&nbsp;: concours «&nbsp;*Comme dans un film*&nbsp;»
 
-[*Cercueil et préjugés*&nbsp;: comédie romantique (sur Fyctia)](https://fyctia.com/stories/cercueil-et-prejuges){: .btn .btn--info .btn--large .btn--linktree}
+[*Cercueil et préjugés*&nbsp;: comédie romantique (en accès libre sur Fyctia)](https://fyctia.com/stories/cercueil-et-prejuges){: .btn .btn--info .btn--large .btn--linktree}
 
 
 ### Dernières parutions
