@@ -2,6 +2,7 @@
 
 
 {% for b in books %}
+  {% if b.maintitle %}<h2>{{ b.maintitle }}</h2>{% endif %}
   {% if b.title %}<h3>{{ b.title }}</h3>{% endif %}
 
   <div class="book">
@@ -24,6 +25,10 @@
 
         {% if b.url %}
           <p><a href="{{ b.url | relative_url }}">Pour lire <strong><em>{{ b.title }}</em></strong>, suivez le lien</a>&nbsp;!</p>
+        {% endif %}
+
+        {% if b.externalurl %}
+          <p><a href="{{ b.externalurl }}" target="_blank">Pour lire <strong><em>{{ b.title }}</em></strong>, suivez le lien</a>&nbsp;!</p>
         {% endif %}
 
         {% if page.bonus %}

@@ -11,10 +11,34 @@ header:
   overlay_filter: "0.2"
   overlay_image: /assets/images/bandeau-echantillons.webp
 books:
+  - maintitle: "Comédie romantique"
+    title: "Cercueil et Préjugés"
+    teaser: Je participe au concours Fyctia <em>Comme dans un film</em>
+    image_path: /assets/images/publications/cercueil-et-prejuges-cover.webp
+    image_alt: "couverture de Cercueil et Préjugés"
+    externalurl: https://fyctia.com/stories/cercueil-et-prejuges
+    description: |
+        Virée d'un job qu'elle exerçait sans passion, Adélie a ressenti le besoin de partir quelques mois loin de tout et de tous pour faire le point.
+        
+        Mais à son retour, deux surprises de taille l'attendent. La première se prénomme Alexandre et a emménagé dans son appartement en son absence. La seconde concerne sa nouvelle situation personnelle&nbsp;: décédée (en tout cas, aux yeux de l'administration).
+        
+        Or, se reconstruire une vie quand on est morte et sans domicile ne s'avère pas de tout repos&nbsp;!
+  - maintitle: "Nouvelles à 4 mains"
+    title: "Cœur brisé et tasse de thé"
+    teaser: "Une Saint-Valentin en solitaire... ou pas !"
+    image_path: /assets/images/echantillons/coeur-brise-et-tasse-de-the.webp
+    image_alt: "couverture de Cœur brisé et tasse de thé"
+    url: /assets/textes/Coeur_brise_et_tasse_de_the.pdf
+    description: |
+        Vous devez commencer à bien connaître ma complice d'écriture, Aude Boireau, que vous pouvez retrouver
+        <a href="https://audeboireau.fr/" target="_blank">sur son site</a> ou
+        <a href="https://twitter.com/CaptNettle" target="_blank">sur son compte Twitter</a>.
+
+        En cette mi-février, nous avons décidé de récidiver et avons donc commis un nouveau texte à quatre mains, que nous vous proposons de retrouver ici. Si vous vous apprêtez à passer une Saint-Valentin en solitaire, rassurez-vous, c'est aussi le cas pour la charmante Alicia. À moins que&hellip;
   - title: "Derrière la porte"
     teaser: "Un même début, pour une histoire très différente !"
     image_path: /assets/images/echantillons/derriere-la-porte.webp
-    image_alt: "Derrière la porte"
+    image_alt: "couverture de Derrière la porte"
     url: /assets/textes/Derriere_la_porte.pdf
     description: |
         Le mois dernier, je vous proposais de découvrir [*Cœur brisé et tasse de thé*](/assets/textes/Coeur_brise_et_tasse_de_the.pdf), un texte sans prétention, écrit à quatre mains juste pour le plaisir avec <a href="https://audeboireau.fr/" target="_blank">Aude Boireau</a>.
@@ -26,20 +50,7 @@ books:
         Je n'emploie pas le verbe **récidiver** au hasard. En effet, l'exercice consiste pour nous à écrire à tour de rôle environ 500 mots, avant de passer la main à notre partenaire, et ainsi de suite. Il se trouve que les 500 premiers mots de cette nouvelle histoire sont les miens&hellip; et sont exactement les mêmes que pour *Cœur brisé et tasse de thé*&nbsp;! En revanche, vous pourrez constater que l'histoire a ensuite pris un tour bien différent&hellip; 😉
 
         Sur ce, place au récit. J'espère que vous avez le cœur bien accroché, car ma complice a un penchant assez prononcé pour le gore&nbsp;: âmes sensibles, passez votre tour&nbsp;!
-  - title: "Cœur brisé et tasse de thé"
-    teaser: "Une Saint-Valentin en solitaire... ou pas !"
-    image_path: /assets/images/echantillons/coeur-brise-et-tasse-de-the.webp
-    image_alt: "Derrière la porte"
-    url: /assets/textes/Coeur_brise_et_tasse_de_the.pdf
-    description: |
-        Vous devez commencer à bien connaître ma complice d'écriture, Aude Boireau, que vous pouvez retrouver
-        <a href="https://audeboireau.fr/" target="_blank">sur son site</a> ou
-        <a href="https://twitter.com/CaptNettle" target="_blank">sur son compte Twitter</a>.
-
-        En cette mi-février, nous avons décidé de récidiver et avons donc commis un nouveau texte à quatre mains, que nous vous proposons de retrouver ici. Si vous vous apprêtez à passer une Saint-Valentin en solitaire, rassurez-vous, c'est aussi le cas pour la charmante Alicia. À moins que&hellip;
 ---
-
-## Nouvelles à 4 mains
 
 {% include books %}
 
