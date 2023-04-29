@@ -10,6 +10,8 @@ tags: écriture actu roman jeunesse betalecture
 sidebar_newsletter: true
 share: true
 comments: true
+page_js:
+  - /assets/js/submitcomment.min.js
 header:
   teaser: /assets/images/posts/2022-06-23_teaser-recherche-BL.webp
 gallery:

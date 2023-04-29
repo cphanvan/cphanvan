@@ -100,13 +100,11 @@ posts:
 # Comments
 repository: "cphanvan/cphanvan"
 comments:
-  provider: "staticman_v2"
-  staticman:
+  provider: "custom"
+  staticcomment:
     branch: "master"
-    endpoint: https://eflvupiw93.execute-api.eu-west-3.amazonaws.com/v3/entry/github/
 reCaptcha:
   siteKey: "6LdEVV0gAAAAANITsQkgni5NVzUT3V3rwrHvFIb6"
-  secret: "XPZp4DJoGeTaAAsGtLpYVGd6pZBDbWCEdT6AnUYWg6kryETGV+SxFxewEyq+yGCGX9fhh5hCiy42JpWxsHa+wZdjLsUtwxn81tENSLgIFpOIyhRy3PKMl9xpserRas0exW0rDzmCevnFppMCb/QvKRVRUz6zFwZupBKOK7l5b31izQLshfipoufH2BtzIIzYcCCge0y9NslNAApN5JXADs2eqpjnPLTIgE2F6UIhZum3WL8lM8M1SfmxCkjPfLamfoDQsiS6rXg+OZf80LnMsDS4qDOaJ13p/M62835kwNIPtsO6ihm/tWoUp76XroF4kY9+GpTOPDF2UYp7ZX1fBA=="
 
 # Site Footer
 footer:

@@ -12,6 +12,8 @@ tags: lecture chronique thriller novella
 sidebar_newsletter: true
 share: true
 comments: true
+page_js:
+  - /assets/js/submitcomment.min.js
 header:
   teaser: /assets/images/posts/2022-08-10_teaser-pronostics.webp
 gallery:

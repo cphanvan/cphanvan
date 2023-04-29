@@ -10,6 +10,8 @@ tags: technique blog astuces jekyll staticman
 sidebar_newsletter: true
 share: true
 comments: true
+page_js:
+  - /assets/js/submitcomment.min.js
 toc: true
 toc_label: Sommaire
 header:

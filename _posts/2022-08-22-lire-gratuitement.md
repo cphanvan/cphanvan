@@ -10,6 +10,8 @@ tags: lecture astuces
 sidebar_newsletter: true
 share: true
 comments: true
+page_js:
+  - /assets/js/submitcomment.min.js
 toc: true
 toc_label: Sommaire
 header:

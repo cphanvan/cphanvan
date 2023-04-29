@@ -13,6 +13,8 @@ tags: lecture chronique roman jeunesse young-adult
 sidebar_newsletter: true
 share: true
 comments: true
+page_js:
+  - /assets/js/submitcomment.min.js
 header:
   teaser: /assets/images/posts/2022-08-20_teaser-les-petites-reines.webp
 gallery:

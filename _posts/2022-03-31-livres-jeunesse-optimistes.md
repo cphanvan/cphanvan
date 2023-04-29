@@ -9,6 +9,8 @@ tags: lecture jeunesse optimiste bd roman album
 sidebar_newsletter: true
 share: true
 comments: true
+page_js:
+  - /assets/js/submitcomment.min.js
 header:
   teaser: /assets/images/posts/2022-03-31_teaser-livres-optimistes.webp
 gallery:

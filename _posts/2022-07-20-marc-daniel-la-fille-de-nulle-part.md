@@ -10,6 +10,8 @@ tags: lecture chronique thriller roman
 sidebar_newsletter: true
 share: true
 comments: true
+page_js:
+  - /assets/js/submitcomment.min.js
 header:
   teaser: /assets/images/posts/2022-07-20_teaser-fille-nulle-part.webp
 gallery:
