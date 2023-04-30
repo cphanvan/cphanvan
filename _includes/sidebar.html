@@ -17,21 +17,42 @@
     {% endif %}
   {% endif %}
   {% if page.sidebar_newsletter %}
-    <script src="/assets/js/subscribe.min.js"></script>
     <p id="abonnez-vous"><strong>Newsletter mensuelle</strong></p>
     <p>
       Chaque mois, mes derni&egrave;res actualit&eacute;s, des infos ou extraits in&eacute;dits,
       et d&egrave;s aujourd'hui, un acc&egrave;s gratuit &agrave; l'int&eacute;gralit&eacute; de la section <a href="/bonus">Bonus abonn&eacute;s</a>&nbsp;!
     </p>
-    <form onsubmit="event.preventDefault(); subscribe(this);">
-      <label for="email">Email&nbsp;*</label>
-      <input type="email" id="email" name="email" required>
-      <input type="submit" value="Je m'inscris">
-      <p id="ack" class="hidden notice--info">Votre demande d'inscription a bien &eacute;t&eacute; envoy&eacute;e.</p>
-    </form>
-  {% endif %}
+    <div class="sib-form">
+      <div id="error-message" class="hidden notice--danger">
+        <i class="fas fa-exclamation-circle"></i><span> Nous n&#039;avons pas pu confirmer votre inscription. Veuillez réessayer.</span>
+      </div>
+      <div id="success-message" class="hidden notice--success">
+        <i class="fas fa-check-circle"></i><span> Votre inscription est prise en compte. Vous pouvez la confirmer en cliquant sur le lien dans le mail que vous allez recevoir.</span>
+      </div>
+      <form id="sib-form" onsubmit="event.preventDefault(); subscribe(this);" method="POST" action="https://b78b353c.sibforms.com/serve/MUIEANHWtKDh86V1f31chR43X2qHkl_wHkCbhb5i4vSCHLd2_R82DfoqeOaBxk1GWroj9B9kxMqVVpo4LcvJ8baEdOCqZcr_96dEgW2GyYpJcJUrmaGqK8kNqs66QIp_rPgvjiBMi4WyxB_XWBMzCIrGdoOpWoYV0qEPqYRPbUWmaALxuoXRJMBMtldP2p36k8O_fgt-FXmF1KQX" data-type="subscription">
+        <div class="sib-input">
+            <label class="entry__label" for="EMAIL" data-required="*">Email&nbsp;*</label>
+            <input class="input" type="text" id="EMAIL" name="EMAIL" autocomplete="off" data-required="true" required />
+            <label class="entry__error"></label>
+        </div>
+        <div class="sib-captcha">
+          <script>
+            function handleCaptchaResponse() {
+              var event = new Event('captchaChange');
+              document.getElementById('sib-captcha').dispatchEvent(event);
+            }
+          </script>
+          <div class="g-recaptcha sib-visible-recaptcha" id="sib-captcha" data-sitekey="6LdEVV0gAAAAANITsQkgni5NVzUT3V3rwrHvFIb6" data-callback="handleCaptchaResponse"></div>
+          <label class="entry__error"></label>
+        </div>
+        <div id="validation-message" class="hidden notice--warning">
+          <i class="fas fa-exclamation-triangle"></i><span></span>
+        </div>
+        <button class="sib-form-block__button sib-form-block__button-with-loader" form="sib-form" type="submit">Je m&#039;inscris</button>
+      </form>
+    </div>
+    {% endif %}
   {% if page.sidebar_newsletter_full %}
-    <script src="/assets/js/subscribe.min.js"></script>
     <p id="abonnez-vous"><strong>Newsletter mensuelle</strong></p>
     <p>
       Chaque premier dimanche du mois, recevez dans votre bo&icirc;te mail mes derni&egrave;res actualit&eacute;s, des infos in&eacute;dites, des extraits en exclusivit&eacute;&nbsp;&hellip;
@@ -39,19 +60,45 @@
     <p>
       Et pour vous accueillir, d&egrave;s aujourd'hui, un acc&egrave;s gratuit &agrave; l'int&eacute;gralit&eacute; des textes de la section <a href="/bonus">Bonus abonn&eacute;s</a>&nbsp;!
     </p>
-    <form onsubmit="event.preventDefault(); subscribe(this);">
-      <label for="email">Email&nbsp;*</label>
-      <input type="email" id="email" name="email" required>
-      <label for="firstName">Pr&eacute;nom</label>
-      <input type="text" id="firstName" name="firstName" required>
-      <input type="submit" value="Je m'inscris">
-      <p id="ack" class="hidden notice--info">Votre demande d'inscription a bien &eacute;t&eacute; envoy&eacute;e.</p>
-      <p class="caution">
-        Vos informations seront trait&eacute;es de mani&egrave;re s&eacute;curis&eacute;e via la plateforme d'emailing
-        <a href="https://fr.sendinblue.com/legal/termsofuse/" target="_blank">Sendinblue</a>.
-        <img src="/assets/images/newsletter/dataSecurity.svg">
-      </p>
-    </form>
+    <div class="sib-form">
+      <div id="error-message" class="hidden notice--danger">
+        <i class="fas fa-exclamation-circle"></i><span> Nous n&#039;avons pas pu confirmer votre inscription. Veuillez réessayer.</span>
+      </div>
+      <div id="success-message" class="hidden notice--success">
+        <i class="fas fa-check-circle"></i><span> Votre inscription est prise en compte. Vous pouvez la confirmer en cliquant sur le lien dans le mail que vous allez recevoir.</span>
+      </div>
+      <form id="sib-form" onsubmit="event.preventDefault(); subscribe(this);" method="POST" action="https://b78b353c.sibforms.com/serve/MUIEANHWtKDh86V1f31chR43X2qHkl_wHkCbhb5i4vSCHLd2_R82DfoqeOaBxk1GWroj9B9kxMqVVpo4LcvJ8baEdOCqZcr_96dEgW2GyYpJcJUrmaGqK8kNqs66QIp_rPgvjiBMi4WyxB_XWBMzCIrGdoOpWoYV0qEPqYRPbUWmaALxuoXRJMBMtldP2p36k8O_fgt-FXmF1KQX" data-type="subscription">
+        <div class="sib-input">
+            <label class="entry__label" for="EMAIL" data-required="*">Email&nbsp;*</label>
+            <input class="input" type="text" id="EMAIL" name="EMAIL" autocomplete="off" data-required="true" required />
+            <label class="entry__error"></label>
+        </div>
+        <div class="sib-input">
+          <label class="entry__label" for="PRENOM">Prénom</label>
+          <input class="input" maxlength="200" type="text" id="PRENOM" name="PRENOM" autocomplete="off" />
+          <label class="entry__error"></label>
+        </div>
+        <div class="sib-captcha">
+          <script>
+            function handleCaptchaResponse() {
+              var event = new Event('captchaChange');
+              document.getElementById('sib-captcha').dispatchEvent(event);
+            }
+          </script>
+          <div class="g-recaptcha sib-visible-recaptcha" id="sib-captcha" data-sitekey="6LdEVV0gAAAAANITsQkgni5NVzUT3V3rwrHvFIb6" data-callback="handleCaptchaResponse"></div>
+          <label class="entry__error"></label>
+        </div>
+        <div id="validation-message" class="hidden notice--warning">
+          <i class="fas fa-exclamation-triangle"></i><span></span>
+        </div>
+        <button class="sib-form-block__button sib-form-block__button-with-loader" form="sib-form" type="submit">Je m&#039;inscris</button>
+        <p class="caution">
+          Vos informations seront trait&eacute;es de mani&egrave;re s&eacute;curis&eacute;e via la plateforme d'emailing
+          <a href="https://fr.sendinblue.com/legal/termsofuse/" target="_blank">Sendinblue</a>.
+          <img src="/assets/images/newsletter/dataSecurity.svg">
+        </p>
+      </form>
+    </div>
   {% endif %}
   </div>
 {% endif %}
