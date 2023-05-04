@@ -10,7 +10,7 @@ permalink: /mentions-legales
 
 - site [https://catherinephanvan.fr](https://catherinephanvan.fr) hébergé sur <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
 - DNS <a href="https://www.ovhcloud.com/fr/" target="_blank">OVH</a>
-- service de newsletter <a href="https://fr.sendinblue.com/" target="_blank">SendinBlue</a>
+- service de newsletter <a href="https://www.brevo.com/fr/" target="_blank">Brevo</a>
 
 ### RGPD
 
