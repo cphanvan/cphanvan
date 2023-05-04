@@ -14,7 +14,7 @@ sidebar_newsletter: true
 share: true
 comments: true
 page_js:
-  - /assets/js/submitcomment.min.js
+  - /assets/js/contact.min.js
 header:
   teaser: /assets/images/posts/2023-03-31_teaser-objectifs-ecriture-2023.webp
 ---

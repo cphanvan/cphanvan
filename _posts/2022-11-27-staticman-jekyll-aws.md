@@ -11,7 +11,7 @@ sidebar_newsletter: true
 share: true
 comments: true
 page_js:
-  - /assets/js/submitcomment.min.js
+  - /assets/js/contact.min.js
 toc: true
 toc_label: Sommaire
 header:

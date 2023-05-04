@@ -18,7 +18,7 @@ Pour vous tenir au courant de mon actualité, n'hésitez pas à vous abonner à 
 
 ## Vous souhaitez me contacter ?
 
-<form class="gform" method="POST" data-email="contact.catherinephanvan.fr@gmail.com" action="https://script.google.com/macros/s/AKfycby_dJls602g5dMT2--rFll8gMmOEhSP7DP3sefc7WPDXttDPXqieFSdtIKaGfkvhQff/exec" onsubmit="event.preventDefault(); onSubmit(this);">
+<form id="new_contact" class="gform" method="POST" data-email="contact.catherinephanvan.fr@gmail.com" action="https://script.google.com/macros/s/AKfycby_dJls602g5dMT2--rFll8gMmOEhSP7DP3sefc7WPDXttDPXqieFSdtIKaGfkvhQff/exec" onsubmit="event.preventDefault(); onSubmit(this);">
   <fieldset>
     <label for="name">Votre nom&nbsp;: </label>
     <input id="name" name="name"/>

@@ -11,7 +11,7 @@ sidebar_newsletter: true
 share: true
 comments: true
 page_js:
-  - /assets/js/submitcomment.min.js
+  - /assets/js/contact.min.js
 header:
   teaser: /assets/images/posts/2022-08-07_teaser-chou_a_la_crim.webp
 gallery:

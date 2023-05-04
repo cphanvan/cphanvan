@@ -23,7 +23,7 @@
     <div class="page__comments-form">
       <h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_label | default: "Leave a Comment" }}</h4>
       <p class="small">{{ site.data.ui-text[site.locale].comment_form_info | default: "Your email address will not be published. Required fields are marked" }} <span class="required">*</span></p>
-      <form id="new_comment" class="page__comments-form js-form form" onsubmit="event.preventDefault(); onSubmit(this);">
+      <form id="new_comment" class="page__comments-form js-form form" method="POST" data-email="contact.catherinephanvan.fr@gmail.com" action="https://script.google.com/macros/s/AKfycby_dJls602g5dMT2--rFll8gMmOEhSP7DP3sefc7WPDXttDPXqieFSdtIKaGfkvhQff/exec" onsubmit="event.preventDefault(); onSubmit(this);">
         <div class="hidden" id="pageIdForComment">{{ page.slug }}</div>
         <div class="form__spinner">
           <i class="fas fa-spinner fa-spin fa-3x fa-fw"></i>
@@ -31,29 +31,28 @@
         </div>
 
         <div class="form-group">
-          <label for="comment-form-message">{{ site.data.ui-text[site.locale].comment_form_comment_label | default: "Comment" }} <small class="required">*</small></label>
-          <textarea type="text" rows="3" id="comment-form-message" name="fields[message]" tabindex="1"></textarea>
+          <label for="message">{{ site.data.ui-text[site.locale].comment_form_comment_label | default: "Comment" }} <small class="required">*</small></label>
+          <textarea type="text" rows="3" id="message" name="fields[message]" tabindex="1" required></textarea>
           <div class="small help-block"><a href="https://daringfireball.net/projects/markdown/">{{ site.data.ui-text[site.locale].comment_form_md_info | default: "Markdown is supported." }}</a></div>
         </div>
         <div class="form-group">
-          <label for="comment-form-name">{{ site.data.ui-text[site.locale].comment_form_name_label | default: "Name" }} <small class="required">*</small></label>
-          <input type="text" id="comment-form-name" name="fields[name]" tabindex="2" />
+          <label for="name">{{ site.data.ui-text[site.locale].comment_form_name_label | default: "Name" }} <small class="required">*</small></label>
+          <input type="text" id="name" name="fields[name]" tabindex="2" required />
         </div>
         <div class="form-group">
-          <label for="comment-form-email">{{ site.data.ui-text[site.locale].comment_form_email_label | default: "Email address" }}</label>
-          <input type="email" id="comment-form-email" name="fields[email]" tabindex="3" />
+          <label for="email">{{ site.data.ui-text[site.locale].comment_form_email_label | default: "Email address" }}</label>
+          <input type="email" id="email" name="fields[email]" tabindex="3" />
         </div>
         <div class="form-group">
-          <label for="comment-form-url">{{ site.data.ui-text[site.locale].comment_form_website_label | default: "Website (optional)" }}</label>
-          <input type="url" id="comment-form-url" name="fields[url]" tabindex="4"/>
+          <label for="url">{{ site.data.ui-text[site.locale].comment_form_website_label | default: "Website (optional)" }}</label>
+          <input type="url" id="url" name="fields[url]" tabindex="4"/>
         </div>
-        <div class="form-group hidden" style="display: none;">
-          <input type="hidden" name="options[slug]" value="{{ page.slug }}">
-          <label for="comment-form-location">Not used. Leave blank if you are a human.</label>
-          <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
-        </div>
+        <fieldset class="hidden">
+          <label for="honeypot">Pi&egrave;ge nul</label>
+          <input id="honeypot" type="text" name="honeypot" value="" />
+        </fieldset>      
         <!-- Start comment form alert messaging -->
-        <p id="comment-confirmation" class="hidden">
+        <p id="contact-confirmation" class="hidden">
           <strong class="js-notice-text"></strong>
         </p>
         <!-- End comment form alert messaging -->
