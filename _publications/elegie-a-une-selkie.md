@@ -4,7 +4,7 @@ description: À paraître en juin 2023
 layout: single
 classes: wide
 share: true
-publication_date: 2022-08-19T00:00:00Z
+publication_date: 2023-06-02T00:00:00Z
 excerpt: |
   Une nouvelle fantastique, à paraître en juin 2023
 header:
