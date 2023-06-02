@@ -21,7 +21,7 @@ toc: true
 
 Il s'agit d'un roman contemporain destiné aux adolescents de 12 ans et plus. J'ai mûri l'histoire au début du premier trimestre 2022 et ai terminé l'écriture du premier jet courant juin. La [phase de bêtalecture](/ecriture/2022/06/23/b%C3%AAta-lecture-chasseuse-de-r%C3%AAves.html) et les corrections sont terminées depuis mi-septembre 2022&nbsp;: ce roman est désormais en recherche d'éditeur&nbsp;! 🤞
 
-Vous pouvez [en lire le pitch et le prologue par ici](/ecriture/2022/06/23/bêta-lecture-chasseuse-de-rêves.html#chasseuse-de-rêves-quest-ce-que-cest-) ou <a href="https://www.tiktok.com/@cathphanvan/video/7198190517853670661" target="_blank">découvrir le pitch en vidéo par là</a>.
+Vous pouvez [en lire le pitch et le prologue par ici](/ecriture/2022/06/23/bêta-lecture-chasseuse-de-rêves.html#chasseuse-de-rêves-quest-ce-que-cest-).
 
 Les [chapitres&nbsp;1 et 2](/bonus#textes-à-télécharger) sont disponibles gratuitement pour les abonnés à la newsletter.
 
@@ -36,7 +36,7 @@ Les [chapitres&nbsp;1 et 2](/bonus#textes-à-télécharger) sont disponibles gra
 ![couverture de la story Fyctia "Cercueil et Préjugés"](/assets/images/publications/cercueil-et-prejuges-cover.webp){: .align-center}
 
 Le pitch&nbsp;:
-> Virée d'un job qu'elle exerçait sans passion, Adélie a ressenti le besoin de partir quelques mois loin de tout et de tous pour faire le point. Mais à son retour, deux surprises de taille l'attendent. La première se prénomme Alexandre et a emménagé dans son appartement en son absence. La seconde concerne sa nouvelle situation personnelle&nbsp;: décédée (en tout cas, aux yeux de l'administration). Or, se reconstruire une vie quand on est morte et sans domicile ne s'avère pas de tout repos&nbsp;!
+> Quand Adélie rentre chez elle après trois mois coupée de tout, elle ne s'attend ni à tomber nez à nez avec le nouveau locataire de son appartement, ni à la révélation que ce dernier lui réserve&nbsp;: que tout le monde la croit morte et enterrée&nbsp;! Or, se reconstruire une vie quand on a perdu son domicile et qu'on passe pour décédé aux yeux de l'administration ne s'avère pas de tout repos&hellip;
 
 Je vous en dis davantage [dans cet article de blog](/ecriture/2023/03/31/objectifs-écriture-2023.html#pourquoi-le-concours-fyctia) sur les raisons pour lesquelles j'ai décidé de me lancer dans ce projet.
 
