@@ -1,6 +1,6 @@
 ---
 title: "La vallée cachée"
-description: À paraître en 2023
+description: Une nouvelle fantastique. À paraître en septembre 2023 dans l'anthologie Interstices, aux Éditions HPF.
 layout: single
 classes: wide
 share: true
@@ -11,11 +11,12 @@ header:
   teaser: /assets/images/publications/la-vallee-cachee-teaser.webp
 sidebar:
   - title: "La vallée cachée"
-    image: /assets/images/publications/coming-soon-cover.webp
+    image: /assets/images/publications/la-vallee-cachee-cover.webp
     image_alt: "couverture"
     text: |
       Nouvelle fantastique\
-      À paraître en 2023
+      À paraître dans l'anthologie *Interstices*, publiée aux éditions HPF\
+      Septembre 2023
 ---
 
-Nouvelle à paraître en 2023 dans une anthologie sur le thème **Interstices**, aux <a href="https://herosdepapierfroisse.fr/editionshpf/" target="_blank">Éditions HPF</a>.
+Nouvelle à paraître en septembre 2023 dans l'anthologie ***Interstices***, aux <a href="https://herosdepapierfroisse.fr/editionshpf/nos-livres/interstices/" target="_blank">Éditions HPF</a> (déjà disponible en précommande).

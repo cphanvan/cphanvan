@@ -1,12 +1,12 @@
 ---
 title: "Élégie à une selkie"
-description: À paraître en juin 2023
+description: Une nouvelle fantastique. Parue en juin 2023 dans l'anthologie Érudition & Poésie, publiée par Les Vagabonds du Rêve.
 layout: single
 classes: wide
 share: true
 publication_date: 2023-06-02T00:00:00Z
 excerpt: |
-  Une nouvelle fantastique qui suit un vieux joueur de flûte irlandais à travers New-York
+  Une nouvelle fantastique, sur les traces d'un vieux joueur de flûte irlandais à travers New-York
 header:
   teaser: /assets/images/publications/elegie-a-une-selkie-teaser.webp
 sidebar:

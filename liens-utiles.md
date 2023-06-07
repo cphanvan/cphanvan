@@ -9,14 +9,18 @@ toc_label: Liens utiles
 
 ## Mes livres
 
-### À la une&nbsp;: concours «&nbsp;*Comme dans un film*&nbsp;»
+### À la une&nbsp;: «&nbsp;*Comme dans un film*&nbsp;»
 
 [*Cercueil et préjugés*&nbsp;: comédie romantique (en accès libre sur Fyctia)](https://fyctia.com/stories/cercueil-et-prejuges){: .btn .btn--info .btn--large .btn--linktree}
 
 
 ### Dernières parutions
 
-[*L'ours en flanelle*&nbsp;: feel-good romantique paru dans le m(AE)g'](https://annuaire-auto-edites.johnlucas.fr/magazine/numero-4/){: .btn .btn--info .btn--large .btn--linktree}
+[*La vallée cachée*, in *Interstices* (anthologie SFFF)](https://fr.ulule.com/interstices-editions-hpf/){: .btn .btn--info .btn--large .btn--linktree}
+
+[*Élégie à une selkie*, in *Érudition & Poésie* (anthologie fanstastique)](https://www.vagabondsdureve.fr/produit/n8-eridution-poesie/){: .btn .btn--info .btn--large .btn--linktree}
+
+[*Pot à céder*, in *Sorcellerie Végétale* (anthologie SFFF)](https://www.helloasso.com/associations/l-imagin-arium/boutiques/sorcellerie-vegetale){: .btn .btn--info .btn--large .btn--linktree}
 
 
 ### Nouvelles publiées
