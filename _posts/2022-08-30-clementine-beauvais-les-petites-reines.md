@@ -2,8 +2,6 @@
 title: "Chronique du roman de Clémentine Beauvais&nbsp;: *Les petites reines*"
 seo_title: "*Les petites reines* - Clémentine Beauvais&nbsp;: chronique"
 layout: blogpost
-page_js:
-  - /assets/js/spoils.min.js
 excerpt_separator: <!--excerptEnd-->
 classes: wide
 date: 2022-08-30 22:30:00 +0200
@@ -14,6 +12,7 @@ sidebar_newsletter: true
 share: true
 comments: true
 page_js:
+  - /assets/js/spoils.min.js
   - /assets/js/contact.min.js
 header:
   teaser: /assets/images/posts/2022-08-20_teaser-les-petites-reines.webp

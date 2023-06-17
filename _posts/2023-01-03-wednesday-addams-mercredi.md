@@ -2,8 +2,6 @@
 title: "*Mercredi*&nbsp;: mon avis sur la série Netflix"
 seo_title: "*Mercredi* Wednesday Addams sur Netflix&nbsp;: avis"
 layout: blogpost
-page_js:
-  - /assets/js/spoils.min.js
 excerpt_separator: <!--excerptEnd-->
 classes: wide
 date: 2023-01-03 19:00:00 +0100
@@ -14,6 +12,7 @@ sidebar_newsletter: true
 share: true
 comments: true
 page_js:
+  - /assets/js/spoils.min.js
   - /assets/js/contact.min.js
 header:
   teaser: /assets/images/posts/2023-01-03_teaser-wednesday-addams.webp

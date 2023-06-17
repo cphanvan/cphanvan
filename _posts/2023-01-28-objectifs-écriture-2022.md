@@ -2,8 +2,6 @@
 title: "Mes objectifs d'écriture 2022"
 seo_title: "Objectifs d'écriture 2022"
 layout: blogpost
-page_js:
-  - /assets/js/spoils.min.js
 excerpt_separator: <!--excerptEnd-->
 classes: wide
 date: 2023-01-28 14:00:00 +0100
@@ -14,6 +12,7 @@ sidebar_newsletter: true
 share: true
 comments: true
 page_js:
+  - /assets/js/spoils.min.js
   - /assets/js/contact.min.js
 header:
   teaser: /assets/images/posts/2023-01-28_teaser-objectifs-ecriture-2022.webp

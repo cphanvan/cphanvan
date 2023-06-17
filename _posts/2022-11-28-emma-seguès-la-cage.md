@@ -2,8 +2,6 @@
 title: "Chronique du roman d'Emma Seguès&nbsp;: *La cage*"
 seo_title: "*La cage* - Emma Seguès&nbsp;: chronique"
 layout: blogpost
-page_js:
-  - /assets/js/spoils.min.js
 excerpt_separator: <!--excerptEnd-->
 classes: wide
 date: 2022-11-28 12:00:00 +0100
@@ -14,6 +12,7 @@ sidebar_newsletter: true
 share: true
 comments: true
 page_js:
+  - /assets/js/spoils.min.js
   - /assets/js/contact.min.js
 header:
   teaser: /assets/images/posts/2022-11-28_teaser-la-cage.webp
