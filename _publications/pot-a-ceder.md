@@ -21,6 +21,9 @@ sidebar:
 
 Nouvelle parue en avril 2023 dans l'anthologie ***Sorcellerie végétale***, publiée par l'association <a href="https://www.instagram.com/imaginarium.asso/" target="_blank">L'imagin'arium</a> et disponible à la <a href="https://www.helloasso.com/associations/l-imagin-arium/boutiques/sorcellerie-vegetale" target="_blank">vente à distance via ce lien</a>.
 
+Si vous préférez un **exemplaire dédicacé**, vous pouvez <a href="https://ko-fi.com/s/fb9f228435" target="_blank">le commander directement via ma boutique en ligne</a>.
+
+
 
 ## Vos retours de lecture
 
@@ -30,7 +33,7 @@ Nouvelle parue en avril 2023 dans l'anthologie ***Sorcellerie végétale***, pub
 
 Quelques mots succincts, pour éviter de trop en divulguer, sur les 14&nbsp;nouvelles qui figurent au sommaire aux côtés de *Pot à céder*&nbsp;:
 
-- *Un jour toi aussi* de Zoë Hababou. De merveilleux moments de complicité et de transmission entre générations, sur fond de traditions chamaniques d'Amérique du Sud.
+- *Un jour toi aussi*, de Zoë Hababou. De merveilleux moments de complicité et de transmission entre générations, sur fond de traditions chamaniques d'Amérique du Sud.
 - *La night-marguerite*, de Goodnight C. Lullaby. De l'amour, de la colère, des rêves, des cauchemars... Et au milieu, une fleur. Ou plutôt, *La* fleur.
 - *Dame de trèfle*, de Sarah Dury. La chronique d'un stage de botanique déroutant. Avec un personnage qui n'est pas sans rappeler celui de Teela Brown dans *L'anneau-monde* de Larry Niven.
 - *Par la grâce de la sorcière*, d'Anne-Justine Jasinski. Un clin d’&oelig;il au destin, mais surtout, une merveilleuse histoire d'amour, empreinte de poésie.

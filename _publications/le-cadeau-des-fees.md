@@ -21,10 +21,7 @@ sidebar:
 
 Avec son cancer, elle a tout perdu&nbsp;: ses espoirs, ses rêves, son compagnon. Mais on dit que les fées rôdent, lors de la nuit du solstice&hellip;
 
-Le recueil ***Solstice d'été*** est disponible :
-
-- en <a href="https://amzn.to/3IACuqe" target="_blank">**version numérique**</a> ou <a href="https://amzn.to/3WYKcij" target="_blank">**brochée**, sur Amazon</a> (liens partenaire)
-- en version numérique **<a href="https://www.kobo.com/fr/fr/ebook/solstice-d-ete-nouvelles-fantastiques" target="_blank">sur Kobo</a>**
+Les Éditions Inusitées ayant malheureusement fermé leurs portes, l'anthologie ***Solstice d'été*** n'est plus disponible à la vente en librairie. Il me reste cependant quelques exemplaires, vous pouvez donc si vous le souhaitez <a href="https://ko-fi.com/s/11970fe8b0" target="_blank">commander un **exemplaire dédicacé** directement via ma boutique en ligne</a>.
 
 
 ## Vos retours de lecture :

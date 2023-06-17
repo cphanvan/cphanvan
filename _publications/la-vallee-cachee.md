@@ -19,4 +19,24 @@ sidebar:
       Septembre 2023
 ---
 
-Nouvelle à paraître en septembre 2023 dans l'anthologie ***Interstices***, aux <a href="https://herosdepapierfroisse.fr/editionshpf/nos-livres/interstices/" target="_blank">Éditions HPF</a> (déjà disponible en précommande).
+Nouvelle à paraître en septembre 2023 dans l'anthologie ***Interstices***, aux <a href="https://herosdepapierfroisse.fr/editionshpf/nos-livres/interstices/" target="_blank">Éditions HPF</a> (déjà <a href="https://fr.ulule.com/interstices-editions-hpf/" target="_blank">disponible en précommande</a>).
+
+
+## L'anthologie
+
+Au sommaire&nbsp;:
+
+- *Bathmophobia*, de Camille Evernay
+- *Entre les murs*, de Clémentine M. Charles
+- *Entre les lignes*, de Léa Segovia
+- *Mon jardin après la pluie*, de Morgane Gasse
+- *Annexe(s)*, de Franck Stevens
+- *Dramatopie*, de Naël Legrand
+- *Les fées de Tchernobyl*, de R. Senelier
+- *Éclats de rêve*, de Camille Daucus
+- *Du coin de l'&oelig;il*, de Noé Natt
+- *La vallée cachée*, de Catherine Phan van
+- *Oneiroi*, de Marion Zell
+- *Genuflex*, de Nicolas Duval
+- *Trouve le bon chemin*, de Manon D. Rivero Bergasa
+- *Son absence*, de Chloé Faure

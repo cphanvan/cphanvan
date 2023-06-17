@@ -89,16 +89,16 @@ Parce que pour moi, ce n'est pas la crédibilité de l'intrigue ou des dialogues
 
 Je ne résiste pas au plaisir de vous livrer quelques courts extraits. Vous pourrez ainsi juger par vous-mêmes du ton du roman&nbsp;! 😆
 
-Mon père est franco-allemand. Pour préserver son anonymat, surnommons-le Klaus Von Strudel. Professeur à la Sorbonne, à Paris, Klaus écrit des livres de philosophie. Il fut aussi le directeur de thèse de ma mère, et il l’a fort bien dirigée, apparemment, puisqu’elle s’est retrouvée enceinte de ma personne. Hélas, leur relation était vouée à rester clandestine&nbsp;! Car Klaus était à l’époque –&nbsp;et il l’est d’ailleurs toujours&nbsp;– le mari d’une personne dotée d’un énorme potentiel. La preuve, cette personne est depuis deux ans Présidente de la République de notre beau pays la France. Nous l’appellerons pour simplifier Barack Obamette.
+<span style="margin-left: 1em;"></span>Mon père est franco-allemand. Pour préserver son anonymat, surnommons-le Klaus Von Strudel. Professeur à la Sorbonne, à Paris, Klaus écrit des livres de philosophie. Il fut aussi le directeur de thèse de ma mère, et il l’a fort bien dirigée, apparemment, puisqu’elle s’est retrouvée enceinte de ma personne. Hélas, leur relation était vouée à rester clandestine&nbsp;! Car Klaus était à l’époque –&nbsp;et il l’est d’ailleurs toujours&nbsp;– le mari d’une personne dotée d’un énorme potentiel. La preuve, cette personne est depuis deux ans Présidente de la République de notre beau pays la France. Nous l’appellerons pour simplifier Barack Obamette.
 {: .notice}
 
-Et là-dessus, il se penche sur le côté et attrape par la taille (qu’elle a de guêpe) une jeune demoiselle parée de fort jolies toilettes, comme dit ma grand-mère, ce qui signifie non pas qu’elle se trimbale un WC portatif sur l’épaule, mais qu’elle est ceinte de vêtements parfaitement seyants. Faut dire qu’elle a le corps qu’il faut, ayant le haut comme ci –&nbsp;V&nbsp;– et les jambes comme ça –&nbsp;\|\|
+<span style="margin-left: 1em;"></span>Et là-dessus, il se penche sur le côté et attrape par la taille (qu’elle a de guêpe) une jeune demoiselle parée de fort jolies toilettes, comme dit ma grand-mère, ce qui signifie non pas qu’elle se trimbale un WC portatif sur l’épaule, mais qu’elle est ceinte de vêtements parfaitement seyants. Faut dire qu’elle a le corps qu’il faut, ayant le haut comme ci –&nbsp;V&nbsp;– et les jambes comme ça –&nbsp;\|\|
 {: .notice}
 
-–&nbsp;Tu vas prendre une douche&nbsp;? Je viens avec toi, si ça te dit. <br />
-Oui. Bien. Alors donc je viens de proposer au Soleil de prendre une douche avec lui. J’éclate d’un large rire&nbsp;: <br />
-–&nbsp;Enfin, pas pour prendre une douche aussi, hein&nbsp;! J’ai déjà pris ma douche. Je vais pas en prendre deux dans la même soirée&nbsp;! Ça serait totalement ridicule et un gâchis d’eau alors que pendant ce temps-là, les ours polaires meurent par milliers. <br />
-*(Ma vieille, si tu continues à parler de cette voix de stentor, il est fort possible que tout le camping se réveille).*
+<span style="margin-left: 1em;"></span>–&nbsp;Tu vas prendre une douche&nbsp;? Je viens avec toi, si ça te dit. <br />
+<span style="margin-left: 1em;"></span>Oui. Bien. Alors donc je viens de proposer au Soleil de prendre une douche avec lui. J’éclate d’un large rire&nbsp;: <br />
+<span style="margin-left: 1em;"></span>–&nbsp;Enfin, pas pour prendre une douche aussi, hein&nbsp;! J’ai déjà pris ma douche. Je vais pas en prendre deux dans la même soirée&nbsp;! Ça serait totalement ridicule et un gâchis d’eau alors que pendant ce temps-là, les ours polaires meurent par milliers. <br />
+<span style="margin-left: 1em;"></span>*(Ma vieille, si tu continues à parler de cette voix de stentor, il est fort possible que tout le camping se réveille).*
 {: .notice}
 
 

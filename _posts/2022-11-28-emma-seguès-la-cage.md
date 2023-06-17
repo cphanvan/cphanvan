@@ -81,16 +81,16 @@ La seconde partie. Non pas que je ne l'ai pas appréciée intrinsèquement, mais
 
 Pour vous mettre dans l'ambiance&nbsp;:
 
-Je suis enfermée dans cette pièce avec un cadavre. Ainsi qu’une psychopathe, hystérique et violente. Que m’est-il arrivé&nbsp;? Qu’ai-je fait pour mériter ça&nbsp;?
+<span style="margin-left: 1em;"></span>Je suis enfermée dans cette pièce avec un cadavre. Ainsi qu’une psychopathe, hystérique et violente. Que m’est-il arrivé&nbsp;? Qu’ai-je fait pour mériter ça&nbsp;?
 {: .notice}
 
-Rectification&nbsp;: je suis enfermée dans cette pièce avec un cadavre, une psychopathe hystérique et violente, et une folle à lier.
+<span style="margin-left: 1em;"></span>Rectification&nbsp;: je suis enfermée dans cette pièce avec un cadavre, une psychopathe hystérique et violente, et une folle à lier.
 {: .notice}
 
 Et celle-ci, parce que j'aime bien Mira&nbsp;: 😊
 
-Mira a fait danser son archet sur son violon pendant plus d’une heure. Je l’ai observée un long moment, fascinée&nbsp;: elle me semblait transfigurée. Belle dans son abandon total à la musique, elle affichait une sérénité que je ne lui avais jamais vue jusqu’alors. Comme si son instrument avait le pouvoir de la transporter ailleurs, loin d’ici, loin de ce lieu sinistre.<br />
-Je crois qu’avec son violon, Mira a parlé plus que n’importe laquelle d’entre nous.
+<span style="margin-left: 1em;"></span>Mira a fait danser son archet sur son violon pendant plus d’une heure. Je l’ai observée un long moment, fascinée&nbsp;: elle me semblait transfigurée. Belle dans son abandon total à la musique, elle affichait une sérénité que je ne lui avais jamais vue jusqu’alors. Comme si son instrument avait le pouvoir de la transporter ailleurs, loin d’ici, loin de ce lieu sinistre.<br />
+<span style="margin-left: 1em;"></span>Je crois qu’avec son violon, Mira a parlé plus que n’importe laquelle d’entre nous.
 {: .notice}
 
 
