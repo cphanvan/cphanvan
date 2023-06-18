@@ -38,6 +38,15 @@
     </div>
 
     {% include scripts.html %}
+    <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+    <script>
+      kofiWidgetOverlay.draw('cathphanvan', {
+        'type': 'floating-chat',
+        'floating-chat.donateButton.text': 'Un petit thé&nbsp;?',
+        'floating-chat.donateButton.background-color': '#ffffff',
+        'floating-chat.donateButton.text-color': '#557a95'
+      });
+    </script>
 
   </body>
 </html>
