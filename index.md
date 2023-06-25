@@ -15,7 +15,7 @@ header:
   actions:
     - label: "Lire sur Fyctia"
       url: "https://fyctia.com/stories/cercueil-et-prejuges"
-excerpt: "Depuis le 18 mars 2023, je participe au concours Fyctia &laquo;&nbsp;Comme dans un film&nbsp;&raquo; avec ma comédie romantique &laquo;&nbsp;<em><strong>Cercueil et Préjugés</strong></em>&nbsp;&raquo;.<br><br>Envie de la découvrir&nbsp;?"
+excerpt: "Ma comédie romantique &laquo;&nbsp;<em><strong>Cercueil et Préjugés</strong></em>&nbsp;&raquo; est finaliste du concours Fyctia &laquo;&nbsp;Comme dans un film&nbsp;&raquo;&nbsp;!<br><br>Envie de la découvrir&nbsp;?"
 a_propos:
   - excerpt: |
       Catherine Phan van est née en 1976 au pays des sapins et du froid, qu'elle a quitté pour s'installer près de Bordeaux, où elle vit depuis 2008.

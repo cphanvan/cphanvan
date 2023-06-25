@@ -12,17 +12,15 @@ header:
   overlay_image: /assets/images/bandeau-echantillons.webp
 books:
   - maintitle: "Comédie romantique"
-    title: "Cercueil et Préjugés"
-    teaser: Je participe au concours Fyctia <em>Comme dans un film</em>
+    title: "Cercueil et Préjugés (première moitié)"
+    teaser: Roman finaliste du concours Fyctia <em>Comme dans un film</em>
     image_path: /assets/images/publications/cercueil-et-prejuges-cover.webp
     image_alt: "couverture de Cercueil et Préjugés"
     externalurl: https://fyctia.com/stories/cercueil-et-prejuges
     description: |
-        Virée d'un job qu'elle exerçait sans passion, Adélie a ressenti le besoin de partir quelques mois loin de tout et de tous pour faire le point.
+        Quand Adélie rentre chez elle après trois mois coupée de tout, elle ne s'attend ni à tomber nez à nez avec le nouveau locataire de son appartement, ni à la révélation que ce dernier lui réserve&nbsp;: que tout le monde la croit morte et enterrée&nbsp;!
         
-        Mais à son retour, deux surprises de taille l'attendent. La première se prénomme Alexandre et a emménagé dans son appartement en son absence. La seconde concerne sa nouvelle situation personnelle&nbsp;: décédée (en tout cas, aux yeux de l'administration).
-        
-        Or, se reconstruire une vie quand on est morte et sans domicile ne s'avère pas de tout repos&nbsp;!
+        Or, se reconstruire une vie quand on se retrouve sans domicile ni existence légale ne s'avère pas de tout repos&hellip;
   - maintitle: "Nouvelles à 4 mains"
     title: "Cœur brisé et tasse de thé"
     teaser: "Une Saint-Valentin en solitaire... ou pas !"

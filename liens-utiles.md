@@ -9,7 +9,7 @@ toc_label: Liens utiles
 
 ## Mes livres
 
-### À la une&nbsp;: «&nbsp;*Comme dans un film*&nbsp;»
+### À la une&nbsp;: «&nbsp;*Comme dans un film*&nbsp;» - finaliste
 
 [*Cercueil et préjugés*&nbsp;: comédie romantique (en accès libre sur Fyctia)](https://fyctia.com/stories/cercueil-et-prejuges){: .btn .btn--info .btn--large .btn--linktree}
 
