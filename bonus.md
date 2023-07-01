@@ -20,6 +20,13 @@ header:
   overlay_image: /assets/images/bandeau-bonus.webp
 bonus: true
 books:
+  - teaser: "Cercueil & Préjugés (chapitre 35)"
+    bonus_id: "CercueilEtPréjugés-chap35"
+    image_path: /assets/images/bonus/CercueilEtPréjugés-chap35-couv.webp
+    description: |
+        Découvrez ici, en exclusivité jusqu'au 16&nbsp;juillet&nbsp;2023, le chapitre&nbsp;35 de ma comédie romantique, ***Cercueil & Préjugés***, finaliste du concours Fyctia "Comme dans un film".
+
+        Les 34&nbsp;premiers chapitres sont <a href="https://fyctia.com/stories/cercueil-et-prejuges" target="_blank">en ligne sur Fyctia</a>.
   - teaser: "Chasseuse de rêves (premiers chapitres)"
     bonus_id: "ChasseuseDeRêves-extrait"
     image_path: /assets/images/bonus/ChasseuseDeRêves-extrait-couv.webp
