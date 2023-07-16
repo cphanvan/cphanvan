@@ -14,6 +14,11 @@ toc_label: Liens utiles
 [*Cercueil et préjugés*&nbsp;: comédie romantique (en accès libre sur Fyctia)](https://fyctia.com/stories/cercueil-et-prejuges){: .btn .btn--info .btn--large .btn--linktree}
 
 
+### Thriller en cours d'écriture
+
+[*45,93&nbsp;grammes* (en accès libre sur Fyctia)](https://www.fyctia.com/stories/45-93-grammes){: .btn .btn--info .btn--large .btn--linktree}
+
+
 ### Dernières parutions
 
 [*La vallée cachée*, in *Interstices* (anthologie SFFF)](https://fr.ulule.com/interstices-editions-hpf/){: .btn .btn--info .btn--large .btn--linktree}
