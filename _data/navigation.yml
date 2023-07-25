@@ -27,6 +27,8 @@ publications:
     url: /publications/projets-en-cours
   - title: "Nouvelles gratuites"
     children:
+      - title: "L'arbre de lune"
+        url: /publications/l-arbre-de-lune
       - title: "L'ours en flanelle"
         url: /publications/l-ours-en-flanelle
       - title: "Évasion nocturne"

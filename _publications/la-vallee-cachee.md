@@ -4,7 +4,7 @@ description: Une nouvelle fantastique. À paraître en septembre 2023 dans l'ant
 layout: single
 classes: wide
 share: true
-publication_date: 2023-09-01T00:00:00Z
+publication_date: 2023-09-23T00:00:00Z
 excerpt: |
   Une nouvelle fantastique sur le thème «&nbsp;Interstices&nbsp;»
 header:

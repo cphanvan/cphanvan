@@ -11,8 +11,20 @@ header:
   overlay_filter: "0.2"
   overlay_image: /assets/images/bandeau-echantillons.webp
 books:
+  - maintitle: "Thriller"
+    title: "45,93 grammes (début, premier jet)"
+    teaser: Participe au concours Fyctia <em>Fait divers</em>
+    image_path: /assets/images/publications/45-93-grammes-cover.webp
+    image_alt: "couverture de 45,93 grammes"
+    externalurl: https://fyctia.com/stories/45-93-grammes
+    description: |
+        Chloé était étudiante quand sa vie a basculé.
+        
+        45,93&nbsp;grammes et un diamètre de 42,67&nbsp;millimètres. Une sphère presque parfaite. Une balle de golf ordinaire&hellip; C'est tout ce qu'on a retrouvé à côté de son corps inconscient.
+
+        Mais alors qu'une partie de ses souvenirs s'est évanouie, que croire, et à qui se fier&nbsp;? S'agissait-il d'un simple accident, comme le laissent supposer les apparences, ou d'une agression, ainsi que sa mère en est persuadée&nbsp;? Et à qui appartient ce visage qui vient hanter ses rêves&nbsp;?
   - maintitle: "Comédie romantique"
-    title: "Cercueil et Préjugés (première moitié)"
+    title: "Cercueil et Préjugés (première moitié, premier jet)"
     teaser: Roman finaliste du concours Fyctia <em>Comme dans un film</em>
     image_path: /assets/images/publications/cercueil-et-prejuges-cover.webp
     image_alt: "couverture de Cercueil et Préjugés"

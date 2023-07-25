@@ -7,15 +7,16 @@ permalink: /agenda
 classes: wide
 ---
 
-## Prochaines dédicaces
-
-Le **samedi 15&nbsp;avril 2023**, de **11h30** à **18h15**, je serai présente au salon **Imagina'livres**, <a href="https://www.google.fr/maps/place/Salle+du+Confluent/@43.5205332,1.3969889,17z/data=!4m6!3m5!1s0x12aeb9aedbbe4fd3:0x487772300b564b60!8m2!3d43.5205332!4d1.3991776!16s%2Fg%2F11c6s17kk4" target="_blank">salle du confluent</a> à Portet-sur-Garonne, près de Toulouse pour dédicacer l'anthologie [***Sorcellerie végétale***](/publications/pot-a-ceder)&nbsp;! J'aurai aussi quelques exemplaires de [***Solstice d'été***](/publications/le-cadeau-des-fees).
-
-{% include figure image_path="/assets/images/events/imaginalivres-2023.webp" %}
-
-
 ## Mes activités d'écriture en cours
 
-Mon roman ado, [*Chasseuse de rêves*](/publications/projets-en-cours/#chasseuse-de-r%C3%AAves-titre-provisoire), est en recherche d'éditeur depuis mi-septembre 2022&nbsp;! 🤞
+Actuellement, je travaille sur mon nouveau roman&nbsp;: [*45,93&nbsp;grammes*](/publications/projets-en-cours/#4593grammes), un thriller, que vous pouvez découvrir au fil de l'écriture <a href="https://www.fyctia.com/stories/45-93-grammes" target="_blank">sur Fyctia</a>, dans le cadre de ma participation au concours *"Fait divers"*.
 
-Actuellement, je travaille sur mon nouveau roman&nbsp;: une comédie romantique contemporaine sans prétention, [*Cercueil et Préjugés*](/publications/projets-en-cours/#cercueil-et-préjugés), que vous pouvez découvrir au fil de l'écriture <a href="https://fyctia.com/stories/cercueil-et-prejuges" target="_blank">sur Fyctia</a>, dans le cadre de ma participation au concours "Comme dans un film".
+Ma comédie romantique contemporaine, [*Cercueil et Préjugés*](/publications/projets-en-cours/#cercueil-et-préjugés), est <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**finaliste du concours Fyctia "Comme dans un film"**</a>, dont les résultats sont attendus vers mi-septembre 2023.
+
+Mon roman ado, [*Chasseuse de rêves*](/publications/projets-en-cours/#chasseuse-de-r%C3%AAves-titre-provisoire), est actuellement en recherche d'éditeur.
+
+
+## Prochaines dédicaces
+
+Rien de prévu pour le moment&hellip;
+
