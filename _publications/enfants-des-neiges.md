@@ -27,8 +27,8 @@ Offrez-vous cette courte lecture et laissez-vous emporter au pays des sapins �
 
 {% include figure image_path="/assets/images/publications/enfants-des-neiges-teaser.webp" %}
 
-**<a href="https://amzn.to/3X9gBTD" target="_blank">En vente sur Amazon (lien partenaire)</a>** (0,99€)\
-Disponible également à l'emprunt dans l'abonnement Kindle.
+**En vente (0,99€) sur ma boutique Ko-Fi**, en version **<a href="https://ko-fi.com/s/7c84ee8f05" target="_blank">epub</a>** ou **<a href="https://ko-fi.com/s/8661618b41" target="_blank">pdf</a>**. \
+Disponible également <a href="https://www.amazon.fr/Enfants-neiges-Catherine-Phan-van-ebook/dp/B09LXQ7LX7" target="_blank">sur amazon</a>.
 
 
 ## Un grand merci pour vos retours de lecture&nbsp;!
