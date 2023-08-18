@@ -59,6 +59,26 @@ Avec trois lignes temporelles distinctes, et trois points de vue différents, je
 ## En attente&nbsp;:
 
 
+### Cosy mystery (en attente de titre)
+
+J'ai écrit en 2021 une novella policière, qui a même passé les phases de betalecture et de première correction.
+
+J'avais en début d'année 2022 une idée pour un second récit mettant en scène le même duo d'enquêteurs. Il me restait à développer l'histoire avant de pouvoir en démarrer l'écriture.
+
+Je souhaitais publier ces 2 novellas ensemble, a priori plutôt en autoédition, à l'automne 2022.
+
+Sauf que&hellip; Courant juillet 2022, je me suis rendu compte de deux choses&nbsp;:
+
+- d'abord, non seulement la préparation de mon second récit avançait beaucoup moins vite que prévu, mais je risquais d'aboutir à un texte plutôt au format roman que novella
+- ensuite, le format policier pur (où ce sont des professionnels qui mènent l'enquête) me botte moins que le format *cosy mystery* (où les enquêteurs sont monsieur ou madame tout le monde).
+
+Ce qui me laisse avec sur les bras une novella solitaire, et un projet de roman qui nécessite de mûrir davantage avant d'être mené à bien. 🤔
+
+Après mûre réflexion (un an, quand même 😅 mais bon, je n'ai pas fait que ça, heureusement&nbsp;!), j'envisage donc une réécriture complète de ma novella de 2021, avec un travail de fond, notamment sur les personnages principaux, pour la transformer en *cosy mystery*. Ensuite seulement, je me lancerai dans le deuxième récit&hellip; et plus si affinités. (Oui, il est possible que j'ambitionne d'en faire une série, parce que pourquoi pas, hein&nbsp;!)
+
+Et j'ai vraiment envie, avec ces histoires, de tenter à fond l'expérience de l'autoédition. En 2024, si tout va bien. On croise les doigts&nbsp;!
+
+
 ### Les oubliées d'Epeirandria
 
 *roman de science-fiction young-adult - projet mis en attente*
@@ -71,7 +91,7 @@ Mais la fillette refuse de croire que son aîné est mort. Elle est prête à to
 
 Le [prologue et le chapitre&nbsp;1](/bonus#textes-à-télécharger) sont disponibles gratuitement pour les abonnés à la newsletter.
 
-Sauf que j'ai essayé de l'aborder en architecte, c'est-à-dire en prévoyant un plan détaillé de l'intrigue avant de me lancer dans l'écriture, mais je n'étais jamais satisfaite de mes tentatives. Raison pour laquelle je l'ai mis de côté, et me suis lancée dans l'écriture d'un autre roman, sans rien planifier à l'avance, pour tester si cette méthode me convenait mieux (réponse&nbsp;: **oui**), et&hellip; je ne l'ai pas (encore) repris depuis.
+Sauf que j'ai essayé de l'aborder en architecte, c'est-à-dire en prévoyant un plan détaillé de l'intrigue avant de me lancer dans l'écriture, mais je n'étais jamais satisfaite de mes tentatives. Raison pour laquelle je l'ai mis de côté, et me suis lancée dans l'écriture d'un autre roman (*Cercueil et Préjugés*, pour ne pas le nommer), sans rien planifier à l'avance, pour tester si cette méthode me convenait mieux (réponse&nbsp;: **oui**), et&hellip; je ne l'ai pas (encore) repris depuis.
 
 
 ### Fragments de solitudes
@@ -85,23 +105,6 @@ Pour ce projet, je n'avais aucune hésitation&nbsp;: ce serait de l'autoédition
 Et puis&hellip; j'ai changé d'avis. J'explique pourquoi dans [cet article de blog](/ecriture/2023/03/31/objectifs-écriture-2023.html#pourquoi-abandonner-mon-projet-de-recueil-de-nouvelles-fragments-de-solitude).
 
 Mais sait-on jamais&nbsp;? Un projet peut toujours renaître de ses cendres&hellip;
-
-
-### (En attente de titre)
-
-*novellas policières - objectif&nbsp;: à redéfinir&nbsp;!*
-
-Une première novella policière est déjà écrite et a passé les phases de betalecture et de première correction.
-
-J'avais en début d'année 2022 une idée pour un second récit mettant en scène le même duo d'enquêteurs. Il me restait à développer l'histoire avant de pouvoir en démarrer l'écriture.
-
-Je souhaitais publier ces 2 novellas ensemble, a priori plutôt en autoédition, à l'automne 2022.
-
-Sauf que&hellip; Courant juillet 2022, je me suis rendu compte que non seulement, la préparation de mon second récit avançait beaucoup moins vite que prévu, mais aussi que je risquais d'aboutir à un texte plutôt au format roman que novella.
-
-Ce qui me laisse avec sur les bras une novella solitaire, pour l'avenir de laquelle je n'ai à ce jour encore rien décidé, et un projet de roman qui nécessite de mûrir davantage avant d'être mené à bien. 🤔
-
-Ces histoires sont pour le moment rangées dans un petit coin de ma tête, où elles attendent sagement que l'envie me prenne de les dépoussiérer.
 
 
 ## Envie de suivre l'avancée de mes projets&nbsp;?
