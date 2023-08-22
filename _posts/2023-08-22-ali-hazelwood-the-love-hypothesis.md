@@ -66,7 +66,7 @@ Et puis, à force de voir passer des avis élogieux sur celle-ci, j'ai fini par 
 
 Et&hellip; Devinez qui a eu un coup de c&oelig;ur&nbsp;? 😆 (*Cela fait-il de moi un mouton&nbsp;?* 🐑 *On s'en fiche, non&nbsp;?!* 😉)
 
-En ce qui concerne le pitch, rien d'exceptionnel pour de la romance&nbsp;: on est sur un trope de *fake-dating*, aussi classique sur le papier qu'à l'écran. Quant aux scènes de sexe, cela ne m'aurait pas dérangé qu'elles soient plus courtes, mais c'est une question de goût personnel.
+En ce qui concerne le pitch, rien d'exceptionnel pour de la romance&nbsp;: on est sur un trope de *fake-dating*, aussi classique sur le papier qu'à l'écran. Quant aux scènes de sexe, cela ne m'aurait pas dérangée qu'elles soient plus courtes, mais c'est une question de goût personnel.
 
 Premier bon point, le cadre, lui, est déjà un peu plus original&nbsp;: une université américaine, certes, mais ici, pas de plongée dans la vie des stars de l'équipe sportive locale ou de succession de soirées étudiantes trop arrosées. Non (ouf&nbsp;!), c'est surtout la dure réalité du statut de post-doctorant et du quotidien des laboratoires de recherche scientifique qui est dépeinte, sans complaisance à l'égard de ses nombreux travers&nbsp;: surcharge de travail chronique, jeux de pouvoir (pouvant aller jusqu'au harcèlement sexuel), combat sans cesse renouvelé pour obtenir des financements, misogynie ambiante&hellip;
 
