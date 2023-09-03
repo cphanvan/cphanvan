@@ -21,7 +21,6 @@ sidebar:
 
 Aurélie et Nicolas attendent un heureux événement. Ils viennent passer Noël au calme dans un village isolé du Haut-Doubs. Mais quels échos du passé leur présence va-t-elle y réveiller ?
 
-Le recueil ***Creepy Christmas and bloody New Year***, dont la publication était initialement prévue en décembre 2021, a vu sa date de parution reportée.<br><br>
+Le recueil ***Creepy Christmas and bloody New Year***, dont la publication aux éditions <a href="https://www.instagram.com/beetlebooks_publishing/" target="_blank">BeetleBooks Publishing</a> était initialement prévue en décembre 2021, a vu sa date de parution reportée.<br><br>
 Si tout va bien, il devrait finalement voir le jour courant 2023.
-Vous pourrez alors le retrouver **<a href="https://www.beetlebookspublishing.com/creepy-christmas" target="_blank">sur le site des éditions BeetleBooks Publishing</a>**.
 {: .notice--info}

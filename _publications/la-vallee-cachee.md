@@ -19,7 +19,7 @@ sidebar:
       Septembre 2023
 ---
 
-Nouvelle à paraître en septembre 2023 dans l'anthologie ***Interstices***, aux <a href="https://herosdepapierfroisse.fr/editionshpf/nos-livres/interstices/" target="_blank">Éditions HPF</a> (déjà <a href="https://fr.ulule.com/interstices-editions-hpf/" target="_blank">disponible en précommande</a>).
+Nouvelle à paraître en septembre 2023 dans l'anthologie ***Interstices***, aux <a href="https://herosdepapierfroisse.fr/editionshpf/nos-livres/interstices/" target="_blank">Éditions HPF</a>.
 
 
 ## L'anthologie
