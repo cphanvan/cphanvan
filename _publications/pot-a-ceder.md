@@ -6,7 +6,7 @@ classes: wide
 share: true
 publication_date: 2023-04-15T00:00:00Z
 excerpt: |
-  Une nouvelle fantastique sur le thème «&nbsp;Sorcellerie végétale&nbsp;»
+  Une nouvelle fantastique sur le thème «&nbsp;Sorcellerie végétale&nbsp;», ou comment un olivier en pot va chambouler le quotidien d’un journaliste.
 header:
   teaser: /assets/images/publications/pot-a-ceder-teaser.webp
 sidebar:
@@ -19,11 +19,24 @@ sidebar:
       Avril 2023
 ---
 
+Maxime est journaliste pour un quotidien local. Lui qui rêvait de devenir grand reporter passe ses journées à couvrir de banals faits divers pour pouvoir remplir son assiette.
+
+Justement, ce matin-là, sa rédaction l'envoie dans une jardinerie. Les infos qu'on lui a communiquées en lui donnant l'adresse&nbsp;? Toutes les plantes du magasin ont été retrouvées desséchées après la nuit. Toutes, sauf un olivier en pot. Et depuis, les salariés refusent de reprendre le travail. En cause&nbsp;: une histoire de malédiction à dormir debout&hellip;
+
+<hr>
+
 Nouvelle parue en avril 2023 dans l'anthologie ***Sorcellerie végétale***, publiée par l'association <a href="https://www.instagram.com/imaginarium.asso/" target="_blank">L'imagin'arium</a> et disponible à la <a href="https://www.helloasso.com/associations/l-imagin-arium/boutiques/sorcellerie-vegetale" target="_blank">vente à distance via ce lien</a>.
 
 Si vous préférez un **exemplaire dédicacé**, vous pouvez <a href="https://ko-fi.com/s/fb9f228435" target="_blank">le commander directement via ma boutique en ligne</a>.
 
 
+## Un extrait&nbsp;?
+
+<span style="margin-left: 1em;"></span>–&nbsp;Quand j’aurai fait mes photos, je pourrai vous aider à sortir le pot, si vous voulez.<br />
+<span style="margin-left: 1em;"></span>Elle inclina la tête et il décela une certaine forme de reconnaissance dans ses pupilles&nbsp;:<br />
+<span style="margin-left: 1em;"></span>–&nbsp;C’est gentil. Sans vouloir abuser, tant que j’y suis… Vous n’auriez pas l’utilité d’un
+olivier maudit, par hasard&nbsp;?
+{: .notice}
 
 ## Vos retours de lecture
 
