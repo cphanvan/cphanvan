@@ -5,7 +5,12 @@ layout: single
 sidebar_newsletter: true
 permalink: /agenda
 classes: wide
+page_js:
+  - /assets/h5p/main.bundle.js
+  - /assets/js/h5pcalendar.min.js
 ---
+
+<div id="h5p-publications"></div>
 
 ## Mes activités d'écriture en cours
 
@@ -18,5 +23,5 @@ Mon roman ado, [*Chasseuse de rêves*](/publications/projets-en-cours/#chasseuse
 
 ## Prochaines dédicaces
 
-Rien de prévu pour le moment&hellip;
+Rien de prévu pour le moment&nbsp;!
 

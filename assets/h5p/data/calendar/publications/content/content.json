@@ -1,0 +1,82 @@
+{
+    "timeline": {
+      "asset": {
+        "media": "https://catherinephanvan.fr/assets/images/events/books-2023.jpg"
+      },
+      "date": [
+        {
+          "asset": {
+            "media": "https://catherinephanvan.fr/assets/images/publications/l-ours-en-flanelle-cover.jpg"
+          },
+          "headline": "L'ours en flanelle",
+          "startDate": "2023,02,04",
+          "endDate": "2023,02,04",
+          "text": "<p>Une nouvelle feel-good portée par une héroïne au caractère bien trempé.</p><p>Le m(AE)g' n°4</p><p><a href=\"/publications/l-ours-en-flanelle/\">Découvrir la nouvelle</a></p>"
+        },
+        {
+            "asset": {
+              "media": "https://catherinephanvan.fr/assets/images/publications/pot-a-ceder-cover.jpg"
+            },
+            "headline": "Pot à céder",
+            "startDate": "2023,04,15",
+            "endDate": "2023,04,16",
+            "text": "<p>Une nouvelle fantastique, dans laquelle un olivier un pot va chambouler le quotidien d'un journaliste.</p><p>Anthologie <em><strong>Sorcellerie végétale</strong></em>, L'imagin'arium.</p><p><a href=\"/publications/pot-a-ceder/\">Découvrir la nouvelle</a></p>"
+        },
+        {
+            "asset": {
+              "media": "https://catherinephanvan.fr/assets/images/publications/elegie-a-une-selkie-cover.jpg"
+            },
+            "headline": "Élégie à une selkie",
+            "startDate": "2023,06,03",
+            "endDate": "2023,06,05",
+            "text": "<p>Une nouvelle fantastique, sur les traces d'un vieux joueur de flûte irlandais à travers New-York.</p><p>Anthologie <em><strong>N°8* Érudition & Poésie</strong></em>, Les vagabonds du rêve.</p><p><a href=\"/publications/elegie-a-une-selkie/\">Découvrir la nouvelle</a></p>"
+        },
+        {
+            "asset": {
+              "media": "https://catherinephanvan.fr/assets/images/publications/la-vallee-cachee-cover.jpg"
+            },
+            "headline": "La vallée cachée",
+            "startDate": "2023,09,23",
+            "endDate": "2023,09,24",
+            "text": "<p>Une nouvelle fantastique qui parle d'amour, de religion, et de physique des particules.</p><p>Anthologie <em><strong>Interstices</strong></em>, Éditions HPF.</p><p><a href=\"/publications/la-vallee-cachee/\">Découvrir la nouvelle</a></p>"
+        },
+        {
+            "asset": {
+              "media": "https://images.pexels.com/photos/3683107/pexels-photo-3683107.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            },
+            "headline": "Surprise&nbsp;!",
+            "startDate": "2023,10,01",
+            "endDate": "2023,10,01",
+            "text": "<p>Une parution surprise&nbsp;!</p>"
+        },
+        {
+            "asset": {
+              "media": "https://catherinephanvan.fr/assets/images/publications/l-arbre-de-lune-cover.jpg"
+            },
+            "headline": "L'abre de lune",
+            "startDate": "2023,10,06",
+            "endDate": "2023,10,07",
+            "text": "<p>Une nouvelle fantastique dans laquelle s'entremêlent une vieille légende du Viêt-Nam et l'histoire des &laquo;&nbsp;moon trees&nbsp;&raquo; de la NASA.</p><p>Anthologie <em><strong>Légendes</strong></em>, Festival du Fantastique de Béziers.</p><p><a href=\"/publications/l-arbre-de-lune/\">Découvrir la nouvelle</a></p>"
+        },
+        {
+            "asset": {
+              "media": "https://catherinephanvan.fr/assets/images/publications/echos-graphiques-cover.jpg"
+            },
+            "headline": "Échos graphiques",
+            "startDate": "2023,11,17",
+            "endDate": "2023,11,19",
+            "text": "<p>Une nouvelle horrifique qui vous fera frissonner même au coin du feu&nbsp;!</p><p>Anthologie <em><strong>Creepy Christmas and Bloody New Year</strong></em>, BeetleBooks Publishing.</p><p><a href=\"/publications/echos-graphiques/\">Découvrir la nouvelle</a></p>"
+        }
+        ],
+      "headline": "Mes publications 2023",
+      "text": "Retrouvez ici les dates de toutes mes sorties prévues cette année.",
+      "defaultZoomLevel": "0",
+      "language": "fr",
+      "era": [
+        {
+          "text": ""
+        }
+      ],
+      "height": 600
+    }
+  }
