@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/publications/l-ours-en-flanelle-teaser.webp
 sidebar:
   - title: "L'ours en flanelle"
-    image: /assets/images/publications/l-ours-en-flanelle-cover.webp
+    image: /assets/images/publications/l-ours-en-flanelle-cover.jpg
     image_alt: "couverture"
     text: |
       Nouvelle feel-good\

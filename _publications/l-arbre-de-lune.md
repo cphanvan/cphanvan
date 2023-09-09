@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/publications/l-arbre-de-lune-teaser.webp
 sidebar:
   - title: "L'arbre de lune"
-    image: /assets/images/publications/l-arbre-de-lune-cover.webp
+    image: /assets/images/publications/l-arbre-de-lune-cover.jpg
     image_alt: "couverture"
     text: |
       Nouvelle fantastique\

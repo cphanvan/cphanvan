@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/publications/elegie-a-une-selkie-teaser.webp
 sidebar:
   - title: "Élégie à une selkie"
-    image: /assets/images/publications/elegie-a-une-selkie-cover.webp
+    image: /assets/images/publications/elegie-a-une-selkie-cover.jpg
     image_alt: "couverture"
     text: |
       Nouvelle fantastique\

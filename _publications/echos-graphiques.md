@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/publications/echos-graphiques-teaser.webp
 sidebar:
   - title: "Échos graphiques"
-    image: /assets/images/publications/echos-graphiques-cover.webp
+    image: /assets/images/publications/echos-graphiques-cover.jpg
     image_alt: "couverture"
     text: |
       Nouvelle horrifique\

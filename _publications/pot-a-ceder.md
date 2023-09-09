@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/publications/pot-a-ceder-teaser.webp
 sidebar:
   - title: "Pot à céder"
-    image: /assets/images/publications/pot-a-ceder-cover.webp
+    image: /assets/images/publications/pot-a-ceder-cover.jpg
     image_alt: "couverture"
     text: |
       Nouvelle fantastique\

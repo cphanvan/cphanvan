@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/publications/la-vallee-cachee-teaser.webp
 sidebar:
   - title: "La vallée cachée"
-    image: /assets/images/publications/la-vallee-cachee-cover.webp
+    image: /assets/images/publications/la-vallee-cachee-cover.jpg
     image_alt: "couverture"
     text: |
       Nouvelle fantastique\
