@@ -6,7 +6,7 @@ classes: wide
 share: true
 publication_date: 2023-09-23T00:00:00Z
 excerpt: |
-  Une nouvelle fantastique sur le thème «&nbsp;Interstices&nbsp;»
+  Une nouvelle fantastique sur le thème «&nbsp;Interstices&nbsp;», qui parle d'amour, de religion, et de physique des particules.
 header:
   teaser: /assets/images/publications/la-vallee-cachee-teaser.webp
 sidebar:
@@ -19,8 +19,25 @@ sidebar:
       Septembre 2023
 ---
 
+Profondément athée, Alex va devoir remettre en question ses certitudes les plus intimes après une expérience de physique qui ne se déroule pas comme prévu&hellip;
+
+<hr>
+
 Nouvelle à paraître en septembre 2023 dans l'anthologie ***Interstices***, aux <a href="https://herosdepapierfroisse.fr/editionshpf/nos-livres/interstices/" target="_blank">Éditions HPF</a>.
 
+## Un extrait&nbsp;?
+
+<span style="margin-left: 1em;"></span>Il tenta de se ressaisir&nbsp;:
+allons, une réponse négative ne signifierait
+pas la fin du monde. Pourtant, dans sa tête, de petites voix refusaient
+de se taire. Pas la fin du monde&nbsp;? Passer ses journées enfermé entre
+les quatre murs d’une salle de travaux dirigés de l’université et ses
+nuits entre ceux de sa chambre de bonne, regarder des générations
+d’étudiants médiocres se succéder inlassablement, et poursuivre
+cette morne routine jusqu’à ce que la vieillesse vienne le cueillir&hellip;
+Ce n’était peut-être pas la fin du monde, certes, mais c’était loin
+d’être l’avenir dont il rêvait&nbsp;!
+{: .notice}
 
 ## L'anthologie
 
