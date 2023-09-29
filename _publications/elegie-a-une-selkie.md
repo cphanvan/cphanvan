@@ -19,7 +19,17 @@ sidebar:
       Juin 2023
 ---
 
+La rencontre inattendue entre un vieil homme et une enfant timide, et leurs errances new-yorkaises au son de la flûte irlandaise.
+
+<hr>
+
 Nouvelle parue en juin 2023 dans l'anthologie ***N°8\* Érudition & Poésie***, dirigée par Hélène Marchetto et publiée par Les  <a href="https://www.vagabondsdureve.fr/" target="_blank">Vagabonds du rêve</a>, disponible à la <a href="https://www.vagabondsdureve.fr/produit/n8-eridution-poesie/" target="_blank">vente à distance via ce lien</a>.
+
+## Un extrait&nbsp;?
+
+<span style="margin-left: 1em;"></span>
+La pluie s’était calmée, mais le sol du terrain vague, gorgé d’eau, rendait des sons visqueux à chacun de ses pas. La ville semblait s’être calfeutrée pour mieux se protéger de cette nuit traversée de féroces bourrasques. Il errait depuis un moment sans but dans les rues, lorsque, pris d’une soudaine impulsion, il s’engouffra dans le métro, en direction de Coney Island, mû par l’irrépressible envie d’entendre la fureur des éléments se déchaîner en un puissant concert sauvage&nbsp;: la plupart des New-Yorkais s’y pressaient sur les plages sous le soleil estival, mais c’était pourtant lors des tempêtes d’automne que le spectacle s’y révélait le plus prodigieux.
+{: .notice}
 
 ## L'anthologie
 

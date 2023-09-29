@@ -53,7 +53,7 @@ books:
     description: |
         Une incursion au pays des sapins, de la neige et du froid…
 
-        Retrouvez ici la légende qui a donné naissance à <a href="https://amzn.to/3X9gBTD" target="_blank">ma nouvelle Enfants des neiges</a>&nbsp;! (lien partenaire)
+        Retrouvez ici la légende qui a donné naissance à <a href=https://amzn.to/3EUK8Zw" target="_blank">ma nouvelle Enfants des neiges</a>&nbsp;!
   - teaser: "Un écrin pour toi, ma bien-aimée"
     bonus_id: "UnÉcrinPourToiMaBienAimée"
     image_path: /assets/images/bonus/UnÉcrinPourToiMaBienAimée-couv.webp

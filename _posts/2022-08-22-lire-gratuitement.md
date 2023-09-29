@@ -393,7 +393,7 @@ Plusieurs entreprises proposent des services d'abonnement permettant d'accéder 
 Si vous optez pour cette solution, attention cependant lorsque vous faites votre choix, tous les services ne sont pas compatibles avec tous les types de matériels&nbsp;: pensez à bien vérifier les conditions indiquées.
 
 Les principales offres disponibles actuellement&nbsp;:
-- [Amazon Kindle Unlimited](https://www.amazon.fr/kindle-dbs/hz/subscribe/ku){:target="_blank"}
+- [Amazon Kindle Unlimited](https://amzn.to/48BQjzt){:target="_blank"}
 - [YouScribe](https://www.youscribe.com/abo){:target="_blank"}
 - [Nextory (anciennement Youboox)](https://nextory.com/fr){:target="_blank"}
 - [Scribd](https://fr.scribd.com/subscribe-now){:target="_blank"}

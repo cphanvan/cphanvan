@@ -21,18 +21,18 @@ toc_label: Liens utiles
 
 ### Dernières parutions
 
-[*La vallée cachée*, in *Interstices* (anthologie SFFF)](https://fr.ulule.com/interstices-editions-hpf/){: .btn .btn--info .btn--large .btn--linktree}
+[*La vallée cachée*, in *Interstices* (anthologie SFFF)](https://herosdepapierfroisse.fr/editionshpf/nos-livres/interstices/){: .btn .btn--info .btn--large .btn--linktree}
 
 [*Élégie à une selkie*, in *Érudition & Poésie* (anthologie fanstastique)](https://www.vagabondsdureve.fr/produit/n8-eridution-poesie/){: .btn .btn--info .btn--large .btn--linktree}
 
-[*Pot à céder*, in *Sorcellerie Végétale* (anthologie SFFF)](https://www.helloasso.com/associations/l-imagin-arium/boutiques/sorcellerie-vegetale){: .btn .btn--info .btn--large .btn--linktree}
+[*Pot à céder*, in *Sorcellerie Végétale* (anthologie SFFF)](https://ko-fi.com/s/fb9f228435){: .btn .btn--info .btn--large .btn--linktree}
 
 
 ### Nouvelles publiées
 
-[*Enfants des neiges*&nbsp;: acheter sur Amazon](https://amzn.to/3GFmfWv){: .btn .btn--info .btn--large .btn--linktree}
+[*Enfants des neiges*](https://ko-fi.com/s/7c84ee8f05){: .btn .btn--info .btn--large .btn--linktree}
 
-[Découvrir mes autres nouvelles publiées (dont 4 gratuites)](/publications){: .btn .btn--info .btn--large .btn--linktree}
+[Découvrir mes autres nouvelles publiées (dont 5 gratuites)](/publications){: .btn .btn--info .btn--large .btn--linktree}
 
 
 ### Projets en cours et à venir
@@ -70,7 +70,7 @@ toc_label: Liens utiles
 
 [Ma newsletter](/bonus#abonnez-vous){: .btn .btn--info .btn--large .btn--linktree}
 
-[Amazon](https://amzn.to/3w0pcfd){: .btn .btn--info .btn--large .btn--linktree}
+[Amazon](https://amzn.to/48vvKEK){: .btn .btn--info .btn--large .btn--linktree}
 
 [Babelio](https://www.babelio.com/auteur/Catherine-Phan-Van/586698){: .btn .btn--info .btn--large .btn--linktree}
 

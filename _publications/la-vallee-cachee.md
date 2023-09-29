@@ -1,6 +1,6 @@
 ---
 title: "La vallée cachée"
-description: Une nouvelle fantastique. À paraître en septembre 2023 dans l'anthologie Interstices, aux Éditions HPF.
+description: Une nouvelle fantastique. Publiée en septembre 2023 dans l'anthologie Interstices, aux Éditions HPF.
 layout: single
 classes: wide
 share: true
@@ -15,7 +15,7 @@ sidebar:
     image_alt: "couverture"
     text: |
       Nouvelle fantastique\
-      À paraître dans l'anthologie *Interstices*, publiée aux éditions HPF\
+      Parue dans l'anthologie *Interstices*, publiée aux éditions HPF\
       Septembre 2023
 ---
 
@@ -23,7 +23,7 @@ Profondément athée, Alex va devoir remettre en question ses certitudes les plu
 
 <hr>
 
-Nouvelle à paraître en septembre 2023 dans l'anthologie ***Interstices***, aux <a href="https://herosdepapierfroisse.fr/editionshpf/nos-livres/interstices/" target="_blank">Éditions HPF</a>.
+Nouvelle parue en septembre 2023 dans l'anthologie ***Interstices***, aux <a href="https://herosdepapierfroisse.fr/editionshpf/nos-livres/interstices/" target="_blank">Éditions HPF</a>.
 
 ## Un extrait&nbsp;?
 
@@ -38,6 +38,12 @@ cette morne routine jusqu’à ce que la vieillesse vienne le cueillir&hellip;
 Ce n’était peut-être pas la fin du monde, certes, mais c’était loin
 d’être l’avenir dont il rêvait&nbsp;!
 {: .notice}
+
+## Vos retours de lecture
+
+- Maliae&nbsp;: *«&nbsp;l'idée était drôle et originale&nbsp;»*
+
+    Retrouvez l'avis complet de Maliae <a href="https://www.babelio.com/livres/Daucus-Interstices/1567872/critiques/3619204" target="_blank">sur Babelio</a>.
 
 ## L'anthologie
 

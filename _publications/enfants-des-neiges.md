@@ -28,7 +28,7 @@ Offrez-vous cette courte lecture et laissez-vous emporter au pays des sapins �
 {% include figure image_path="/assets/images/publications/enfants-des-neiges-teaser.webp" %}
 
 **En vente (0,99€) sur ma boutique Ko-Fi**, en version **<a href="https://ko-fi.com/s/7c84ee8f05" target="_blank">epub</a>** ou **<a href="https://ko-fi.com/s/8661618b41" target="_blank">pdf</a>**. \
-Disponible également <a href="https://www.amazon.fr/Enfants-neiges-Catherine-Phan-van-ebook/dp/B09LXQ7LX7" target="_blank">sur amazon</a>.
+Disponible également <a href="https://amzn.to/3EUK8Zw" target="_blank">sur amazon</a>.
 
 
 ## Un grand merci pour vos retours de lecture&nbsp;!
@@ -55,7 +55,7 @@ Disponible également <a href="https://www.amazon.fr/Enfants-neiges-Catherine-Ph
 
 - Didier&nbsp;: *«&nbsp;Cette nouvelle ne ressemble pas à un conte de Noël classique, mais elle n'en est pas moins passionnante (…) surtout parce qu'elle traite de la transmission d'une histoire familiale, et de ce qui lie vraiment les membres d'une famille. Tout cela avec une grande douceur, mais dans une féerie presque inquiétante…&nbsp;»*
 
-    Retrouvez l'avis complet de Didier <a href="https://www.amazon.fr/gp/customer-reviews/R3ATMLJZFGR3JT/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B09LXQ7LX7" target="_blank">sur Amazon</a>.
+    Retrouvez l'avis complet de Didier <a href="https://amzn.to/3RWAAFl" target="_blank">sur Amazon</a>.
 
 - Nora&nbsp;: *«&nbsp;J'ai tout de suite été happée par le récit&nbsp;»*, *«&nbsp;on a aussi droit à des descriptions de paysages qui ont l’air magnifiques et qui m’ont donné l’impression d’avoir traversé l’armoire magique qui amène à Narnia&nbsp;»*, *«&nbsp;J’ai énormément aimé la relation que Marie a avec ses petits enfants, une relation vraiment touchante, tout comme celle de Rose et Noël qui respire la pureté…&nbsp;»*
 

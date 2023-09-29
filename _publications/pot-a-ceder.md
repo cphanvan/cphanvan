@@ -40,6 +40,10 @@ olivier maudit, par hasard&nbsp;?
 
 ## Vos retours de lecture
 
+- Aude&nbsp;: *«&nbsp;Un beau voyage dans le monde de la sorcellerie végétale. 15 nouvelles-15 auteurs&nbsp;: il y a de quoi apprécier&nbsp;! Chacun a exploré le thème avec son imagination et son style, ce qui donne l’occasion de découvrir de nouvelles plumes. Certaines nouvelles étaient excellentes comme **Pot à céder** de Catherine Phan Van&nbsp;»*
+
+    Retrouvez l'avis complet d'Aude <a href="https://www.goodreads.com/review/show/5653794070" target="_blank">sur GoodReads</a>.
+
 - Sascha&nbsp;: *«&nbsp;J'ai adoré ta plume&nbsp;! Tout est fluide, avec pas mal d'humour. J'étais tellement pris dans l'histoire que ne j'ai pas vu venir la fin.&nbsp;»*
 
 ## L'anthologie
