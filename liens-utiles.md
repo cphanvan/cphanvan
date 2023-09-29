@@ -21,6 +21,10 @@ toc_label: Liens utiles
 
 ### Dernières parutions
 
+[*Sinistre volonté*, in *L'Indé Panda n°13* (ebook gratuit)](https://amzn.to/45616ik){: .btn .btn--info .btn--large .btn--linktree}
+
+[*Sinistre volonté*, in *L'Indé Panda n°13* (version papier)](https://amzn.to/3EYx1Xc){: .btn .btn--info .btn--large .btn--linktree}
+
 [*La vallée cachée*, in *Interstices* (anthologie SFFF)](https://herosdepapierfroisse.fr/editionshpf/nos-livres/interstices/){: .btn .btn--info .btn--large .btn--linktree}
 
 [*Élégie à une selkie*, in *Érudition & Poésie* (anthologie fanstastique)](https://www.vagabondsdureve.fr/produit/n8-eridution-poesie/){: .btn .btn--info .btn--large .btn--linktree}
@@ -32,7 +36,7 @@ toc_label: Liens utiles
 
 [*Enfants des neiges*](https://ko-fi.com/s/7c84ee8f05){: .btn .btn--info .btn--large .btn--linktree}
 
-[Découvrir mes autres nouvelles publiées (dont 5 gratuites)](/publications){: .btn .btn--info .btn--large .btn--linktree}
+[Découvrir mes autres nouvelles publiées (dont 6 gratuites)](/publications){: .btn .btn--info .btn--large .btn--linktree}
 
 
 ### Projets en cours et à venir
