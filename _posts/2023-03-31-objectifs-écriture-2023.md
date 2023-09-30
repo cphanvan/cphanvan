@@ -116,6 +116,9 @@ Bref, l'idée, c'est donc tout bonnement d'écrire *moins* de nouvelles, pour é
 
 ---
 ---
+👉 *Visitez les coulisses de ma trépidante (non) [vie d'autrice](/blog/tags#viedautrice).*
+{: .text-center}
+
 👉 *Découvrez mes [chroniques de livres et séries](/blog/tags#chronique).*
 {: .text-center}
 

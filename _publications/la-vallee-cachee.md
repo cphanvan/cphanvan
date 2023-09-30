@@ -25,6 +25,8 @@ Profondément athée, Alex va devoir remettre en question ses certitudes les plu
 
 Nouvelle parue en septembre 2023 dans l'anthologie ***Interstices***, aux <a href="https://herosdepapierfroisse.fr/editionshpf/nos-livres/interstices/" target="_blank">Éditions HPF</a>.
 
+Envie d'en apprendre plus sur mes sources d'inspiration derrière cette nouvelle&nbsp;? Je vous en parle [sur mon blog](/ecriture/2023/09/30/la-science-dans-mes-nouvelles.html#la-vallée-cachée-le-cern-et-les-craintes-quil-suscite).
+
 ## Un extrait&nbsp;?
 
 <span style="margin-left: 1em;"></span>Il tenta de se ressaisir&nbsp;:

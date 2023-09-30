@@ -20,3 +20,5 @@ sidebar:
 ---
 
 Nouvelle finaliste, à paraître en octobre 2023 dans le recueil du <a href="https://festival-fantastique.fr/" target="_blank"> **Festival du Fantastique de Béziers**</a>, sur le thème «&nbsp;Légendes&nbsp;».
+
+Envie de découvrir ce que sont les véritables arbres de lune, les fameux &laquo;&nbsp;moon trees&nbsp;&raquo;&nbsp;? Je vous l'explique [sur mon blog](/ecriture/2023/09/30/la-science-dans-mes-nouvelles.html#larbre-de-lune-lh%C3%A9ritage-de-la-mission-apollo-14).

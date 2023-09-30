@@ -82,6 +82,9 @@ Alors, vous pensez que j'ai réussi à les tenir&nbsp;? Tous&nbsp;? Une partie s
 
 ---
 ---
+👉 *Visitez les coulisses de ma trépidante (non) [vie d'autrice](/blog/tags#viedautrice).*
+{: .text-center}
+
 👉 *Découvrez mes [chroniques de livres et séries](/blog/tags#chronique).*
 {: .text-center}
 
