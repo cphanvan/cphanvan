@@ -15,12 +15,12 @@ header:
   actions:
     - label: "Lire sur Fyctia"
       url: "https://www.fyctia.com/author/257742"
-excerpt: "Ma comédie romantique &laquo;&nbsp;<em><strong>Cercueil et Préjugés</strong></em>&nbsp;&raquo; est finaliste du concours Fyctia &laquo;&nbsp;Comme dans un film&nbsp;&raquo;&nbsp;!<br>Et mon thriller &laquo;&nbsp;<em><strong>45,93&nbsp;grammes</strong></em>&nbsp;&raquo; participe au concours &laquo;&nbsp;Fait divers&nbsp;&raquo;.<br><br>Envie de les découvrir&nbsp;?"
+excerpt: "Ma comédie romantique &laquo;&nbsp;<em><strong>Cercueil et Préjugés</strong></em>&nbsp;&raquo; est finaliste du concours Fyctia &laquo;&nbsp;Comme dans un film&nbsp;&raquo;&nbsp;!<br>Et mon thriller &laquo;&nbsp;<em><strong>45,93&nbsp;grammes</strong></em>&nbsp;&raquo; a participé au concours &laquo;&nbsp;Fait divers&nbsp;&raquo;.<br><br>Envie de les découvrir&nbsp;?"
 a_propos:
   - excerpt: |
       Catherine Phan van est née en 1976 au pays des sapins et du froid, qu'elle a quitté pour s'installer près de Bordeaux, où elle vit depuis 2008.
 
-      Ingénieure de formation mais autrice de cœur depuis sa plus tendre adolescence, elle a attendu, avec patience à défaut de courage, d'atteindre sa quarante-cinquième année avant d'oser enfin brandir sa plume et dévoiler ses textes.
+      Elle a semé des nouvelles sur la toile et dans divers recueils papier. Sur ce site, vous pouvez [lire gratuitement certains de ses textes](/echantillons), explorer ses [publications](/publications) et découvrir [les coulisses de sa vie d'autrice](/blog/tags#viedautrice). Et si vous voulez rire de ses bourdes, n'hésitez pas à [vous abonner à sa newsletter](/bonus)&nbsp;!
     url: "/a-propos"
     btn_label: "En savoir plus"
 contenu_site:
