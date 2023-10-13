@@ -32,7 +32,7 @@ La version numérique du recueil est **disponible gratuitement** <a href="https:
 
 Comme ma nouvelle faisait partie des textes finalistes, j'ai eu la chance de la voir illustrée par <a href="https://quentinaube.com/" target="_blank">Quentin Aubé</a>, l'un des membres du jury du concours d'illustrations du festival. Et il a réalisé un travail magnifique, qui restitue à merveille la complicité que j'ai souhaité dépeindre entre la petite Linh et la lune&nbsp;!
 
-Avec sa permission, je vous en pose ici un petit aperçu (cliquez sur l'image pour la voir en grand)&nbsp;:
+Avec son accord, je vous en pose ici un petit aperçu (cliquez sur l'image pour la voir en grand)&nbsp;:
 
 [![styled-image](/assets/images/publications/l-arbre-de-lune-quentin-aube-preview.jpg "Illustration de L'arbre de lune par Quentin Aubé"){: .align-center style="max-width: 100%;}](/assets/images/publications/l-arbre-de-lune-quentin-aube.jpg)
 *Illustration de L'arbre de lune par <a href="https://quentinaube.com/" target="_blank">Quentin Aubé</a>*
