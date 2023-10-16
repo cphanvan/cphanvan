@@ -9,14 +9,9 @@ toc_label: Liens utiles
 
 ## Mes livres
 
-### À la une&nbsp;: «&nbsp;*Comme dans un film*&nbsp;» - finaliste
+### À la une&nbsp;: «&nbsp;*L'arbre de lune*&nbsp;» - 3<sup>e</sup> du concours du FFB
 
-[*Cercueil et préjugés*&nbsp;: comédie romantique (en accès libre sur Fyctia)](https://fyctia.com/stories/cercueil-et-prejuges){: .btn .btn--info .btn--large .btn--linktree}
-
-
-### Thriller en cours d'écriture
-
-[*45,93&nbsp;grammes* (en accès libre sur Fyctia)](https://www.fyctia.com/stories/45-93-grammes){: .btn .btn--info .btn--large .btn--linktree}
+[*L'arbre de lune*&nbsp;: nouvelle fantastique](/publications/l-arbre-de-lune){: .btn .btn--info .btn--large .btn--linktree}
 
 
 ### Dernières parutions

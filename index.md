@@ -11,11 +11,11 @@ date: 2022-12-02T12:00:00Z
 header:
   overlay_color: "#557a95"
   overlay_filter: "rgba(85, 122, 149, 0.7)"
-  overlay_image: /assets/images/bandeau-fyctia-romcom-thriller.webp
+  overlay_image: /assets/images/bandeau-arbre-de-lune.webp
   actions:
-    - label: "Lire sur Fyctia"
-      url: "https://www.fyctia.com/author/257742"
-excerpt: "Ma comédie romantique &laquo;&nbsp;<em><strong>Cercueil et Préjugés</strong></em>&nbsp;&raquo; est finaliste du concours Fyctia &laquo;&nbsp;Comme dans un film&nbsp;&raquo;&nbsp;!<br>Et mon thriller &laquo;&nbsp;<em><strong>45,93&nbsp;grammes</strong></em>&nbsp;&raquo; a participé au concours &laquo;&nbsp;Fait divers&nbsp;&raquo;.<br><br>Envie de les découvrir&nbsp;?"
+    - label: "Télécharger le recueil"
+      url: "https://festival-fantastique.fr/wp-content/uploads/2023/10/FFB-2023-pdf.pdf"
+excerpt: "Ma nouvelle &laquo;&nbsp;<em><strong>L'arbre de lune</strong></em>&nbsp;&raquo; a terminé 3<sup>e</sup> du concours du Festival du Fantastique de Béziers.<br><br>Envie de la lire&nbsp;?"
 a_propos:
   - excerpt: |
       Catherine Phan van est née en 1976 au pays des sapins et du froid, qu'elle a quitté pour s'installer près de Bordeaux, où elle vit depuis 2008.

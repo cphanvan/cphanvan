@@ -15,19 +15,6 @@ toc: true
 
 ## En recherche d'éditeur&nbsp;:
 
-### Cercueil et Préjugés
-
-*comédie romantique contemporaine - <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**finaliste du concours Fyctia "Comme dans un film"**</a>*
-
-Le pitch&nbsp;:
-> Quand Adélie rentre chez elle après trois mois coupée de tout, elle ne s'attend ni à tomber nez à nez avec le nouveau locataire de son appartement, ni à la révélation que ce dernier lui réserve&nbsp;: que tout le monde la croit morte et enterrée&nbsp;!
-> <br />Or, se reconstruire une vie quand on a perdu son domicile et qu'on passe pour décédé aux yeux de l'administration ne s'avère pas de tout repos&hellip;
-
-Je vous en dis davantage [dans cet article de blog](/ecriture/2023/03/31/objectifs-écriture-2023.html#pourquoi-le-concours-fyctia) sur les raisons pour lesquelles j'ai décidé de me lancer dans ce projet.
-
-Mon roman, ainsi que les 7&nbsp;autres finalistes, est actuellement entre les mains du jury. Les résultats de la finale devraient être connus autour de mi-septembre 2023&nbsp;: je croise les doigts&nbsp;! 🤞
-
-
 ### Chasseuse de rêves
 
 *roman jeunesse*
@@ -39,7 +26,20 @@ Vous pouvez [en lire le pitch et le prologue par ici](/ecriture/2022/06/23/bêta
 Les [chapitres&nbsp;1 et 2](/bonus#textes-à-télécharger) sont disponibles gratuitement pour les abonnés à la newsletter.
 
 
-## En cours d'écriture&nbsp;:
+## En cours de réécriture&nbsp;:
+
+### Cercueil et Préjugés
+
+*comédie romantique contemporaine - <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**finaliste du concours Fyctia "Comme dans un film"**</a>*
+
+Le pitch&nbsp;:
+> Quand Adélie rentre chez elle après trois mois coupée de tout, elle ne s'attend ni à tomber nez à nez avec le nouveau locataire de son appartement, ni à la révélation que ce dernier lui réserve&nbsp;: que tout le monde la croit morte et enterrée&nbsp;!
+> <br />Or, se reconstruire une vie quand on a perdu son domicile et qu'on passe pour décédé aux yeux de l'administration ne s'avère pas de tout repos&hellip;
+
+Je vous en dis davantage [dans cet article de blog](/ecriture/2023/03/31/objectifs-écriture-2023.html#pourquoi-le-concours-fyctia) sur les raisons pour lesquelles j'ai décidé de me lancer dans ce projet.
+
+
+## En attente&nbsp;:
 
 ### 45,93&nbsp;grammes
 
@@ -50,14 +50,7 @@ Le pitch&nbsp;:
 > <br />45,93&nbsp;grammes et un diamètre de 42,67&nbsp;millimètres. Une sphère presque parfaite. Une balle de golf ordinaire&hellip; C'est tout ce qu'on a retrouvé à côté de son corps inconscient.
 > <br />Mais alors qu'une partie de ses souvenirs s'est évanouie, que croire, et à qui se fier&nbsp;? S'agissait-il d'un simple accident, comme le laissent supposer les apparences, ou d'une agression, ainsi que sa mère en est persuadée&nbsp;? Et à qui appartient ce visage qui vient hanter ses rêves&nbsp;?
 
-J'écris ce roman dans le cadre du concours Fyctia *"Fait divers"*. Les <a href="https://www.fyctia.com/stories/45-93-grammes" target="_blank">premiers chapitres</a> sont en ligne, si cela vous tente de passer y jeter un coup d'&oelig;il.
-
 Avec trois lignes temporelles distinctes, et trois points de vue différents, je ne me facilite pas la tâche. D'autant que je récidive avec ma "méthode" qui consiste à avancer sans plan. 😅 Reste à voir où cela me mènera&hellip; 
-
-
-
-## En attente&nbsp;:
-
 
 ### Cosy mystery (en attente de titre)
 
