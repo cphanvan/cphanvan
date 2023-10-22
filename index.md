@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: "Écriture en cours&hellip;"
+title: "Dernières nouvelles&hellip;"
 seo_title: "Graine d'autrice"
 description: Site officiel de l'autrice Catherine Phan van. Retrouvez ses publications, des textes gratuits et inédits en exclusivité, son actu...
 layout: splash
@@ -15,12 +15,16 @@ header:
   actions:
     - label: "Télécharger le recueil"
       url: "https://festival-fantastique.fr/wp-content/uploads/2023/10/FFB-2023-pdf.pdf"
+    - label: "Mes autres publications"
+      url: "/publications"
 excerpt: "Ma nouvelle &laquo;&nbsp;<em><strong>L'arbre de lune</strong></em>&nbsp;&raquo; a terminé 3<sup>e</sup> du concours du Festival du Fantastique de Béziers.<br><br>Envie de la lire&nbsp;?"
 a_propos:
   - excerpt: |
-      Catherine Phan van est née en 1976 au pays des sapins et du froid, qu'elle a quitté pour s'installer près de Bordeaux, où elle vit depuis 2008.
-
-      Elle a semé des nouvelles sur la toile et dans divers recueils papier. Sur ce site, vous pouvez [lire gratuitement certains de ses textes](/echantillons), explorer ses [publications](/publications) et découvrir [les coulisses de sa vie d'autrice](/blog/tags#viedautrice). Et si vous voulez rire de ses bourdes, n'hésitez pas à [vous abonner à sa newsletter](/bonus)&nbsp;!
+      Née en 1976 au pays des sapins et du froid, je vis aujourd'hui près de Bordeaux.
+      
+      J'ai semé des nouvelles sur la toile et dans diverses anthologies. Sur ce site, vous pouvez explorer mes [publications](/publications), [lire gratuitement certains de mes textes](/echantillons), découvrir [les coulisses de ma vie d'autrice](/blog/tags#viedautrice), ou retrouver mes [chroniques de lecture](/blog/tags#chronique).
+      
+      Et si vous avez envie de rire de mes bourdes, n'hésitez pas à [vous abonner à ma newsletter](/bonus)&nbsp;!
     url: "/a-propos"
     btn_label: "En savoir plus"
 contenu_site:
