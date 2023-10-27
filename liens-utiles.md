@@ -16,11 +16,11 @@ toc_label: Liens utiles
 
 ### Dernières parutions
 
-[*Sinistre volonté*, in *L'Indé Panda n°13* (ebook gratuit)](https://amzn.to/45616ik){: .btn .btn--info .btn--large .btn--linktree}
+[*Sinistre volonté*, in *L'Indé Panda n°13*](https://amzn.to/3EYx1Xc){: .btn .btn--info .btn--large .btn--linktree}
 
-[*Sinistre volonté*, in *L'Indé Panda n°13* (version papier)](https://amzn.to/3EYx1Xc){: .btn .btn--info .btn--large .btn--linktree}
+[*La vallée cachée*, in *Interstices* (anthologie SFFF - papier)](https://herosdepapierfroisse.fr/editionshpf/nos-livres/interstices/){: .btn .btn--info .btn--large .btn--linktree}
 
-[*La vallée cachée*, in *Interstices* (anthologie SFFF)](https://herosdepapierfroisse.fr/editionshpf/nos-livres/interstices/){: .btn .btn--info .btn--large .btn--linktree}
+[*La vallée cachée*, in *Interstices* (anthologie SFFF - ebook)](https://amzn.to/3s0ayGB){: .btn .btn--info .btn--large .btn--linktree}
 
 [*Élégie à une selkie*, in *Érudition & Poésie* (anthologie fanstastique)](https://www.vagabondsdureve.fr/produit/n8-eridution-poesie/){: .btn .btn--info .btn--large .btn--linktree}
 
