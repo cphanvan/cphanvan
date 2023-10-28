@@ -6,8 +6,10 @@
 <!-- Insights -->
 <script src="https://getinsights.io/js/insights.js"></script>
 <script>
-  insights.init('nw3iKFCGialfAUcJ');
-  insights.trackPages();
+  if (location.hostname !== 'localhost' && location.hostname !== '127.0.0.1') {
+    insights.init('nw3iKFCGialfAUcJ');
+    insights.trackPages();
+  }
 </script>
 
 <script type="application/ld+json">
