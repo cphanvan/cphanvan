@@ -53,7 +53,7 @@ Les pactes conclus avec Lucifer sont réputés inviolables&hellip; Son unique ch
 
 Non mais regardez-moi un peu cette couverture, et osez venir me dire que ça ne vous donne pas envie de découvrir les mots qui se cachent derrière&nbsp;! (Mais ensuite, déguerpissez vite&nbsp;: je mords. 😈)
 
-Franchement, ce serait dommage de passer à côté. Car l'écrin est superbe et le contenu à l'avenant. Au fond, le principal reproche que je peux faire à cette novella, c'est&hellip; qu'il s'agit d'une novella, et donc qu'elle nous offre des moments de lecture beaucoup trop courts&nbsp;! Pour ma part, j'aurais volontiers prolongé les moments passés en compagnie de Nessa, Dandy, Céleste&hellip; et même Lulu (rien que ce surnom me fait ricaner bêtement).
+Franchement, ce serait dommage de passer à côté. Car l'écrin est superbe et le contenu à l'avenant. Au fond, le principal reproche que je peux faire à cette novella, c'est&hellip; qu'il s'agit d'une novella, et donc qu'elle nous offre des moments de lecture beaucoup trop courts&nbsp;! Pour ma part, j'aurais volontiers prolongé les instants passés en compagnie de Nessa, Dandy, Céleste&hellip; et même Lulu (rien que ce surnom me fait ricaner bêtement).
 
 La bonne nouvelle, c'est que, s'il s'agit là de la première publication de Sanguine, l'autrice semble bien décidée à ne pas s'arrêter en si bonne voie. Pour preuve, elle a déjà deux romans prévus en 2023&nbsp;: *Quand nous nagions sous les étoiles*, dont la sortie est annoncée en décembre aux éditions Juno Publishing, et *Ici vivent les ténèbres*, paru en octobre aux Éditions du Chat Noir -- dont la couverture, à nouveau superbe, promet une délicieuse ambiance gothique.
 
