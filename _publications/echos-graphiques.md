@@ -24,3 +24,5 @@ Aurélie et Nicolas attendent un heureux événement. Ils viennent passer Noël 
 Le recueil ***Creepy Christmas and bloody New Year***, dont la publication aux éditions <a href="https://www.instagram.com/beetlebooks_publishing/" target="_blank">BeetleBooks Publishing</a> était initialement prévue en décembre 2021, a vu sa date de parution reportée.<br><br>
 Si tout va bien, il devrait finalement voir le jour courant 2023.
 {: .notice--info}
+
+<video width="512" height="640" controls muted autoplay><source src="/assets/images/publications/echos-graphiques-teaser.mp4"></video>
