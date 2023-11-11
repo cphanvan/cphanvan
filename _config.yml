@@ -49,15 +49,15 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/cathphanvan/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/CathPhanvan"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://piaille.fr/@cathphanvan"
+    - label: "BlueSky"
+      icon: "fas fa-fw fa-square"
+      url: "https://bsky.app/profile/cathphanvan.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-f"
       url: "https://www.facebook.com/CathPhanvan"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/CathPhanvan"
 
 # SEO
 og_image: /assets/images/logo_CPV_transparent.webp
@@ -67,14 +67,16 @@ facebook:
   app_id: "966242223397117"
   publisher: "105571458596033"
   username: "https://www.facebook.com/CathPhanvan"
+bluesky:
+  username: "cathphanvan.bsky.social"
 social:
   type: Person
   name: Catherine Phan van
   links:
-    - https://twitter.com/CathPhanvan
     - https://www.instagram.com/cathphanvan/
-    - https://piaille.fr/@cathphanvan
+    - https://bsky.app/profile/cathphanvan.bsky.social
     - https://www.facebook.com/CathPhanvan
+    - https://twitter.com/CathPhanvan
 
 # Google Analytics
 analytics:
@@ -112,15 +114,15 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/cathphanvan/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/CathPhanvan"
-    - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
-      url: "https://piaille.fr/@cathphanvan"
+    - label: "BlueSky"
+      icon: "fas fa-fw fa-square"
+      url: "https://bsky.app/profile/cathphanvan.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-f"
       url: "https://www.facebook.com/CathPhanvan"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/CathPhanvan"
 
 
 # Build settings

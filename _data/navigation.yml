@@ -41,14 +41,14 @@ publications:
         url: /publications/plein-sud
   - title: "Nouvelles"
     children:
+      - title: "Échos graphiques"
+        url: /publications/echos-graphiques
       - title: "La vallée cachée"
         url: /publications/la-vallee-cachee
       - title: "Élégie à une selkie"
         url: /publications/elegie-a-une-selkie
       - title: "Pot à céder"
         url: /publications/pot-a-ceder
-      - title: "Échos graphiques"
-        url: /publications/echos-graphiques
       - title: "Enfants des neiges"
         url: /publications/enfants-des-neiges
       - title: "Le cadeau des fées"

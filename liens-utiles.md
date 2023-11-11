@@ -77,19 +77,21 @@ toc_label: Liens utiles
 
 [BookNode](https://booknode.com/auteur/catherine-phan-van){: .btn .btn--info .btn--large .btn--linktree}
 
+[GoodReads](https://www.goodreads.com/author/show/21595869.Catherine_Phan_Van){: .btn .btn--info .btn--large .btn--linktree}
+
 [LivrAddict](https://www.livraddict.com/biblio/auteur/catherine-phan-van.html){: .btn .btn--info .btn--large .btn--linktree}
 
 ### Mes réseaux sociaux
 
 [Instagram](https://www.instagram.com/cathphanvan/){: .btn .btn--info .btn--large .btn--linktree}
 
-[Twitter](https://twitter.com/CathPhanvan){: .btn .btn--info .btn--large .btn--linktree}
+[BlueSky](https://bsky.app/profile/cathphanvan.bsky.social){: .btn .btn--info .btn--large .btn--linktree}
 
 [Facebook](https://www.facebook.com/CathPhanvan){: .btn .btn--info .btn--large .btn--linktree}
 
 [TikTok](https://www.tiktok.com/@cathphanvan){: .btn .btn--info .btn--large .btn--linktree}
 
-[Mastodon](https://piaille.fr/@cathphanvan){: .btn .btn--info .btn--large .btn--linktree}
+[Twitter](https://twitter.com/CathPhanvan){: .btn .btn--info .btn--large .btn--linktree}
 
 ### Me contacter
 
