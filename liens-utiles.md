@@ -51,6 +51,10 @@ toc_label: Liens utiles
 
 [Abonnement à ma newsletter gratuite](/bonus#abonnez-vous){: .btn .btn--info .btn--large .btn--linktree}
 
+### Boutique en ligne
+
+[Ma boutique en ligne](https://ko-fi.com/cathphanvan/shop){: .btn .btn--info .btn--large .btn--linktree}
+
 
 ## Mon blog
 
