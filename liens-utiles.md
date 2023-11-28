@@ -16,9 +16,11 @@ toc_label: Liens utiles
 
 ### Dernières parutions
 
+[*Échos graphiques*, in *Creepy Christmas and Bloody New Year* (anthologie horrifique - papier)](https://amzn.to/3sTc0e7){: .btn .btn--info .btn--large .btn--linktree}
+
 [*Échos graphiques*, in *Creepy Christmas and Bloody New Year* (anthologie horrifique - ebook)](https://amzn.to/3MuMX80){: .btn .btn--info .btn--large .btn--linktree}
 
-[*Sinistre volonté*, in *L'Indé Panda n°13*](https://amzn.to/3EYx1Xc){: .btn .btn--info .btn--large .btn--linktree}
+[*Sinistre volonté*, in *L'Indé Panda n°13* (papier ou ebook)](https://amzn.to/3EYx1Xc){: .btn .btn--info .btn--large .btn--linktree}
 
 [*La vallée cachée*, in *Interstices* (anthologie SFFF - papier)](https://herosdepapierfroisse.fr/editionshpf/nos-livres/interstices/){: .btn .btn--info .btn--large .btn--linktree}
 
