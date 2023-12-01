@@ -75,7 +75,7 @@ toc_label: Liens utiles
 
 [Mon site](/){: .btn .btn--info .btn--large .btn--linktree}
 
-[Ma newsletter](/bonus#abonnez-vous){: .btn .btn--info .btn--large .btn--linktree}
+[Ma newsletter](/newsletter#abonnez-vous){: .btn .btn--info .btn--large .btn--linktree}
 
 [Amazon](https://amzn.to/48vvKEK){: .btn .btn--info .btn--large .btn--linktree}
 

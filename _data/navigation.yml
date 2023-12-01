@@ -6,9 +6,9 @@ main:
   - title: "Textes gratuits"
     url: /echantillons
     icon: "fas fa-pen-fancy"
-  - title: "Bonus abonnés"
-    url: /bonus
-    icon: "fas fa-gift"
+  - title: "Newsletter"
+    url: /newsletter
+    icon: "fas fa-envelope-open-text"
   - title: "Blog"
     url: /blog
     icon: "fas fa-blog"

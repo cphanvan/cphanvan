@@ -94,6 +94,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  newsletter:
+    output: true
+    permalink: /:collection/:path/
 
 # Posts
 posts:
