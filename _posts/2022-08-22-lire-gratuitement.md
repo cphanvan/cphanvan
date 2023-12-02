@@ -403,9 +403,6 @@ Les principales offres disponibles actuellement&nbsp;:
 
 Oui, je me répète&nbsp;: abonnez-vous aux newsletters de vos auteurs ou autrices favoris&nbsp;! Vous aurez parfois la suprise de recevoir des textes gratuits, des promotions qui vous sont réservées, ou encore des extraits en avant-première.
 
-*Attention, c'est la minute auto-promo*&nbsp;! 😇 Par exemple, si vous vous [abonnez à ma newsletter mensuelle](/bonus#abonnez-vous), vous aurez immédiatement accès à l'ensemble de la section [Bonus abonnés](/bonus) de mon site, et pourrez télécharger gratuitement toutes les nouvelles qui y sont disponibles.
-{: .notice--info}
-
 
 ---
 ---

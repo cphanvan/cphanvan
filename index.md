@@ -20,40 +20,53 @@ header:
 excerpt: "Ma nouvelle &laquo;&nbsp;<em><strong>L'arbre de lune</strong></em>&nbsp;&raquo; a terminé 3<sup>e</sup> du concours du Festival du Fantastique de Béziers.<br><br>Envie de la lire&nbsp;?"
 a_propos:
   - excerpt: |
+      **Qui suis-je&nbsp;?**
+      
       Née en 1976 au pays des sapins et du froid, je vis aujourd'hui près de Bordeaux.
       
-      J'ai semé des nouvelles sur la toile et dans diverses anthologies. Sur ce site, vous pouvez explorer mes [publications](/publications), [lire gratuitement certains de mes textes](/echantillons), découvrir [les coulisses de ma vie d'autrice](/blog/tags#viedautrice), ou retrouver mes [chroniques de lecture](/blog/tags#chronique).
+      J'ai semé des nouvelles sur la toile et dans diverses anthologies. Sur ce site, vous pouvez explorer mes [publications](/publications), [lire gratuitement certains de mes textes](/echantillons), découvrir [les coulisses de ma vie d'autrice](/blog/tags#viedautrice), ou retrouver mes [chroniques de lecture](/blog/tags#chronique) ou [interviews d'auteurs ou autrices](/blog/tags#interview).
       
-      Et si vous avez envie de rire de mes bourdes, n'hésitez pas à [vous abonner à ma newsletter](/bonus)&nbsp;!
+      Et si vous avez envie de rire de mes bourdes, n'hésitez pas à [vous abonner à ma newsletter](/newsletter)&nbsp;!
     url: "/a-propos"
     btn_label: "En savoir plus"
 contenu_site:
   - image_path: assets/images/publications.webp
     title: "Publications"
-    excerpt: "Découvrez ici mes nouvelles publiées, mais aussi mes recueils, romans ou novellas qui trépignent de suivre un jour le même chemin"
+    excerpt: "Découvrez ici mes nouvelles publiées, mais aussi mes recueils, romans ou novellas qui trépignent de suivre un jour le même chemin."
     url: "/publications"
-    btn_label: "Découvrir"
+    btn_label: "Je découvre"
   - image_path: /assets/images/echantillons.webp
-    alt: "Echantillons"
-    title: "Échantillons"
-    excerpt: "Quelques-uns de mes textes sont à lire ici en accès libre : nouvelles à quatre mains avec des autrices amies, micronouvelles, jeux d'écriture..."
+    alt: "Textes gratuits"
+    title: "Textes gratuits"
+    excerpt: "Quelques-uns de mes textes sont ici en accès libre : nouvelles solo ou à quatre mains (avec des autrices amies), micronouvelles, jeux d'écriture..."
     url: "/echantillons"
-    btn_label: "Lire"
-  - image_path: /assets/images/bonus_abonnes.webp
-    alt: "Bonus abonnés"
-    title: "Textes offerts"
-    excerpt: "Abonnez-vous gratuitement à la newsletter mensuelle et retrouvez ici les textes qui vous sont réservés en exclusivité !"
-    url: "/bonus#abonnez-vous"
-    btn_label: "S'abonner"
-contact:
-  - url: "/agenda"
-    btn_label: "Vous souhaitez me rencontrer lors d'une séance de dédicaces ?"
-  - url: "/contact"
-    btn_label: "Vous pouvez également me contacter ici !"
+    btn_label: "Je lis"
+  - image_path: /assets/images/newsletter.webp
+    alt: "Newsletter"
+    title: "L'épître(ries)"
+    excerpt: "Abonnez-vous à ma newsletter mensuelle et découvrez <strike>mes bourdes</strike> les coulisses de ma vie d'autrice."
+    url: "/newsletter#abonnez-vous"
+    btn_label: "Je m'abonne"
+  - image_path: /assets/images/blog.webp
+    alt: "Blog"
+    title: "Blog"
+    excerpt: "Retrouvez mes chroniques lectures, interviews d'autrices ou auteurs, billets sur l'écriture, et états d'âme en tous genres&hellip;"
+    url: "/blog"
+    btn_label: "Mon blog"
+  - image_path: /assets/images/agenda.webp
+    alt: "Agenda"
+    title: "Agenda"
+    excerpt: "Vous souhaitez me rencontrer lors d'une séance de dédicaces ou connaître la date de mes prochaines sorties&nbsp;?"
+    url: "/agenda"
+    btn_label: "Mon agenda"
+  - image_path: /assets/images/contact.webp
+    alt: "Contact"
+    title: "Contact"
+    excerpt: "Vous souhaitez me contacter&nbsp;? C'est par ici&nbsp;!"
+    url: "/contact"
+    btn_label: "Me contacter"
 ---
 
 {% include feature_row id="a_propos" type="center" %}
 
 {% include feature_row id="contenu_site" %}
-
-{% include feature_row id="contact" type="center" %}

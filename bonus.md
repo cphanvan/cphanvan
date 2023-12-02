@@ -13,11 +13,10 @@ sidebar:
 
       C'est gratuit et sans aucun engagement&nbsp;: si le contenu ne vous plaît pas, vous pouvez résilier votre abonnement à tout moment&nbsp;! N'hésitez pas à vous inscrire&nbsp;! 😉
 share: true
-permalink: /bonus
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /assets/images/bandeau-bonus.webp
+  overlay_image: /assets/images/bandeau-newsletter.webp
 bonus: true
 books:
   - teaser: "Chasseuse de rêves (premiers chapitres)"
@@ -35,25 +34,6 @@ books:
         Mais la fillette refuse de croire que son aîné est mort. Elle est prête à tout tenter pour le ramener. Alors, à l'aube du solstice, l'année de ses neuf ans, elle se glisse parmi les garçons&hellip;
 
         Découvrez le prologue et le chapitre&nbsp;1 de mon roman de science-fiction young-adult en cours d'écriture, [*Les oubliées d'Épeirandria*](/publications/projets-en-cours/#les-oubli%C3%A9es-depeirandria).
-  - teaser: "Du noir aux flammes"
-    bonus_id: "DuNoirAuxFlammes"
-    image_path: /assets/images/bonus/DuNoirAuxFlammes-couv.webp
-    description: |
-        Jusqu'où la noiceur d'une ville peut-elle corrompre les êtres qu'elle abrite ?
-
-        Cette courte nouvelle paraîtra courant 2023 au sein du recueil [*Fragments de solitudes*](/publications/projets-en-cours/#fragments-de-solitudes).
-  - teaser: "Mauvais swing"
-    bonus_id: "MauvaisSwing"
-    image_path: /assets/images/bonus/MauvaisSwing-couv.webp
-    description: |
-        Une pianiste, un saxophoniste, du jazz… Et un jour, un mauvais swing.
-  - teaser: "La légende de la Fée Neige"
-    bonus_id: "LaLegendeDeLaFeeNeige"
-    image_path: /assets/images/bonus/LaLegendeDeLaFeeNeige-couv.webp
-    description: |
-        Une incursion au pays des sapins, de la neige et du froid…
-
-        Retrouvez ici la légende qui a donné naissance à <a href=https://amzn.to/3EUK8Zw" target="_blank">ma nouvelle Enfants des neiges</a>&nbsp;!
   - teaser: "Un écrin pour toi, ma bien-aimée"
     bonus_id: "UnÉcrinPourToiMaBienAimée"
     image_path: /assets/images/bonus/UnÉcrinPourToiMaBienAimée-couv.webp
@@ -93,19 +73,6 @@ books:
         Dans une petite église de village, debout devant l'autel, Madeleine attend l'homme qu'elle s'apprête à épouser.
         
         Mais la vie réserve parfois des surprises&hellip;
-  - teaser: "Pitchi et la Gardienne des Âmes"
-    bonus_id: "PitchiEtLaGardienneDesAmes"
-    image_path: /assets/images/bonus/PitchiEtLaGardienneDesAmes-couv.webp
-    description: |
-        Quand Greer doit se résoudre à confier sa fille, âgée de sept jours à peine, à celui que lui a envoyé la gardiennes des âmes pour protéger l'enfant, Pitchi n'est sûrement pas le sauveur qu'elle espérait…
-  - teaser: "Le lapin rose"
-    bonus_id: "LeLapinRose"
-    image_path: /assets/images/bonus/LeLapinRose-couv.webp
-    description: |
-        Au travers d'une expérience qui ne tourne pas comme prévu, ce court récit jeunesse aborde le thème de la différence.
-
-        Prenez le temps d'en admirer la couverture, entièrement créée par mon tout jeune fils (9 ans) !
-
 ---
 
 # Textes à télécharger

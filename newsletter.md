@@ -1,7 +1,7 @@
 ---
 title: Newsletter
 seo_title: Newsletter
-description: Abonnez-vous à la newsletter mensuelle de Catherine Phan van, et retrouvez les précédentes newsletters.
+description: Abonnez-vous à la newsletter mensuelle de Catherine Phan van, et retrouvez les précédents numéros.
 layout: collection
 sidebar_newsletter_full: true
 sidebar:
@@ -10,7 +10,7 @@ permalink: /newsletter
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /assets/images/bandeau-bonus.webp
+  overlay_image: /assets/images/bandeau-newsletter.webp
 collection: newsletter
 entries_layout: list
 classes: wide

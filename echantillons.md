@@ -21,6 +21,39 @@ books:
         Quand Adélie rentre chez elle après trois mois coupée de tout, elle ne s'attend ni à tomber nez à nez avec le nouveau locataire de son appartement, ni à la révélation que ce dernier lui réserve&nbsp;: que tout le monde la croit morte et enterrée&nbsp;!
         
         Or, se reconstruire une vie quand on se retrouve sans domicile ni existence légale ne s'avère pas de tout repos&hellip;
+  - maintitle: "Nouvelles"
+    title: "Mauvais swing"
+    teaser: "Courte nouvelle contemporaine"
+    image_path: /assets/images/echantillons/MauvaisSwing-couv.webp
+    image_alt: "couverture de Mauvais swing"
+    url: /assets/textes/Mauvais_Swing.pdf
+    description: |
+        Une pianiste, un saxophoniste, du jazz… Et un jour, un mauvais swing.
+  - title: "La légende de la Fée Neige"
+    teaser: "Une légende inconnue"
+    image_path: /assets/images/echantillons/LaLegendeDeLaFeeNeige-couv.webp
+    image_alt: "couverture de La légende de la Fée Neige"
+    url: /assets/textes/La_Legende_De_La_Fee_Neige.pdf
+    description: |
+        Une incursion au pays des sapins, de la neige et du froid…
+
+        Retrouvez ici la légende qui a donné naissance à <a href="https://amzn.to/3EUK8Zw" target="_blank">ma nouvelle Enfants des neiges</a>&nbsp;!
+  - title: "Le lapin rose"
+    teaser: "Récit jeunesse"
+    image_path: /assets/images/echantillons/LeLapinRose-couv.webp
+    image_alt: "couverture du récit jeunesse Le lapin rose"
+    url: /assets/textes/Le_Lapin_Rose.pdf
+    description: |
+        Au travers d’une expérience qui ne tourne pas comme prévu, ce court récit jeunesse aborde le thème de la différence.
+
+        Prenez le temps d’admirer la couverture, entièrement créée par mon tout jeune fils (9 ans)&nbsp;!
+  - title: "Pitchi et la Gardienne des Âmes"
+    teaser: "Un texte de fantasy né lors d'un défi d'écriture"
+    image_path: /assets/images/echantillons/PitchiEtLaGardienneDesAmes-couv.webp
+    image_alt: "couverture de Pitchi et la Gardienne des Âmes"
+    url: /assets/textes/Pitchi_Et_La_Gardienne_Des_Ames.pdf
+    description: |
+        Quand Greer doit se résoudre à confier sa fille, âgée de sept jours à peine, à celui que lui a envoyé la gardiennes des âmes pour protéger l’enfant, Pitchi n’est sûrement pas le sauveur qu’elle espérait…
   - maintitle: "Nouvelles à 4 mains"
     title: "Cœur brisé et tasse de thé"
     teaser: "Une Saint-Valentin en solitaire... ou pas !"

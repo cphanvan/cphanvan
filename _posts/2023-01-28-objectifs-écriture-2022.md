@@ -25,9 +25,9 @@ Qu'avais-je donc l'espoir d'accomplir&nbsp;?
 
 ## En janvier
 
-* écrire et corriger une version complète de [*La légende de la Fée Neige*](/bonus)
+* écrire et corriger une version complète de [*La légende de la Fée Neige*](/echantillons)
 * répondre à un appel à textes
-* améliorer les [bonus](/bonus) pour les abonnés à ma newsletter
+* améliorer les bonus pour les abonnés à ma newsletter
 
 
 ## En février/mars/avril

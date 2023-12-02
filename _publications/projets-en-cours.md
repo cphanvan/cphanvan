@@ -23,8 +23,6 @@ Il s'agit d'un roman contemporain destiné aux adolescents de 12 ans et plus. J'
 
 Vous pouvez [en lire le pitch et le prologue par ici](/ecriture/2022/06/23/bêta-lecture-chasseuse-de-rêves.html#chasseuse-de-rêves-quest-ce-que-cest-).
 
-Les [chapitres&nbsp;1 et 2](/bonus#textes-à-télécharger) sont disponibles gratuitement pour les abonnés à la newsletter.
-
 
 ## En cours de réécriture&nbsp;:
 
@@ -82,8 +80,6 @@ En voici le pitch&nbsp;:
 > À chaque solstice d'été, sur l'île où est née Mika, a lieu une cérémonie rituelle&nbsp;: tous les garçons qui ont atteint l'âge de neuf ans sont sacrifiés à Skaphos, une divinité maléfique. C'est le sort qu'a connu le frère de Mika, et dont leur mère ne s'est pas remise. <br>
 Mais la fillette refuse de croire que son aîné est mort. Elle est prête à tout tenter pour le ramener. Alors, à l'aube du solstice, l'année de ses neuf ans, elle se glisse parmi les garçons&hellip;
 
-Le [prologue et le chapitre&nbsp;1](/bonus#textes-à-télécharger) sont disponibles gratuitement pour les abonnés à la newsletter.
-
 Sauf que j'ai essayé de l'aborder en architecte, c'est-à-dire en prévoyant un plan détaillé de l'intrigue avant de me lancer dans l'écriture, mais je n'étais jamais satisfaite de mes tentatives. Raison pour laquelle je l'ai mis de côté, et me suis lancée dans l'écriture d'un autre roman (*Cercueil et Préjugés*, pour ne pas le nommer), sans rien planifier à l'avance, pour tester si cette méthode me convenait mieux (réponse&nbsp;: **oui**), et&hellip; je ne l'ai pas (encore) repris depuis.
 
 
@@ -91,7 +87,7 @@ Sauf que j'ai essayé de l'aborder en architecte, c'est-à-dire en prévoyant un
 
 *recueil de nouvelles - projet abandonné*
 
-L'idée de ce recueil traînait dans un coin de ma tête depuis de longs mois. J'avais déjà 3 nouvelles candidates prêtes à y figurer (dont [*Du noir aux flammes*, accessible en avant-première pour les abonnés de la newsletter](/bonus#textes-à-télécharger)), et je comptais bien étoffer le matériau et ajouter d'autres récits avant de le publier.
+L'idée de ce recueil traînait dans un coin de ma tête depuis de longs mois. J'avais déjà 3 nouvelles candidates prêtes à y figurer, et je comptais bien étoffer le matériau et ajouter d'autres récits avant de le publier.
 
 Pour ce projet, je n'avais aucune hésitation&nbsp;: ce serait de l'autoédition.
 
@@ -102,5 +98,5 @@ Mais sait-on jamais&nbsp;? Un projet peut toujours renaître de ses cendres&hell
 
 ## Envie de suivre l'avancée de mes projets&nbsp;?
 
-N'hésitez pas à <a href="{{ '/bonus' | relative_url }}">vous abonner à ma newsletter</a>&nbsp;!
+N'hésitez pas à <a href="{{ '/newsletter' | relative_url }}">vous abonner à ma newsletter</a>&nbsp;!
 
