@@ -38,7 +38,7 @@ contenu_site:
   - image_path: /assets/images/echantillons.webp
     alt: "Textes gratuits"
     title: "Textes gratuits"
-    excerpt: "Quelques-uns de mes textes sont ici en accès libre : nouvelles solo ou à quatre mains (avec des autrices amies), micronouvelles, jeux d'écriture..."
+    excerpt: "Quelques-uns de mes textes sont ici en accès libre&nbsp;: nouvelles solo ou à quatre mains (avec des autrices amies), micronouvelles, jeux d'écriture..."
     url: "/echantillons"
     btn_label: "Je lis"
   - image_path: /assets/images/newsletter.webp
