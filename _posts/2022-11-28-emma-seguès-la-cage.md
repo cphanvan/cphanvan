@@ -5,7 +5,7 @@ layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
 date: 2022-11-28 12:00:00 +0100
-last_modified_at: 2022-11-28 12:00:00 +0100
+last_modified_at: 20223-12-03 13:50:00 +0100
 categories: chronique young-adult
 tags: lecture chronique roman young-adult thriller
 sidebar_newsletter: true
@@ -101,6 +101,10 @@ Il ne faut pas oublier qu'il s'agit d'un premier roman. On dit souvent que les s
 Au final, une bien chouette lecture. Mais attention&nbsp;: si vous vous laissez tenter, prévoyez du temps devant vous, parce que vous n'aurez sûrement pas envie de lâcher le roman avant de l'avoir terminé&nbsp;!
 
 ---
+Vous pouvez découvrir [ici l'interview d'Emma Seguès](/interview/2023/12/03/emma-segues-interview.html), à laquelle elle a répondu début décembre 2023.
+
+[![teaser de l'interview d'Emma Seguès](/assets/images/posts/2023-12-03_teaser-interview-emma-segues.webp)](/interview/2023/12/03/emma-segues-interview.html)
+
 ---
 👉 *Retrouvez mes autres [chroniques de livres et séries](/blog/tags#chronique).*
 {: .text-center}

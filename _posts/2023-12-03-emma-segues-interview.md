@@ -5,7 +5,7 @@ layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
 date: 2023-12-03 06:00:00 +0100
-last_modified_at: 2023-12-03 06:00:00 +0100
+last_modified_at: 2023-12-03 13:50:00 +0100
 categories: interview
 tags: interview
 sidebar_newsletter: true
@@ -91,6 +91,10 @@ Le choix d’un groupe de filles s’est donc imposé assez naturellement, car j
 ---&nbsp;Un grand merci à toi de m’avoir proposé cette sympathique interview&nbsp;!
 
 ---
+Vous pouvez retrouver [ici ma chronique de ***La cage***](/chronique/young-adult/2022/11/28/emma-segu%C3%A8s-la-cage.html)
+
+[![couverture de *La cage*](/assets/images/posts/2022-11-28_la-cage-cover.webp)](/chronique/young-adult/2022/11/28/emma-segu%C3%A8s-la-cage.html)
+
 ---
 👉 *Retrouvez toutes les [interviews](/blog/tags#interview).*
 {: .text-center}
