@@ -34,7 +34,7 @@
       <div id="success-message" class="hidden notice--success">
         <i class="fas fa-check-circle"></i><span> Votre inscription est prise en compte. Vous pouvez la confirmer en cliquant sur le lien dans le mail que vous allez recevoir.</span>
       </div>
-      <form id="sib-form" onsubmit="event.preventDefault(); subscribe(this);" method="POST" action="https://b78b353c.sibforms.com/serve/MUIEAOGMCUs_cuGYyUmOth2gEgvTFCm2VDkzrf2qOeEzT8wdj3BPuSrv_MwyABxsu3ziQHdSX_5Byaxe2-bP05jo76tznDd5ZXoaH5ieXP8AryDkTGeJ5DfLMKpOsggR_hucWZbqSKuutyaRRZ-9RoF4iVYAW6l0uUhmsUjoxketDhyQiKXvJvYPCnZ8KsWfoLhCxi1PTv1XMVmM" data-type="subscription">
+      <form id="sib-form" onsubmit="event.preventDefault(); let verifSimple = document.querySelector('#verif-simple').value; if (verifSimple !== '16' && verifSimple !== 'seize') {alert('Veuillez svp répondre à la question pour confirmer que vous êtes un humain');} else {subscribe(this);}" method="POST" action="https://b78b353c.sibforms.com/serve/MUIEAOGMCUs_cuGYyUmOth2gEgvTFCm2VDkzrf2qOeEzT8wdj3BPuSrv_MwyABxsu3ziQHdSX_5Byaxe2-bP05jo76tznDd5ZXoaH5ieXP8AryDkTGeJ5DfLMKpOsggR_hucWZbqSKuutyaRRZ-9RoF4iVYAW6l0uUhmsUjoxketDhyQiKXvJvYPCnZ8KsWfoLhCxi1PTv1XMVmM" data-type="subscription">
         <div class="sib-input">
             <label class="entry__label" for="EMAIL" data-required="*">Email&nbsp;*</label>
             <input class="input" type="email" id="EMAIL" name="EMAIL" autocomplete="off" data-required="true" required />
@@ -42,6 +42,10 @@
         </div>
         <div id="validation-message" class="hidden notice--warning">
           <i class="fas fa-exclamation-triangle"></i><span></span>
+        </div>
+        <div>
+          <label for="verif-simple">Deux fois huit&nbsp;?</label>
+          <input id="verif-simple" type="text" name="verif-simple" value="" />
         </div>
         <button class="sib-form-block__button sib-form-block__button-with-loader" form="sib-form" type="submit">Je m&#039;inscris</button>
       </form>
@@ -67,7 +71,7 @@
       <div id="success-message" class="hidden notice--success">
         <i class="fas fa-check-circle"></i><span> Votre inscription est prise en compte. Vous pouvez la confirmer en cliquant sur le lien dans le mail que vous allez recevoir.</span>
       </div>
-      <form id="sib-form" onsubmit="event.preventDefault(); subscribe(this);" method="POST" action="https://b78b353c.sibforms.com/serve/MUIEAOGMCUs_cuGYyUmOth2gEgvTFCm2VDkzrf2qOeEzT8wdj3BPuSrv_MwyABxsu3ziQHdSX_5Byaxe2-bP05jo76tznDd5ZXoaH5ieXP8AryDkTGeJ5DfLMKpOsggR_hucWZbqSKuutyaRRZ-9RoF4iVYAW6l0uUhmsUjoxketDhyQiKXvJvYPCnZ8KsWfoLhCxi1PTv1XMVmM" data-type="subscription">
+      <form id="sib-form" onsubmit="event.preventDefault(); let verif = document.querySelector('#verif').value; if (verif !== '16' && verif !== 'seize') {alert('Veuillez svp répondre à la question pour confirmer que vous êtes un humain');} else {subscribe(this);}" method="POST" action="https://b78b353c.sibforms.com/serve/MUIEAOGMCUs_cuGYyUmOth2gEgvTFCm2VDkzrf2qOeEzT8wdj3BPuSrv_MwyABxsu3ziQHdSX_5Byaxe2-bP05jo76tznDd5ZXoaH5ieXP8AryDkTGeJ5DfLMKpOsggR_hucWZbqSKuutyaRRZ-9RoF4iVYAW6l0uUhmsUjoxketDhyQiKXvJvYPCnZ8KsWfoLhCxi1PTv1XMVmM" data-type="subscription">
         <div class="sib-input">
             <label class="entry__label" for="EMAIL" data-required="*">Email&nbsp;*</label>
             <input class="input" type="email" id="EMAIL" name="EMAIL" autocomplete="off" data-required="true" required />
@@ -80,6 +84,10 @@
         </div>
         <div id="validation-message" class="hidden notice--warning">
           <i class="fas fa-exclamation-triangle"></i><span></span>
+        </div>
+        <div>
+          <label for="verif">Deux fois huit&nbsp;?&nbsp;*</label>
+          <input id="verif" type="text" name="verif" value="" />
         </div>
         <button class="sib-form-block__button sib-form-block__button-with-loader" form="sib-form" type="submit">Je m&#039;inscris</button>
         <p class="caution">
