@@ -40,7 +40,9 @@ toc_label: Liens utiles
 
 ### Projets en cours et à venir
 
-[*Chasseuse de rêves* (roman en recherche d'éditeur)](/publications/projets-en-cours/#chasseuse-de-rêves){: .btn .btn--info .btn--large .btn--linktree}
+[*Chasseuse de rêves* (roman ado en recherche d'éditeur)](/publications/projets-en-cours/#chasseuse-de-rêves){: .btn .btn--info .btn--large .btn--linktree}
+
+[*Cercueil et préjugés* (comédie romantique)](/publications/projets-en-cours/#cercueil-et-préjugés){: .btn .btn--info .btn--large .btn--linktree}
 
 [Mes futures histoires](/publications/projets-en-cours){: .btn .btn--info .btn--large .btn--linktree}
 

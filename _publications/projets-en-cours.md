@@ -24,7 +24,7 @@ Il s'agit d'un roman contemporain destiné aux adolescents de 12 ans et plus. J'
 Vous pouvez [en lire le pitch et le prologue par ici](/ecriture/2022/06/23/bêta-lecture-chasseuse-de-rêves.html#chasseuse-de-rêves-quest-ce-que-cest-).
 
 
-## En cours de réécriture&nbsp;:
+## En bêta-lecture&nbsp;:
 
 ### Cercueil et Préjugés
 
@@ -35,6 +35,10 @@ Le pitch&nbsp;:
 > <br />Or, se reconstruire une vie quand on a perdu son domicile et qu'on passe pour décédé aux yeux de l'administration ne s'avère pas de tout repos&hellip;
 
 Je vous en dis davantage [dans cet article de blog](/ecriture/2023/03/31/objectifs-écriture-2023.html#pourquoi-le-concours-fyctia) sur les raisons pour lesquelles j'ai décidé de me lancer dans ce projet.
+
+Suite au retour des éditrices après la finale Fyctia, mi octobre 2023, j'ai entrepris une réécriture du roman, que j'ai achevée vers fin novembre. J'attends désormais les retours des bêta-lectrices qui avaient déjà lu la version précédente, avant de passer à la phase de soumissions de cette nouvelle mouture en maisons d'édition.
+
+Vous pouvez <a href="https://www.fyctia.com/stories/cercueil-et-prejuges" target="_blank">lire sur Fyctia les trois premiers chapitres (qui ont très peu évolué), dans leur version initiale</a>.
 
 
 ## En attente&nbsp;:
