@@ -1,6 +1,6 @@
 ---
 title: "Chronique du roman d'Ars O'&nbsp;: *Bain de boue*"
-seo_title: "*Bain de boue* - Ars O'&nbsp;: chronique"
+seo_title: "*Bain de boue* - Ars O'&nbsp;: avis de lecture"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
@@ -68,7 +68,7 @@ Je suis sortie de ma lecture bouleversée, secouée, époustouflée. C'est l'un 
 
 
 
-## Quelques citations
+## Quelques extraits
 
 <span style="margin-left: 1em;"></span>---&nbsp;OK, il dit. Tout le monde sait ce qu'il fait dans la bauge mais personne sait pourquoi il est là.<br/>
 <span style="margin-left: 1em;"></span>---&nbsp;Je suis là parce que le Jardinier a pris ma mère par-devant, le Puterel insiste. Et toi et la Grande parce qu'on vous y a collés.<br/>
@@ -88,6 +88,9 @@ Un énorme coup de c&oelig;ur pour ce roman, dont la langue dépouillée transcr
 ---
 ---
 👉 *Retrouvez mes autres [chroniques de livres et séries](/blog/tags#chronique).*
+{: .text-center}
+
+👉 *Découvrez les [interviews d'auteurs ou autrices](/blog/tags#interview).*
 {: .text-center}
 
 👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉

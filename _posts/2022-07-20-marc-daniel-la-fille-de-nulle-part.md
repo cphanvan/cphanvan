@@ -1,6 +1,6 @@
 ---
 title: "Chronique du roman de Marc Daniel&nbsp;: *La fille de nulle part*"
-seo_title: "*La fille de nulle part* - Marc Daniel&nbsp;: chronique"
+seo_title: "*La fille de nulle part* - Marc Daniel&nbsp;: avis de lecture"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
@@ -85,6 +85,9 @@ En conclusion, vous l'aurez compris, j'ai grandement savouré cette lecture. Si 
 ---
 ---
 👉 *Retrouvez mes autres chroniques de [thrillers](/blog/tags#thriller) ou [polars](/blog/tags#polar).*
+{: .text-center}
+
+👉 *Découvrez les [interviews d'auteurs ou autrices](/blog/tags#interview).*
 {: .text-center}
 
 👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉

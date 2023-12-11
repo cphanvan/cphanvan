@@ -1,6 +1,6 @@
 ---
 title: "Chronique du roman de Christian Carayon&nbsp;: *Comment va la nuit&nbsp;?*"
-seo_title: "*Comment va la nuit&nbsp;?* - Christian Carayon&nbsp;: chronique"
+seo_title: "*Comment va la nuit&nbsp;?* - Christian Carayon&nbsp;: avis de lecture"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
@@ -61,7 +61,7 @@ Car oui, j'ai aimé les personnages. Avec leurs nombreux défauts, leurs multipl
 Et au final, la construction, si elle n'a rien d'exceptionnel (à mes yeux du moins), me semble parfaitement naturelle et au service du récit&nbsp;: le roman s'ouvre sur une scène où Anthony se trouve au seuil de la mort, qui éveille une curiosité légitime à comprendre comment il en est arrivé là. Toute la suite du livre permet de dévoiler petit à petit son cheminement, les divers événements clés de sa vie, et les bascules qu'ils ont tour à tour déclenchées. De manière magistrale.
 
 
-## Quelques citations
+## Quelques extraits
 
 <span style="margin-left: 1em;"></span>Il a beau chercher, il se rend compte qu’il n’a jamais douté d’elle. Quand elle reste tard le soir à son travail et que la nuit venue, elle n’est toujours pas à la maison. Quand elle pleure à en inonder la toile cirée de la cuisine. Quand elle traverse leur royaume en courant, une serviette-éponge enturbannée autour de la tête, une autre enroulée autour d’elle, pestant contre les habits qu’elle ne trouve pas et la pendule prise d’une frénétique envie de transformer les minutes en secondes, ordonnant à son fils d’arrêter le temps sur-le-champ comme tout bon lapin qui se respecte. Quand elle lui répond qu’elle sait le nom de son père, que, contrairement à ce qu’elle écrit sur les papiers, il n’est pas inconnu mais n’est surtout pas père. Elle dit que c’est ce mot qui est en trop et, à partir de ce jour-là, elle le raie systématiquement. Anthony ne la suspecte pas de lui mentir. Jamais il n’a pensé qu’elle puisse l’abandonner si elle est en retard. Il ne lui en veut pas d’être plus jeune et bien plus belle que les autres mères. Il sait que Maman est un roc. Elle tient bon, seule contre tous. Ainsi que l’assure maître Roumazeille, il faudrait davantage qu’une armée pour en venir à bout.
 {: .notice}
@@ -83,6 +83,9 @@ Un énorme coup de c&oelig;ur pour ces personnages blessés, ces amitiés et ces
 ---
 ---
 👉 *Retrouvez mes autres [chroniques de livres et séries](/blog/tags#chronique).*
+{: .text-center}
+
+👉 *Découvrez les [interviews d'auteurs ou autrices](/blog/tags#interview).*
 {: .text-center}
 
 👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉

@@ -1,6 +1,6 @@
 ---
 title: "Chronique du roman de H.Y. Hanna&nbsp;: *Chou à la crim'*"
-seo_title: "*Chou à la crim'* - H.Y. Hanna&nbsp;: chronique"
+seo_title: "*Chou à la crim'* - H.Y. Hanna&nbsp;: avis de lecture"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
@@ -84,6 +84,9 @@ Ce cosy mystery se déguste comme une pâtisserie anglaise. C'est frais, drôle,
 ---
 ---
 👉 *Retrouvez mes autres chroniques de [polars](/blog/tags#polar) ou [thrillers](/blog/tags#thriller).*
+{: .text-center}
+
+👉 *Découvrez les [interviews d'auteurs ou autrices](/blog/tags#interview).*
 {: .text-center}
 
 👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉

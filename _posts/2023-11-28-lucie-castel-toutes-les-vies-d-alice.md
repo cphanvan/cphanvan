@@ -1,6 +1,6 @@
 ---
 title: "Chronique du roman de Lucie Castel&nbsp;: *Toutes les vies d'Alice*"
-seo_title: "*Toutes les vies d'Alice* - Lucie Castel&nbsp;: chronique"
+seo_title: "*Toutes les vies d'Alice* - Lucie Castel&nbsp;: avis de lecture"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
@@ -62,7 +62,7 @@ Les thèmes abordés sont forts&nbsp;: infertilité, secrets de famille, santé 
 Bref, le roman avait a priori tout pour me plaire, et pourtant, l'alchimie n'a pas réussi à prendre. J'ai eu l'impression qu'il me manquait quelque chose. Un petit supplément d'âme, un petit grain de folie, une petite aspérité&nbsp;? Je ne sais pas très bien quoi, au juste, mais *quelque chose* qui m'aurait permis de ne pas avoir l'impression de lire un roman presque si bien maîtrisé et calibré qu'il a fini par me sembler un peu trop lisse.
 
 
-## Quelques citations
+## Quelques extraits
 
 <span style="margin-left: 1em;"></span>Les cloches de l’église s’étaient tues. Aigues-Mortes ne portait jamais aussi bien son nom que les jours d’enterrement.
 {: .notice}
@@ -96,6 +96,9 @@ Une lecture plutôt agréable, mais à laquelle j'ai trouvé qu'il manquait la p
 ---
 ---
 👉 *Retrouvez mes autres [chroniques de livres et séries](/blog/tags#chronique).*
+{: .text-center}
+
+👉 *Découvrez les [interviews d'auteurs ou autrices](/blog/tags#interview).*
 {: .text-center}
 
 👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉

@@ -1,6 +1,6 @@
 ---
 title: "Chronique du roman de Clémentine Beauvais&nbsp;: *Les petites reines*"
-seo_title: "*Les petites reines* - Clémentine Beauvais&nbsp;: chronique"
+seo_title: "*Les petites reines* - Clémentine Beauvais&nbsp;: avis de lecture"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
@@ -65,7 +65,7 @@ Démarre alors une aventure rocambolesque, qui va mener les trois filles jusqu'�
 
 ### Ce que j'ai aimé
 
-**L'humour**&nbsp;: la narratrice n'est autre que Mireille elle-même, et tout le roman est parsemé de petites réflexions piquantes et drôles à souhait. Rien que la manière dont sont désignés certains personnages, uniquement par les surnoms dont les affûble Mireille, donne déjà envie de sourire. Jetez un petit coup d'&oelig;il aux [quelques citations ci-dessous](#quelques-citations) pour vous en convaincre&nbsp;!
+**L'humour**&nbsp;: la narratrice n'est autre que Mireille elle-même, et tout le roman est parsemé de petites réflexions piquantes et drôles à souhait. Rien que la manière dont sont désignés certains personnages, uniquement par les surnoms dont les affûble Mireille, donne déjà envie de sourire. Jetez un petit coup d'&oelig;il aux [quelques extraits ci-dessous](#quelques-extraits) pour vous en convaincre&nbsp;!
 
 **La vivacité, l'énergie, l'enthousiasme** irradient tout au long des pages.
 
@@ -85,7 +85,7 @@ Je ne le ferai pas.
 Parce que pour moi, ce n'est pas la crédibilité de l'intrigue ou des dialogues qui font la force de ce roman. Et que si tout avait été davantage réaliste, je l'aurais sûrement beaucoup moins apprécié. En revanche, *si c'est important pour vous*, alors peut-être ce roman vous décevra-t-il&nbsp;: vous ne pourrez pas dire que vous ne le saviez pas&nbsp;! 😉
 
 
-### Quelques citations
+### Quelques extraits
 
 Je ne résiste pas au plaisir de vous livrer quelques courts extraits. Vous pourrez ainsi juger par vous-mêmes du ton du roman&nbsp;! 😆
 
@@ -109,6 +109,9 @@ C'est un **coup de c&oelig;ur**&nbsp;! Une lecture que je recommanderais sans h�
 ---
 ---
 👉 *Retrouvez mes autres [chroniques de livres et séries](/blog/tags#chronique).*
+{: .text-center}
+
+👉 *Découvrez les [interviews d'auteurs ou autrices](/blog/tags#interview).*
 {: .text-center}
 
 👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉

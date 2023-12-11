@@ -1,6 +1,6 @@
 ---
 title: "Chronique du roman d'Apollonie Sbragia&nbsp;: *La dernière morsure*"
-seo_title: "La dernière morsure - Apollonie Sbragia&nbsp;: chronique"
+seo_title: "La dernière morsure - Apollonie Sbragia&nbsp;: avis de lecture"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
@@ -85,6 +85,9 @@ bravo à Apollonie Sbragia pour ce premier roman, que j'espère bientôt suivi d
 ---
 ---
 👉 *Retrouvez mes autres chroniques de [polars](/blog/tags#polar) ou [thrillers](/blog/tags#thriller).*
+{: .text-center}
+
+👉 *Découvrez les [interviews d'auteurs ou autrices](/blog/tags#interview).*
 {: .text-center}
 
 👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉

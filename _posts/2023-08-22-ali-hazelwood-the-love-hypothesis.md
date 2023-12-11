@@ -1,6 +1,6 @@
 ---
 title: "Chronique du roman d'Ali Hazelwood&nbsp;: *The love hypothesis*"
-seo_title: "*The love hypothesis* - Ali Hazelwood&nbsp;: chronique"
+seo_title: "*The love hypothesis* - Ali Hazelwood&nbsp;: avis de lecture"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
@@ -75,7 +75,7 @@ Deuxième élément que j'ai énormément apprécié&nbsp;: l'humour. De l'humou
 Mais **LA** raison pour laquelle j'ai eu un véritable coup de c&oelig;ur, ce sont les deux personnages principaux&nbsp;: ils sont teeeeeeellement attachants&nbsp;! Aussi bien Olive, avec ses blessures, ses doutes, sa manière de prendre soin de ceux qu'elle aime, qu'Adam, et toute la sensibilité et la préoccupation de toujours agir au mieux qui l'animent, enfouies sous une grande maladresse et des dehors austères. Et la relation entre eux est *saine*&nbsp;: rien de toxique ou de malsain à redouter (j'aurais fui à toutes jambes). Ils sont si touchants, si humains, que je ne vois pas comment j'aurais pu ne pas les aimer. Ils font vraiment la grande force de ce roman, à tel point que j'étais triste de les quitter, un peu comme au moment des adieux avec un ami qu'on sait qu'on ne reverra pas avant ~~très~~ trop longtemps.
 
 
-## Quelques citations
+## Quelques extraits
 
 <span style="margin-left: 1em;"></span>—&nbsp;Pourquoi cette question&nbsp;?<br />
 <span style="margin-left: 1em;"></span>—&nbsp;Parce que vous pleurez. Dans mes toilettes.<br />
@@ -103,6 +103,9 @@ Coup de c&oelig;ur inattendu pour cette romance pétillante, saine, aux personna
 ---
 ---
 👉 *Retrouvez mes autres [chroniques de livres et séries](/blog/tags#chronique).*
+{: .text-center}
+
+👉 *Découvrez les [interviews d'auteurs ou autrices](/blog/tags#interview).*
 {: .text-center}
 
 👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉

@@ -1,6 +1,6 @@
 ---
 title: "Chronique du roman d'Agathe Roméo&nbsp;: *Funèbres tendresses*"
-seo_title: "*Funèbres tendresses* - Agathe Roméo&nbsp;: chronique"
+seo_title: "*Funèbres tendresses* - Agathe Roméo&nbsp;: avis de lecture"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
@@ -58,7 +58,7 @@ Je me suis prise d'affection pour l'ensemble des personnages, dépeints avec une
 
 
 
-## Quelques citations
+## Quelques extraits
 
 <span style="margin-left: 1em;"></span>Je m’effaçai du monde des vivants pour la deuxième fois de la journée, sans le quitter tout à fait&nbsp;; cette fois, je laissai une petite partie de ma conscience près du poêle, comme les mères qui ne dormaient que d’un œil. Je savais qu’elle sentirait ma présence à ses côtés.<br />
 <span style="margin-left: 1em;"></span>Je n’avais plus de chaleur à donner, pas de bras solides pour la serrer contre mon cœur, mais j’avais le mérite d’être là. Une petite veilleuse dans le crépuscule interminable de cette femme, n’était-ce pas mieux que rien&nbsp;?
@@ -77,6 +77,9 @@ Je me suis prise d'affection pour l'ensemble des personnages, dépeints avec une
 ---
 ---
 👉 *Retrouvez mes autres [chroniques de livres et séries](/blog/tags#chronique).*
+{: .text-center}
+
+👉 *Découvrez les [interviews d'auteurs ou autrices](/blog/tags#interview).*
 {: .text-center}
 
 👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉

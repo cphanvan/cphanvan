@@ -1,6 +1,6 @@
 ---
 title: "Chronique du roman de R.F. Kuang&nbsp;: *Yellowface*"
-seo_title: "*Yellowface* - R.F. Kuang&nbsp;: chronique"
+seo_title: "*Yellowface* - R.F. Kuang&nbsp;: avis de lecture"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
@@ -76,7 +76,7 @@ Au final, peut-être parce que j'avais de grandes attentes (on m'en avait dit be
 Si je l'avais lu comme une satire sociale, qui se focalise en particulier sur le milieu littéraire, j'aurais sans doute davantage apprécié ma lecture. Car à ce niveau-là, il me semble que le roman fait le job&nbsp;: pratiques de communication parfois trompeuses, propriété intellectuelle, plagiat, préoccupations commerciales dans l'édition, cancel culture, addiction aux réseaux sociaux et à la popularité, harcèlement, racisme ordinaire&hellip; Les thèmes abordés sont nombreux et touchent souvent juste.
 
 
-## Quelques citations
+## Quelques extraits
 
 <span style="margin-left: 1em;"></span>Writers our age—young, ambitious up-and-comers just this side of thirty—tend to run in packs. You’ll find evidence of cliques all over social media—writers gushing over excerpts of one another’s unpublished manuscripts (LOSING MY HEAD OVER THIS WIP!), squealing over cover reveals (THIS IS SO GORGEOUS I WILL DIE!!!), and posting selfies of group hangs at literary meet-ups across the globe.
 {: .notice}
@@ -116,6 +116,9 @@ Une lecture à appréhender davantage comme une satire du milieu littéraire que
 ---
 ---
 👉 *Retrouvez mes autres [chroniques de livres et séries](/blog/tags#chronique).*
+{: .text-center}
+
+👉 *Découvrez les [interviews d'auteurs ou autrices](/blog/tags#interview).*
 {: .text-center}
 
 👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉

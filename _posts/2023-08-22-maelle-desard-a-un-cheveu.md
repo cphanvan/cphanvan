@@ -1,6 +1,6 @@
 ---
 title: "Chronique du roman de Maëlle Desard&nbsp;: *À un cheveu*"
-seo_title: "*À un cheveu* - Maëlle Desard&nbsp;: chronique"
+seo_title: "*À un cheveu* - Maëlle Desard&nbsp;: avis de lecture"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
@@ -65,7 +65,7 @@ Mais ce qui a fait pour moi de ce roman un véritable coup de c&oelig;ur, c'est 
 
 
 
-## Quelques citations
+## Quelques extraits
 
 <span style="margin-left: 1em;"></span>On m’a toujours dit que j’étais le sosie de mon père.<br />
 <span style="margin-left: 1em;"></span>Le fait que je sois chauve et que nos calvities ressemblent aux deux joufflus d’une même paire de fesses doit sans doute beaucoup à cet effet miroir qui perturbe autant nos proches.<br />
@@ -91,6 +91,9 @@ Coup de c&oelig;ur pour ce roman young-adult aux personnages attachants et à l'
 ---
 ---
 👉 *Retrouvez mes autres [chroniques de livres et séries](/blog/tags#chronique).*
+{: .text-center}
+
+👉 *Découvrez les [interviews d'auteurs ou autrices](/blog/tags#interview).*
 {: .text-center}
 
 👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉

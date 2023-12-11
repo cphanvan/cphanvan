@@ -1,6 +1,6 @@
 ---
 title: "Chronique de la novella de Sanguine&nbsp;: *Va au diable&nbsp;!*"
-seo_title: "*Va au diable&nbsp;!* - Sanguine&nbsp;: chronique"
+seo_title: "*Va au diable&nbsp;!* - Sanguine&nbsp;: avis de lecture"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
@@ -64,7 +64,7 @@ On y suit Nessa, artiste tatoueuse dotée d'un immense talent, d'un vif caractè
 Et on referme le livre un peu frustré de n'avoir qu'effleuré l'histoire de ces personnages, mais heureux d'avoir fait leur connaissance et celle de l'univers dans lequel ils évoluent.
 
 
-## Quelques citations
+## Quelques extraits
 
 Le chat vint d’ailleurs saluer Nessa, se frottant à ses jambes avec force ronronnements. Spectaculairement rond et lourd, d’un roux flamboyant, il avait naturellement hérité du prénom «&nbsp;Citrouille&nbsp;» lorsque Céleste l’avait trouvé dans la rue, quelques années plus tôt. Cependant, l’animal était au demeurant si con que Nessa l’appelait de préférence «&nbsp;la courge&nbsp;».
 {: .notice}
@@ -86,6 +86,9 @@ Une (trop) courte lecture, parfaite à savourer en période d'Halloween. Et une 
 ---
 ---
 👉 *Retrouvez mes autres [chroniques de livres et séries](/blog/tags#chronique).*
+{: .text-center}
+
+👉 *Découvrez les [interviews d'auteurs ou autrices](/blog/tags#interview).*
 {: .text-center}
 
 👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉

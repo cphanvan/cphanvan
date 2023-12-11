@@ -1,6 +1,6 @@
 ---
 title: "Chronique de la novella de Jérôme Vialleton&nbsp;: *Pronostics*"
-seo_title: "*Pronostics* - Jérôme Vialleton&nbsp;: chronique"
+seo_title: "*Pronostics* - Jérôme Vialleton&nbsp;: avis de lecture"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
@@ -90,6 +90,9 @@ Le personnage principal est réussi, pitoyable à souhait. La tension est très 
 ---
 ---
 👉 *Retrouvez mes autres chroniques de [thrillers](/blog/tags#thriller) ou [polars](/blog/tags#polar).*
+{: .text-center}
+
+👉 *Découvrez les [interviews d'auteurs ou autrices](/blog/tags#interview).*
 {: .text-center}
 
 👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉

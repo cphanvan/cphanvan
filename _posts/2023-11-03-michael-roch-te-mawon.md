@@ -1,6 +1,6 @@
 ---
 title: "Chronique du roman de Michael Roch&nbsp;: *Tè mawon*"
-seo_title: "*Tè mawon* - Michael Roch&nbsp;: chronique"
+seo_title: "*Tè mawon* - Michael Roch&nbsp;: avis de lecture"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
@@ -66,7 +66,7 @@ Au final, je pense qu'il s'agit d'un roman empli de qualités, qui propose de no
 
 En revanche, je tiens à souligner qu'il y a de nombreux passages où j'ai été saisie par la beauté de l'écriture. Je vous en copie quelques-uns ci-dessous, pour le plaisir des yeux.
 
-## Quelques citations
+## Quelques extraits
 
 <span style="margin-left: 1em;"></span>Accouche, Pat. Ils sont venus pour toi, les tétrals des sektè Lanvil, les pères restants des familles ancestrales. Ils sont là à t’attendre, toi et ta pogne, toi et ton bouden, dans le nuage bleu de la fosse, et tu sais quoi leur dire, bondjé, pour réveiller leur rage enfouie dans l’ébène de leur squelette, pour qu’ils se lèvent avec toi et te suivent jusqu’au bout du Tout-monde. Accouche. Ils ont le nez large konsidiré les cales esclavagistes, les cheveux tressés konsidiré la pluie d’Afrique, ils savent d’où ils viennent, bolonm ta-la, de quel bois dur ils sont faits. Du bois flotté dans les années de misère, teknolojiké par les étoiles écrasantes de Lanvil, du bois ridé par la course effrénée de Lanvil, Lanvil konsidiré la mer qui monte plizanpli, Lanvil qui avale, qui laisse dans sa rob que des cadavres dans les sargasses, Lanvil qui laisse rien d’autre qu’une poussière de rouille à ceux qui survivent isi-ba, Lanvil qui n’attend pas, ki ka pa atann si ou rété bay douvan. Accouche.
 {: .notice}
@@ -96,6 +96,9 @@ Un roman avec d'indéniables qualités d'écriture&hellip; mais je n'étais malh
 ---
 ---
 👉 *Retrouvez mes autres [chroniques de livres et séries](/blog/tags#chronique).*
+{: .text-center}
+
+👉 *Découvrez les [interviews d'auteurs ou autrices](/blog/tags#interview).*
 {: .text-center}
 
 👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉

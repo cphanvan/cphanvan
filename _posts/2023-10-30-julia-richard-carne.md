@@ -1,6 +1,6 @@
 ---
 title: "Chronique du roman de Julia Richard&nbsp;: *Carne*"
-seo_title: "*Carne* - Julia Richard&nbsp;: chronique"
+seo_title: "*Carne* - Julia Richard&nbsp;: avis de lecture"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
@@ -70,7 +70,7 @@ Et même si la fin ne m'a pas entièrement convaincue, même si le livre est d'u
 J'ai du mal à trouver les mots pour en dire davantage, alors je vous laisse avec ceux de l'autrice, dans les quelques extraits qui suivent et l'aperçu très insuffisant qu'ils esquissent de cet OLNI.
 
 
-## Quelques citations
+## Quelques extraits
 
 <span style="margin-left: 1em;"></span>Oui, tout va bien. Tout va bien. Tout va bien. Tout va biiiiiiiien. Je vais bien. Je vais TRÈS bien. Je ne suis pas du tout en train de penser que le pénis du copain de ma fille ferait une excellente chipolata. Naaaan. Du tout, du tout, du tout. Parce que si c’était le cas, qu’est-ce que ça ferait de moi&nbsp;? Un taré&nbsp;? Un cannibale&nbsp;? Un pédophile&nbsp;? Un taré-pédophile-cannibale&nbsp;? Est-ce que pédophile va devant ou derrière cannibale dans l’appellation&nbsp;? Excellent «&nbsp;*ice-breaker*&nbsp;» en soirée.
 {: .notice}
@@ -105,6 +105,9 @@ Un livre qui remue les tripes et les méninges. À découvrir, à condition d'av
 ---
 ---
 👉 *Retrouvez mes autres [chroniques de livres et séries](/blog/tags#chronique).*
+{: .text-center}
+
+👉 *Découvrez les [interviews d'auteurs ou autrices](/blog/tags#interview).*
 {: .text-center}
 
 👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉

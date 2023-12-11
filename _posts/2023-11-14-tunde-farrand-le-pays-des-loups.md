@@ -1,6 +1,6 @@
 ---
 title: "Chronique du roman de Tünde Farrand&nbsp;: *Le Pays des loups*"
-seo_title: "*Le Pays des loups* - Tünde Farrand&nbsp;: chronique"
+seo_title: "*Le Pays des loups* - Tünde Farrand&nbsp;: avis de lecture"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
@@ -75,7 +75,7 @@ Ni celle de l'homme qu'une maladie menace de cécité prochaine.
 Alors, oui, aujourd'hui, quand de nombreux médias et politiques nous ont répété en 2020 que le Covid, ce n'était pas grave, parce que c'étaient **"seulement des vieux"** qui mouraient ; quand les mêmes médias et politiques nous ont asséné en 2022 que le Covid, c'était terminé, puisque grâce au vaccin, c'étaient maintenant **"uniquement des malades et des fragiles"** qui mouraient ; quand les mêmes médias et politiques nous rabâchent aujourd'hui qu'Israël a "le droit inconditionnel de se défendre", et que les milliers de civils, dont une moitié d'enfants, qui meurent sous les bombes, ne méritent pas de vivre parce qu'ils ont l'extrême mauvais goût d'habiter dans la même région que des terroristes -- pardon, je m'égare, j'en oublie d'employer les bons éléments de langage&nbsp;: parce qu'ils ont le mauvais goût de servir de **"boucliers humains"**, voilà comment il faut le dire -- ; aujourd'hui, donc, ce texte m'a sacrément remuée. Parce qu'au fond, la société qui y est dépeinte, n'est-elle pas déjà celle dans laquelle nous vivons&nbsp;?
 
 
-## Quelques citations
+## Quelques extraits
 
 <span style="margin-left: 1em;"></span>«&nbsp;J’aimerais mieux ne pas gaspiller mon temps avec toi là-bas. Je ne vais presque jamais à la messe. Mon père l’appelle la messe des masses à la masse.&nbsp;»
 {: .notice}
@@ -102,6 +102,9 @@ Un roman qui mérite d'être lu au moins pour se souvenir, en particulier aujour
 ---
 ---
 👉 *Retrouvez mes autres [chroniques de livres et séries](/blog/tags#chronique).*
+{: .text-center}
+
+👉 *Découvrez les [interviews d'auteurs ou autrices](/blog/tags#interview).*
 {: .text-center}
 
 👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉

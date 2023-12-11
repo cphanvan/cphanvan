@@ -1,6 +1,6 @@
 ---
 title: "Chronique du recueil d'Ursula K. Le&nbsp;Guin&nbsp;: *La fille feu follet*"
-seo_title: "*La fille feu follet* - Ursula K. Le&nbsp;Guin&nbsp;: chronique"
+seo_title: "*La fille feu follet* - Ursula K. Le&nbsp;Guin&nbsp;: avis de lecture"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
@@ -58,12 +58,12 @@ Le livre contient donc une unique nouvelle, ***La fille feu follet***, qui lui d
 
 En ce qui concerne la nouvelle, qui décrit le destin abominable de deux sœurs esclaves, je n'ai pas du tout accroché. Je suis passée totalement à côté du texte. L'intention était sûrement de dénoncer des tas de choses, esclavage, condition de la femme, système de castes, endoctrinement&hellip; Mais c'est écrit avec une telle distance que j'ai eu un peu l'impression de regarder des bactéries au microscope&nbsp;: sans me sentir impliquée sur le plan émotionnel.
 
-Étonnamment (parce que je suis malgré moi en général complètement hermétique à la poésie), j'ai en revanche beaucoup aimé plusieurs de ses poèmes. Il y en a seulement 5 et ils sont très courts, c'en était frustrant, mais après la nouvelle, cela m'a fait du bien de découvrir que l'autrice était capable de m'émouvoir. Ses poèmes m'ont remuée. En particulier le premier, sur la guerre. Pour la peine, je vous le mets en citation ci-dessous.
+Étonnamment (parce que je suis malgré moi en général complètement hermétique à la poésie), j'ai en revanche beaucoup aimé plusieurs de ses poèmes. Il y en a seulement 5 et ils sont très courts, c'en était frustrant, mais après la nouvelle, cela m'a fait du bien de découvrir que l'autrice était capable de m'émouvoir. Ses poèmes m'ont remuée. En particulier le premier, sur la guerre. Pour la peine, je vous le mets en extrait ci-dessous.
 
 Quant aux autres textes, ils ne sont pas inintéressants pour se faire une idée du caractère (apparemment bien trempé) d'Ursula K. Le&nbsp;Guin. J'ai en particulier souri de nombreuses fois à la lecture de son interview et de ses réponses dignes d'un troll expérimenté. Je vous en livre quelques savoureux extraits ci-dessous.
 
 
-## Quelques citations
+## Quelques extraits
 
 **La prochaine guerre**<br />
 Elle prendra forme,<br />
@@ -93,6 +93,9 @@ Au global, ce n'est pas un recueil que je conseillerais pour découvrir l'œuvre
 ---
 ---
 👉 *Retrouvez mes autres [chroniques de livres et séries](/blog/tags#chronique).*
+{: .text-center}
+
+👉 *Découvrez les [interviews d'auteurs ou autrices](/blog/tags#interview).*
 {: .text-center}
 
 👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉

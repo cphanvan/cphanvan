@@ -1,6 +1,6 @@
 ---
 title: "Chronique du roman d'Emma Seguès&nbsp;: *La cage*"
-seo_title: "*La cage* - Emma Seguès&nbsp;: chronique"
+seo_title: "*La cage* - Emma Seguès&nbsp;: avis de lecture"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
@@ -77,7 +77,7 @@ J'ai fermé le roman avec une petite frustration concernant quelques personnages
 La seconde partie. Non pas que je ne l'ai pas appréciée intrinsèquement, mais je préfère la première, qui se concentre davantage sur l'évolution psychologique d'Éléa, ainsi que sur ses relations avec ses compagnes d'infortune. Il est ici uniquement question de goût personnel. Et il faut souligner que, dans ce qu'elle cherche à accomplir, cette seconde partie est terriblement efficace. Je n'en dirai pas davantage. 😇
 
 
-### Quelques citations
+### Quelques extraits
 
 Pour vous mettre dans l'ambiance&nbsp;:
 
@@ -107,6 +107,9 @@ Vous pouvez découvrir [ici l'interview d'Emma Seguès](/interview/2023/12/03/em
 
 ---
 👉 *Retrouvez mes autres [chroniques de livres et séries](/blog/tags#chronique).*
+{: .text-center}
+
+👉 *Découvrez les [interviews d'auteurs ou autrices](/blog/tags#interview).*
 {: .text-center}
 
 👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉
