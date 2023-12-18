@@ -17,7 +17,7 @@
     {% endif %}
   {% endif %}
   {% if page.sidebar_newsletter %}
-    <p id="abonnez-vous"><strong>Newsletter mensuelle</strong></p>
+    <p><strong>Newsletter mensuelle</strong></p>
     <p>
       Le premier dimanche de chaque mois, je vous propose une anecdote d'écriture,
       mon journal de bord d'autrice,
@@ -25,34 +25,11 @@
       et un petit récap des dernières nouveautés (chroniques&hellip;) sur le blog.
     </p>
     <p>
-      Alors si le programme vous tente, n'hésitez pas à vous inscrire&nbsp;: c'est sans engagement&nbsp;! 😊
+      Alors si le programme vous tente, n'hésitez pas à <a href="/newsletter#abonnez-vous"><strong>vous inscrire</strong></a>&nbsp;: c'est sans engagement&nbsp;! 😊
     </p>
-    <div class="sib-form">
-      <div id="error-message" class="hidden notice--danger">
-        <i class="fas fa-exclamation-circle"></i><span> Nous n&#039;avons pas pu confirmer votre inscription. Veuillez réessayer.</span>
-      </div>
-      <div id="success-message" class="hidden notice--success">
-        <i class="fas fa-check-circle"></i><span> Votre inscription est prise en compte. Vous pouvez la confirmer en cliquant sur le lien dans le mail que vous allez recevoir.</span>
-      </div>
-      <form id="sib-form" onsubmit="event.preventDefault(); let verifSimple = document.querySelector('#verif-simple').value; if (verifSimple !== '16' && verifSimple !== 'seize') {alert('Veuillez svp répondre à la question pour confirmer que vous êtes un humain');} else {subscribe(this);}" method="POST" action="https://b78b353c.sibforms.com/serve/MUIEAOGMCUs_cuGYyUmOth2gEgvTFCm2VDkzrf2qOeEzT8wdj3BPuSrv_MwyABxsu3ziQHdSX_5Byaxe2-bP05jo76tznDd5ZXoaH5ieXP8AryDkTGeJ5DfLMKpOsggR_hucWZbqSKuutyaRRZ-9RoF4iVYAW6l0uUhmsUjoxketDhyQiKXvJvYPCnZ8KsWfoLhCxi1PTv1XMVmM" data-type="subscription">
-        <div class="sib-input">
-            <label class="entry__label" for="EMAIL" data-required="*">Email&nbsp;*</label>
-            <input class="input" type="email" id="EMAIL" name="EMAIL" autocomplete="off" data-required="true" required />
-            <label class="entry__error"></label>
-        </div>
-        <div id="validation-message" class="hidden notice--warning">
-          <i class="fas fa-exclamation-triangle"></i><span></span>
-        </div>
-        <div>
-          <label for="verif-simple">Deux fois huit&nbsp;?</label>
-          <input id="verif-simple" type="text" name="verif-simple" value="" />
-        </div>
-        <button class="sib-form-block__button sib-form-block__button-with-loader" form="sib-form" type="submit">Je m&#039;inscris</button>
-      </form>
-    </div>
     {% endif %}
   {% if page.sidebar_newsletter_full %}
-    <p id="abonnez-vous"><strong>Newsletter mensuelle</strong></p>
+    <p><strong>Newsletter mensuelle</strong></p>
     <p>
       Le premier dimanche de chaque mois, je vous propose de retrouver un petit aperçu
       de ma trépidante (😂) vie d'autrice, en toute décontraction,
@@ -62,41 +39,8 @@
       et un petit récap des dernières nouveautés mises en ligne sur le blog.
     </p>
     <p>
-      Alors si le programme vous tente, n'hésitez pas à vous inscrire&nbsp;: c'est sans engagement&nbsp;! 😊
+      Alors si le programme vous tente, n'hésitez pas à <a href="/newsletter#abonnez-vous"><strong>vous inscrire</strong></a>&nbsp;: c'est sans engagement&nbsp;! 😊
     </p>
-    <div class="sib-form">
-      <div id="error-message" class="hidden notice--danger">
-        <i class="fas fa-exclamation-circle"></i><span> Nous n&#039;avons pas pu confirmer votre inscription. Veuillez réessayer.</span>
-      </div>
-      <div id="success-message" class="hidden notice--success">
-        <i class="fas fa-check-circle"></i><span> Votre inscription est prise en compte. Vous pouvez la confirmer en cliquant sur le lien dans le mail que vous allez recevoir.</span>
-      </div>
-      <form id="sib-form" onsubmit="event.preventDefault(); let verif = document.querySelector('#verif').value; if (verif !== '16' && verif !== 'seize') {alert('Veuillez svp répondre à la question pour confirmer que vous êtes un humain');} else {subscribe(this);}" method="POST" action="https://b78b353c.sibforms.com/serve/MUIEAOGMCUs_cuGYyUmOth2gEgvTFCm2VDkzrf2qOeEzT8wdj3BPuSrv_MwyABxsu3ziQHdSX_5Byaxe2-bP05jo76tznDd5ZXoaH5ieXP8AryDkTGeJ5DfLMKpOsggR_hucWZbqSKuutyaRRZ-9RoF4iVYAW6l0uUhmsUjoxketDhyQiKXvJvYPCnZ8KsWfoLhCxi1PTv1XMVmM" data-type="subscription">
-        <div class="sib-input">
-            <label class="entry__label" for="EMAIL" data-required="*">Email&nbsp;*</label>
-            <input class="input" type="email" id="EMAIL" name="EMAIL" autocomplete="off" data-required="true" required />
-            <label class="entry__error"></label>
-        </div>
-        <div class="sib-input">
-          <label class="entry__label" for="PRENOM">Prénom</label>
-          <input class="input" maxlength="200" type="text" id="PRENOM" name="PRENOM" autocomplete="off" />
-          <label class="entry__error"></label>
-        </div>
-        <div id="validation-message" class="hidden notice--warning">
-          <i class="fas fa-exclamation-triangle"></i><span></span>
-        </div>
-        <div>
-          <label for="verif">Deux fois huit&nbsp;?&nbsp;*</label>
-          <input id="verif" type="text" name="verif" value="" />
-        </div>
-        <button class="sib-form-block__button sib-form-block__button-with-loader" form="sib-form" type="submit">Je m&#039;inscris</button>
-        <p class="caution">
-          Vos informations seront trait&eacute;es de mani&egrave;re s&eacute;curis&eacute;e via la plateforme d'emailing
-          <a href="https://www.brevo.com/fr/legal/termsofuse/" target="_blank">Brevo</a>.
-          <img src="/assets/images/newsletter/dataSecurity.svg">
-        </p>
-      </form>
-    </div>
   {% endif %}
   </div>
 {% endif %}
