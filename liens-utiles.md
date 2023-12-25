@@ -90,6 +90,8 @@ toc_label: Liens utiles
 
 [Instagram](https://www.instagram.com/cathphanvan/){: .btn .btn--info .btn--large .btn--linktree}
 
+[Threads](https://www.threads.net/@cathphanvan){: .btn .btn--info .btn--large .btn--linktree}
+
 [BlueSky](https://bsky.app/profile/cathphanvan.bsky.social){: .btn .btn--info .btn--large .btn--linktree}
 
 [Facebook](https://www.facebook.com/CathPhanvan){: .btn .btn--info .btn--large .btn--linktree}

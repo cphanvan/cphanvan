@@ -47,10 +47,18 @@
         </li>
       {% endif %}
 
+      {% if author.threads %}
+        <li>
+          <a href="{{ author.threads }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <i class="fas fa-threads" aria-hidden="true"></i><span class="label">Threads</span>
+          </a>
+        </li>
+      {% endif %}
+
       {% if author.bluesky %}
         <li>
           <a href="https://bsky.app/profile/{{ author.bluesky }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
-            <i class="fas fa-square" aria-hidden="true"></i><span class="label">BlueSky</span>
+            <i class="fas fa-bluesky" aria-hidden="true"></i><span class="label">BlueSky</span>
           </a>
         </li>
       {% endif %}

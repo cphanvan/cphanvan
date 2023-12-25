@@ -330,6 +330,20 @@ body:hover .visually-hidden button {
   }
 }
 
+.fa-threads:before {
+  content: url('/assets/images/utils/threads-logo.svg');
+  line-height: 1;
+  color: $threads-color;
+}
+.fa-bluesky:before {
+  content: url('/assets/images/utils/bluesky-logo.svg');
+  line-height: 1;
+  color: $bluesky-color;
+}
+.fa-simplement-pro:before {
+  content: url('/assets/images/utils/simplement-pro-logo.svg');
+  line-height: 1;
+}
 /*
    Navicons
    ========================================================================== */
