@@ -7,7 +7,7 @@ classes: wide
 date: 2023-10-07 15:00:00 +0200
 last_modified_at: 2023-10-07 15:00:00 +0200
 categories: chronique dystopie
-tags: lecture chronique roman dystopie
+tags: lecture chronique roman dystopie service-presse
 sidebar_newsletter: true
 share: true
 comments: true
@@ -30,6 +30,9 @@ Un roman bouleversant et porteur d'espoir, dans lequel l'humain survit malgré l
 <span class="fa fa-star rating_checked"></span>
 <span class="fa fa-star rating_checked"></span>
 <span class="fa fa-star rating_checked"></span>
+
+<span class="fa fa-book-reader rating_checked"></span> (**Service Presse**)
+
 
 ## Le roman
 

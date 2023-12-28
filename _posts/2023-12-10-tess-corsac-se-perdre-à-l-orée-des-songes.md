@@ -7,7 +7,7 @@ classes: wide
 date: 2023-12-10 12:50:00 +0100
 last_modified_at: 2023-12-10 12:50:00 +0100
 categories: chronique young-adult
-tags: lecture chronique roman science-fiction young-adult
+tags: lecture chronique roman science-fiction young-adult service-presse
 sidebar_newsletter: true
 share: true
 comments: true
@@ -32,6 +32,8 @@ et questionnements sur le poids du passé dans la construction de soi.
 <span class="fa fa-star rating_checked"></span>
 <span class="fa fa-star rating_checked"></span>
 <span class="fa fa-star rating_checked"></span>
+
+<span class="fa fa-book-reader rating_checked"></span> (**Service Presse**)
 
 ## Le roman
 
