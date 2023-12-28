@@ -4,8 +4,8 @@ seo_title: "*Les Nocturnes* - Tess Corsac&nbsp;: avis de lecture"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
-date: 2023-12-28 00:00:00 +0100
-last_modified_at: 2023-12-28 00:00:00 +0100
+date: 2023-12-28 20:00:00 +0100
+last_modified_at: 2023-12-28 20:00:00 +0100
 categories: chronique young-adult
 tags: lecture chronique roman science-fiction young-adult
 sidebar_newsletter: true
