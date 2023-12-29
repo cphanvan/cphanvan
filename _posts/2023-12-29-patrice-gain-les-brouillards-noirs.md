@@ -22,9 +22,8 @@ gallery:
       alt: "couverture du roman Les brouillards noirs"
 ---
 
-blabla
+Dernier coup de c&oelig;ur de l'année pour ce roman noir, sombre et lumineux.
 <!--excerptEnd-->
-blabla
 
 <span class="fa fa-star rating_checked"></span>
 <span class="fa fa-star rating_checked"></span>
