@@ -15,17 +15,6 @@ toc: true
 
 ## En recherche d'éditeur&nbsp;:
 
-### Chasseuse de rêves
-
-*roman jeunesse*
-
-Il s'agit d'un roman contemporain destiné aux adolescents de 12 ans et plus. J'ai mûri l'histoire au début du premier trimestre 2022 et ai terminé l'écriture du premier jet courant juin. La [phase de bêtalecture](/ecriture/2022/06/23/b%C3%AAta-lecture-chasseuse-de-r%C3%AAves.html) et les corrections sont terminées depuis mi-septembre 2022&nbsp;: ce roman est désormais en recherche d'éditeur&nbsp;! 🤞
-
-Vous pouvez [en lire le pitch et le prologue par ici](/ecriture/2022/06/23/bêta-lecture-chasseuse-de-rêves.html#chasseuse-de-rêves-quest-ce-que-cest-).
-
-
-## En bêta-lecture&nbsp;:
-
 ### Cercueil et Préjugés
 
 *comédie romantique contemporaine - <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**finaliste du concours Fyctia "Comme dans un film"**</a>*
@@ -36,12 +25,12 @@ Le pitch&nbsp;:
 
 Je vous en dis davantage [dans cet article de blog](/ecriture/2023/03/31/objectifs-écriture-2023.html#pourquoi-le-concours-fyctia) sur les raisons pour lesquelles j'ai décidé de me lancer dans ce projet.
 
-Suite au retour des éditrices après la finale Fyctia, mi octobre 2023, j'ai entrepris une réécriture du roman, que j'ai achevée vers fin novembre. J'attends désormais les retours des bêta-lectrices qui avaient déjà lu la version précédente, avant de passer à la phase de soumissions de cette nouvelle mouture en maisons d'édition.
+Suite au [retour des éditrices](/newsletter/2023-11-05/#cercueil-et-pr%C3%A9jug%C3%A9s-affaire-%C3%A0-suivre) après la finale Fyctia, mi octobre 2023, j'ai entrepris une réécriture du roman, que j'ai achevée vers fin novembre. J'ai eu ensuite de nouveaux retours des bêta-lectrices qui avaient déjà lu la version précédente, et j'ai désormais attaqué la phase de soumissions de cette nouvelle mouture en maisons d'édition.
 
 Vous pouvez <a href="https://www.fyctia.com/stories/cercueil-et-prejuges" target="_blank">lire sur Fyctia les trois premiers chapitres (qui ont très peu évolué), dans leur version initiale</a>.
 
 
-## En attente&nbsp;:
+## En cours d'écriture&nbsp;:
 
 ### 45,93&nbsp;grammes
 
@@ -53,6 +42,22 @@ Le pitch&nbsp;:
 > <br />Mais alors qu'une partie de ses souvenirs s'est évanouie, que croire, et à qui se fier&nbsp;? S'agissait-il d'un simple accident, comme le laissent supposer les apparences, ou d'une agression, ainsi que sa mère en est persuadée&nbsp;? Et à qui appartient ce visage qui vient hanter ses rêves&nbsp;?
 
 Avec trois lignes temporelles distinctes, et trois points de vue différents, je ne me facilite pas la tâche. D'autant que je récidive avec ma "méthode" qui consiste à avancer sans plan. 😅 Reste à voir où cela me mènera&hellip; 
+
+
+## À réécrire&nbsp;:
+
+### Chasseuse de rêves
+
+*roman jeunesse*
+
+Il s'agit d'un roman contemporain destiné aux adolescents de 12 ans et plus. J'ai mûri l'histoire au début du premier trimestre 2022 et ai terminé l'écriture du premier jet courant juin. La [phase de bêtalecture](/ecriture/2022/06/23/b%C3%AAta-lecture-chasseuse-de-r%C3%AAves.html) et les corrections sont terminées depuis mi-septembre 2022.
+
+La première mouture de ce roman a essuyé quelques refus éditoriaux, mais suite à ma participation à la quatrième édition des <a href="https://www.murmures-litteraires.fr/" target="_blank">Murmures Littéraires</a>, j'ai décidé d'entreprendre une réécriture complète avant de poursuivre les soumissions.
+
+Vous pouvez [en lire le pitch et le prologue par ici](/ecriture/2022/06/23/bêta-lecture-chasseuse-de-rêves.html#chasseuse-de-rêves-quest-ce-que-cest-).
+
+
+## En attente&nbsp;:
 
 ### Cosy mystery (en attente de titre)
 
