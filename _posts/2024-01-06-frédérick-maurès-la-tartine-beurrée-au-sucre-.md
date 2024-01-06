@@ -78,9 +78,16 @@ en compagnie d'un passé qui a su réveiller un peu le mien.
 
 ## Quelques extraits
 
-<span style="margin-left: 1em;"></span>
+<span style="margin-left: 1em;"></span>—&nbsp;Qu’as-tu donc à sangloter ainsi&nbsp;?<br/>
+<span style="margin-left: 1em;"></span>Ma grand-mère se tenait debout à mes côtés. Je ne l’avais pas entendue arriver. Ses magnifiques cheveux, aussi blancs que la robe du chevalier des croisades, toujours impeccablement coiffés, apportèrent un peu de clarté à la grisaille de mes pensées. Son visage naturellement doux et rondelet aux pommettes rubicondes générait apaisement et consolation.
 {: .notice}
 
+<span style="margin-left: 1em;"></span>Ce n’est qu’au bout d’une petite trentaine de minutes que nous parvenions, au détour d’un chemin, à la petite ferme simple et rustique où vivait un couple de paysans âgés, aux visages marqués par la rudesse des travaux agricoles. Les brûlures du soleil avaient crevassé leur peau qui tirait sur le brun foncé. De nombreuses ridules cerclaient leurs yeux noirs jusque sous leurs épais sourcils broussailleux. Ils étaient tous deux accueillants, chaleureux et inspiraient spontanément la sympathie, avec toujours un petit mot gentil à mon égard.
+{: .notice}
+
+<span style="margin-left: 1em;"></span>—&nbsp;Et si vous la posiez dans la cheminée&nbsp;? On ne fera pas de feu cet été…<br/>
+<span style="margin-left: 1em;"></span>Dans mon idée, placer l’antenne dans l’âtre aurait pour effet de la mettre directement en contact avec l’air du ciel, à l’extrémité du conduit… Rontex, cherchant visiblement à me faire plaisir parce que j’étais un enfant, s’empara de l’antenne comme on brandit le bois d’un cervidé en guise de trophée de chasse et la posa délicatement devant les quelques bûches à moitié brûlées qui gisaient encore, témoignages d’un printemps plutôt frisquet.  Et là, ô miracle, l’écran du poste afficha une image parfaitement définie, d’un piqué parfait. La luminosité était éclatante et le contraste donnait à la mire toutes les nuances de gris, de blancs et de noirs que l’œil pouvait détailler. Je ne compris pas pourquoi les adultes furent si surpris du résultat alors que ma solution m’apparaissait comme une évidence. Rontex se lissa furtivement la moustache et fila sans demander son reste, sans doute par peur que le réglage ne tienne pas, ce qui n’avait, selon moi, aucun risque de se produire. 
+{: .notice}
 
 ## Au bilan
 
