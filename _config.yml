@@ -35,6 +35,7 @@ date_format              : "%d/%m/%Y"
 breadcrumbs              : true
 search                   : true
 search_provider          : "google"
+future                   : false
 
 author:
   name      : "Catherine Phan van"
