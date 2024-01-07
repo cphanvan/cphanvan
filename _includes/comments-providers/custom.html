@@ -3,10 +3,14 @@
   {% if site.repository and site.comments.staticcomment.branch %}
     <!-- Start static comments -->
     <div class="js-comments">
-      {% if site.data.comments[page.slug] %}
+      {% assign pageslug = {{page.slug | remove: 'é'}} %}
+      {% assign pageslug = {{pageslug | remove: 'è'}} %}
+      {% assign pageslug = {{pageslug | remove: 'ê'}} %}
+      {% assign pageslug = {{pageslug | remove: 'à'}} %}
+      {% assign pageslug = {{pageslug | remove: 'ù'}} %}
+      {% if site.data.comments[pageslug] %}
         <h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}</h4>
-        {% assign comments = site.data.comments[page.slug] | sort %}
-
+        {% assign comments = site.data.comments[pageslug] | sort %}
         {% for comment in comments %}
           {% assign email = comment[1].email %}
           {% assign name = comment[1].name %}
