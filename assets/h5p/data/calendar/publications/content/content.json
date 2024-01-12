@@ -1,7 +1,7 @@
 {
     "timeline": {
       "asset": {
-        "media": "https://catherinephanvan.fr/assets/images/events/books-2023.jpg"
+        "media": "https://catherinephanvan.fr/assets/images/events/books.jpg"
       },
       "date": [
         {
@@ -66,10 +66,46 @@
             "startDate": "2023,11,17",
             "endDate": "2023,11,19",
             "text": "<p>Une nouvelle horrifique qui vous fera frissonner même au coin du feu&nbsp;!</p><p>Anthologie <em><strong>Creepy Christmas and Bloody New Year</strong></em>, BeetleBooks Publishing.</p><p><a href=\"/publications/echos-graphiques/\">Découvrir la nouvelle</a></p>"
+        },
+        {
+            "asset": {
+              "media": "https://catherinephanvan.fr/assets/images/events/sinistre-volonte-catherine-phan-van-citation.jpg"
+            },
+            "headline": "Interview",
+            "startDate": "2024,01,12",
+            "endDate": "2024,01,12",
+            "text": "<p>Suite à la publication de <em>Sinistre volonté</em> dans L'Indé Panda n°13, j'ai répondu à une interview de l'association.</p><p>L'occasion de parler de cette nouvelle, d'<em>Enfants des neiges</em>&hellip; et aussi un peu de moi.</p><p><a href=\"https://lindepanda.wordpress.com/2024/01/12/interview-catherine-phan-van/\" target=\"_blank\">Découvrir l'interview</a></p>"
+        },
+        {
+            "asset": {
+              "media": "https://catherinephanvan.fr/assets/images/publications/enfants-des-neiges-cover.jpg"
+            },
+            "headline": "Enfants des neiges",
+            "startDate": "2024,01,16",
+            "endDate": "2024,01,16",
+            "text": "<p><em>Enfants des neiges</em> s'offre une version papier&nbsp;!</p><p><a href=\"/publications/enfants-des-neiges/\">Découvrir la nouvelle</a></p>"
+        },
+        {
+            "asset": {
+              "media": "https://catherinephanvan.fr/assets/images/events/salon-auteurs-villenavais-2024.jpg"
+            },
+            "headline": "Salon des auteurs villenavais",
+            "startDate": "2024,02,03",
+            "endDate": "2024,02,03",
+            "text": "<p>Médiathèque d'Ornon, Villenave d'Ornon (33)</p><p><a href=\"https://mediatheques.villenavedornon.fr/Default/doc/CALENDAR/144\" target=\"_blank\">Voir l'événement</a></p>"
+        },
+        {
+            "asset": {
+              "media": "https://lagendageek.com/wp-content/uploads/2023/10/imagin_livre___2024___v0.jpg"
+            },
+            "headline": "Salon Imagina'livres",
+            "startDate": "2024,04,27",
+            "endDate": "2024,04,27",
+            "text": "<p>Salle du confluent, Portet-sur-Garonne (31)</p><p>Le salon a lieu les 27 et 28 avril, mais je ne serai présente que la journée du 27.</p><p><a href=\"https://limagin-arium.com/limaginalivres/9eme-edition/\" target=\"_blank\">Voir l'événement</a></p>"
         }
         ],
-      "headline": "Mes publications 2023",
-      "text": "Retrouvez ici les dates de toutes mes sorties prévues cette année.",
+      "headline": "Mes publications et dédicaces",
+      "text": "Retrouvez ici toutes les dates de sortie de mes publications et celles de mes séances de dédicaces.",
       "defaultZoomLevel": "0",
       "language": "fr",
       "era": [

@@ -9,12 +9,13 @@ toc_label: Liens utiles
 
 ## Mes livres
 
-### À la une&nbsp;: «&nbsp;*L'arbre de lune*&nbsp;» - 3<sup>e</sup> du concours du FFB
+### À la une&nbsp;: interview
 
-[*L'arbre de lune*&nbsp;: nouvelle fantastique](/publications/l-arbre-de-lune){: .btn .btn--info .btn--large .btn--linktree}
-
+[Mon interview sur le site de L'Indé Panda](https://lindepanda.wordpress.com/2024/01/12/interview-catherine-phan-van/){: .btn .btn--info .btn--large .btn--linktree}
 
 ### Dernières parutions
+
+[*L'arbre de lune*&nbsp;: nouvelle fantastique, 3<sup>e</sup> du concours du FFB](/publications/l-arbre-de-lune){: .btn .btn--info .btn--large .btn--linktree}
 
 [*Échos graphiques*, in *Creepy Christmas and Bloody New Year* (anthologie horrifique - papier)](https://amzn.to/3sTc0e7){: .btn .btn--info .btn--large .btn--linktree}
 

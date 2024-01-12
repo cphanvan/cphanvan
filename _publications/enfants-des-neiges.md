@@ -25,13 +25,22 @@ Marre des contes de Noël qui ne font qu'égrener tous les codes du genre ?
 
 Offrez-vous cette courte lecture et laissez-vous emporter au pays des sapins 🌲, de la neige ❄ et du froid !
 
-{% include figure image_path="/assets/images/publications/enfants-des-neiges-teaser.webp" %}
+Pour en apprendre plus sur *Enfants des neiges*, n'hésitez pas à aller lire mon interview <a href="https://lindepanda.wordpress.com/2024/01/12/interview-catherine-phan-van/" target="_blank">sur le site de L'Indé Panda</a>&nbsp;!
+{: .notice--info}
 
 **En vente (0,99€) sur ma boutique Ko-Fi**, en version **<a href="https://ko-fi.com/s/7c84ee8f05" target="_blank">epub</a>** ou **<a href="https://ko-fi.com/s/8661618b41" target="_blank">pdf</a>**. \
 Disponible également <a href="https://amzn.to/3EUK8Zw" target="_blank">sur amazon</a>.
 
+**Sortie papier prévue le 16 janvier 2024.**
+
+{% include figure image_path="/assets/images/publications/enfants-des-neiges-teaser.webp" %}
+
 
 ## Un grand merci pour vos retours de lecture&nbsp;!
+
+- Nausicaa&nbsp;: *«&nbsp;Un conte familial empreint de magie, captivant par sa narration soignée et son atmosphère enveloppante.&nbsp;»*
+
+    Retrouvez la chronique complète de Nausicaa <a href="https://www.instagram.com/p/C1tqZBsKGQP/" target="_blank">sur son compte instagram</a>.
 
 - Delphine&nbsp;: *«&nbsp;La plume est pleine de poésie, d'émotions et de fluidité. L'écriture est douce et féérique. Une nouvelle pleine de poésie et de douceur, idéale à lire avant Noël.&nbsp;»*
 

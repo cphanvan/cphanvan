@@ -29,6 +29,8 @@ Si vous préférez un **exemplaire dédicacé**, vous pouvez <a href="https://ko
 
 Envie d'en apprendre plus sur le personnage qui m'a inspiré le Dr&nbsp;Owen&nbsp;? Je vous raconte ça [sur mon blog](/ecriture/2023/09/30/la-science-dans-mes-nouvelles.html#sinistre-volonté-voyage-aux-sources-de-la-neurochirurgie).
 
+Pour découvrir les coulisses de l'écriture de *Sinistre volonté*, n'hésitez pas à aller lire mon interview <a href="https://lindepanda.wordpress.com/2024/01/12/interview-catherine-phan-van/" target="_blank">sur le site de L'Indé Panda</a>&nbsp;!
+{: .notice--info}
 
 ## Un extrait&nbsp;?
 
