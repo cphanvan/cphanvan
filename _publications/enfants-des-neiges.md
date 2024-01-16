@@ -29,9 +29,9 @@ Pour en apprendre plus sur *Enfants des neiges*, n'hésitez pas à aller lire mo
 {: .notice--info}
 
 **En vente (0,99€) sur ma boutique Ko-Fi**, en version **<a href="https://ko-fi.com/s/7c84ee8f05" target="_blank">epub</a>** ou **<a href="https://ko-fi.com/s/8661618b41" target="_blank">pdf</a>**. \
-Disponible également <a href="https://amzn.to/3EUK8Zw" target="_blank">sur amazon</a>.
+Disponible également <a href="https://amzn.to/3EUK8Zw" target="_blank">sur Amazon</a>.
 
-**Sortie papier prévue le 16 janvier 2024.**
+**Version papier en vente (5,00€) <a target="_blank" href="https://amzn.to/3TWy1UA">sur Amazon</a> depuis le 16 janvier 2024.**
 
 {% include figure image_path="/assets/images/publications/enfants-des-neiges-teaser.webp" %}
 
@@ -41,6 +41,10 @@ Disponible également <a href="https://amzn.to/3EUK8Zw" target="_blank">sur amaz
 - Nausicaa&nbsp;: *«&nbsp;Un conte familial empreint de magie, captivant par sa narration soignée et son atmosphère enveloppante.&nbsp;»*
 
     Retrouvez la chronique complète de Nausicaa <a href="https://www.instagram.com/p/C1tqZBsKGQP/" target="_blank">sur son compte instagram</a>.
+
+- Catherine&nbsp; *«&nbsp;Un voyage magique dans les neiges du Haut-Doubs&nbsp;!&nbsp;»*
+
+    Retrouvez la chronique complète de Catherine <a href="https://www.catherinejeanauteure.com/mes-chroniques/chroniques-2024" target="_blank">sur son blog</a>.
 
 - Delphine&nbsp;: *«&nbsp;La plume est pleine de poésie, d'émotions et de fluidité. L'écriture est douce et féérique. Une nouvelle pleine de poésie et de douceur, idéale à lire avant Noël.&nbsp;»*
 

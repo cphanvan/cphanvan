@@ -7,11 +7,14 @@ toc: true
 toc_label: Liens utiles
 ---
 
-## Mes livres
+## À la une
 
-### À la une&nbsp;: interview
+[*Enfants des neiges* -- version papier](https://amzn.to/3TWy1UA){: .btn .btn--info .btn--large .btn--linktree}
 
 [Mon interview sur le site de L'Indé Panda](https://lindepanda.wordpress.com/2024/01/12/interview-catherine-phan-van/){: .btn .btn--info .btn--large .btn--linktree}
+
+
+## Mes livres
 
 ### Dernières parutions
 
