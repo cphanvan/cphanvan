@@ -9,6 +9,8 @@ toc_label: Liens utiles
 
 ## À la une
 
+<a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">*Pour que refleurisse son sourire*&nbsp;: premiers chapitres</a>{: .btn .btn--info .btn--large .btn--linktree}
+
 [*Enfants des neiges* -- version papier](https://amzn.to/3TWy1UA){: .btn .btn--info .btn--large .btn--linktree}
 
 [Mon interview sur le site de L'Indé Panda](https://lindepanda.wordpress.com/2024/01/12/interview-catherine-phan-van/){: .btn .btn--info .btn--large .btn--linktree}

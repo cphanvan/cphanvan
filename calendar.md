@@ -21,7 +21,10 @@ Je serai le samedi **27 avril 2024** au salon Imagina'livres, salle du Confluent
 
 ## Mes activités d'écriture en cours
 
-Actuellement, je suis en cours d'écriture du premier jet de mon nouveau roman&nbsp;: [*45,93&nbsp;grammes*](/publications/projets-en-cours/#4593grammes), un thriller psychologique.
+Actuellement, je suis en cours d'écriture du premier jet de mon nouveau roman&nbsp;: *Pour que refleurisse son sourire*, une romance contemporaine, dont vous pouvez <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">lire les premiers chapitres sur Fyctia</a>.
+
+
+L'écriture du premier jet de [*45,93&nbsp;grammes*](/publications/projets-en-cours/#4593grammes), mon thriller psychologique, est actuellement en pause.
 
 La nouvelle mouture de ma comédie romantique contemporaine, [*Cercueil et Préjugés*](/publications/projets-en-cours/#cercueil-et-préjugés), dont la première version a été <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**finaliste du concours Fyctia "Comme dans un film"**</a>, est actuellement en recherche d'éditeur.
 
