@@ -25,7 +25,7 @@ Lorsqu'il observe l'étrange comportement du jeune Jake Hill, un orphelin dont i
 
 Nouvelle parue en octobre 2023 dans le n°13 de <a href="https://lindepanda.wordpress.com/" target="_blank">***L'Indé Panda***</a>, à télécharger gratuitement en version numérique <a href="https://amzn.to/45616ik" target="_blank">au format Kindle</a> ou <a href="https://www.kobo.com/fr/fr/ebook/l-inde-panda-n-13" target="_blank">epub</a>, ou bien à retrouver au petit prix de 10€ <a href="https://amzn.to/3EYx1Xc" target="_blank">en version papier</a>.
 
-Si vous préférez un **exemplaire dédicacé**, vous pouvez <a href="https://ko-fi.com/s/975f89bf31" target="_blank">le commander directement via ma boutique en ligne</a>.
+Si vous préférez un **exemplaire dédicacé**, vous pouvez <a href="https://catherinephanvan.sumupstore.com/article/l-inde-panda-n013" target="_blank">le commander directement via ma boutique en ligne</a>.
 
 Envie d'en apprendre plus sur le personnage qui m'a inspiré le Dr&nbsp;Owen&nbsp;? Je vous raconte ça [sur mon blog](/ecriture/2023/09/30/la-science-dans-mes-nouvelles.html#sinistre-volonté-voyage-aux-sources-de-la-neurochirurgie).
 

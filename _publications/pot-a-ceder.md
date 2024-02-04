@@ -27,7 +27,7 @@ Justement, ce matin-là, sa rédaction l'envoie dans une jardinerie. Les infos q
 
 Nouvelle parue en avril 2023 dans l'anthologie ***Sorcellerie végétale***, publiée par l'association <a href="https://www.instagram.com/imaginarium.asso/" target="_blank">L'imagin'arium</a> et disponible à la <a href="https://www.helloasso.com/associations/l-imagin-arium/boutiques/sorcellerie-vegetale" target="_blank">vente à distance via ce lien</a>.
 
-Si vous préférez un **exemplaire dédicacé**, vous pouvez <a href="https://ko-fi.com/s/fb9f228435" target="_blank">le commander directement via ma boutique en ligne</a>.
+Si vous préférez un **exemplaire dédicacé**, vous pouvez <a href="https://catherinephanvan.sumupstore.com/article/sorcellerie-vegetale" target="_blank">le commander directement via ma boutique en ligne</a>.
 
 
 ## Un extrait&nbsp;?

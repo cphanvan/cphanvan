@@ -1,17 +1,20 @@
 # main links
 main:
+  - title: "Boutique"
+    url: https://catherinephanvan.sumupstore.com/
+    icon: "fas fa-shopping-bag"
   - title: "Publications"
     url: /publications
     icon: "fas fa-book"
-  - title: "Textes gratuits"
-    url: /echantillons
-    icon: "fas fa-pen-fancy"
   - title: "Newsletter"
     url: /newsletter
     icon: "fas fa-envelope-open-text"
   - title: "Blog"
     url: /blog
     icon: "fas fa-blog"
+  - title: "Textes gratuits"
+    url: /echantillons
+    icon: "fas fa-pen-fancy"
   - title: "À propos"
     url: /a-propos
     icon: "fas fa-info"

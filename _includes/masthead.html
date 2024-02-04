@@ -9,7 +9,8 @@
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
             <li class="masthead__menu-item">
-              <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}><span class="menu-icon {{ link.icon }}"></span>{{ link.title | upcase }}</a>
+              {% capture link_url %}{{link.url}}{% endcapture %}
+              <a href="{{ link.url | relative_url }}"{% if link_url contains "http" %} target="_blank"{% endif %}{% if link.description %} title="{{ link.description }}"{% endif %}><span class="menu-icon {{ link.icon }}"></span>{{ link.title | upcase }}</a>
             </li>
           {%- endfor -%}
         </ul>

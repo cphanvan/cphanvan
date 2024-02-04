@@ -21,7 +21,7 @@ sidebar:
 
 Avec son cancer, elle a tout perdu&nbsp;: ses espoirs, ses rêves, son compagnon. Mais on dit que les fées rôdent, lors de la nuit du solstice&hellip;
 
-Les Éditions Inusitées ayant malheureusement fermé leurs portes, l'anthologie ***Solstice d'été*** n'est plus disponible à la vente en librairie. Il me reste cependant quelques exemplaires, vous pouvez donc si vous le souhaitez <a href="https://ko-fi.com/s/11970fe8b0" target="_blank">commander un **exemplaire dédicacé** directement via ma boutique en ligne</a>.
+Les Éditions Inusitées ayant malheureusement fermé leurs portes, l'anthologie ***Solstice d'été*** n'est plus disponible à la vente en librairie. Il me reste cependant quelques exemplaires, vous pouvez donc si vous le souhaitez <a href="https://catherinephanvan.sumupstore.com/article/solstice-d-ete" target="_blank">commander un **exemplaire dédicacé** directement via ma boutique en ligne</a>.
 
 
 ## Vos retours de lecture :

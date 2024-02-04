@@ -11,14 +11,14 @@ toc_label: Liens utiles
 
 <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">*Pour que refleurisse son sourire*&nbsp;: premiers chapitres</a>{: .btn .btn--info .btn--large .btn--linktree}
 
-[*Enfants des neiges* -- version papier](https://amzn.to/3TWy1UA){: .btn .btn--info .btn--large .btn--linktree}
-
 [Mon interview sur le site de L'Indé Panda](https://lindepanda.wordpress.com/2024/01/12/interview-catherine-phan-van/){: .btn .btn--info .btn--large .btn--linktree}
 
 
 ## Mes livres
 
 ### Dernières parutions
+
+[*Enfants des neiges* - version papier](https://catherinephanvan.sumupstore.com/article/enfants-des-neiges){: .btn .btn--info .btn--large .btn--linktree}
 
 [*L'arbre de lune*&nbsp;: nouvelle fantastique, 3<sup>e</sup> du concours du FFB](/publications/l-arbre-de-lune){: .btn .btn--info .btn--large .btn--linktree}
 
@@ -34,14 +34,12 @@ toc_label: Liens utiles
 
 [*Élégie à une selkie*, in *Érudition & Poésie* (anthologie fanstastique)](https://www.vagabondsdureve.fr/produit/n8-eridution-poesie/){: .btn .btn--info .btn--large .btn--linktree}
 
-[*Pot à céder*, in *Sorcellerie Végétale* (anthologie SFFF)](https://ko-fi.com/s/fb9f228435){: .btn .btn--info .btn--large .btn--linktree}
+[*Pot à céder*, in *Sorcellerie Végétale* (anthologie SFFF)](https://catherinephanvan.sumupstore.com/article/sorcellerie-vegetale){: .btn .btn--info .btn--large .btn--linktree}
 
 
 ### Nouvelles publiées
 
-[*Enfants des neiges*](https://ko-fi.com/s/7c84ee8f05){: .btn .btn--info .btn--large .btn--linktree}
-
-[Découvrir mes autres nouvelles publiées (dont 6 gratuites)](/publications){: .btn .btn--info .btn--large .btn--linktree}
+[Découvrir toutes mes nouvelles publiées (dont 6 gratuites)](/publications){: .btn .btn--info .btn--large .btn--linktree}
 
 
 ### Projets en cours et à venir
@@ -60,7 +58,7 @@ toc_label: Liens utiles
 
 ### Boutique en ligne
 
-[Ma boutique en ligne](https://ko-fi.com/cathphanvan/shop){: .btn .btn--info .btn--large .btn--linktree}
+[Ma boutique en ligne](https://catherinephanvan.sumupstore.com/){: .btn .btn--info .btn--large .btn--linktree}
 
 
 ## Mon blog
