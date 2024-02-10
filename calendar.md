@@ -14,8 +14,6 @@ page_js:
 
 ## Prochaines dédicaces
 
-Je serai le samedi **3 février 2024 de 14h30 à 18h** à la médiathèque d'Ornon, à Villenave d'Ornon (33), à l'occasion du salon des auteurs villenavais, pour y dédicacer *Enfants des neiges* et quelques anthologies.
-
 Je serai le samedi **27 avril 2024** au salon Imagina'livres, salle du Confluent à Portet-sur-Garonne (31), pour y dédicacer les anthologies *Explorations insolites* et *Sorcellerie végétale* de l'association L'Imagin'arium, ainsi que *L'Indé Panda n°13* de l'association L'Indé Panda.
 
 
