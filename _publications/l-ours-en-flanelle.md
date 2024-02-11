@@ -6,7 +6,7 @@ classes: wide
 share: true
 publication_date: 2023-02-05T21:00:00Z
 excerpt: |
-  Une nouvelle feel-good portée par une héroïne au caractère bien trempé.
+  Une nouvelle feel-good portée par une héroïne au caractère bien trempé.<!--excerptEnd-->
 header:
   teaser: /assets/images/publications/l-ours-en-flanelle-teaser.webp
 sidebar:

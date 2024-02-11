@@ -6,7 +6,7 @@ classes: wide
 share: true
 publication_date: 2023-10-07T00:00:00Z
 excerpt: |
-  Une nouvelle fantastique dans laquelle s'entremêlent une vieille légende du Viêt-Nam et l'histoire des «&nbsp;moon trees&nbsp;» de la NASA
+  Une nouvelle fantastique dans laquelle s'entremêlent une vieille légende du Viêt-Nam et l'histoire des «&nbsp;moon trees&nbsp;» de la NASA<!--excerptEnd-->
 header:
   teaser: /assets/images/publications/l-arbre-de-lune-teaser.webp
 sidebar:

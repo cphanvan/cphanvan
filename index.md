@@ -17,9 +17,9 @@ header:
       url: "https://festival-fantastique.fr/wp-content/uploads/2023/10/FFB-2023-pdf.pdf"
     - label: "Mes autres publications"
       url: "/publications"
-excerpt: "Ma nouvelle &laquo;&nbsp;<em><strong>L'arbre de lune</strong></em>&nbsp;&raquo; a terminé 3<sup>e</sup> du concours du Festival du Fantastique de Béziers.<br><br>Envie de la lire&nbsp;?"
+summary: "Ma nouvelle &laquo;&nbsp;<em><strong>L'arbre de lune</strong></em>&nbsp;&raquo; a terminé 3<sup>e</sup> du concours du Festival du Fantastique de Béziers.<br><br>Envie de la lire&nbsp;?"
 a_propos:
-  - excerpt: |
+  - summary: |
       **Qui suis-je&nbsp;?**
       
       Née en 1976 au pays des sapins et du froid, je vis aujourd'hui près de Bordeaux.
@@ -32,37 +32,37 @@ a_propos:
 contenu_site:
   - image_path: assets/images/publications.webp
     title: "Publications"
-    excerpt: "Découvrez ici mes nouvelles publiées, mais aussi mes recueils, romans ou novellas qui trépignent de suivre un jour le même chemin."
+    summary: "Découvrez ici mes nouvelles publiées, mais aussi mes recueils, romans ou novellas qui trépignent de suivre un jour le même chemin."
     url: "/publications"
     btn_label: "Je découvre"
   - image_path: /assets/images/echantillons.webp
     alt: "Textes gratuits"
     title: "Textes gratuits"
-    excerpt: "Quelques-uns de mes textes sont ici en accès libre&nbsp;: nouvelles solo ou à quatre mains (avec des autrices amies), micronouvelles, jeux d'écriture..."
+    summary: "Quelques-uns de mes textes sont ici en accès libre&nbsp;: nouvelles solo ou à quatre mains (avec des autrices amies), micronouvelles, jeux d'écriture..."
     url: "/echantillons"
     btn_label: "Je lis"
   - image_path: /assets/images/newsletter.webp
     alt: "Newsletter"
     title: "L'épître(ries)"
-    excerpt: "Abonnez-vous à ma newsletter mensuelle et découvrez <strike>mes bourdes</strike> les coulisses de ma vie d'autrice."
+    summary: "Abonnez-vous à ma newsletter mensuelle et découvrez <strike>mes bourdes</strike> les coulisses de ma vie d'autrice."
     url: "/newsletter#abonnez-vous"
     btn_label: "Je m'abonne"
   - image_path: /assets/images/blog.webp
     alt: "Blog"
     title: "Blog"
-    excerpt: "Retrouvez mes chroniques lectures, interviews d'autrices ou auteurs, billets sur l'écriture, et états d'âme en tous genres&hellip;"
+    summary: "Retrouvez mes chroniques lectures, interviews d'autrices ou auteurs, billets sur l'écriture, et états d'âme en tous genres&hellip;"
     url: "/blog"
     btn_label: "Mon blog"
   - image_path: /assets/images/agenda.webp
     alt: "Agenda"
     title: "Agenda"
-    excerpt: "Vous souhaitez me rencontrer lors d'une séance de dédicaces ou connaître la date de mes prochaines sorties&nbsp;?"
+    summary: "Vous souhaitez me rencontrer lors d'une séance de dédicaces ou connaître la date de mes prochaines sorties&nbsp;?"
     url: "/agenda"
     btn_label: "Mon agenda"
   - image_path: /assets/images/contact.webp
     alt: "Contact"
     title: "Contact"
-    excerpt: "Vous souhaitez me contacter&nbsp;? C'est par ici&nbsp;!"
+    summary: "Vous souhaitez me contacter&nbsp;? C'est par ici&nbsp;!"
     url: "/contact"
     btn_label: "Me contacter"
 ---

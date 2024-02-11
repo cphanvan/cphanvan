@@ -6,7 +6,7 @@ classes: wide
 share: true
 publication_date: 2021-03-31T00:00:00Z
 excerpt: |
-  Une courte plongée dans l'univers caché des jeux vidéo
+  Une courte plongée dans l'univers caché des jeux vidéo<!--excerptEnd-->
 header:
   teaser: /assets/images/publications/plein-sud-teaser.webp
 sidebar:

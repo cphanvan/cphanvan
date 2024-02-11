@@ -6,7 +6,7 @@ classes: wide
 share: true
 publication_date: 2021-11-14T00:00:00Z
 excerpt: |
-  Un (non-)conte hivernal, garanti 100% sans Père Noël, qui vous emportera au pays des sapins, de la neige et du froid !
+  Un (non-)conte hivernal, garanti 100% sans Père Noël, qui vous emportera au pays des sapins, de la neige et du froid !<!--excerptEnd-->
 header:
   teaser: /assets/images/publications/enfants-des-neiges-teaser.webp
 sidebar:

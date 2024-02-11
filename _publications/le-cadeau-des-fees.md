@@ -6,7 +6,7 @@ classes: wide
 share: true
 publication_date: 2021-06-21T00:00:00Z
 excerpt: |
-  Une nouvelle fantastique à lire au son des cornemuses
+  Une nouvelle fantastique à lire au son des cornemuses<!--excerptEnd-->
 header:
   teaser: /assets/images/publications/le-cadeau-des-fees-teaser.webp
 sidebar:

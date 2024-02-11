@@ -6,7 +6,7 @@ classes: wide
 share: true
 publication_date: 2023-04-15T00:00:00Z
 excerpt: |
-  Une nouvelle fantastique sur le thème «&nbsp;Sorcellerie végétale&nbsp;», ou comment un olivier en pot va chambouler le quotidien d’un journaliste.
+  Une nouvelle fantastique sur le thème «&nbsp;Sorcellerie végétale&nbsp;», ou comment un olivier en pot va chambouler le quotidien d’un journaliste.<!--excerptEnd-->
 header:
   teaser: /assets/images/publications/pot-a-ceder-teaser.webp
 sidebar:

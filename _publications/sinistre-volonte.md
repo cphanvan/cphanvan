@@ -6,7 +6,7 @@ classes: wide
 share: true
 publication_date: 2023-10-01T00:00:00Z
 excerpt: |
-  Une nouvelle fantastique qui explore la question de l'unicité du soi.
+  Une nouvelle fantastique qui explore la question de l'unicité du soi.<!--excerptEnd-->
 header:
   teaser: /assets/images/publications/sinistre-volonte-teaser.webp
 sidebar:

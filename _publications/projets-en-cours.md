@@ -6,7 +6,7 @@ classes: wide
 share: true
 publication_date: 2970-01-01T00:00:00Z
 excerpt: |
-  Regard sur l'avenir...
+  Regard sur l'avenir...<!--excerptEnd-->
 header:
   teaser: /assets/images/publications/projets-en-cours-teaser.webp
 sidebar_newsletter: true

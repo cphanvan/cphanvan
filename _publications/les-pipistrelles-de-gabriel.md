@@ -6,7 +6,7 @@ classes: wide
 share: true
 publication_date: 2021-06-13T00:00:00Z
 excerpt: |
-  Une nouvelle fantastique sur le thème des créatures de la nuit
+  Une nouvelle fantastique sur le thème des créatures de la nuit<!--excerptEnd-->
 header:
   teaser: /assets/images/publications/les-pipistrelles-de-gabriel-teaser.webp
 sidebar:

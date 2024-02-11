@@ -6,7 +6,7 @@ classes: wide
 share: true
 publication_date: 2023-09-23T00:00:00Z
 excerpt: |
-  Une nouvelle fantastique sur le thème «&nbsp;Interstices&nbsp;», qui parle d'amour, de religion, et de physique des particules.
+  Une nouvelle fantastique sur le thème «&nbsp;Interstices&nbsp;», qui parle d'amour, de religion, et de physique des particules.<!--excerptEnd-->
 header:
   teaser: /assets/images/publications/la-vallee-cachee-teaser.webp
 sidebar:

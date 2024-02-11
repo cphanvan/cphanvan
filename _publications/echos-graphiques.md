@@ -6,7 +6,7 @@ classes: wide
 share: true
 publication_date: 2023-11-05T00:00:00Z
 excerpt: |
-  Une nouvelle horrifique qui vous fera frissonner même au coin du feu !
+  Une nouvelle horrifique qui vous fera frissonner même au coin du feu !<!--excerptEnd-->
 header:
   teaser: /assets/images/publications/echos-graphiques-teaser.webp
 sidebar:

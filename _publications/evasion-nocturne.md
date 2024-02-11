@@ -6,7 +6,7 @@ classes: wide
 share: true
 publication_date: 2021-05-05T00:00:00Z
 excerpt: |
-  Une nouvelle fantastique sur le thème «&nbsp;Le prix de la liberté&nbsp;»
+  Une nouvelle fantastique sur le thème «&nbsp;Le prix de la liberté&nbsp;»<!--excerptEnd-->
 header:
   teaser: /assets/images/publications/evasion-nocturne-teaser.webp
 sidebar:
