@@ -58,7 +58,7 @@ L'intrigue, justement&nbsp;: parlons-en&nbsp;! L'autrice et sa maison d'édition
 Parce que si la première partie tient du huis-clos et du thriller psychologique, la seconde bascule dans&hellip; autre chose. Et je ne peux guère en dire davantage sans risquer de spoiler. *Vous voilà prévenu·e·s, ce qui suit contient par conséquent des spoils.*  👉
 <span id="ES-spoil-1" class="hidden" markdown="1">
 Personnellement, je qualifierais cette seconde partie de&hellip; course poursuite SF. Oui, SF. Ce à quoi on ne s'attend pas forcément pendant tout le début. Et oui, course poursuite. Un peu particulière, certes, mais c'est le terme qui me vient spontanément à l'esprit pour la décrire. En tout cas, l'action prend clairement le dessus sur le psychologique. Voilà, j'en ai déjà beaucoup dit. J'ai quand même pris soin de ne pas mettre l'étiquette *SF* sur cette chronique, pour ne pas gâcher la découverte aux personnes qui parviennent à résister à leur curiosité. 😉 👈 </span>
-<button target-id="#ES-spoil-1" class="btn btn--primary btn--small" onclick="toggle(this)">Voir</button>
+<button target-id="#ES-spoil-1" class="btn btn--primary btn--small" onclick="toggle(this)">Voir le spoil</button>
 
 
 ### Ce que j'ai aimé

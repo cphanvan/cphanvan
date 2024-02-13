@@ -73,14 +73,14 @@ La **crédibilité** de la conclusion, par rapport à ce qu'on connaît du carac
 <span id="JV-spoil-1" class="hidden" markdown="1">
 Qu'Henri fasse tout son possible pour sauver L&aelig;titia, pourquoi pas. Qu'il soit ensuite effondré en apprenant qu'il est trop tard, OK. Après tout, la culpabilité est un sentiment puissant et peut bien-sûr expliquer ces réactions. Cependant, qu'il veuille, je cite, *&ldquo;&nbsp;être avec elle pour le temps qui leur restait&nbsp;&rdquo;*&nbsp;? Alors qu'ils n'ont partagé qu'une soirée&nbsp;? De la part de quelqu'un qui ne venait auprès de son frère étendu dans son lit de réanimation que pour s'y cacher des sbires de Monsieur Marcel, désolée, cela me laisse quelque peu dubitative&hellip; Dommage.
 👈 </span>
-<button target-id="#JV-spoil-1" class="btn btn--primary btn--small" onclick="toggle(this)">Voir</button>
+<button target-id="#JV-spoil-1" class="btn btn--primary btn--small" onclick="toggle(this)">Voir le spoil</button>
 
 Enfin, le principal point faible de cette novella porte selon moi sur les **incohérences** et en particulier celle, flagrante, qui survient au pire moment, en plein climax, et qui a eu pour effet de totalement me sortir de l'intrigue.
 *Attention, ce qui suit contient des spoils.* 👉
 <span id="JV-spoil-2" class="hidden" markdown="1">
 Alors, déjà, que l'on puisse entrer dans une chambre de réanimation (car c'est bien là que se trouve Eddie, comme toute personne en état de mort cérébrale) comme dans un moulin, c'est très peu crédible. Les lits de réanimation, ou même de soins intensifs, sont très surveillés, tout bonnement parce que c'est vital pour les patients qui s'y trouvent. Il y a toujours du personnel médical à proximité. Donc les allées et venues d'Henri dans la chambre de son frère m'ont un peu fait tiquer. Mais le ponpon, c'est quand il revient le voir pour tenter de sauver L&aelig;titia. Bien-sûr, on s'attend à ce qu'Henri déchante. C'est ce qui lui pend au nez depuis le début, et puis si ça ne suffisait pas, même le lecteur qui manque cruellement d'intuition a vu les parents arriver à l'hôpital quelques pages plus tôt. Mais franchement, le trouver encore dans la même chambre, et *débranché*&nbsp;??? Pardon pour la violence du commentaire, mais c'est juste n'importe quoi&nbsp;: on ne prélève pas les organes *après* avoir débranché ce qui les maintient en état de fonctionner&nbsp;! Le prélèvement se fait au bloc opératoire, avec le donneur *encore branché*&nbsp;: on tient quand même à récupérer des organes dans le meilleur état possible&hellip; Et s'il a déjà été prélevé, il n'est pas renvoyé ensuite en réanimation&nbsp;: les lits disponibles y sont une denrée rare, ce n'est pas pour y mettre des patients pour lesquels on ne peut plus rien&nbsp;! Donc il ne peut pas se trouver dans la même chambre. Bref, c'est vraiment *LE* détail qui m'a gâché la novella. Alors que l'auteur aurait facilement pu écrire une scène quasi identique, sans cette incohérence grossière&hellip;
 👈 </span>
-<button target-id="#JV-spoil-2" class="btn btn--primary btn--small" onclick="toggle(this)">Voir</button>
+<button target-id="#JV-spoil-2" class="btn btn--primary btn--small" onclick="toggle(this)">Voir le spoil</button>
 
 
 ## Au bilan
