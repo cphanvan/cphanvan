@@ -17,7 +17,7 @@ toc: true
 
 ### Cercueil et Préjugés
 
-*comédie romantique contemporaine - <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**finaliste du concours Fyctia "Comme dans un film"**</a>*
+*comédie romantique contemporaine -- <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**finaliste du concours Fyctia "Comme dans un film"**</a>*
 
 Le pitch&nbsp;:
 > Quand Adélie rentre chez elle après trois mois coupée de tout, elle ne s'attend ni à tomber nez à nez avec le nouveau locataire de son appartement, ni à la révélation que ce dernier lui réserve&nbsp;: que tout le monde la croit morte et enterrée&nbsp;!
@@ -32,6 +32,21 @@ Vous pouvez <a href="https://www.fyctia.com/stories/cercueil-et-prejuges" target
 
 ## En cours d'écriture&nbsp;:
 
+### Pour que refleurisse son sourire
+
+Le titre est pourri, mais c'est juste un titre de travail (je suis nulle en titres&nbsp;! 😅)
+
+*romance contemporaine -- participe au concours Fyctia <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">Prix de la révélation new romance 2024</a>* 
+
+Le pitch&nbsp;:
+> Quand Kiana a annoncé à sa grand-mère qu'elle avait rencontré quelqu'un, et que, oui, c'était sérieux, elle cherchait juste à calmer les inquiétudes de la vieille dame. Mais lorsque l'état de santé de cette dernière se dégrade, et qu'il devient impossible de la laisser vivre seule, la jeune femme commence à regretter son mensonge&hellip;
+> <br />Passer en mode panique pour dénicher un complice qui l'aidera à apaiser les soupçons de son aïeule, est-ce vraiment une bonne idée&nbsp;?
+
+Vous pouvez <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">lire sur Fyctia les premiers chapitres de mon premier jet</a>, au fil de l'écriture.
+
+
+## En pause&nbsp;:
+
 ### 45,93&nbsp;grammes
 
 *thriller*
@@ -42,6 +57,8 @@ Le pitch&nbsp;:
 > <br />Mais alors qu'une partie de ses souvenirs s'est évanouie, que croire, et à qui se fier&nbsp;? S'agissait-il d'un simple accident, comme le laissent supposer les apparences, ou d'une agression, ainsi que sa mère en est persuadée&nbsp;? Et à qui appartient ce visage qui vient hanter ses rêves&nbsp;?
 
 Avec trois lignes temporelles distinctes, et trois points de vue différents, je ne me facilite pas la tâche. D'autant que je récidive avec ma "méthode" qui consiste à avancer sans plan. 😅 Reste à voir où cela me mènera&hellip; 
+
+J'ai écrit environ 15&nbsp;000&nbsp;mots sur le premier jet de ce roman, soit un petit quart. Puis je l'ai mis en pause pour réécrire [Cercueil et préjugés](#cercueil-et-pr%C3%A9jug%C3%A9s) suite au retour du jury après la finale Fyctia. Et&hellip; il est encore en pause, parce qu'une autre idée de roman s'est incrustée sans prévenir, et que je n'ai pas réussi à la repousser.
 
 
 ## À réécrire&nbsp;:
