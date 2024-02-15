@@ -44,9 +44,13 @@ toc_label: Liens utiles
 
 ### Projets en cours et à venir
 
-[*Chasseuse de rêves* (roman ado en recherche d'éditeur)](/publications/projets-en-cours/#chasseuse-de-rêves){: .btn .btn--info .btn--large .btn--linktree}
-
 [*Cercueil et préjugés* (comédie romantique)](/publications/projets-en-cours/#cercueil-et-préjugés){: .btn .btn--info .btn--large .btn--linktree}
+
+[*Pour que refleurisse son sourire* (romance contemporaine)](/publications/projets-en-cours/#pour-que-refleurisse-son-sourire){: .btn .btn--info .btn--large .btn--linktree}
+
+[*45,93&nbsp;grammes* (thriller psychologique)](/publications/projets-en-cours/#4593grammes){: .btn .btn--info .btn--large .btn--linktree}
+
+[*Chasseuse de rêves* (roman ado)](/publications/projets-en-cours/#chasseuse-de-rêves){: .btn .btn--info .btn--large .btn--linktree}
 
 [Mes futures histoires](/publications/projets-en-cours){: .btn .btn--info .btn--large .btn--linktree}
 
