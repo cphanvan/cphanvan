@@ -14,13 +14,12 @@ page_js:
 
 ## Prochaines dédicaces
 
-Je serai le samedi **27 avril 2024** au salon Imagina'livres, salle du Confluent à Portet-sur-Garonne (31), pour y dédicacer les anthologies *Explorations insolites* et *Sorcellerie végétale* de l'association L'Imagin'arium, ainsi que *L'Indé Panda n°13* de l'association L'Indé Panda.
+Je serai le samedi **27 avril 2024** au [salon Imagina'livres](/assets/images/events/affiche-salon-imaginalivres-2024.jpg), salle du Confluent à Portet-sur-Garonne (31), pour y dédicacer les anthologies *Explorations insolites* et *Sorcellerie végétale* de l'association L'Imagin'arium, ainsi que *L'Indé Panda n°13* de l'association L'Indé Panda.
 
 
 ## Mes activités d'écriture en cours
 
 Actuellement, je suis en cours d'écriture du premier jet de mon nouveau roman&nbsp;: *Pour que refleurisse son sourire*, une romance contemporaine, dont vous pouvez <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">lire les premiers chapitres sur Fyctia</a>.
-
 
 L'écriture du premier jet de [*45,93&nbsp;grammes*](/publications/projets-en-cours/#4593grammes), mon thriller psychologique, est actuellement en pause.
 

@@ -1,5 +1,5 @@
 ---
-title: "Chronique du roman d'Emilie Querbalec&nbsp;: *Les Sentiers de recouvrance*"
+title: "Chronique du roman d'Emilie Querbalec&nbsp;: *Les Sentiers de Recouvrance*"
 seo_title: "*Les Sentiers de recouvrance* - Emilie Querbalec&nbsp;: avis de lecture"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
@@ -19,7 +19,7 @@ header:
 gallery:
     - url: /assets/images/posts/2024-02-20_les-sentiers-de-recouvrance-cover.webp
       image_path: /assets/images/posts/2024-02-20_les-sentiers-de-recouvrance-cover.webp
-      alt: "couverture du roman Les Sentiers de recouvrance"
+      alt: "couverture du roman Les Sentiers de Recouvrance"
 ---
 Un roman d'anticipation bien documenté, servi par une plume magnifique
 <!--excerptEnd-->
