@@ -6,7 +6,7 @@ excerpt_separator: <!--excerptEnd-->
 classes: wide
 date: 2022-08-07 12:00:00 +0200
 categories: chronique polar
-tags: lecture chronique polar roman
+tags: lecture chronique polar roman cosy-mystery
 sidebar_newsletter: true
 share: true
 comments: true
