@@ -25,6 +25,6 @@ Aurélie et Nicolas attendent un heureux événement. Ils viennent passer Noël 
 
 Nouvelle parue en novembre 2023 dans le recueil ***Creepy Christmas and Bloody New Year***, aux éditions <a href="https://www.instagram.com/beetlebooks_publishing/" target="_blank">BeetleBooks Publishing</a>.
 
-Disponible <a href="https://amzn.to/3MuMX80" target="_blank">en version numérique</a> ou <a href="https://amzn.to/3sTc0e7" target="_blank">en version brochée</a>.
+Disponible <a href="https://www.amazon.fr/CREEPY-CHRISTMAS-Bloody-New-Year-ebook/dp/B0CMQHGD48" target="_blank">en version numérique</a> ou <a href="https://www.amazon.fr/dp/B0CNYBQB9M" target="_blank">en version brochée</a>.
 
 <video width="512" height="640" controls muted autoplay><source src="/assets/images/publications/echos-graphiques-teaser.mp4"></video>

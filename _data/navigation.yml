@@ -26,10 +26,12 @@ main:
     icon: "fas fa-envelope"
 
 publications:
-  - title: "Projets en cours..."
+  - title: "Projets en cours…"
     url: /publications/projets-en-cours
   - title: "Nouvelles gratuites"
     children:
+      - title: "Ceux qui rapportent… et ceux qui coûtent"
+        url: /publications/ceux-qui-rapportent-et-ceux-qui-coutent
       - title: "L'arbre de lune"
         url: /publications/l-arbre-de-lune
       - title: "Sinistre volonté"
@@ -44,6 +46,8 @@ publications:
         url: /publications/plein-sud
   - title: "Nouvelles"
     children:
+      - title: "Dragonirie"
+        url: /publications/dragonirie
       - title: "Échos graphiques"
         url: /publications/echos-graphiques
       - title: "La vallée cachée"

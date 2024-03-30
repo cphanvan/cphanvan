@@ -18,28 +18,18 @@ toc_label: Liens utiles
 
 ### Dernières parutions
 
+[*Dragonirie*, in *Explorations insolites* - précommandes À RETIRER SUR PLACE, AU SALON IMAGINA'LIVRES](https://www.helloasso.com/associations/l-imagin-arium/boutiques/explorations-insolites-precommandes){: .btn .btn--info .btn--large .btn--linktree}
+
+[*Ceux qui rapportent… et ceux qui coûtent*, in *Nouvelles du travail - tome 18* (ebook gratuit)](https://occitanie.aract.fr/sites/default/files/2024-03/RecueilAract2023.pdf){: .btn .btn--info .btn--large .btn--linktree}
+
 [*Enfants des neiges* - version papier](https://catherinephanvan.sumupstore.com/article/enfants-des-neiges){: .btn .btn--info .btn--large .btn--linktree}
 
-[*L'arbre de lune*&nbsp;: nouvelle fantastique, 3<sup>e</sup> du concours du FFB](/publications/l-arbre-de-lune){: .btn .btn--info .btn--large .btn--linktree}
-
-[*Échos graphiques*, in *Creepy Christmas and Bloody New Year* (anthologie horrifique - papier)](https://amzn.to/3sTc0e7){: .btn .btn--info .btn--large .btn--linktree}
-
-[*Échos graphiques*, in *Creepy Christmas and Bloody New Year* (anthologie horrifique - ebook)](https://amzn.to/3MuMX80){: .btn .btn--info .btn--large .btn--linktree}
-
-[*Sinistre volonté*, in *L'Indé Panda n°13* (papier ou ebook)](https://amzn.to/3EYx1Xc){: .btn .btn--info .btn--large .btn--linktree}
-
-[*La vallée cachée*, in *Interstices* (anthologie SFFF - papier)](https://herosdepapierfroisse.fr/editionshpf/nos-livres/interstices/){: .btn .btn--info .btn--large .btn--linktree}
-
-[*La vallée cachée*, in *Interstices* (anthologie SFFF - ebook)](https://amzn.to/3s0ayGB){: .btn .btn--info .btn--large .btn--linktree}
-
-[*Élégie à une selkie*, in *Érudition & Poésie* (anthologie fanstastique)](https://www.vagabondsdureve.fr/produit/n8-eridution-poesie/){: .btn .btn--info .btn--large .btn--linktree}
-
-[*Pot à céder*, in *Sorcellerie Végétale* (anthologie SFFF)](https://catherinephanvan.sumupstore.com/article/sorcellerie-vegetale){: .btn .btn--info .btn--large .btn--linktree}
+[*L'arbre de lune*&nbsp;: nouvelle fantastique, 3<sup>e</sup> du concours du FFB (ebook gratuit)](https://festival-fantastique.fr/wp-content/uploads/FFB-2023-pdf.pdf){: .btn .btn--info .btn--large .btn--linktree}
 
 
 ### Nouvelles publiées
 
-[Découvrir toutes mes nouvelles publiées (dont 6 gratuites)](/publications){: .btn .btn--info .btn--large .btn--linktree}
+[Découvrir toutes mes nouvelles publiées (dont 7 gratuites)](/publications){: .btn .btn--info .btn--large .btn--linktree}
 
 
 ### Projets en cours et à venir
@@ -84,7 +74,7 @@ toc_label: Liens utiles
 
 [Ma newsletter](/newsletter#abonnez-vous){: .btn .btn--info .btn--large .btn--linktree}
 
-[Amazon](https://amzn.to/48vvKEK){: .btn .btn--info .btn--large .btn--linktree}
+[Amazon](https://www.amazon.fr/stores/author/B09LZ7H52W){: .btn .btn--info .btn--large .btn--linktree}
 
 [Babelio](https://www.babelio.com/auteur/Catherine-Phan-Van/586698){: .btn .btn--info .btn--large .btn--linktree}
 

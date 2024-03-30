@@ -37,7 +37,7 @@ books:
     description: |
         Une incursion au pays des sapins, de la neige et du froid…
 
-        Retrouvez ici la légende qui a donné naissance à <a href="https://amzn.to/3EUK8Zw" target="_blank">ma nouvelle Enfants des neiges</a>&nbsp;!
+        Retrouvez ici la légende qui a donné naissance à <a href="https://catherinephanvan.sumupstore.com/article/enfants-des-neiges" target="_blank">ma nouvelle Enfants des neiges</a>&nbsp;!
   - title: "Le lapin rose"
     teaser: "Récit jeunesse"
     image_path: /assets/images/echantillons/LeLapinRose-couv.webp

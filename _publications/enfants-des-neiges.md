@@ -29,10 +29,10 @@ Pour en apprendre plus sur *Enfants des neiges*, n'hésitez pas à aller lire mo
 {: .notice--info}
 
 **En vente (1€) sur ma boutique en ligne**, en version **<a href="https://catherinephanvan.sumupstore.com/article/enfants-des-neiges-version-epub" target="_blank">epub</a>** ou **<a href="https://catherinephanvan.sumupstore.com/article/enfants-des-neiges-version-pdf" target="_blank">pdf</a>**. \
-Disponible également <a href="https://amzn.to/3EUK8Zw" target="_blank">sur Amazon</a>.
+Disponible également <a href="https://www.amazon.fr/Enfants-neiges-Catherine-Phan-van-ebook/dp/B09LXQ7LX7/" target="_blank">sur Amazon</a>.
 
 **Version papier en vente (5,00€) depuis le 16 janvier 2024 <a href="https://catherinephanvan.sumupstore.com/article/enfants-des-neiges" target="_blank">sur ma boutique en ligne</a>**.
-Disponible également <a target="_blank" href="https://amzn.to/3TWy1UA">sur Amazon</a>.
+Disponible également <a target="_blank" href="https://www.amazon.fr/Enfants-neiges-Catherine-Phan-van/dp/2493624041">sur Amazon</a>.
 
 {% include figure image_path="/assets/images/publications/enfants-des-neiges-teaser.webp" %}
 
@@ -69,7 +69,7 @@ Disponible également <a target="_blank" href="https://amzn.to/3TWy1UA">sur Amaz
 
 - Didier&nbsp;: *«&nbsp;Cette nouvelle ne ressemble pas à un conte de Noël classique, mais elle n'en est pas moins passionnante (…) surtout parce qu'elle traite de la transmission d'une histoire familiale, et de ce qui lie vraiment les membres d'une famille. Tout cela avec une grande douceur, mais dans une féerie presque inquiétante…&nbsp;»*
 
-    Retrouvez l'avis complet de Didier <a href="https://amzn.to/3RWAAFl" target="_blank">sur Amazon</a>.
+    Retrouvez l'avis complet de Didier <a href="https://www.amazon.fr/gp/customer-reviews/R3ATMLJZFGR3JT" target="_blank">sur Amazon</a>.
 
 - Nora&nbsp;: *«&nbsp;J'ai tout de suite été happée par le récit&nbsp;»*, *«&nbsp;on a aussi droit à des descriptions de paysages qui ont l’air magnifiques et qui m’ont donné l’impression d’avoir traversé l’armoire magique qui amène à Narnia&nbsp;»*, *«&nbsp;J’ai énormément aimé la relation que Marie a avec ses petits enfants, une relation vraiment touchante, tout comme celle de Rose et Noël qui respire la pureté…&nbsp;»*
 
