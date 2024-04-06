@@ -35,7 +35,7 @@ Au sommaire&nbsp;:
 
 - ***Un Sang d'encre***, de Sascha Lahaie.<br/>Parcourir l'exposition d'un artiste contemporain tourmenté quand on n'est guère convaincu par son &oelig;uvre, est-ce vraiment une bonne idée&nbsp;?
 - ***Rencontre du troisième type, il habite New-Gruyère***, de Christophe Charles Künzi.<br/>Quand l'absurde rencontre la SF, la route des vacances emprunte quelques détours pimentés.
-- ***Dragonirie***, de Catherine Phan van.<br/>Une scientifique larguée dans un lieu inconnu, une dragonne au sommeil fragile, et un responsable de la sécurité un peu nerveux&nbsp;: les ingrédients d'une mission réussie&nbsp;?
+- ***Dragonirie***, de Catherine Phan van.<br/>Une scientifique larguée dans un lieu inconnu, une dragonne qui menace de se réveiller, et un responsable de la sécurité un peu nerveux&nbsp;: les ingrédients d'une mission réussie&nbsp;?
 - ***Le Regard du phoque***, de Gabriel G. Meyer.<br/>Un stage d'éthologie sur une île d'Écosse où les créatures les plus étonnantes ne sont peut-être pas les fabuleux oiseaux qui y nichent.
 - ***Livraisons spatiales***, d'Aude Lapadu-Hargues.<br/>La journée de travail mouvementée d'une livreuse interstellaire affublée d'un jeune stagiaire quelque peu émotif.
 - ***Les Pêcheurs de dinosaures***, de Jean Paris.<br/>La démonstration parfaite que même les meilleurs pêcheurs ont besoin de matériel fiable.
