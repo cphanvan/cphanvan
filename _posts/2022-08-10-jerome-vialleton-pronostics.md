@@ -26,12 +26,6 @@ Un personnage dos au mur, une solution providentielle&hellip; et une addiction q
 <br />Seul souci, une grosse incohérence, pourtant aisément évitable, qui vient mettre à mal la suspension consentie d'incrédulité et gâcher la lecture.
 
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-
 ## La novella
 
 ### Genre&nbsp;: thriller

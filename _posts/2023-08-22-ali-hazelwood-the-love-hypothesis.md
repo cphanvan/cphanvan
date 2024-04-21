@@ -25,11 +25,6 @@ gallery:
 Une romance pétillante, saine, aux personnages attachants, dans l'univers de la recherche universitaire.
 <!--excerptEnd-->
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
 
 ## Le roman
 

@@ -25,12 +25,6 @@ gallery:
 Un fake-dating peut-être drôle, mais à l'humour duquel je n'ai pas adhéré.
 <!--excerptEnd-->
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-
 
 ## Le roman
 

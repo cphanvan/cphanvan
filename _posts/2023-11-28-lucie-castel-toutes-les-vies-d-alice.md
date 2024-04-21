@@ -25,11 +25,6 @@ gallery:
 Un roman bien exécuté, mais qui n'a pas su me convaincre à 100%.
 <!--excerptEnd-->
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-<span class="fa fa-star rating_unchecked"></span>
 
 ## Le roman
 

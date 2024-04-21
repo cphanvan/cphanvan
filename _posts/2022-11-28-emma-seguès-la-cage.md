@@ -26,11 +26,6 @@ Un roman qui démarre par un huis-clos, avant d'emmener le lecteur&hellip; aille
 <!--excerptEnd-->
 Un vrai *page-turner*, avec une héroïne à la psychologie bien travaillée.
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_unchecked"></span>
 
 ## Le roman
 

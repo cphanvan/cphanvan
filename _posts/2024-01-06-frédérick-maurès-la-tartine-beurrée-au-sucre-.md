@@ -25,14 +25,8 @@ gallery:
 Un recueil de souvenirs plein de nostalgie, qui fait la part belle à la tendresse.
 <!--excerptEnd-->
 
-
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-
 <span class="fa fa-book-reader rating_checked"></span> (**Service Presse**)
+
 
 ## Le recueil
 

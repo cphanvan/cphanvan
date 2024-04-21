@@ -25,11 +25,6 @@ gallery:
 Un roman dont je retiens surtout les qualités d'écriture.
 <!--excerptEnd-->
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-<span class="fa fa-star rating_unchecked"></span>
 
 ## Le roman
 

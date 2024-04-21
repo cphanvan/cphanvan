@@ -25,11 +25,6 @@ gallery:
 Un improbable mélange de gore déjanté et de réflexions acerbes sur notre société.
 <!--excerptEnd-->
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_unchecked"></span>
 
 ## Le roman
 

@@ -24,12 +24,6 @@ gallery:
 
 La deuxième comédie romantique de l'autrice, dans la parfaite lignée de la précédente<!--excerptEnd-->&hellip;
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-
 
 ## Le roman
 

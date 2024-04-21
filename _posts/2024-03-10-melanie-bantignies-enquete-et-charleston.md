@@ -24,12 +24,6 @@ gallery:
 Un très sympathique cosy mystery, dans le Paris des années folles.
 <!--excerptEnd-->
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-
 
 ## Le roman
 

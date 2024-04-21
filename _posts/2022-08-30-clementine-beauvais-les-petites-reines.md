@@ -27,11 +27,6 @@ L'aventure vitaminée et farfelue de trois adolescentes réunies par un concours
 Une pépite dans laquelle nos ados pourront découvrir que l'humour et la solidarité
 s'avèrent des atouts bien plus précieux que la popularité.
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
 
 ## Le roman
 

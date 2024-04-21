@@ -25,12 +25,6 @@ gallery:
 Une comédie romantique de Noël pleine d'humour et de douceur.
 <!--excerptEnd-->
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-
 
 ## Le roman
 

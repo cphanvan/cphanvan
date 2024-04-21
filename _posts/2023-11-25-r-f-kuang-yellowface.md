@@ -25,11 +25,6 @@ gallery:
 Un roman qui démarre très fort&hellip; mais ne m'a pas vraiment convaincue sur la durée.
 <!--excerptEnd-->
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-<span class="fa fa-star rating_unchecked"></span>
 
 ## Le roman
 

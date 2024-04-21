@@ -25,12 +25,6 @@ gallery:
 Pour ma part, je ne l'avais pas lu avant de terminer le roman, et je m'en félicite.
 
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-
 ## Le roman
 
 ### Genre&nbsp;: thriller

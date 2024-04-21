@@ -25,12 +25,6 @@ gallery:
 Un page-turner au pitch intriguant, mené tambour battant.
 <!--excerptEnd-->
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-
 
 ## Le roman
 

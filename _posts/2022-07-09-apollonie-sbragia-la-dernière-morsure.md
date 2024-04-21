@@ -25,12 +25,6 @@ Une intrigue prenante, des enjeux forts, une héroïne tourmentée dont le pass�
 <!--excerptEnd-->
 
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-
 ## Le roman
 
 ### Genre&nbsp;: roman policier

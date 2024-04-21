@@ -25,12 +25,6 @@ gallery:
 Un roman au pitch prometteur, mais qui n'a pas réussi à m'émouvoir.
 <!--excerptEnd-->
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-
 
 ## Le roman
 

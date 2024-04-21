@@ -26,11 +26,6 @@ Un roman young-adult à l'humour décapant, qui aborde plusieurs thématiques s�
 <!--excerptEnd-->
 le harcèlement scolaire, le cyberharcèlement, ou encore les relations toxiques.
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
 
 ## Le roman
 

@@ -25,12 +25,6 @@ gallery:
 Un thriller psychologique sur fond d'éclipses solaires, dans lequel on ne sait pas à qui se fier.
 <!--excerptEnd-->
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-
 
 ## Le roman
 

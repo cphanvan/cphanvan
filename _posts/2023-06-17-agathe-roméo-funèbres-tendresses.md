@@ -25,11 +25,6 @@ gallery:
 Un roman d'une grande douceur, porté par des personnages touchants et une plume tendre.
 <!--excerptEnd-->
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_unchecked"></span>
 
 ## Le roman
 

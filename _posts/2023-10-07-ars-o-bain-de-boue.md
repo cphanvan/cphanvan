@@ -25,12 +25,6 @@ gallery:
 Un roman bouleversant et porteur d'espoir, dans lequel l'humain survit malgré la boue et tout ce qu'elle charrie d'horreurs.
 <!--excerptEnd-->
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-
 <span class="fa fa-book-reader rating_checked"></span> (**Service Presse**)
 
 

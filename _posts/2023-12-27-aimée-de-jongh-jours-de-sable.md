@@ -25,12 +25,6 @@ gallery:
 Véritable coup de c&oelig;ur pour cette BD, magnifique à tous points de vue.
 <!--excerptEnd-->
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-
 
 ## La BD
 

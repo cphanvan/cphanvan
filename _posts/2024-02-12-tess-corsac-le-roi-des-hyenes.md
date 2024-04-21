@@ -26,13 +26,6 @@ Un roman young-adult dans un univers de low-fantasy très réussi
 <!--excerptEnd-->&nbsp;!
 
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-
-
 ## Le roman
 
 ### Genre&nbsp;: fantasy Young-Adult

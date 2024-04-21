@@ -25,12 +25,6 @@ gallery:
 Dernier coup de c&oelig;ur de l'année pour ce roman noir, sombre et lumineux.
 <!--excerptEnd-->
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-
 
 ## Le roman
 

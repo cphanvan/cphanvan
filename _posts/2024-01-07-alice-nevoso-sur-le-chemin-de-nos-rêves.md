@@ -26,13 +26,8 @@ Un feel-good dynamique porté par une plume fluide, mais dont les personnages
 <!--excerptEnd-->
 ne sont pas parvenus à me convaincre totalement.
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-
 <span class="fa fa-book-reader rating_checked"></span> (**Service Presse**)
+
 
 ## Le roman
 

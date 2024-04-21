@@ -25,11 +25,6 @@ gallery:
 Une dystopie qui résonne de manière douloureuse avec l'actualité de ces dernières années.
 <!--excerptEnd-->
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-<span class="fa fa-star rating_unchecked"></span>
 
 ## Le roman
 

@@ -25,12 +25,6 @@ gallery:
 Un feel-good qui offre une parenthèse de lecture calme et douce
 <!--excerptEnd-->
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-
 
 ## Le roman
 

@@ -25,11 +25,6 @@ gallery:
 Des personnages émouvants et justes, dans un roman noir servi par une plume sensible et pudique.
 <!--excerptEnd-->
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
 
 ## Le roman
 

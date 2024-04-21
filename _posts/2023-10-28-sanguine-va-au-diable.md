@@ -25,11 +25,6 @@ gallery:
 Une novella à l'humour caustique, qui se dévore diablement vite.
 <!--excerptEnd-->
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_unchecked"></span>
 
 ## La novella
 

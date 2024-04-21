@@ -25,11 +25,6 @@ gallery:
 Un recueil hétéroclite, dont le principal mérite consiste à nous faire faire connaissance avec l'autrice.
 <!--excerptEnd-->
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-<span class="fa fa-star rating_unchecked"></span>
 
 ## Le recueil
 

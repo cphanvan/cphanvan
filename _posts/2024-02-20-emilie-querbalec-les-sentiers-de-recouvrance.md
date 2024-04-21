@@ -24,12 +24,6 @@ gallery:
 Un roman d'anticipation bien documenté, servi par une plume magnifique
 <!--excerptEnd-->
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-
 
 ## Le roman
 

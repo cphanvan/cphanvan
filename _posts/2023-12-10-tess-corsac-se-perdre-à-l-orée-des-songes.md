@@ -26,14 +26,8 @@ Un roman young-adult dans un univers de proche science-fiction, qui mêle avec t
 <!--excerptEnd-->
 et questionnements sur le poids du passé dans la construction de soi.
 
-
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-
 <span class="fa fa-book-reader rating_checked"></span> (**Service Presse**)
+
 
 ## Le roman
 

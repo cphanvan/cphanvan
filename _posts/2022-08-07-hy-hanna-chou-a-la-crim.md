@@ -24,12 +24,6 @@ Un pittoresque salon de thé des Cotswolds, un groupe de vieilles dames aux orei
 <!--excerptEnd-->
 
 
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_checked"></span>
-<span class="fa fa-star rating_unchecked"></span>
-
 ## Le roman
 
 ### Genre&nbsp;: roman policier (cosy mystery)
