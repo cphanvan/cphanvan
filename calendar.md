@@ -14,15 +14,20 @@ page_js:
 
 ## Prochaines dédicaces
 
-Je serai le samedi **27 avril 2024** au [salon Imagina'livres](/assets/images/events/affiche-salon-imaginalivres-2024.jpg), salle du Confluent à Portet-sur-Garonne (31), pour y dédicacer les anthologies *Explorations insolites* et *Sorcellerie végétale* de l'association L'Imagin'arium, ainsi que *L'Indé Panda n°13* de l'association L'Indé Panda.
+Pas de nouvelle date programmée pour le moment.
 
 
 ## Mes activités d'écriture en cours
 
-Actuellement, je suis en cours d'écriture du premier jet de mon nouveau roman&nbsp;: *Pour que refleurisse son sourire*, une romance contemporaine, dont vous pouvez <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">lire les premiers chapitres sur Fyctia</a>.
+### En cours
 
-L'écriture du premier jet de [*45,93&nbsp;grammes*](/publications/projets-en-cours/#4593grammes), mon thriller psychologique, est actuellement en pause.
+Actuellement, je suis en cours de corrections sur mon nouveau roman&nbsp;: *Pour que refleurisse son sourire*, une romance contemporaine, dont vous pouvez <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">lire sur Fyctia les premiers chapitres du premier jet</a>.
 
-La nouvelle mouture de ma comédie romantique contemporaine, [*Cercueil et Préjugés*](/publications/projets-en-cours/#cercueil-et-préjugés), dont la première version a été <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**finaliste du concours Fyctia "Comme dans un film"**</a>, est actuellement en recherche d'éditeur.
 
-La recherche d'éditeur pour mon roman ado, [*Chasseuse de rêves*](/publications/projets-en-cours/#chasseuse-de-r%C3%AAves-titre-provisoire), est actuellement en pause. Je souhaite en effet d'abord effectuer une réécriture complète du roman avant de reprendre les soumissions.
+### En attente
+
+J'ai mis en pause pour une durée indéterminée l'écriture du premier jet de [*45,93&nbsp;grammes*](/publications/projets-en-cours/#4593grammes), mon thriller psychologique.
+
+La nouvelle mouture de ma comédie romantique contemporaine, [*Cercueil et Préjugés*](/publications/projets-en-cours/#cercueil-et-préjugés), dont la première version a été <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**finaliste du concours Fyctia "Comme dans un film"**</a>, est actuellement en recherche active d'éditeur.
+
+Le travail sur mon roman ado, [*Chasseuse de rêves*](/publications/projets-en-cours/#chasseuse-de-r%C3%AAves-titre-provisoire) est actuellement en pause. Suite à divers retours, je souhaite en effet effectuer une réécriture complète du roman avant de reprendre les soumissions.

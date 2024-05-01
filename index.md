@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: "Dernières nouvelles&hellip;"
-seo_title: "Graine d'autrice"
+seo_title: "Catherine Phan van"
 description: Site officiel de l'autrice Catherine Phan van. Retrouvez ses publications, des textes gratuits et inédits en exclusivité, son actu...
 layout: splash
 permalink: /
