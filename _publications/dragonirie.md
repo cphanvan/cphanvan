@@ -1,6 +1,6 @@
 ---
 title: "Dragonirie"
-description: Une nouvelle de science-fantasy sur le thème "Explorations insolites". Publiée en avril 2024 dans l'anthologie *Explorations insolites* de  L'Imagin'arium.
+description: Une nouvelle de science-fantasy. Publiée en avril 2024 dans l'anthologie *Explorations insolites* de  L'Imagin'arium.
 layout: single
 classes: wide
 share: true
@@ -14,12 +14,16 @@ sidebar:
     image: /assets/images/publications/dragonirie-cover.jpg
     image_alt: "couverture"
     text: |
-      Nouvelle\
-      À paraître dans l'anthologie *Explorations insolites*, publiée par  L'Imagin'arium\
+      Nouvelle de science-fantasy\
+      Parue dans l'anthologie *Explorations insolites*, publiée par  L'Imagin'arium\
       Avril 2024
 ---
 
-Nouvelle à paraître en avril 2024 dans l'anthologie ***Explorations insolites*** de <a href="https://www.instagram.com/imaginarium.asso/" target="_blank">l'Imagin'arium</a>.
+Nouvelle de science-fantasy qui vous apprendra à vous méfier de vos perceptions.
+
+Parue en avril 2024 dans l'anthologie ***Explorations insolites***, publiée par l'association <a href="https://www.instagram.com/imaginarium.asso/" target="_blank">l'Imagin'arium</a> et disponible à la <a href="https://www.helloasso.com/associations/l-imagin-arium/boutiques/explorations-insolites" target="_blank">vente à distance via ce lien</a>.
+
+Si vous préférez un **exemplaire dédicacé**, vous pouvez <a href="https://catherinephanvan.sumupstore.com/article/explorations-insolites" target="_blank">le commander directement via ma boutique en ligne</a>.
 
 
 ## Un extrait&nbsp;?
