@@ -47,18 +47,18 @@ contenu_site:
     summary: "Abonnez-vous à ma newsletter mensuelle et découvrez <strike>mes bourdes</strike> les coulisses de ma vie d'autrice."
     url: "/newsletter#abonnez-vous"
     btn_label: "Je m'abonne"
-  - image_path: /assets/images/blog.webp
-    alt: "Blog"
-    title: "Blog"
-    summary: "Retrouvez mes chroniques lectures, interviews d'autrices ou auteurs, billets sur l'écriture, et états d'âme en tous genres&hellip;"
-    url: "/blog"
-    btn_label: "Mon blog"
   - image_path: /assets/images/agenda.webp
     alt: "Agenda"
     title: "Agenda"
     summary: "Vous souhaitez me rencontrer lors d'une séance de dédicaces ou connaître la date de mes prochaines sorties&nbsp;?"
     url: "/agenda"
     btn_label: "Mon agenda"
+  - image_path: /assets/images/blog.webp
+    alt: "Blog"
+    title: "Blog"
+    summary: "Retrouvez mes chroniques lectures, interviews d'autrices ou auteurs, billets sur l'écriture, et états d'âme en tous genres&hellip;"
+    url: "/blog"
+    btn_label: "Mon blog"
   - image_path: /assets/images/contact.webp
     alt: "Contact"
     title: "Contact"
