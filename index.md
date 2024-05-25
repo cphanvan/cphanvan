@@ -24,7 +24,7 @@ a_propos:
       
       Née en 1976 au pays des sapins et du froid, je vis aujourd'hui près de Bordeaux.
       
-      J'ai semé des nouvelles sur la toile et dans diverses anthologies. Sur ce site, vous pouvez explorer mes [publications](/publications), [lire gratuitement certains de mes textes](/echantillons), découvrir [les coulisses de ma vie d'autrice](/blog/tags#viedautrice), ou retrouver mes [chroniques de lecture](/blog/tags#chronique) ou [interviews d'auteurs ou autrices](/blog/tags#interview).
+      J'ai semé des nouvelles sur la toile et dans diverses anthologies. Sur ce site, vous pouvez explorer mes [publications](/publications), [lire gratuitement certains de mes textes](/echantillons), découvrir [les coulisses de ma vie d'autrice](/blog/tags#viedautrice), ou retrouver mes [avis sur mes lectures](/blog/tags#chronique) ou [interviews d'auteurs ou autrices](/blog/tags#interview).
       
       Et si vous avez envie de rire de mes bourdes, n'hésitez pas à [vous abonner à ma newsletter](/newsletter)&nbsp;!
     url: "/a-propos"
@@ -56,7 +56,7 @@ contenu_site:
   - image_path: /assets/images/blog.webp
     alt: "Blog"
     title: "Blog"
-    summary: "Retrouvez mes chroniques lectures, interviews d'autrices ou auteurs, billets sur l'écriture, et états d'âme en tous genres&hellip;"
+    summary: "Retrouvez mes avis sur mes lectures, interviews d'autrices ou auteurs, billets sur l'écriture, et états d'âme en tous genres&hellip;"
     url: "/blog"
     btn_label: "Mon blog"
   - image_path: /assets/images/contact.webp
