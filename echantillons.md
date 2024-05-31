@@ -11,16 +11,29 @@ header:
   overlay_filter: "0.2"
   overlay_image: /assets/images/bandeau-echantillons.webp
 books:
-  - maintitle: "Comédie romantique"
-    title: "Cercueil et Préjugés (premiers chapitres, version initiale)"
+  - maintitle: "Comédies romantiques"
+    title: "Un mensonge sans conséquence (prologue, version initiale)"
+    teaser: Un fake dating contemporain
+    image_path: /assets/images/publications/un-mensonge-sans-consequence-cover.webp
+    image_alt: "couverture de Un mensonge sans conséquence"
+    externalurl: https://fyctia.com/stories/et-que-refleurisse-son-sourire
+    description: |
+        Quand Kiana a annoncé à sa grand-mère qu'elle avait rencontré quelqu'un, elle cherchait juste à apaiser la vieille dame, à qui on venait de diagnostiquer une grave maladie. Mais lorsque l'état de santé de cette dernière se dégrade au point qu'il devient impossible de la laisser vivre seule, la jeune femme commence à regretter son mensonge…
+        
+        Simuler une relation avec un parfait inconnu pour apaiser les soupçons de son aïeule, est-ce vraiment une bonne idée&nbsp;?
+
+        *(roman actuellement en cours de correction)*
+  - title: "Cercueil et préjugés (premiers chapitres, version initiale)"
     teaser: Roman finaliste du concours Fyctia <em>Comme dans un film</em>
     image_path: /assets/images/publications/cercueil-et-prejuges-cover.webp
-    image_alt: "couverture de Cercueil et Préjugés"
+    image_alt: "couverture de Cercueil et préjugés"
     externalurl: https://fyctia.com/stories/cercueil-et-prejuges
     description: |
         Quand Adélie rentre chez elle après trois mois coupée de tout, elle ne s'attend ni à tomber nez à nez avec le nouveau locataire de son appartement, ni à la révélation que ce dernier lui réserve&nbsp;: que tout le monde la croit morte et enterrée&nbsp;!
         
         Or, se reconstruire une vie quand on se retrouve sans domicile ni existence légale ne s'avère pas de tout repos&hellip;
+
+        *(roman actuellement en recherche d'éditeur)*
   - maintitle: "Nouvelles"
     title: "Mauvais swing"
     teaser: "Courte nouvelle contemporaine"
