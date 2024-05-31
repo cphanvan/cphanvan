@@ -21,7 +21,7 @@ Pas de nouvelle date programmée pour le moment.
 
 ### En cours
 
-Actuellement, je suis en cours de corrections sur mon nouveau roman&nbsp;: *Pour que refleurisse son sourire*, une romance contemporaine, dont vous pouvez <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">lire sur Fyctia les premiers chapitres du premier jet</a>.
+Actuellement, je suis en cours de corrections sur mon nouveau roman&nbsp;: *Un mensonge sans conséquence*, une romance contemporaine, dont vous pouvez <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">lire sur Fyctia le premier jet du prologue</a>.
 
 
 ### En attente

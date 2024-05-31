@@ -21,4 +21,4 @@ sidebar:
 
 Gabriel a emménagé dans une vieille maison isolée, séduit par ses futures colocataires. Mais ces dernières semblent bien vouloir lui délivrer un message&hellip;
 
-Le recueil de nouvelles de l'édition 2021 peut être téléchargé gratuitement **<a href="http://epub.festival-fantastique.fr/ffb2021.epub" target="_blank">sur le site du Festival du Fantastique de Béziers</a>**.
+Le recueil de nouvelles de l'édition 2021 peut être téléchargé gratuitement **<a href="https://festival-fantastique.fr/wp-content/uploads/ffb2021.epub_.zip" target="_blank">sur le site du Festival du Fantastique de Béziers</a>**.

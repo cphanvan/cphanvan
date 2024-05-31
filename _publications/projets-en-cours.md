@@ -32,17 +32,17 @@ Vous pouvez <a href="https://www.fyctia.com/stories/cercueil-et-prejuges" target
 
 ## En cours d'écriture&nbsp;:
 
-### Pour que refleurisse son sourire
+### Un mensonge sans conséquence
 
-Le titre est pourri, mais c'est juste un titre de travail (je suis nulle en titres&nbsp;! 😅)
+J'ai changé le titre (mon titre de travail était *Pour que refleurisse son sourire*), mais je ne sais pas si celui-ci n'est pas un peu pourri aussi (je suis nulle en titres&nbsp;! 😅)
 
-*romance contemporaine -- participe au concours Fyctia <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">Prix de la révélation new romance 2024</a>* 
+*romance contemporaine -- a participé au concours Fyctia <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">Prix de la révélation new romance 2024</a>* 
 
 Le pitch&nbsp;:
 > Quand Kiana a annoncé à sa grand-mère qu'elle avait rencontré quelqu'un, et que, oui, c'était sérieux, elle cherchait juste à calmer les inquiétudes de la vieille dame. Mais lorsque l'état de santé de cette dernière se dégrade, et qu'il devient impossible de la laisser vivre seule, la jeune femme commence à regretter son mensonge&hellip;
 > <br />Passer en mode panique pour dénicher un complice qui l'aidera à apaiser les soupçons de son aïeule, est-ce vraiment une bonne idée&nbsp;?
 
-Vous pouvez <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">lire sur Fyctia les premiers chapitres de mon premier jet</a>, au fil de l'écriture.
+Vous pouvez <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">lire sur Fyctia le premier jet du prologue</a>.
 
 
 ## En pause&nbsp;:

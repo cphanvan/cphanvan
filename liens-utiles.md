@@ -9,22 +9,20 @@ toc_label: Liens utiles
 
 ## À la une
 
-<a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">*Pour que refleurisse son sourire*&nbsp;: premiers chapitres</a>{: .btn .btn--info .btn--large .btn--linktree}
+[*Dragonirie*, in *Explorations insolites*](/publications/dragonirie){: .btn .btn--info .btn--large .btn--linktree}
 
-[Mon interview sur le site de L'Indé Panda](https://lindepanda.wordpress.com/2024/01/12/interview-catherine-phan-van/){: .btn .btn--info .btn--large .btn--linktree}
+<a href="https://lindepanda.wordpress.com/2024/01/12/interview-catherine-phan-van/" target="_blank">Mon interview sur le site de L'Indé Panda</a>{: .btn .btn--info .btn--large .btn--linktree}
 
 
 ## Mes livres
 
 ### Dernières parutions
 
-[*Dragonirie*, in *Explorations insolites* - précommandes À RETIRER SUR PLACE, AU SALON IMAGINA'LIVRES](https://www.helloasso.com/associations/l-imagin-arium/boutiques/explorations-insolites-precommandes){: .btn .btn--info .btn--large .btn--linktree}
+<a href="https://occitanie.aract.fr/sites/default/files/2024-03/RecueilAract2023.pdf" target="_blank">*Ceux qui rapportent… et ceux qui coûtent*, in *Nouvelles du travail - tome 18* (ebook gratuit)</a>{: .btn .btn--info .btn--large .btn--linktree}
 
-[*Ceux qui rapportent… et ceux qui coûtent*, in *Nouvelles du travail - tome 18* (ebook gratuit)](https://occitanie.aract.fr/sites/default/files/2024-03/RecueilAract2023.pdf){: .btn .btn--info .btn--large .btn--linktree}
+<a href="https://catherinephanvan.sumupstore.com/article/enfants-des-neiges" target="_blank">*Enfants des neiges* - version papier</a>{: .btn .btn--info .btn--large .btn--linktree}
 
-[*Enfants des neiges* - version papier](https://catherinephanvan.sumupstore.com/article/enfants-des-neiges){: .btn .btn--info .btn--large .btn--linktree}
-
-[*L'arbre de lune*&nbsp;: nouvelle fantastique, 3<sup>e</sup> du concours du FFB (ebook gratuit)](https://festival-fantastique.fr/wp-content/uploads/FFB-2023-pdf.pdf){: .btn .btn--info .btn--large .btn--linktree}
+<a href="https://festival-fantastique.fr/wp-content/uploads/FFB-2023-pdf.pdf" target="_blank">*L'arbre de lune*&nbsp;: nouvelle fantastique, 3<sup>e</sup> du concours du FFB (ebook gratuit)</a>{: .btn .btn--info .btn--large .btn--linktree}
 
 
 ### Nouvelles publiées
@@ -36,7 +34,7 @@ toc_label: Liens utiles
 
 [*Cercueil et préjugés* (comédie romantique)](/publications/projets-en-cours/#cercueil-et-préjugés){: .btn .btn--info .btn--large .btn--linktree}
 
-[*Pour que refleurisse son sourire* (romance contemporaine)](/publications/projets-en-cours/#pour-que-refleurisse-son-sourire){: .btn .btn--info .btn--large .btn--linktree}
+[*Un mensonge sans conséquence* (comédie romantique)](/publications/projets-en-cours/#un-mensonge-sans-conséquence){: .btn .btn--info .btn--large .btn--linktree}
 
 [*45,93&nbsp;grammes* (thriller psychologique)](/publications/projets-en-cours/#4593grammes){: .btn .btn--info .btn--large .btn--linktree}
 
@@ -57,7 +55,7 @@ toc_label: Liens utiles
 
 ## Mon blog
 
-[Mes chroniques (lectures, films, séries&hellip;)](/blog/categories#chronique){: .btn .btn--info .btn--large .btn--linktree}
+[Mes avis (lectures, films, séries&hellip;)](/blog/categories#chronique){: .btn .btn--info .btn--large .btn--linktree}
 
 [Mon actu d'écriture](/blog/tags#écriture){: .btn .btn--info .btn--large .btn--linktree}
 
@@ -74,33 +72,33 @@ toc_label: Liens utiles
 
 [Ma newsletter](/newsletter#abonnez-vous){: .btn .btn--info .btn--large .btn--linktree}
 
-[Amazon](https://www.amazon.fr/stores/author/B09LZ7H52W){: .btn .btn--info .btn--large .btn--linktree}
+<a href="https://www.amazon.fr/stores/author/B09LZ7H52W" target="_blank">Amazon</a>{: .btn .btn--info .btn--large .btn--linktree}
 
-[Babelio](https://www.babelio.com/auteur/Catherine-Phan-Van/586698){: .btn .btn--info .btn--large .btn--linktree}
+<a href="https://www.babelio.com/auteur/Catherine-Phan-Van/586698" target="_blank">Babelio</a>{: .btn .btn--info .btn--large .btn--linktree}
 
-[BookNode](https://booknode.com/auteur/catherine-phan-van){: .btn .btn--info .btn--large .btn--linktree}
+<a href="https://booknode.com/auteur/catherine-phan-van" target="_blank">BookNode</a>{: .btn .btn--info .btn--large .btn--linktree}
 
-[GoodReads](https://www.goodreads.com/author/show/21595869.Catherine_Phan_Van){: .btn .btn--info .btn--large .btn--linktree}
+<a href="https://www.goodreads.com/author/show/21595869.Catherine_Phan_Van" target="_blank">GoodReads</a>{: .btn .btn--info .btn--large .btn--linktree}
 
-[LivrAddict](https://www.livraddict.com/biblio/auteur/catherine-phan-van.html){: .btn .btn--info .btn--large .btn--linktree}
+<a href="https://www.livraddict.com/biblio/auteur/catherine-phan-van.html" target="_blank">LivrAddict</a>{: .btn .btn--info .btn--large .btn--linktree}
 
 ### Mes réseaux sociaux
 
-[Instagram](https://www.instagram.com/cathphanvan/){: .btn .btn--info .btn--large .btn--linktree}
+<a href="https://www.instagram.com/cathphanvan/" target="_blank">Instagram</a>{: .btn .btn--info .btn--large .btn--linktree}
 
-[Threads](https://www.threads.net/@cathphanvan){: .btn .btn--info .btn--large .btn--linktree}
+<a href="https://www.threads.net/@cathphanvan" target="_blank">Threads</a>{: .btn .btn--info .btn--large .btn--linktree}
 
-[BlueSky](https://bsky.app/profile/cathphanvan.bsky.social){: .btn .btn--info .btn--large .btn--linktree}
+<a href="https://bsky.app/profile/cathphanvan.bsky.social" target="_blank">BlueSky</a>{: .btn .btn--info .btn--large .btn--linktree}
 
-[Facebook](https://www.facebook.com/CathPhanvan){: .btn .btn--info .btn--large .btn--linktree}
+<a href="https://www.facebook.com/CathPhanvan" target="_blank">Facebook</a>{: .btn .btn--info .btn--large .btn--linktree}
 
-[TikTok](https://www.tiktok.com/@cathphanvan){: .btn .btn--info .btn--large .btn--linktree}
+<a href="https://www.tiktok.com/@cathphanvan" target="_blank">TikTok</a>{: .btn .btn--info .btn--large .btn--linktree}
 
-[Twitter](https://twitter.com/CathPhanvan){: .btn .btn--info .btn--large .btn--linktree}
+<a href="https://twitter.com/CathPhanvan" target="_blank">Twitter</a>{: .btn .btn--info .btn--large .btn--linktree}
 
 ### Me contacter
 
-[Services presse](https://simplement.pro/u/CathPhanvan){: .btn .btn--info .btn--large .btn--linktree}
+<a href="https://simplement.pro/u/CathPhanvan" target="_blank">Services presse</a>{: .btn .btn--info .btn--large .btn--linktree}
 
 [Contact](/contact){: .btn .btn--info .btn--large .btn--linktree}
 

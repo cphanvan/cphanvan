@@ -14,7 +14,7 @@ header:
   overlay_image: /assets/images/bandeau-arbre-de-lune.webp
   actions:
     - label: "Télécharger le recueil"
-      url: "https://festival-fantastique.fr/wp-content/uploads/2023/10/FFB-2023-pdf.pdf"
+      url: "https://festival-fantastique.fr/wp-content/uploads/FFB-2023-pdf.pdf"
     - label: "Mes autres publications"
       url: "/publications"
 summary: "Ma nouvelle &laquo;&nbsp;<em><strong>L'arbre de lune</strong></em>&nbsp;&raquo; a terminé 3<sup>e</sup> du concours du Festival du Fantastique de Béziers.<br><br>Envie de la lire&nbsp;?"

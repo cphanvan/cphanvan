@@ -30,7 +30,7 @@ Si vous préférez un **exemplaire dédicacé**, vous pouvez <a href="https://ca
 
 <span style="margin-left: 1em;"></span>---&nbsp;Stabilisation de la fréquence cardiaque à 122&nbsp;battements par minute, annonça une voix
 synthétique.<br/>
-Sanyê expira d’un coup&nbsp;; il n’avait même pas réalisé qu’il retenait son souffle. Il s’appuya contre son dossier&nbsp;: en définitive, Izalea avait peut-être bien entrepris un footing. Après tout, il lui avait maintes fois répété que l’environnement dans lequel elle évoluerait pouvait devenir instable n’importe quand, et qu’elle ne disposerait donc que de très peu de temps. Il grimaça&nbsp;: cette tête de mule était bien du genre à en avoir déduit qu’une exploration au pas de course maximiserait ses chances de réussite.
+<span style="margin-left: 1em;"></span>Sanyê expira d’un coup&nbsp;; il n’avait même pas réalisé qu’il retenait son souffle. Il s’appuya contre son dossier&nbsp;: en définitive, Izalea avait peut-être bien entrepris un footing. Après tout, il lui avait maintes fois répété que l’environnement dans lequel elle évoluerait pouvait devenir instable n’importe quand, et qu’elle ne disposerait donc que de très peu de temps. Il grimaça&nbsp;: cette tête de mule était bien du genre à en avoir déduit qu’une exploration au pas de course maximiserait ses chances de réussite.
 {: .notice}
 
 ## Le recueil

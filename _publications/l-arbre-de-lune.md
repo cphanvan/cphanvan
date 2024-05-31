@@ -25,7 +25,7 @@ J'y ai entremêlé une vieille légende du Viêt-Nam et l'histoire des «&nbsp;m
 
 Envie de découvrir ce que sont les véritables arbres de lune, ces fameux &laquo;&nbsp;moon trees&nbsp;&raquo;&nbsp;? Je vous l'explique [sur mon blog](/ecriture/2023/09/30/la-science-dans-mes-nouvelles.html#larbre-de-lune-lh%C3%A9ritage-de-la-mission-apollo-14).
 
-La version numérique du recueil est **disponible gratuitement** <a href="https://festival-fantastique.fr/editions-precedentes/" target="_blank">sur le site du festival</a>, soit <a href="https://festival-fantastique.fr/wp-content/uploads/2023/10/FFB-2023-epub.zip" target="_blank">au format epub</a>, soit <a href="https://festival-fantastique.fr/wp-content/uploads/2023/10/FFB-2023-pdf.pdf" target="_blank">au format pdf</a>.
+La version numérique du recueil est **disponible gratuitement** <a href="https://festival-fantastique.fr/editions-precedentes/" target="_blank">sur le site du festival</a>, soit <a href="https://festival-fantastique.fr/wp-content/uploads/ffb2023.epub_.zip" target="_blank">au format epub</a>, soit <a href="https://festival-fantastique.fr/wp-content/uploads/FFB-2023-pdf.pdf" target="_blank">au format pdf</a>.
 
 
 ## Illustration par Quentin Aubé
