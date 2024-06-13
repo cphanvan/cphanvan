@@ -18,10 +18,10 @@ books:
     image_alt: "couverture de Un mensonge sans conséquence"
     externalurl: https://fyctia.com/stories/et-que-refleurisse-son-sourire
     description: |
-        Quand Kiana a annoncé à sa grand-mère qu'elle avait rencontré quelqu'un, elle cherchait juste à apaiser la vieille dame, à qui on venait de diagnostiquer une grave maladie. Mais lorsque l'état de santé de cette dernière se dégrade au point qu'il devient impossible de la laisser vivre seule, la jeune femme commence à regretter son mensonge…
+        Le jour où on lui diagnostique une grave maladie, la grand-mère de Kiana s’effondre. Car toutes deux veillent l’une sur l’autre depuis toujours&nbsp;: sans elle, que deviendra Kiana&nbsp;? Aussi la jeune femme ne pense-t-elle pas à mal lorsqu’elle fait croire à son aïeule qu’elle a rencontré quelqu’un. Elle cherche juste à apaiser ses angoisses.
         
-        Simuler une relation avec un parfait inconnu pour apaiser les soupçons de son aïeule, est-ce vraiment une bonne idée&nbsp;?
-
+        Mais quand l’état de santé de la vieille dame se dégrade, il devient impossible de la laisser vivre seule. Désormais au pied du mur, Kiana va devoir assumer ce qu’elle pensait n’être qu’un mensonge sans conséquence…
+        
         *(roman actuellement en cours de correction)*
   - title: "Cercueil et préjugés (premiers chapitres, version initiale)"
     teaser: Roman finaliste du concours Fyctia <em>Comme dans un film</em>

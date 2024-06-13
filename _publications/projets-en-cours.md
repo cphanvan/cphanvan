@@ -30,7 +30,7 @@ Suite au [retour des éditrices](/newsletter/2023-11-05/#cercueil-et-pr%C3%A9jug
 Vous pouvez <a href="https://www.fyctia.com/stories/cercueil-et-prejuges" target="_blank">lire sur Fyctia les trois premiers chapitres (qui ont très peu évolué), dans leur version initiale</a>.
 
 
-## En cours d'écriture&nbsp;:
+## En cours de corrections&nbsp;:
 
 ### Un mensonge sans conséquence
 
@@ -39,8 +39,8 @@ J'ai changé le titre (mon titre de travail était *Pour que refleurisse son sou
 *romance contemporaine -- a participé au concours Fyctia <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">Prix de la révélation new romance 2024</a>* 
 
 Le pitch&nbsp;:
-> Quand Kiana a annoncé à sa grand-mère qu'elle avait rencontré quelqu'un, et que, oui, c'était sérieux, elle cherchait juste à calmer les inquiétudes de la vieille dame. Mais lorsque l'état de santé de cette dernière se dégrade, et qu'il devient impossible de la laisser vivre seule, la jeune femme commence à regretter son mensonge&hellip;
-> <br />Passer en mode panique pour dénicher un complice qui l'aidera à apaiser les soupçons de son aïeule, est-ce vraiment une bonne idée&nbsp;?
+> Le jour où on lui diagnostique une grave maladie, la grand-mère de Kiana s’effondre. Car toutes deux veillent l’une sur l’autre depuis toujours&nbsp;: sans elle, que deviendra Kiana&nbsp;? Aussi la jeune femme ne pense-t-elle pas à mal lorsqu’elle fait croire à son aïeule qu’elle a rencontré quelqu’un. Elle cherche juste à apaiser ses angoisses.
+> <br />Mais quand l’état de santé de la vieille dame se dégrade, il devient impossible de la laisser vivre seule. Désormais au pied du mur, Kiana va devoir assumer ce qu’elle pensait n’être qu’un mensonge sans conséquence&hellip;
 
 Vous pouvez <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">lire sur Fyctia le premier jet du prologue</a>.
 
