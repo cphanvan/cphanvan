@@ -5,7 +5,7 @@ layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
 date: 2024-05-25 12:00:00 +0200
-last_modified_at: 2024-05-25 12:00:00 +0200
+last_modified_at: 2024-06-14 13:00:00 +0200
 categories: chronique thriller
 tags: lecture chronique roman thriller
 sidebar_newsletter: true
@@ -23,6 +23,11 @@ gallery:
 ---
 Énorme coup de c&oelig;ur pour ce thriller politique haletant, à l'écriture ciselée.
 <!--excerptEnd-->
+
+---
+Vous pouvez découvrir [ici l'interview d'Amélie Serberg](/interview/2024/06/14/amelie-serberg-interview.html), à laquelle elle a répondu mi juin 2024.
+
+[![teaser de l'interview d'Amélie Serberg](/assets/images/posts/2024-06-14_teaser-interview-amelie-serberg.webp)](/interview/2024/06/14/amelie-serberg-interview.html)
 
 
 ## Le roman
