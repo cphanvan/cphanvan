@@ -18,8 +18,8 @@ header:
     - label: "Mes autres publications"
       url: "/publications"
     - label: "Bookbuster"
-      url: "https://bookbuster.lecritoire.fr/"
-summary: "Mon roman &laquo;&nbsp;<em><strong>Un mensonge sans conséquence</strong></em>&nbsp;&raquo; est finaliste du concours Bookbuster&nbsp;!<br><br>Envie de le lire&nbsp;? Il est disponible gratuitement sur l'app &laquo;&nbsp;Vivlio Stories&nbsp;&raquo; jusqu'au 15&nbsp;juillet."
+      url: "https://www.instagram.com/p/C8O5XMRqK0P/?img_index=2"
+summary: "Mon roman &laquo;&nbsp;<em><strong>Un mensonge sans conséquence</strong></em>&nbsp;&raquo; est finaliste du concours Bookbuster&nbsp;!<br><br>Envie de le lire&nbsp;? Il est disponible gratuitement sur l'app &laquo;&nbsp;Vivlio Stories&nbsp;&raquo; jusqu'au 14&nbsp;juillet."
 a_propos:
   - summary: |
       **Qui suis-je&nbsp;?**

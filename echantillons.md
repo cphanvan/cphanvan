@@ -13,10 +13,10 @@ header:
 books:
   - maintitle: "Comédies romantiques"
     title: "Un mensonge sans conséquence"
-    teaser: Un fake dating contemporain, finaliste du concours Bookbuster
+    teaser: Un fake dating contemporain, finaliste du concours Bookbuster (à lire sur Vivlio Stories jusqu'au 14/07)
     image_path: /assets/images/publications/un-mensonge-sans-consequence-cover.webp
     image_alt: "couverture de Un mensonge sans conséquence"
-    externalurl: https://www.vivlio.com/stories/
+    externalurl: https://www.instagram.com/p/C8O5XMRqK0P/?img_index=2
     description: |
         Le jour où on lui diagnostique une grave maladie, la grand-mère de Kiana s’effondre. Car toutes deux veillent l’une sur l’autre depuis toujours&nbsp;: sans elle, que deviendra Kiana&nbsp;? Aussi la jeune femme ne pense-t-elle pas à mal lorsqu’elle fait croire à son aïeule qu’elle a rencontré quelqu’un. Elle cherche juste à apaiser ses angoisses.
         

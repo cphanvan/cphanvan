@@ -9,6 +9,8 @@ toc_label: Liens utiles
 
 ## À la une
 
+<a href="https://www.instagram.com/p/C8O5XMRqK0P/?img_index=2" target="_blank">*Un mensonge sans conséquence* (finaliste du concours Bookbuster)</a>{: .btn .btn--info .btn--large .btn--linktree}
+
 [*Dragonirie*, in *Explorations insolites*](/publications/dragonirie){: .btn .btn--info .btn--large .btn--linktree}
 
 <a href="https://lindepanda.wordpress.com/2024/01/12/interview-catherine-phan-van/" target="_blank">Mon interview sur le site de L'Indé Panda</a>{: .btn .btn--info .btn--large .btn--linktree}
