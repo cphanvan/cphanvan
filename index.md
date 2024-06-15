@@ -11,13 +11,15 @@ date: 2022-12-02T12:00:00Z
 header:
   overlay_color: "#557a95"
   overlay_filter: "rgba(85, 122, 149, 0.7)"
-  overlay_image: /assets/images/bandeau-arbre-de-lune.webp
+  overlay_image: /assets/images/bandeau-bookbuster.webp
   actions:
-    - label: "Télécharger le recueil"
-      url: "https://festival-fantastique.fr/wp-content/uploads/FFB-2023-pdf.pdf"
+    - label: "Vivlio Stories"
+      url: "https://www.vivlio.com/stories/"
     - label: "Mes autres publications"
       url: "/publications"
-summary: "Ma nouvelle &laquo;&nbsp;<em><strong>L'arbre de lune</strong></em>&nbsp;&raquo; a terminé 3<sup>e</sup> du concours du Festival du Fantastique de Béziers.<br><br>Envie de la lire&nbsp;?"
+    - label: "Bookbuster"
+      url: "https://bookbuster.lecritoire.fr/"
+summary: "Mon roman &laquo;&nbsp;<em><strong>Un mensonge sans conséquence</strong></em>&nbsp;&raquo; est finaliste du concours Bookbuster&nbsp;!<br><br>Envie de le lire&nbsp;? Il est disponible gratuitement sur l'app &laquo;&nbsp;Vivlio Stories&nbsp;&raquo; jusqu'au 15&nbsp;juillet."
 a_propos:
   - summary: |
       **Qui suis-je&nbsp;?**
