@@ -11,15 +11,13 @@ date: 2022-12-02T12:00:00Z
 header:
   overlay_color: "#557a95"
   overlay_filter: "rgba(85, 122, 149, 0.7)"
-  overlay_image: /assets/images/bandeau-bookbuster.webp
+  overlay_image: /assets/images/bandeau-romance.webp
   actions:
-    - label: "Vivlio Stories"
-      url: "https://www.vivlio.com/stories/"
+    - label: "Cercueil et préjugés"
+      url: "/publications/cercueil-et-prejuges"
     - label: "Mes autres publications"
       url: "/publications"
-    - label: "Bookbuster"
-      url: "https://www.instagram.com/p/C8O5XMRqK0P/?img_index=2"
-summary: "Mon roman &laquo;&nbsp;<em><strong>Un mensonge sans conséquence</strong></em>&nbsp;&raquo; est finaliste du concours Bookbuster&nbsp;!<br><br>Envie de le lire&nbsp;? Il est disponible gratuitement sur l'app &laquo;&nbsp;Vivlio Stories&nbsp;&raquo; jusqu'au 14&nbsp;juillet."
+summary: "Ma comédie romantique &laquo;&nbsp;<em><strong>Cercueil et préjugés</strong></em>&nbsp;&raquo; a trouvé sa maison d'édition&nbsp;: rendez-vous à l'été&nbsp;2025&nbsp;!"
 a_propos:
   - summary: |
       **Qui suis-je&nbsp;?**
@@ -34,7 +32,7 @@ a_propos:
 contenu_site:
   - image_path: assets/images/publications.webp
     title: "Publications"
-    summary: "Découvrez ici mes nouvelles publiées, mais aussi mes recueils, romans ou novellas qui trépignent de suivre un jour le même chemin."
+    summary: "Découvrez ici mes nouvelles et romans publiés ou à paraître, mais aussi tous mes textes qui trépignent de suivre un jour le même chemin."
     url: "/publications"
     btn_label: "Je découvre"
   - image_path: /assets/images/echantillons.webp

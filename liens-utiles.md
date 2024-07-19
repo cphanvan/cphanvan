@@ -7,20 +7,30 @@ toc: true
 toc_label: Liens utiles
 ---
 
-## À la une
+## Mes romans
 
-<a href="https://www.instagram.com/p/C8O5XMRqK0P/?img_index=2" target="_blank">*Un mensonge sans conséquence* (finaliste du concours Bookbuster)</a>{: .btn .btn--info .btn--large .btn--linktree}
+### À paraître
 
-[*Dragonirie*, in *Explorations insolites*](/publications/dragonirie){: .btn .btn--info .btn--large .btn--linktree}
+[*Cercueil et préjugés* (comédie romantique)](/publications/cercueil-et-prejuges){: .btn .btn--info .btn--large .btn--linktree}
 
-<a href="https://lindepanda.wordpress.com/2024/01/12/interview-catherine-phan-van/" target="_blank">Mon interview sur le site de L'Indé Panda</a>{: .btn .btn--info .btn--large .btn--linktree}
+### Projets en cours
+
+[*Un mensonge sans conséquence* (comédie romantique)](/publications/projets-en-cours/#un-mensonge-sans-conséquence){: .btn .btn--info .btn--large .btn--linktree}
+
+[*45,93&nbsp;grammes* (thriller psychologique)](/publications/projets-en-cours/#4593grammes){: .btn .btn--info .btn--large .btn--linktree}
+
+[*Chasseuse de rêves* (roman ado)](/publications/projets-en-cours/#chasseuse-de-rêves){: .btn .btn--info .btn--large .btn--linktree}
+
+[Mes futures histoires](/publications/projets-en-cours){: .btn .btn--info .btn--large .btn--linktree}
 
 
-## Mes livres
+## Mes nouvelles
 
 ### Dernières parutions
 
-<a href="https://occitanie.aract.fr/sites/default/files/2024-03/RecueilAract2023.pdf" target="_blank">*Ceux qui rapportent… et ceux qui coûtent*, in *Nouvelles du travail - tome 18* (ebook gratuit)</a>{: .btn .btn--info .btn--large .btn--linktree}
+[*Dragonirie*, in *Explorations insolites*](/publications/dragonirie){: .btn .btn--info .btn--large .btn--linktree}
+
+<a href="https://occitanie.aract.fr/sites/default/files/2024-03/RecueilAract2023.pdf" target="_blank">*Ceux qui rapportent… et ceux qui coûtent*, in *Nouvelles du travail -- tome 18* (ebook gratuit)</a>{: .btn .btn--info .btn--large .btn--linktree}
 
 <a href="https://catherinephanvan.sumupstore.com/article/enfants-des-neiges" target="_blank">*Enfants des neiges* - version papier</a>{: .btn .btn--info .btn--large .btn--linktree}
 
@@ -30,19 +40,6 @@ toc_label: Liens utiles
 ### Nouvelles publiées
 
 [Découvrir toutes mes nouvelles publiées (dont 7 gratuites)](/publications){: .btn .btn--info .btn--large .btn--linktree}
-
-
-### Projets en cours et à venir
-
-[*Cercueil et préjugés* (comédie romantique)](/publications/projets-en-cours/#cercueil-et-préjugés){: .btn .btn--info .btn--large .btn--linktree}
-
-[*Un mensonge sans conséquence* (comédie romantique)](/publications/projets-en-cours/#un-mensonge-sans-conséquence){: .btn .btn--info .btn--large .btn--linktree}
-
-[*45,93&nbsp;grammes* (thriller psychologique)](/publications/projets-en-cours/#4593grammes){: .btn .btn--info .btn--large .btn--linktree}
-
-[*Chasseuse de rêves* (roman ado)](/publications/projets-en-cours/#chasseuse-de-rêves){: .btn .btn--info .btn--large .btn--linktree}
-
-[Mes futures histoires](/publications/projets-en-cours){: .btn .btn--info .btn--large .btn--linktree}
 
 
 ### Textes gratuits
@@ -64,9 +61,15 @@ toc_label: Liens utiles
 
 ## Où me trouver
 
+### En interview
+
+<a href="https://lindepanda.wordpress.com/2024/01/12/interview-catherine-phan-van/" target="_blank">Mon interview sur le site de L'Indé Panda</a>{: .btn .btn--info .btn--large .btn--linktree}
+
+<!--
 ### En dédicace
 
 [Mes prochains salons](/agenda){: .btn .btn--info .btn--large .btn--linktree}
+-->
 
 ### Sur internet
 

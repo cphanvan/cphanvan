@@ -28,6 +28,10 @@ main:
 publications:
   - title: "Projets en cours…"
     url: /publications/projets-en-cours
+  - title: "Romans"
+    children:
+      - title: "Cercueil et préjugés"
+        url: /publications/cercueil-et-prejuges
   - title: "Nouvelles gratuites"
     children:
       - title: "Ceux qui rapportent… et ceux qui coûtent"

@@ -13,36 +13,25 @@ sidebar_newsletter: true
 toc: true
 ---
 
-## En recherche d'éditeur&nbsp;:
-
-### Cercueil et Préjugés
-
-*comédie romantique contemporaine -- <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**finaliste du concours Fyctia "Comme dans un film"**</a>*
-
-Le pitch&nbsp;:
-> Quand Adélie rentre chez elle après trois mois coupée de tout, elle ne s'attend ni à tomber nez à nez avec le nouveau locataire de son appartement, ni à la révélation que ce dernier lui réserve&nbsp;: que tout le monde la croit morte et enterrée&nbsp;!
-> <br />Or, se reconstruire une vie quand on a perdu son domicile et qu'on passe pour décédé aux yeux de l'administration ne s'avère pas de tout repos&hellip;
-
-Je vous en dis davantage [dans cet article de blog](/ecriture/2023/03/31/objectifs-écriture-2023.html#pourquoi-le-concours-fyctia) sur les raisons pour lesquelles j'ai décidé de me lancer dans ce projet.
-
-Suite au [retour des éditrices](/newsletter/2023-11-05/#cercueil-et-pr%C3%A9jug%C3%A9s-affaire-%C3%A0-suivre) après la finale Fyctia, mi octobre 2023, j'ai entrepris une réécriture du roman, que j'ai achevée vers fin novembre. J'ai eu ensuite de nouveaux retours des bêta-lectrices qui avaient déjà lu la version précédente, et j'ai désormais attaqué la phase de soumissions de cette nouvelle mouture en maisons d'édition.
-
-Vous pouvez <a href="https://www.fyctia.com/stories/cercueil-et-prejuges" target="_blank">lire sur Fyctia les trois premiers chapitres (qui ont très peu évolué), dans leur version initiale</a>.
-
-
 ## En cours de corrections&nbsp;:
 
 ### Un mensonge sans conséquence
 
 J'ai changé le titre (mon titre de travail était *Pour que refleurisse son sourire*), mais je ne sais pas si celui-ci n'est pas un peu pourri aussi (je suis nulle en titres&nbsp;! 😅)
 
-*romance contemporaine -- a participé au concours Fyctia <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">Prix de la révélation new romance 2024</a>* 
+*romance contemporaine -- a participé au concours Fyctia <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">Prix de la révélation new romance 2024</a>
+-- a été **finaliste du <a href="https://www.instagram.com/p/C8O5XMRqK0P/?img_index=5" target="_blank">concours Bookbuster Romance 2024</a>***
 
 Le pitch&nbsp;:
-> Le jour où on lui diagnostique une grave maladie, la grand-mère de Kiana s’effondre. Car toutes deux veillent l’une sur l’autre depuis toujours&nbsp;: sans elle, que deviendra Kiana&nbsp;? Aussi la jeune femme ne pense-t-elle pas à mal lorsqu’elle fait croire à son aïeule qu’elle a rencontré quelqu’un. Elle cherche juste à apaiser ses angoisses.
-> <br />Mais quand l’état de santé de la vieille dame se dégrade, il devient impossible de la laisser vivre seule. Désormais au pied du mur, Kiana va devoir assumer ce qu’elle pensait n’être qu’un mensonge sans conséquence&hellip;
+> Lorsqu'on lui diagnostique une grave maladie, la grand-mère de Kiana s’effondre. Toutes deux veillent l’une sur l’autre depuis toujours. Sans elle, qu'adviendra-t-il de sa petite-fille&nbsp;?
+> <br />Alors, pour l'apaiser, Kiana invente une histoire&nbsp;: elle aurait enfin rencontré quelqu’un&nbsp;!
+> <br />Mais quand l’état de santé de la vieille dame se dégrade et qu'elle ne peut plus vivre seule, Kiana se retrouve prise au piège et doit composer avec ce qu’elle pensait n’être qu’un mensonge sans conséquence&hellip;
 
 Vous pouvez <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">lire sur Fyctia le premier jet du prologue</a>.
+
+Lors de mon envoi au concours Bookbuster, j'attendais encore les retours de bêta-lecture. C'était donc un quasi premier jet que j'avais soumis, sans y croire, en partant du principe que "sur un malentendu, on ne sait jamais&hellip;" Faire partie des cinq finalistes parmi les plusieurs centaines de romans participants était déjà inespéré&nbsp;! Je n'ai pas été surprise de ne pas aller plus loin.
+
+J'ai désormais attaqué les corrections de ce roman, avant une réelle phase de soumissions en maisons d'édition, quand j'estimerai le texte vraiment achevé.
 
 
 ## En pause&nbsp;:
