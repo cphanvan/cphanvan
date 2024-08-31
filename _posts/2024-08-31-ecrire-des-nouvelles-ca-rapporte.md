@@ -110,6 +110,8 @@ Je doute que ce soit un scoop, mais&hellip; **Si vous voulez devenir riche, choi
 
 ---
 ---
+📨 *Retrouvez chaque mois une anecdote d'écriture dans [ma newsletter](/_newsletter).*
+
 👉 *Visitez les coulisses de ma trépidante (non) [vie d'autrice](/blog/tags#viedautrice).*
 {: .text-center}
 
