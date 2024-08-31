@@ -26,7 +26,7 @@ Aïe. Déjà, là, ça va coincer. Je ne peux pas tous vous les dévoiler&hellip
 
 Donc, je vous dévoile tous les chiffres **que je connais à ce jour**.
 
-Et pourquoi donc est-ce que ne les connais pas tous&nbsp;? C'est normal, ça&nbsp;?
+Et pourquoi donc est-ce que je ne les connais pas tous&nbsp;? C'est normal, ça&nbsp;?
 
 Eh bien oui. C'est tout à fait normal. En tout cas, avec les règles de l'édition telles qu'elles existent actuellement. Parce qu'une maison d'édition n'est tenue de remettre une **reddition des comptes** (le relevé des droits d'auteur et de toutes les ventes, exemplaires sans droits, etc) qu'**au minimum une fois par an**. Certaines le font plus souvent, mais légalement, rien ne les y oblige. Conséquence&nbsp;? Après la publication d'un ouvrage, on peut donc attendre un an avant de connaître le nombre d'exemplaires vendus et de toucher les droits correspondants.
 
