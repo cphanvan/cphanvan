@@ -110,6 +110,8 @@ Je doute que ce soit un scoop, mais&hellip;
 
 **Si vous voulez devenir riche, choisissez un autre job que novelliste.** 😁
 
+En revanche, ce qui est certain, c'est qu'écrire et publier des nouvelles m'a apporté beaucoup. Alors, certes, pas sur le plan financier, mais sur tout le reste&nbsp;: rencontres avec tout un tas d'adorables personnes, connaissance du milieu éditorial et de ses pratiques, amélioration de ma plume&hellip; Et j'en suis ravie. 🥰
+
 ---
 ---
 📨 *Retrouvez chaque mois une anecdote d'écriture dans [ma newsletter](/newsletter).*
