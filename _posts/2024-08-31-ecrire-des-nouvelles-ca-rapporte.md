@@ -106,11 +106,14 @@ Mais pour le moment, au global, je suis dans le négatif aussi.
 
 ## Conclusion&nbsp;?
 
-Je doute que ce soit un scoop, mais&hellip; **Si vous voulez devenir riche, choisissez un autre job que novelliste.** 😁
+Je doute que ce soit un scoop, mais&hellip;
+
+**Si vous voulez devenir riche, choisissez un autre job que novelliste.** 😁
 
 ---
 ---
-📨 *Retrouvez chaque mois une anecdote d'écriture dans [ma newsletter](/_newsletter).*
+📨 *Retrouvez chaque mois une anecdote d'écriture dans [ma newsletter](/newsletter).*
+{: .text-center}
 
 👉 *Visitez les coulisses de ma trépidante (non) [vie d'autrice](/blog/tags#viedautrice).*
 {: .text-center}
