@@ -85,7 +85,7 @@ Après mûre réflexion (un an, quand même 😅 mais bon, je n'ai pas fait que 
 Et j'ai vraiment envie, avec ces histoires, de tenter à fond l'expérience de l'autoédition. En 2024, si tout va bien. On croise les doigts&nbsp;!
 
 
-### Les oubliées d'Epeirandria
+### Les Oubliées d'Epeirandria
 
 *roman de science-fiction young-adult - projet mis en attente*
 

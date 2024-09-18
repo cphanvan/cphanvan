@@ -12,27 +12,16 @@ header:
   overlay_image: /assets/images/bandeau-echantillons.webp
 books:
   - maintitle: "Comédies romantiques"
-    title: "Un mensonge sans conséquence"
-    teaser: Un fake dating contemporain, finaliste du concours Bookbuster (à lire sur Vivlio Stories jusqu'au 14/07)
+    title: "Un mensonge sans conséquence (prologue, version initiale)"
+    teaser: Un fake dating contemporain, finaliste du concours Bookbuster Romance 2024
     image_path: /assets/images/publications/un-mensonge-sans-consequence-cover.webp
     image_alt: "couverture de Un mensonge sans conséquence"
-    externalurl: https://www.instagram.com/p/C8O5XMRqK0P/?img_index=2
+    externalurl: https://www.fyctia.com/stories/et-que-refleurisse-son-sourire
     description: |
         Le jour où on lui diagnostique une grave maladie, la grand-mère de Kiana s’effondre. Car toutes deux veillent l’une sur l’autre depuis toujours&nbsp;: sans elle, que deviendra Kiana&nbsp;? Aussi la jeune femme ne pense-t-elle pas à mal lorsqu’elle fait croire à son aïeule qu’elle a rencontré quelqu’un. Elle cherche juste à apaiser ses angoisses.
         
         Mais quand l’état de santé de la vieille dame se dégrade, il devient impossible de la laisser vivre seule. Désormais au pied du mur, Kiana va devoir assumer ce qu’elle pensait n’être qu’un mensonge sans conséquence…
         
-        *(roman actuellement en cours de correction)*
-  - title: "Cercueil et préjugés (premiers chapitres, version initiale)"
-    teaser: Roman finaliste du concours Fyctia <em>Comme dans un film</em>
-    image_path: /assets/images/publications/cercueil-et-prejuges-cover.webp
-    image_alt: "couverture de Cercueil et préjugés"
-    externalurl: https://fyctia.com/stories/cercueil-et-prejuges
-    description: |
-        Quand Adélie rentre chez elle après trois mois coupée de tout, elle ne s'attend ni à tomber nez à nez avec le nouveau locataire de son appartement, ni à la révélation que ce dernier lui réserve&nbsp;: que tout le monde la croit morte et enterrée&nbsp;!
-        
-        Or, se reconstruire une vie quand on se retrouve sans domicile ni existence légale ne s'avère pas de tout repos&hellip;
-
         *(roman actuellement en recherche d'éditeur)*
   - maintitle: "Nouvelles"
     title: "Mauvais swing"
