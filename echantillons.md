@@ -24,7 +24,14 @@ books:
         
         *(roman actuellement en recherche d'éditeur)*
   - maintitle: "Nouvelles"
-    title: "Mauvais swing"
+    title: "Enfin arrivées"
+    teaser: "Nouvelle jeunesse"
+    image_path: /assets/images/echantillons/EnfinArrivees-couv.webp
+    image_alt: "couverture de la nouvelle jeunesse Enfin arrivées"
+    url: /assets/textes/Enfin_arrivees.pdf
+    description: |
+        Une brève nouvelle jeunesse (dès 8&nbsp;ans) sur le thème de &laquo;&nbsp;la surprise&nbsp;&raquo;.
+  - title: "Mauvais swing"
     teaser: "Courte nouvelle contemporaine"
     image_path: /assets/images/echantillons/MauvaisSwing-couv.webp
     image_alt: "couverture de Mauvais swing"
