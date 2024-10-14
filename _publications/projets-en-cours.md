@@ -13,13 +13,13 @@ sidebar_newsletter: true
 toc: true
 ---
 
-## En cours de corrections&nbsp;:
+## En phase de soumissions éditoriales&nbsp;:
 
 ### Un mensonge sans conséquence
 
 J'ai changé le titre (mon titre de travail était *Pour que refleurisse son sourire*), mais je ne sais pas si celui-ci n'est pas un peu pourri aussi (je suis nulle en titres&nbsp;! 😅)
 
-*romance contemporaine -- a participé au concours Fyctia <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">Prix de la révélation new romance 2024</a>
+*comédie romantique contemporaine -- a participé au concours Fyctia <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">Prix de la révélation new romance 2024</a>
 -- a été **finaliste du <a href="https://www.instagram.com/p/C8O5XMRqK0P/?img_index=5" target="_blank">concours Bookbuster Romance 2024</a>***
 
 Le pitch&nbsp;:
@@ -31,10 +31,10 @@ Vous pouvez <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-souri
 
 Lors de mon envoi au concours Bookbuster, j'attendais encore les retours de bêta-lecture. C'était donc un quasi premier jet que j'avais soumis, sans y croire, en partant du principe que "sur un malentendu, on ne sait jamais&hellip;" Faire partie des cinq finalistes parmi les plusieurs centaines de romans participants était déjà inespéré&nbsp;! Je n'ai pas été surprise de ne pas aller plus loin.
 
-J'ai désormais attaqué les corrections de ce roman, avant une réelle phase de soumissions en maisons d'édition, quand j'estimerai le texte vraiment achevé.
+À partir de mi-septembre, après avoir reçu les retours de bêta-lecture, j'ai effectué de nombreuses corrections sur le roman. La mouture finalisée est en phase de soumissions éditoriales depuis le 11 octobre 2024.
 
 
-## En pause&nbsp;:
+## En cours d'écriture&nbsp;:
 
 ### 45,93&nbsp;grammes
 
@@ -43,11 +43,11 @@ J'ai désormais attaqué les corrections de ce roman, avant une réelle phase de
 Le pitch&nbsp;:
 > Chloé était étudiante quand sa vie a basculé.
 > <br />45,93&nbsp;grammes et un diamètre de 42,67&nbsp;millimètres. Une sphère presque parfaite. Une balle de golf ordinaire&hellip; C'est tout ce qu'on a retrouvé à côté de son corps inconscient.
-> <br />Mais alors qu'une partie de ses souvenirs s'est évanouie, que croire, et à qui se fier&nbsp;? S'agissait-il d'un simple accident, comme le laissent supposer les apparences, ou d'une agression, ainsi que sa mère en est persuadée&nbsp;? Et à qui appartient ce visage qui vient hanter ses rêves&nbsp;?
+> <br />Mais alors qu'une partie de ses souvenirs s'est évanouie, que croire, et à qui se fier&nbsp;? S'agissait-il d'un simple accident, comme le laissent supposer les apparences, ou d'une agression, ainsi que sa mère en est persuadée&nbsp;?
 
-Avec trois lignes temporelles distinctes, et trois points de vue différents, je ne me facilite pas la tâche. D'autant que je récidive avec ma "méthode" qui consiste à avancer sans plan. 😅 Reste à voir où cela me mènera&hellip; 
+Courant 2023, j'avais écrit environ 15&nbsp;000&nbsp;mots sur le premier jet de ce roman, soit à peu près un quart. Mais avec trois lignes temporelles distinctes et trois points de vue différents, je ne me facilitais pas la tâche&hellip; et à la lecture, l'ensemble était trop confus.
 
-J'ai écrit environ 15&nbsp;000&nbsp;mots sur le premier jet de ce roman, soit un petit quart. Puis je l'ai mis en pause pour réécrire [Cercueil et préjugés](#cercueil-et-pr%C3%A9jug%C3%A9s) suite au retour du jury après la finale Fyctia. Et&hellip; il est encore en pause, parce qu'une autre idée de roman s'est incrustée sans prévenir, et que je n'ai pas réussi à la repousser.
+Mi-octobre 2024, j'ai donc repris de zéro l'écriture de ce roman, qui va m'occuper ces prochains mois.
 
 
 ## À réécrire&nbsp;:
@@ -58,7 +58,7 @@ J'ai écrit environ 15&nbsp;000&nbsp;mots sur le premier jet de ce roman, soit u
 
 Il s'agit d'un roman contemporain destiné aux adolescents de 12 ans et plus. J'ai mûri l'histoire au début du premier trimestre 2022 et ai terminé l'écriture du premier jet courant juin. La [phase de bêtalecture](/ecriture/2022/06/23/b%C3%AAta-lecture-chasseuse-de-r%C3%AAves.html) et les corrections sont terminées depuis mi-septembre 2022.
 
-La première mouture de ce roman a essuyé quelques refus éditoriaux, mais suite à ma participation à la quatrième édition des <a href="https://www.murmures-litteraires.fr/" target="_blank">Murmures Littéraires</a>, j'ai décidé d'entreprendre une réécriture complète avant de poursuivre les soumissions.
+La première version de ce roman a essuyé quelques refus éditoriaux, mais suite à ma participation à la quatrième édition des <a href="https://www.murmures-litteraires.fr/" target="_blank">Murmures Littéraires</a>, j'ai décidé d'entreprendre une réécriture complète avant de poursuivre les soumissions.
 
 Vous pouvez [en lire le pitch et le prologue par ici](/ecriture/2022/06/23/bêta-lecture-chasseuse-de-rêves.html#chasseuse-de-rêves-quest-ce-que-cest-).
 
