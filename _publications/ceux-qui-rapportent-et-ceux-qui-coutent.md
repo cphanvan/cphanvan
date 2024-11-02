@@ -19,7 +19,7 @@ sidebar:
       Janvier 2024
 ---
 
-Nouvelle parue en janvier 2024 dans le recueil ***Nouvelles du travail - Tome 18*** sur le thème "les transitions", publié par l'<a href="https://occitanie.aract.fr/sites/default/files/2024-03/RecueilAract2023.pdf" target="_blank">ARACT Occitanie</a>.
+Nouvelle parue en janvier 2024 dans le recueil ***Nouvelles du travail - Tome 18*** sur le thème "les transitions", publié par l'<a href="https://www.anact.fr/sites/default/files/2024-07/recueilaract2023.pdf" target="_blank">ARACT Occitanie</a>.
 
 On y découvre Louis-Edmond et Quitterie, deux employés d'un cabinet de conseil à l'ego surdimensionné.
 
