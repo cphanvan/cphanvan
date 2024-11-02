@@ -3,7 +3,7 @@ title: Blog
 description: Des billets sur divers thèmes qui me touchent. Ici, je peux parler écriture ou lecture, mais pas que !
 layout: posts
 sidebar_newsletter: true
-sidebar_profilSP: true
+sidebar_profilSP: false
 permalink: /blog
 header:
   overlay_color: "#000"
