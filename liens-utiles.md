@@ -9,6 +9,14 @@ toc_label: Liens utiles
 
 ## Mes textes
 
+### Échos graphiques - précommande (envoi à partir du 05/12)
+
+<a href="https://catherinephanvan.sumupstore.com/article/precommande-echos-graphiques-version-ebook-formats-epub-mobi-et-pdf-inclus" target="_blank">Version numérique (formats epub / pdf / mobi inclus)</a>{: .btn .btn--info .btn--large .btn--linktree}
+
+<a href="https://catherinephanvan.sumupstore.com/article/precommande-echos-graphiques" target="_blank">Version brochée (dédicace possible)</a>{: .btn .btn--info .btn--large .btn--linktree}
+
+<a href="https://www.amazon.fr/dp/B0DNSJ9CY4" target="_blank">Version numérique via Amazon</a>{: .btn .btn--info .btn--large .btn--linktree}
+
 ### Mon prochain roman à paraître
 
 [*Cercueil et préjugés* (comédie romantique)](/publications/cercueil-et-prejuges){: .btn .btn--info .btn--large .btn--linktree}
