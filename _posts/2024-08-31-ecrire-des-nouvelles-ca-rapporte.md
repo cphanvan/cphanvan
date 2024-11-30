@@ -37,6 +37,8 @@ Cette réserve étant posée, c'est parti&nbsp;!
 
 ## Le tableau qui tue
 
+(chiffres au 31 août 2024)
+
 | Titre | Type | Quantité vendue | Prix de vente | Prix d'achat | Frais de transaction | Bénéfices | Droits d'auteur | **Total** |
 | ----- | ---- | --------------- | ------------- | ------------ | -------------------- | --------- | --------------- | ----- |
 | **Total** | | **689** | | | | | | **119,33€** |
