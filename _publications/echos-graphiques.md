@@ -44,20 +44,36 @@ Disponible en précommande sur ma boutique <a href="https://catherinephanvan.sum
 
 - Joanie&nbsp; *«&nbsp;Des grincements, des bruits, une atmosphère étrange. Des apparitions. Folie, visions ou défaut de perception&nbsp;?&nbsp;»*
 
-    Retrouvez la chronique complète de Joanie <a href="https://www.instagram.com/p/DC8Vjo-oLAy" target="_blank">sur son compte instagram</a>.
+    Retrouvez l'avis complet de Joanie <a href="https://www.instagram.com/p/DC8Vjo-oLAy" target="_blank">sur son compte instagram</a>.
 
 - MrsTagada&nbsp;: *«&nbsp;La fin est totalement inattendue et la dernière page l'est encore plus&nbsp;!&nbsp;»*
 
-    Retrouvez la chronique complète de MrsTagada <a href="https://www.babelio.com/livres/Phan-Van-chos-graphiques/1766059/critiques/4217330" target="_blank">sur Babelio</a>.
+    Retrouvez l'avis complet de MrsTagada <a href="https://www.babelio.com/livres/Phan-Van-chos-graphiques/1766059/critiques/4217330" target="_blank">sur Babelio</a>.
 
 - Dovahbooks&nbsp;: *«&nbsp;L'ambiance est bonne, et très imagée. L'histoire est bien ficelée et j'adore avoir différents points de vue à différentes époques.&nbsp;»*
 
-    Retrouvez l'avis de Dovahbooks <a href="https://www.babelio.com/livres/Phan-Van-chos-graphiques/1766059/critiques/4213915" target="_blank">sur Babelio</a>.
-
+    Retrouvez l'avis complet de Dovahbooks <a href="https://www.babelio.com/livres/Phan-Van-chos-graphiques/1766059/critiques/4213915" target="_blank">sur Babelio</a>.
 
 - Aurélie&nbsp;: *«&nbsp;L'ambiance est bien sombre et bien lourde, la plume fluide et efficace.&nbsp;»*
 
-    Retrouvez l'avis d'Autélie <a href="https://www.instagram.com/winry8963/p/DC_jjSGNUko/?img_index=2" target="_blank">sur son compte instagram</a>.
+    Retrouvez l'avis complet d'Autélie <a href="https://www.instagram.com/winry8963/p/DC_jjSGNUko/?img_index=2" target="_blank">sur son compte instagram</a>.
+
+- Elodie&nbsp;: *«&nbsp;Le suspense est bien dosé. Si vous adorez frissonner en attendant Noël, je vous conseille fortement cette nouvelle.&nbsp;»*
+
+    Retrouvez l'avis complet d'Elodie <a href="https://www.goodreads.com/review/show/7050328638" target="_blank">sur Goodreads</a>.
+
+- Claire&nbsp;: *«&nbsp;Pas gore, mais tout aussi impactant. Comme quoi, on n'a pas besoin de litres de sang pour impressionner.&nbsp;»*
+
+    Retrouvez l'avis complet de Claire <a href="https://www.instagram.com/p/DDHLEf_tO_4/" target="_blank">sur son compte instagram</a>.
+
+- Lecteur_fou&nbsp;: *«&nbsp;Ce qui est génial, c'est la facilité avec laquelle elle arrive, sans être dans l'excès, à graver dans notre mémoire des scènes chocs qu'on a beaucoup de mal à faire disparaître, comme des flashs qui resurgissent sans arrêt.&nbsp;»*
+
+    Retrouvez l'avis complet de Lecteur_fou <a href="https://www.instagram.com/p/DDEn3lTNusb/" target="_blank">sur son compte instagram</a>.
+
+- Marg Pies&nbsp;: *«&nbsp;La plume de l’auteure est vive et percutante, avec du suspense qui m’a tenue en haleine jusqu’au bout&nbsp;!&nbsp;»*
+
+    Retrouvez l'avis complet de Marg Pies <a href="https://www.instagram.com/p/DDB1eI-tDaU/" target="_blank">sur son compte instagram</a>.
+
 
 <hr>
 
