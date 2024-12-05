@@ -17,6 +17,8 @@ toc_label: Liens utiles
 
 <a href="https://www.amazon.fr/dp/B0DNSJ9CY4" target="_blank">Version numérique via Amazon</a>{: .btn .btn--info .btn--large .btn--linktree}
 
+<a href="https://www.amazon.fr/dp/249362405X" target="_blank">Version brochée via Amazon</a>{: .btn .btn--info .btn--large .btn--linktree}
+
 ### Mon prochain roman à paraître
 
 [*Cercueil et préjugés* (comédie romantique)](/publications/cercueil-et-prejuges){: .btn .btn--info .btn--large .btn--linktree}

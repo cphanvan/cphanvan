@@ -31,9 +31,14 @@ Aurélie et Nicolas attendent un heureux événement. À l'approche des fêtes, 
 
 <hr>
 
-Sortie le 5 décembre 2024
+Disponible à la commande
 
-Disponible en précommande sur ma boutique <a href="https://catherinephanvan.sumupstore.com/article/precommande-echos-graphiques-version-ebook-formats-epub-mobi-et-pdf-inclus" target="_blank">en version numérique</a> (formats epub / pdf / mobi) ou <a href="https://catherinephanvan.sumupstore.com/article/precommande-echos-graphiques" target="_blank">en version brochée</a>, ou sur amazon <a href="https://www.amazon.fr/dp/B0DNSJ9CY4" target="_blank">en version numérique</a>.
+- soit sur ma boutique&nbsp;:
+    - <a href="https://catherinephanvan.sumupstore.com/article/echos-graphiques-version-ebook-formats-epub-mobi-et-pdf-inclus" target="_blank">en version numérique</a> (formats epub / pdf / mobi),
+    - <a href="https://catherinephanvan.sumupstore.com/article/echos-graphiques" target="_blank">en version brochée</a>,
+- soit sur amazon&nbsp;:
+    - <a href="https://www.amazon.fr/dp/B0DNSJ9CY4" target="_blank">en version numérique</a>,
+    - <a href="https://www.amazon.fr/dp/249362405X" target="_blank">en version brochée</a>.
 
 
 ## Un grand merci pour vos retours de lecture&nbsp;!
