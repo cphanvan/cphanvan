@@ -14,7 +14,8 @@ page_js:
 
 ## Prochaines dédicaces
 
-Pas de nouvelle date programmée pour le moment.
+- Samedi 5 avril 2025 au <a href="https://www.instagram.com/p/DBwmr_8uqHz/" target="_blank">salon Imagina'livres</a>, salle du Confluent, à Portet-sur-Garonne (31).
+- Dimanche 20 avril 2025 sur le stand des <a href="https://herosdepapierfroisse.fr/editionshpf/" target="_blank">éditions HPF</a> au festival <a href="https://www.instagram.com/p/DBB69SxAtRK/?img_index=1" target="_blank">L'Ouest Hurlant</a>, La Paillette, à Rennes (35).
 
 
 ## Mes activités d'écriture en cours
