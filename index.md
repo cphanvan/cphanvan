@@ -22,7 +22,7 @@ a_propos:
   - summary: |
       **Qui suis-je&nbsp;?**
       
-      Née en 1976 au pays des sapins et du froid, je vis aujourd'hui près de Bordeaux.
+      Originaire du pays des sapins et du froid (le Haut-Doubs), je vis aujourd'hui près de Bordeaux.
       
       J'ai semé des nouvelles sur la toile et dans diverses anthologies. Sur ce site, vous pouvez explorer mes [publications](/publications), [lire gratuitement certains de mes textes](/echantillons), découvrir [les coulisses de ma vie d'autrice](/blog/tags#viedautrice), ou retrouver mes [avis sur mes lectures](/blog/tags#chronique) ou [interviews d'auteurs ou autrices](/blog/tags#interview).
       
