@@ -27,12 +27,13 @@ Ma comédie romantique contemporaine, [*Cercueil et préjugés*](/publications/c
 ### En soumissions
 
 Ma deuxième comédie romantique contemporaine, [*Un mensonge sans conséquence*](/publications/projets-en-cours/#un-mensonge-sans-conséquence), est en cours de soumissions éditoriales.
-Ce roman a été **finaliste** du <a href="https://www.instagram.com/p/C8O5XMRqK0P/?img_index=5" target="_blank">concours Bookbuster Romance 2024</a>, et
-vous pouvez <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">lire sur Fyctia le premier jet du prologue</a>.
+Ce roman a été **finaliste** du <a href="https://www.instagram.com/p/C8O5XMRqK0P/?img_index=5" target="_blank">concours Bookbuster Romance 2024</a>.
 
 ### En cours
 
-Actuellement, je suis en cours d'écriture de mon nouveau roman, [*45,93&nbsp;grammes*](/publications/projets-en-cours/#4593grammes), un texte de proche anticipation qui devrait se situer quelque part entre thriller psychologique et thriller politique.
+Actuellement, je suis en cours d'écriture de mon nouveau roman, [*45,93&nbsp;grammes*](/publications/projets-en-cours/#4593grammes), une uchronie qui devrait se situer quelque part entre thriller psychologique et thriller politique.
+
+Vous pouvez <a href="https://www.fyctia.com/stories/45-93-grammes" target="_blank">lire sur Fyctia le début de ce texte, au fil de l'écriture.</a>
 
 ### En attente
 

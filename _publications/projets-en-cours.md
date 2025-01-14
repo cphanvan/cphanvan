@@ -27,8 +27,6 @@ Le pitch&nbsp;:
 > <br />Alors, pour l'apaiser, Kiana invente une histoire&nbsp;: elle aurait enfin rencontré quelqu’un&nbsp;!
 > <br />Mais quand l’état de santé de la vieille dame se dégrade et qu'elle ne peut plus vivre seule, Kiana se retrouve prise au piège et doit composer avec ce qu’elle pensait n’être qu’un mensonge sans conséquence&hellip;
 
-Vous pouvez <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">lire sur Fyctia le premier jet du prologue</a>.
-
 Lors de mon envoi au concours Bookbuster, j'attendais encore les retours de bêta-lecture. C'était donc un quasi premier jet que j'avais soumis, sans y croire, en partant du principe que "sur un malentendu, on ne sait jamais&hellip;" Faire partie des cinq finalistes parmi les plusieurs centaines de romans participants était déjà inespéré&nbsp;! Je n'ai pas été surprise de ne pas aller plus loin.
 
 À partir de mi-septembre, après avoir reçu les retours de bêta-lecture, j'ai effectué de nombreuses corrections sur le roman. La mouture finalisée est en phase de soumissions éditoriales depuis le 11 octobre 2024.
@@ -38,16 +36,18 @@ Lors de mon envoi au concours Bookbuster, j'attendais encore les retours de bêt
 
 ### 45,93&nbsp;grammes
 
-*thriller*
+*thriller uchronique*
 
 Le pitch&nbsp;:
 > Chloé était étudiante quand sa vie a basculé.
 > <br />45,93&nbsp;grammes et un diamètre de 42,67&nbsp;millimètres. Une sphère presque parfaite. Une balle de golf ordinaire&hellip; C'est tout ce qu'on a retrouvé à côté de son corps inconscient.
-> <br />Mais alors qu'une partie de ses souvenirs s'est évanouie, que croire, et à qui se fier&nbsp;? S'agissait-il d'un simple accident, comme le laissent supposer les apparences, ou d'une agression, ainsi que sa mère en est persuadée&nbsp;?
+> <br />Mais alors qu'une partie de ses souvenirs s'est évanouie, à qui peut-elle se fier&nbsp;?
 
 Courant 2023, j'avais écrit environ 15&nbsp;000&nbsp;mots sur le premier jet de ce roman, soit à peu près un quart. Mais avec trois lignes temporelles distinctes et trois points de vue différents, je ne me facilitais pas la tâche&hellip; et à la lecture, l'ensemble était trop confus.
 
 Mi-octobre 2024, j'ai donc repris de zéro l'écriture de ce roman, qui va m'occuper ces prochains mois.
+
+Vous pouvez <a href="https://www.fyctia.com/stories/45-93-grammes" target="_blank">lire sur Fyctia le début de ce texte.</a>
 
 
 ## À réécrire&nbsp;:

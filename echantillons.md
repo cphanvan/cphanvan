@@ -11,18 +11,20 @@ header:
   overlay_filter: "0.2"
   overlay_image: /assets/images/bandeau-echantillons.webp
 books:
-  - maintitle: "Comédies romantiques"
-    title: "Un mensonge sans conséquence (prologue, version initiale)"
-    teaser: Un fake dating contemporain, finaliste du concours Bookbuster Romance 2024
-    image_path: /assets/images/publications/un-mensonge-sans-consequence-cover.webp
-    image_alt: "couverture de Un mensonge sans conséquence"
-    externalurl: https://www.fyctia.com/stories/et-que-refleurisse-son-sourire
+  - maintitle: "Romans"
+    title: "45,93 grammes (début du premier jet)"
+    teaser: Un thriller uchronique
+    image_path: /assets/images/publications/45-93-grammes-cover.webp
+    image_alt: "couverture de 45,93 grammes"
+    externalurl: https://www.fyctia.com/stories/45-93-grammes
     description: |
-        Le jour où on lui diagnostique une grave maladie, la grand-mère de Kiana s’effondre. Car toutes deux veillent l’une sur l’autre depuis toujours&nbsp;: sans elle, que deviendra Kiana&nbsp;? Aussi la jeune femme ne pense-t-elle pas à mal lorsqu’elle fait croire à son aïeule qu’elle a rencontré quelqu’un. Elle cherche juste à apaiser ses angoisses.
+        Chloé était étudiante quand sa vie a basculé.
         
-        Mais quand l’état de santé de la vieille dame se dégrade, il devient impossible de la laisser vivre seule. Désormais au pied du mur, Kiana va devoir assumer ce qu’elle pensait n’être qu’un mensonge sans conséquence…
+        45,93 grammes et un diamètre de 42,67 millimètres. Une sphère presque parfaite. Une balle de golf ordinaire… C'est tout ce qu'on a retrouvé à côté de son corps inconscient.
         
-        *(roman actuellement en recherche d'éditeur)*
+        Mais alors qu'une partie de ses souvenirs s'est évanouie, à qui peut-elle se fier&nbsp;?
+        
+        *(roman en cours d'écriture)*
   - maintitle: "Nouvelles"
     title: "Enfin arrivées"
     teaser: "Nouvelle jeunesse"
