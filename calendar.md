@@ -14,7 +14,9 @@ page_js:
 
 ## Prochaines dédicaces
 
-- Samedi 5 avril 2025 au <a href="https://www.instagram.com/p/DBwmr_8uqHz/" target="_blank">salon Imagina'livres</a>, salle du Confluent, à Portet-sur-Garonne (31).
+- **Samedi 5 avril 2025** au <a href="https://www.instagram.com/p/DBwmr_8uqHz/" target="_blank">salon Imagina'livres</a>, salle du Confluent, à Portet-sur-Garonne (31).<br>
+⚠️ Attention, le salon se déroule sur le week-end entier, samedi 5 et dimanche 6 avril, mais je ne serai présente que la journée du **samedi**.<br>
+Vous me trouverez sur le stand de l'association organisatrice du salon, où je pourrai vous dédicacer l'une (ou plusieurs 😉) des trois anthologies [*Sorcellerie végétale*](/publications/pot-a-ceder), [*Explorations insolites*](/publications/dragonirie) et [*Festins imaginaires*](/publications/mesaventures-vitaminees).
 <!-- Dimanche 20 avril 2025 sur le stand des <a href="https://herosdepapierfroisse.fr/editionshpf/" target="_blank">éditions HPF</a> au festival <a href="https://www.instagram.com/p/DBB69SxAtRK/?img_index=1" target="_blank">L'Ouest Hurlant</a>, La Paillette, à Rennes (35).-->
 
 

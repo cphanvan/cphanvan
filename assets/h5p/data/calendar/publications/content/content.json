@@ -80,10 +80,19 @@
           "asset": {
             "media": "https://catherinephanvan.fr/assets/images/events/coming-soon-cover.jpg"
           },
-          "headline": "Surprise&nbsp;!",
+          "headline": "Mésaventures vitaminées",
           "startDate": "2025,04,05",
           "endDate": "2025,04,05",
-          "text": "<p>Une nouvelle à paraître dans une belle anthologie reliée et jaspée.</p><p>Davantage d'informations à venir bientôt. Comme on dit&nbsp;: \"<em>stay tuned&hellip;</em>\"</p>"
+          "text": "<p>Une nouvelle à paraître dans une belle anthologie reliée et jaspée, <em>Festins imaginaires</em>.</p><p><a href=\"/publications/mesaventures-vitaminees/\">Découvrir la nouvelle</a></p>"
+        },
+        {
+          "asset": {
+            "media": "https://catherinephanvan.fr/assets/images/events/coming-soon-cover.jpg"
+          },
+          "headline": "Surprise&nbsp;!",
+          "startDate": "2025,06,01",
+          "endDate": "2025,06,01",
+          "text": "<p>Une nouvelle à paraître dans une anthologie.</p><p>Davantage d'informations à venir. Comme on dit&nbsp;: \"<em>stay tuned&hellip;</em>\" 😉</p>"
         },
         {
           "asset": {
