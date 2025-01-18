@@ -8,7 +8,7 @@ publication_date: 2025-01-18T14:00:00Z
 excerpt: |
   Une nouvelle de fantasy, dans un monde où sévit une étrange maladie…<!--excerptEnd-->
 header:
-  teaser: /assets/images/publications/projets-a-paraitre-teaser.webp
+  teaser: /assets/images/publications/coming-soon-teaser.webp
 sidebar:
   - title: "Dragonirie"
     image: /assets/images/publications/coming-soon-cover.webp
