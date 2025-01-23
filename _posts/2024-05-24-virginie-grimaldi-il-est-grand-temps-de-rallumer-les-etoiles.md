@@ -52,7 +52,7 @@ La première fois que j'ai entendu parler de Virginie Grimaldi, c'était je croi
 
 C'est donc chose faite avec *Il est grand temps de rallumer les étoiles*, qui se trouve aussi avoir été élu "roman préféré des Français" en 2022, devant -- dans l'ordre -- *One Piece*, *Harry Potter*, *Le Petit Prince*, et *Les Misérables*. Excusez du peu&nbsp;!
 
-Pour ma part, j'ai passé un moment de lecture plutôt agréable, mais je ne peux pas dire que j'ai été particulièrement transportée. On suit une mère et ses filles adolescentes qui se redécouvrent au cours d'un road trip en camping-car improvisé (de manière amusante, ce roman correspond d'ailleurs assez bien à ce que je m'attendais à trouver en lisant [*L'Indifférence de l'eau qui dort*](/chronique/contemporain/2024/02/16/valentine-stergann-l-indifference-de-l-eau-qui-dort.html)&nbsp;!)
+Pour ma part, j'ai passé un moment de lecture plutôt agréable, mais je ne peux pas dire que j'ai été particulièrement transportée. On suit une mère et ses filles adolescentes qui se redécouvrent au cours d'un road trip en camping-car improvisé.
 
 La plume est fluide, il y a des passages drôles, des passages émouvants, quelques descriptions qui donnent envie de voyager en Scandinavie (mais bon, ça, j'en rêve depuis des dizaines d'années déjà, alors&hellip; La Scandinavie, l'Islande et l'Écosse&hellip; 🤩 Un jour peut-être, dans une autre vie&nbsp;!)
 
