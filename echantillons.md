@@ -79,9 +79,8 @@ books:
     image_alt: "couverture de Cœur brisé et tasse de thé"
     url: /assets/textes/Coeur_brise_et_tasse_de_the.pdf
     description: |
-        Vous devez commencer à bien connaître ma complice d'écriture, Aude Boireau, que vous pouvez retrouver
-        <a href="https://audeboireau.fr/" target="_blank">sur son site</a> ou
-        <a href="https://twitter.com/CaptNettle" target="_blank">sur son compte Twitter</a>.
+        Vous devez commencer à bien connaître mon complice d'écriture, Charlie Boireau, que vous pouvez retrouver
+        <a href="https://bsky.app/profile/captnettle.bsky.social" target="_blank">sur son compte BlueSky</a>.
 
         En cette mi-février, nous avons décidé de récidiver et avons donc commis un nouveau texte à quatre mains, que nous vous proposons de retrouver ici. Si vous vous apprêtez à passer une Saint-Valentin en solitaire, rassurez-vous, c'est aussi le cas pour la charmante Alicia. À moins que&hellip;
   - title: "Derrière la porte"
@@ -90,7 +89,7 @@ books:
     image_alt: "couverture de Derrière la porte"
     url: /assets/textes/Derriere_la_porte.pdf
     description: |
-        Le mois dernier, je vous proposais de découvrir [*Cœur brisé et tasse de thé*](/assets/textes/Coeur_brise_et_tasse_de_the.pdf), un texte sans prétention, écrit à quatre mains juste pour le plaisir avec <a href="https://audeboireau.fr/" target="_blank">Aude Boireau</a>.
+        Le mois dernier, je vous proposais de découvrir [*Cœur brisé et tasse de thé*](/assets/textes/Coeur_brise_et_tasse_de_the.pdf), un texte sans prétention, écrit à quatre mains juste pour le plaisir avec <a href="https://bsky.app/profile/captnettle.bsky.social" target="_blank">Charlie Boireau</a>.
 
         Un mois plus tard, je récidive avec une autre complice d'écriture, Catherine Uguelle, que vous pouvez retrouver
         <a href="https://www.instagram.com/catherineuguelle/" target="_blank">sur Instagram</a> ou
@@ -108,15 +107,13 @@ books:
 
 {% include figure image_path="/assets/images/echantillons/halloween-sous-la-neige.webp" alt="paysage enneigé" caption="Image de rawpixel.com" %}
 
-Avec Aude Boireau, à travers les défis Sprint et Marathon auxquels nous avons participé au cours de l'été 2021, nous avons découvert les joies de l'écriture à quatre mains&hellip; Et nous avons eu envie de renouveler l'expérience&nbsp;!
+Avec Charlie Boireau, à travers les défis Sprint et Marathon auxquels nous avons participé au cours de l'été 2021, nous avons découvert les joies de l'écriture à quatre mains&hellip; Et nous avons eu envie de renouveler l'expérience&nbsp;!
 
 En cette fin de mois d'octobre, nous vous proposons donc de retrouver un texte de saison, avec ce court récit d'Halloween, qui, nous l'espérons, va vous faire frissonner&nbsp;!
 
 [Pour lire ***Halloween sous la neige***, suivez le lien](/assets/textes/Halloween_sous_la_neige.pdf)&nbsp;!
 
-Vous pouvez retrouver Aude Boireau
-<a href="https://audeboireau.fr/" target="_blank">sur son site</a> ou
-<a href="https://twitter.com/CaptNettle" target="_blank">sur son compte Twitter</a>.
+Vous pouvez retrouver Charlie Boireau <a href="https://bsky.app/profile/captnettle.bsky.social" target="_blank">sur son compte BlueSky</a>.
 
 
 ## Défi Sprint 2021
@@ -134,7 +131,7 @@ Ces contraintes étaient les suivantes&nbsp;:
 - jour 4&nbsp;: *kill your darlings*. Je me suis essayée lamentablement aux poèmes et à la romance, qui sont mes deux bêtes noires. (Oui, au pluriel, car j'en ai écrit deux&nbsp;! Je craignais de n'avoir pas assez tué mes chéris dans le premier. À moins que ce ne soit par pur masoschisme&hellip;)
 - jour 5&nbsp;: *la correction*. Il s'agissait ici de corriger le texte du jour 1, tout en l'allongeant de 100 mots.
 - jour 6&nbsp;: *unifier les textes des jours 2 à 5*. Si vous avez lu les textes en question, vous comprenez pourquoi j'ai hurlé en la découvrant&hellip; Oui, j'ai dû me prêter à un difficile exercice de contorsion&nbsp;! 😱
-- jour 7&nbsp;: *la co-écriture*. Merci à <a href="https://audeboireau.fr/" target="_blank">Aude Boireau</a> d'avoir accepté de partager ce défi avec moi&nbsp;! 😊
+- jour 7&nbsp;: *la co-écriture*. Merci à <a href="https://bsky.app/profile/captnettle.bsky.social" target="_blank">Charlie Boireau</a> d'avoir accepté de partager ce défi avec moi&nbsp;! 😊
 
 ### Jour 1
 

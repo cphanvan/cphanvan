@@ -66,15 +66,13 @@ toc_label: Liens utiles
 
 ## Où me trouver
 
-### En interview
-
-<a href="https://lindepanda.wordpress.com/2024/01/12/interview-catherine-phan-van/" target="_blank">Mon interview sur le site de L'Indé Panda</a>{: .btn .btn--info .btn--large .btn--linktree}
-
-<!--
 ### En dédicace
 
 [Mes prochains salons](/agenda){: .btn .btn--info .btn--large .btn--linktree}
--->
+
+### En interview
+
+<a href="https://lindepanda.wordpress.com/2024/01/12/interview-catherine-phan-van/" target="_blank">Mon interview sur le site de L'Indé Panda</a>{: .btn .btn--info .btn--large .btn--linktree}
 
 ### Sur internet
 
@@ -103,8 +101,6 @@ toc_label: Liens utiles
 <a href="https://bsky.app/profile/cathphanvan.bsky.social" target="_blank">BlueSky</a>{: .btn .btn--info .btn--large .btn--linktree}
 
 <a href="https://www.tiktok.com/@cathphanvan" target="_blank">TikTok</a>{: .btn .btn--info .btn--large .btn--linktree}
-
-<a href="https://twitter.com/CathPhanvan" target="_blank">Twitter</a>{: .btn .btn--info .btn--large .btn--linktree}
 
 ### Me contacter
 
