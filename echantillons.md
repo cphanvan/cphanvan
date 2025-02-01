@@ -16,15 +16,15 @@ books:
     teaser: Un thriller uchronique
     image_path: /assets/images/publications/45-93-grammes-cover.webp
     image_alt: "couverture de 45,93 grammes"
-    externalurl: https://www.fyctia.com/stories/45-93-grammes
+    externalurl: https://www.fyctia.com/stories/45-93-grammes-1
     description: |
-        Chloé était étudiante quand sa vie a basculé.
+        Chloé était étudiante quand sa vie a basculé. Un traumatisme crânien l'a privée d'une partie de ses souvenirs. Il s'agissait d'une agression, sa mère en est persuadée. Les suspects sont d'ailleurs tout désignés&nbsp;: car les médias le répètent sans cesse, les millions de clandestins qui se pressent aux frontières sont violents, tout comme les rares régularisés autorisés à pénétrer sur le territoire national.
         
-        45,93 grammes et un diamètre de 42,67 millimètres. Une sphère presque parfaite. Une balle de golf ordinaire… C'est tout ce qu'on a retrouvé à côté de son corps inconscient.
+        Chloé, elle, n'a aucune certitude. Elle a tout oublié, alors comment savoir&nbsp;? Elle n'aspire qu'à une chose&nbsp;: se reconstruire. Mais l'obstination de sa mère à la couper du monde pour la protéger l'étouffe davantage qu'elle ne l'aide, et sa xénophobie la dégoûte. Pour la jeune fille, les clandestins, contraints de fuir des zones de la planète rendues inhabitables par le changement climatique, sont avant tout des êtres humains. Aussi, quand elle fait la connaissance d'Issiaka, un régularisé avec qui elle se découvre des goûts communs, c'est comme une bouffée d'air pur qui s'invite dans son existence.
         
-        Mais alors qu'une partie de ses souvenirs s'est évanouie, à qui peut-elle se fier&nbsp;?
+        Jusqu'à ce que sa mère apprenne qu'elle a sympathisé avec lui… Et que sa vie bascule une seconde fois.
         
-        *(roman en cours d'écriture)*
+        *(roman en cours d'écriture -- disponible à partir du 3 février 2025 en fin d'après-midi)*
   - maintitle: "Nouvelles"
     title: "Enfin arrivées"
     teaser: "Nouvelle jeunesse"

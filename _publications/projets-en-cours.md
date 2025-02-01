@@ -39,15 +39,15 @@ Lors de mon envoi au concours Bookbuster, j'attendais encore les retours de bêt
 *thriller uchronique*
 
 Le pitch&nbsp;:
-> Chloé était étudiante quand sa vie a basculé.
-> <br />45,93&nbsp;grammes et un diamètre de 42,67&nbsp;millimètres. Une sphère presque parfaite. Une balle de golf ordinaire&hellip; C'est tout ce qu'on a retrouvé à côté de son corps inconscient.
-> <br />Mais alors qu'une partie de ses souvenirs s'est évanouie, à qui peut-elle se fier&nbsp;?
+> Chloé était étudiante quand sa vie a basculé. Un traumatisme crânien l'a privée d'une partie de ses souvenirs. Il s'agissait d'une agression, sa mère en est persuadée. Les suspects sont d'ailleurs tout désignés&nbsp;: car les médias le répètent sans cesse, les millions de clandestins qui se pressent aux frontières sont violents, tout comme les rares régularisés autorisés à pénétrer sur le territoire national.<br>
+> Chloé, elle, n'a aucune certitude. Elle a tout oublié, alors comment savoir&nbsp;? Elle n'aspire qu'à une chose&nbsp;: se reconstruire. Mais l'obstination de sa mère à la couper du monde pour la protéger l'étouffe davantage qu'elle ne l'aide, et sa xénophobie la dégoûte. Pour la jeune fille, les clandestins, contraints de fuir des zones de la planète rendues inhabitables par le changement climatique, sont avant tout des êtres humains. Aussi, quand elle fait la connaissance d'Issiaka, un régularisé avec qui elle se découvre des goûts communs, c'est comme une bouffée d'air pur qui s'invite dans son existence.<br>
+> Jusqu'à ce que sa mère apprenne qu'elle a sympathisé avec lui… Et que sa vie bascule une seconde fois.
 
 Courant 2023, j'avais écrit environ 15&nbsp;000&nbsp;mots sur le premier jet de ce roman, soit à peu près un quart. Mais avec trois lignes temporelles distinctes et trois points de vue différents, je ne me facilitais pas la tâche&hellip; et à la lecture, l'ensemble était trop confus.
 
 Mi-octobre 2024, j'ai donc repris de zéro l'écriture de ce roman, qui va m'occuper ces prochains mois.
 
-Vous pouvez <a href="https://www.fyctia.com/stories/45-93-grammes" target="_blank">lire sur Fyctia le début de ce texte.</a>
+À partir du lundi 3 février 2025 en fin d'après-midi, vous pouvez <a href="https://www.fyctia.com/stories/45-93-grammes-1" target="_blank">lire sur Fyctia le début de ce texte.</a>
 
 
 ## À réécrire&nbsp;:
