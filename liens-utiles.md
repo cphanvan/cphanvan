@@ -7,6 +7,11 @@ toc: true
 toc_label: Liens utiles
 ---
 
+## 45,93 grammes sur Fyctia
+
+<a href="https://www.fyctia.com/stories/45-93-grammes-1" target="_blank">45,93 grammes</a>{: .btn .btn--info .btn--large .btn--linktree}
+
+
 ## Mes textes
 
 ### Échos graphiques
