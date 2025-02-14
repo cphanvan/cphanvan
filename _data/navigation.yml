@@ -3,6 +3,7 @@ main:
   - title: "Boutique"
     url: https://catherinephanvan.sumupstore.com/
     icon: "fas fa-shopping-bag"
+    target: _blank
   - title: "Publications"
     url: /publications
     icon: "fas fa-book"

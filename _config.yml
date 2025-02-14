@@ -51,10 +51,10 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/cathphanvan/"
     - label: "Threads"
-      icon: "fas fa-fw fa-threads"
+      icon: "fab fa-fw fa-threads"
       url: "https://www.threads.net/@cathphanvan"
     - label: "BlueSky"
-      icon: "fas fa-fw fa-bluesky"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/cathphanvan.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-f"
@@ -118,10 +118,10 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/cathphanvan/"
     - label: "Threads"
-      icon: "fas fa-fw fa-threads"
+      icon: "fab fa-fw fa-threads"
       url: "https://www.threads.net/@cathphanvan"
     - label: "BlueSky"
-      icon: "fas fa-fw fa-bluesky"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/cathphanvan.bsky.social"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-f"
@@ -129,7 +129,7 @@ footer:
 
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin: "default"
 plugins:
   - jekyll-feed

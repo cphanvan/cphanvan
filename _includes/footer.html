@@ -7,7 +7,7 @@
     {% if site.footer.links %}
       {% for link in site.footer.links %}
         {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="me nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
+          <li><a href="{{ link.url }}" rel="me nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fab fa-fw fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
         {% endif %}
       {% endfor %}
     {% endif %}
@@ -18,4 +18,4 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow" target="_blank">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow" target="_blank">Minimal Mistakes</a>. <a href="{{ site.mentions-legales | relative_url }}">Mentions l&eacute;gales</a>. Pour consulter notre <a href="{{ site.consents | relative_url }}">politique de confidentialit&eacute;&nbsp;: cliquez ici.</a></div>
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow" target="_blank">Jekyll</a> &amp; <a href="https://mademistakes.com/work/jekyll-themes/minimal-mistakes/" rel="nofollow" target="_blank">Minimal Mistakes</a>. <a href="{{ site.mentions-legales | relative_url }}">Mentions l&eacute;gales</a>. Pour consulter notre <a href="{{ site.consents | relative_url }}">politique de confidentialit&eacute;&nbsp;: cliquez ici.</a></div>

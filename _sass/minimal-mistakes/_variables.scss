@@ -8,7 +8,10 @@
    Typography
    ========================================================================== */
 
-$doc-font-size: 16 !default;
+$doc-font-size: 16px !default;
+$doc-font-size-medium: $doc-font-size * 1.125 !default;
+$doc-font-size-large: $doc-font-size * 1.25 !default;
+$doc-font-size-x-large: $doc-font-size * 1.375 !default;
 
 /* paragraph indention */
 $paragraph-indent: false !default; // true, false (default)
@@ -105,7 +108,7 @@ $flickr-color: #ff0084 !default;
 $foursquare-color: #0072b1 !default;
 $github-color: #171516 !default;
 $gitlab-color: #e24329 !default;
-$instagram-color: #517fa4 !default;
+$instagram-color: #e13e6c !default;
 $keybase-color: #ef7639 !default;
 $lastfm-color: #d51007 !default;
 $linkedin-color: #007bb6 !default;
