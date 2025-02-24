@@ -35,27 +35,31 @@ publications:
         url: /publications/cercueil-et-prejuges
   - title: "Nouvelles gratuites"
     children:
+      - title: "La Nuit des betteraves grimaçantes"
+        url: /publications/la-nuit-des-betteraves-grimacantes
       - title: "Ceux qui rapportent… et ceux qui coûtent"
         url: /publications/ceux-qui-rapportent-et-ceux-qui-coutent
-      - title: "L'arbre de lune"
+      - title: "L'Arbre de lune"
         url: /publications/l-arbre-de-lune
-      - title: "Sinistre volonté"
+      - title: "Sinistre Volonté"
         url: /publications/sinistre-volonte
-      - title: "L'ours en flanelle"
+      - title: "L'Ours en flanelle"
         url: /publications/l-ours-en-flanelle
       - title: "Évasion nocturne"
         url: /publications/evasion-nocturne
-      - title: "Les pipistrelles de Gabriel"
+      - title: "Les Pipistrelles de Gabriel"
         url: /publications/les-pipistrelles-de-gabriel
       - title: "Plein Sud"
         url: /publications/plein-sud
   - title: "Nouvelles"
     children:
+      - title: "Mésaventures vitaminées"
+        url: /publications/mesaventures-vitaminees
       - title: "Dragonirie"
         url: /publications/dragonirie
       - title: "Échos graphiques"
         url: /publications/echos-graphiques
-      - title: "La vallée cachée"
+      - title: "La Vallée cachée"
         url: /publications/la-vallee-cachee
       - title: "Élégie à une selkie"
         url: /publications/elegie-a-une-selkie
@@ -63,5 +67,5 @@ publications:
         url: /publications/pot-a-ceder
       - title: "Enfants des neiges"
         url: /publications/enfants-des-neiges
-      - title: "Le cadeau des fées"
+      - title: "Le Cadeau des fées"
         url: /publications/le-cadeau-des-fees

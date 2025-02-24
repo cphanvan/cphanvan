@@ -10,7 +10,7 @@ excerpt: |
 header:
   teaser: /assets/images/publications/coming-soon-teaser.webp
 sidebar:
-  - title: "Dragonirie"
+  - title: "Mésaventures vitaminées"
     image: /assets/images/publications/coming-soon-cover.webp
     image_alt: "couverture vierge (en attente de la couverture officielle)"
     text: |
@@ -23,3 +23,30 @@ Une nouvelle de fantasy qui vous entraînera dans un monde où sévit une étran
 
 À paraître en avril 2025 dans l'anthologie ***Festins imaginaires***, publiée par l'association <a href="https://www.instagram.com/imaginarium.asso/" target="_blank">l'Imagin'arium</a>.
 
+## Un extrait&nbsp;?
+
+Retrouvez <a href="https://www.instagram.com/reel/DGTBC6lTyES/" target="_blank">sur instagram</a> le début de la nouvelle lu par Stéphanie de <a href="https://www.instagram.com/cobalt_chronicles/" target="_blank">@cobalt_chronicles</a>.
+
+## Le recueil
+
+Au sommaire&nbsp;:
+
+- ***Le Bal de l'automne***, de Bastienne
+- ***À toi qui m'as appris la faim***, de Xandra Beyerski
+- ***Le Meilleur Burger de l'univers***, de Donovan Lain
+- ***Dîner aux chandelles***, de Noe Natt
+- ***Mésaventures vitaminées***, de Catherine phan van
+- ***Mauvais Crocs***, de Yohan Poilbarbe
+- ***Leurres d'ailleurs***, de Charles Daniel Sarre
+- ***Lunx Park***, de Marie Andree
+- ***Un festin pour H. Schmidt***, de Alexie Lenn
+- ***Gardien de phare***, de M&ograve;r Khan
+- ***Un gueuleton goulu***, de Agnès Aleya
+- ***Le Banquet du diable***, de Bezuth
+- ***La Sixième Saveur***, de Nicolas Avon
+- ***Opulence***, de Ophé Eclipsea
+- ***Un festin presque parfait -- saison 9***, de Carole Nguyen vo
+- ***Éternel banquet***, de Sascha Lahaie
+- ***Les Caprices du palais***, de Aude Lapadu-Hargues
+- ***Gastronomie royale***, de Thierry Fauquembergue
+- ***La Stratégie des fourneaux***, de Julien Molla

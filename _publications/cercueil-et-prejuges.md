@@ -16,12 +16,12 @@ sidebar:
     text: |
       Roman\
       À paraître aux éditions Alter Real\
-      Été 2025
+      Juin 2025
 ---
 
 ## Le roman
 
-Il s'agit d'une **comédie romantique contemporaine**, dont la parution est prévue aux éditions Alter Real à l'été&nbsp;2025.
+Il s'agit d'une **comédie romantique contemporaine**, dont la parution est prévue aux éditions Alter Real en juin&nbsp;2025.
 
 Ce roman a été <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**finaliste du concours Fyctia "Comme dans un film"**</a> en 2023.
 

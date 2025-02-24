@@ -38,7 +38,7 @@ C'est ainsi que, à partir d'anecdotes scientifiques, je me prends à inventer d
 possibilités parfaitement imaginaires. Et c'est justement le cas pour mes 3 nouvelles publiées à l'automne 2023&nbsp;!
 
 
-## [*La vallée cachée*](/publications/la-vallee-cachee/)&nbsp;: le CERN et les craintes qu'il suscite
+## [*La Vallée cachée*](/publications/la-vallee-cachee/)&nbsp;: le CERN et les craintes qu'il suscite
 
 Au cours de mes études, pendant lesquelles mes professeurs ont tenté sans succès de
 m'inculquer quelques rudiments de physique des particules, j'ai eu l'occasion de visiter l'accélérateur de particules du CERN.
@@ -48,7 +48,7 @@ Un anneau gigantesque, le long duquel on retrouve des équipements aux dimension
 J'ai gardé de cette visite le souvenir de ce contraste paradoxal entre la démesure des installations que j'avais vues
 et l'insignifiance de ce que les physiciens qui y travaillaient cherchaient à mesurer.
 
-Dans [***La vallée cachée***](/publications/la-vallee-cachee/), parue dans l'anthologie *Interstices* aux éditions HPF,
+Dans [***La Vallée cachée***](/publications/la-vallee-cachee/), parue dans l'anthologie *Interstices* aux éditions HPF,
 j'ai eu envie de m'inspirer de ces souvenirs, et de les entremêler avec l'une des nombreuses peurs
 et autres fantasmes que suscitent dans l'opinion populaire les expériences menées au CERN.
 
@@ -58,9 +58,9 @@ J'espère que les personnes qui la liront en tireront autant de plaisir que j'en
 Et je vous rassure&nbsp;: nul besoin d'être scientifique soi-même pour pouvoir s'y plonger&nbsp;! 😉
 
 
-## [*Sinistre volonté*](/publications/sinistre-volonte/)&nbsp;: voyage aux sources de la neurochirurgie
+## [*Sinistre Volonté*](/publications/sinistre-volonte/)&nbsp;: voyage aux sources de la neurochirurgie
 
-Dans [***Sinistre volonté***](/publications/sinistre-volonte/), publiée dans le n°13 de L'Indé&nbsp;Panda,
+Dans [***Sinistre Volonté***](/publications/sinistre-volonte/), publiée dans le n°13 de L'Indé&nbsp;Panda,
 j'ai imaginé le personnage du Dr&nbsp;Owen en m'inspirant librement de l'un des pionniers de la
 neurochirurgie&nbsp;: William P. van Wagenen (1897-1961),
 qui fut le premier à étudier sur des patients atteints d'épilepsie, à partir de 1939, la procédure de la
@@ -81,7 +81,7 @@ conflictuel intermanuel&nbsp;&raquo;.
 Et cela pose la question hautement intéressante, dont la réponse n'est pas si évidente qu'il y paraît, de **l'unicité du soi**.
 
 
-## [*L'arbre de lune*](/publications/l-arbre-de-lune/)&nbsp;: l'héritage de la mission Apollo 14
+## [*L'Arbre de lune*](/publications/l-arbre-de-lune/)&nbsp;: l'héritage de la mission Apollo 14
 
 Savez-vous ce que sont les &laquo;&nbsp;moon trees&nbsp;&raquo;&nbsp;?
 
@@ -98,7 +98,7 @@ d'un sycomore, en hommage à ces fameux &laquo;&nbsp;moon trees&nbsp;&raquo;.
 Mes recherches ne m'ont pas permis de déterminer avec certitude si ce sycomore est un vrai &laquo;&nbsp;moon tree&nbsp;&raquo;, s'il
 s'agit plutôt d'un &laquo;&nbsp;moon tree&nbsp;&raquo; de deuxième génération (et donc un descendant direct des arbres dont les graines
 ont voyagé dans l'espace), ou même s'il s'agit uniquement d'un arbre symbolique&hellip; En revanche, une chose est certaine&nbsp;: il joue
-un rôle crucial dans [***L'arbre de lune***](/publications/l-arbre-de-lune/), nouvelle finaliste du concours organisé par le
+un rôle crucial dans [***L'Arbre de lune***](/publications/l-arbre-de-lune/), nouvelle finaliste du concours organisé par le
 Festival du Fantastique de Béziers. 😉
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "L'arbre de lune"
+title: "L'Arbre de lune"
 description: Nouvelle fantastique, finaliste (3e) du concours de nouvelles de l'édition 2023 du Festival du Fantastique de Béziers sur le thème «&nbsp;Légendes&nbsp;».
 layout: single
 classes: wide
@@ -10,7 +10,7 @@ excerpt: |
 header:
   teaser: /assets/images/publications/l-arbre-de-lune-teaser.webp
 sidebar:
-  - title: "L'arbre de lune"
+  - title: "L'Arbre de lune"
     image: /assets/images/publications/l-arbre-de-lune-cover.jpg
     image_alt: "couverture"
     text: |
@@ -34,8 +34,8 @@ Comme ma nouvelle faisait partie des textes finalistes, j'ai eu la chance de la 
 
 Avec son accord, je vous en pose ici un petit aperçu (cliquez sur l'image pour la voir en grand)&nbsp;:
 
-[![styled-image](/assets/images/publications/l-arbre-de-lune-quentin-aube-preview.jpg "Illustration de L'arbre de lune par Quentin Aubé"){: .align-center style="max-width: 100%;}](/assets/images/publications/l-arbre-de-lune-quentin-aube.jpg)
-*Illustration de L'arbre de lune par <a href="https://quentinaube.com/" target="_blank">Quentin Aubé</a>*
+[![styled-image](/assets/images/publications/l-arbre-de-lune-quentin-aube-preview.jpg "Illustration de L'Arbre de lune par Quentin Aubé"){: .align-center style="max-width: 100%;}](/assets/images/publications/l-arbre-de-lune-quentin-aube.jpg)
+*Illustration de L'Arbre de lune par <a href="https://quentinaube.com/" target="_blank">Quentin Aubé</a>*
 {: .text-center}
 
 Si vous voulez découvrir les différentes étapes de réalisation de cette illustration, du croquis à l'encrage final, vous pouvez aller <a href="https://www.artstation.com/artwork/OGzA6k" target="_blank">faire un petit tour sur son artstation</a>.

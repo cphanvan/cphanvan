@@ -17,7 +17,7 @@ header:
       url: "/publications/cercueil-et-prejuges"
     - label: "Mes autres publications"
       url: "/publications"
-summary: "Ma comédie romantique &laquo;&nbsp;<em><strong>Cercueil et préjugés</strong></em>&nbsp;&raquo; a trouvé sa maison d'édition&nbsp;: rendez-vous à l'été&nbsp;2025&nbsp;!"
+summary: "Ma comédie romantique &laquo;&nbsp;<em><strong>Cercueil et préjugés</strong></em>&nbsp;&raquo; a trouvé sa maison d'édition&nbsp;: rendez-vous en juin&nbsp;2025&nbsp;!"
 a_propos:
   - summary: |
       **Qui suis-je&nbsp;?**

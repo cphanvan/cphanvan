@@ -95,7 +95,7 @@ En voici le pitch&nbsp;:
 > À chaque solstice d'été, sur l'île où est née Mika, a lieu une cérémonie rituelle&nbsp;: tous les garçons qui ont atteint l'âge de neuf ans sont sacrifiés à Skaphos, une divinité maléfique. C'est le sort qu'a connu le frère de Mika, et dont leur mère ne s'est pas remise. <br>
 Mais la fillette refuse de croire que son aîné est mort. Elle est prête à tout tenter pour le ramener. Alors, à l'aube du solstice, l'année de ses neuf ans, elle se glisse parmi les garçons&hellip;
 
-Sauf que j'ai essayé de l'aborder en architecte, c'est-à-dire en prévoyant un plan détaillé de l'intrigue avant de me lancer dans l'écriture, mais je n'étais jamais satisfaite de mes tentatives. Raison pour laquelle je l'ai mis de côté, et me suis lancée dans l'écriture d'un autre roman (*Cercueil et Préjugés*, pour ne pas le nommer), sans rien planifier à l'avance, pour tester si cette méthode me convenait mieux (réponse&nbsp;: **oui**), et&hellip; je ne l'ai pas (encore) repris depuis.
+Sauf que j'ai essayé de l'aborder en architecte, c'est-à-dire en prévoyant un plan détaillé de l'intrigue avant de me lancer dans l'écriture, mais je n'étais jamais satisfaite de mes tentatives. Raison pour laquelle je l'ai mis de côté, et me suis lancée dans l'écriture d'un autre roman (*Cercueil et préjugés*, pour ne pas le nommer), sans rien planifier à l'avance, pour tester si cette méthode me convenait mieux (réponse&nbsp;: **oui**), et&hellip; je ne l'ai pas (encore) repris depuis.
 
 
 ### Fragments de solitudes

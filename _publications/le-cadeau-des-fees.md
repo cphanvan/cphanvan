@@ -1,5 +1,5 @@
 ---
-title: "Le cadeau des fées"
+title: "Le Cadeau des fées"
 description: Une nouvelle fantastique à lire au son des cornemuses. Parue en juin 2021 dans le recueil Solstice d'été, publié aux Éditions Inusitées
 layout: single
 classes: wide
@@ -10,7 +10,7 @@ excerpt: |
 header:
   teaser: /assets/images/publications/le-cadeau-des-fees-teaser.webp
 sidebar:
-  - title: "Le cadeau des fées"
+  - title: "Le Cadeau des fées"
     image: /assets/images/publications/le-cadeau-des-fees-cover.webp
     image_alt: "couverture"
     text: |

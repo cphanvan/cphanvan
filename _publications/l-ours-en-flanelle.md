@@ -1,5 +1,5 @@
 ---
-title: "L'ours en flanelle"
+title: "L'Ours en flanelle"
 description: Une nouvelle feel-good portée par une héroïne au caractère bien trempé. Parue en février 2023 dans le numéro 4 du m(AE)g'.
 layout: single
 classes: wide
@@ -10,7 +10,7 @@ excerpt: |
 header:
   teaser: /assets/images/publications/l-ours-en-flanelle-teaser.webp
 sidebar:
-  - title: "L'ours en flanelle"
+  - title: "L'Ours en flanelle"
     image: /assets/images/publications/l-ours-en-flanelle-cover.jpg
     image_alt: "couverture"
     text: |
@@ -23,10 +23,10 @@ Comme tous les ans, Lou vient passer la semaine de Noël dans un chalet du Jura,
 
 Le m(AE)g' numéro&nbsp;4 est <a href="https://annuaire-auto-edites.johnlucas.fr/magazine/numero-4/" target="_blank">disponible gratuitement</a>. Vous pouvez opter pour une lecture directement en ligne, ou télécharger le fichier au format de votre choix.
 
-Dans le cadre d'un concours d'extraits interne à un forum d'écriture, dont l'objet était de faire lire l'incipit (le début) d'un texte (nouvelle, roman ou autre), sans aucun élément de contexte, j'ai proposé la première scène de ***L'ours en flanelle***. Vous trouverez ici quelques-uns des commentaires auxquels elle a donné lieu.<br/>
+Dans le cadre d'un concours d'extraits interne à un forum d'écriture, dont l'objet était de faire lire l'incipit (le début) d'un texte (nouvelle, roman ou autre), sans aucun élément de contexte, j'ai proposé la première scène de ***L'Ours en flanelle***. Vous trouverez ici quelques-uns des commentaires auxquels elle a donné lieu.<br/>
 *Si avec ça, vous n'avez pas envie de la découvrir, je ne sais plus quoi faire&nbsp;!* 😅
 
-*«&nbsp;L'ours en flanelle&nbsp;! J'adore le titre, l'image que je m'en étais faite, et sa soudaine apparition dans cette première page, dynamique à souhait. Voilà une parfaite entrée en matière. J'adore les comédies romantiques de Noël et cette première page laisse présager des rencontres survitaminées.&nbsp;»*
+*«&nbsp;L'Ours en flanelle&nbsp;! J'adore le titre, l'image que je m'en étais faite, et sa soudaine apparition dans cette première page, dynamique à souhait. Voilà une parfaite entrée en matière. J'adore les comédies romantiques de Noël et cette première page laisse présager des rencontres survitaminées.&nbsp;»*
 {: .notice--info}
 
 *«&nbsp;Haha j'adore ce genre d'entrée fracassante qui termine en eau de boudin. Tu gères bien l'humour sarcastique, je trouve souvent que ça sonne très forcé mais là, nickel&nbsp;!&nbsp;»*

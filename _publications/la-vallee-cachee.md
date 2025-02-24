@@ -1,5 +1,5 @@
 ---
-title: "La vallée cachée"
+title: "La Vallée cachée"
 description: Une nouvelle fantastique. Publiée en septembre 2023 dans l'anthologie Interstices, aux Éditions HPF.
 layout: single
 classes: wide
@@ -10,7 +10,7 @@ excerpt: |
 header:
   teaser: /assets/images/publications/la-vallee-cachee-teaser.webp
 sidebar:
-  - title: "La vallée cachée"
+  - title: "La Vallée cachée"
     image: /assets/images/publications/la-vallee-cachee-cover.jpg
     image_alt: "couverture"
     text: |
@@ -60,7 +60,7 @@ Au sommaire&nbsp;:
 - *Les fées de Tchernobyl*, de R. Senelier
 - *Éclats de rêve*, de Camille Daucus
 - *Du coin de l'&oelig;il*, de Noé Natt
-- *La vallée cachée*, de Catherine Phan van
+- *La Vallée cachée*, de Catherine Phan van
 - *Oneiroi*, de Marion Zell
 - *Genuflex*, de Nicolas Duval
 - *Trouve le bon chemin*, de Manon D. Rivero Bergasa

@@ -1,5 +1,5 @@
 ---
-title: "Sinistre volonté"
+title: "Sinistre Volonté"
 description: Une nouvelle fantastique. Publiée en octobre 2023 dans le n°13 de L'Indé Panda.
 layout: single
 classes: wide
@@ -10,7 +10,7 @@ excerpt: |
 header:
   teaser: /assets/images/publications/sinistre-volonte-teaser.webp
 sidebar:
-  - title: "Sinistre volonté"
+  - title: "Sinistre Volonté"
     image: /assets/images/publications/sinistre-volonte-cover.jpg
     image_alt: "couverture"
     text: |
@@ -29,7 +29,7 @@ Si vous préférez un **exemplaire dédicacé**, vous pouvez <a href="https://ca
 
 Envie d'en apprendre plus sur le personnage qui m'a inspiré le Dr&nbsp;Owen&nbsp;? Je vous raconte ça [sur mon blog](/ecriture/2023/09/30/la-science-dans-mes-nouvelles.html#sinistre-volonté-voyage-aux-sources-de-la-neurochirurgie).
 
-Pour découvrir les coulisses de l'écriture de *Sinistre volonté*, n'hésitez pas à aller lire mon interview <a href="https://lindepanda.wordpress.com/2024/01/12/interview-catherine-phan-van/" target="_blank">sur le site de L'Indé Panda</a>&nbsp;!
+Pour découvrir les coulisses de l'écriture de *Sinistre Volonté*, n'hésitez pas à aller lire mon interview <a href="https://lindepanda.wordpress.com/2024/01/12/interview-catherine-phan-van/" target="_blank">sur le site de L'Indé Panda</a>&nbsp;!
 {: .notice--info}
 
 ## Un extrait&nbsp;?
@@ -45,7 +45,7 @@ Au sommaire&nbsp;:
 - *Kajana, l'aventurière aux Mille Sortilèges*, d'Elune Dreel
 - *Et la lumière fut*, de Benoît Toccacieli
 - *Ticket gagnant*, de Cyrille Thiers
-- *Sinistre volonté*, de Catherine Phan van
+- *Sinistre Volonté*, de Catherine Phan van
 - *Ramona*, de Céline Saint-Charle
 - *Draconef*, de Nolwenn Prod'homme
 - *Une midinette en 1900*, de Guilhem Candie

@@ -46,7 +46,7 @@ toc_label: Liens utiles
 
 <a href="https://catherinephanvan.sumupstore.com/article/enfants-des-neiges" target="_blank">*Enfants des neiges* - version papier</a>{: .btn .btn--info .btn--large .btn--linktree}
 
-<a href="https://festival-fantastique.fr/wp-content/uploads/FFB-2023-pdf.pdf" target="_blank">*L'arbre de lune*&nbsp;: nouvelle fantastique, 3<sup>e</sup> du concours du FFB (ebook gratuit)</a>{: .btn .btn--info .btn--large .btn--linktree}
+<a href="https://festival-fantastique.fr/wp-content/uploads/FFB-2023-pdf.pdf" target="_blank">*L'Arbre de lune*&nbsp;: nouvelle fantastique, 3<sup>e</sup> du concours du FFB (ebook gratuit)</a>{: .btn .btn--info .btn--large .btn--linktree}
 
 ### Toutes mes nouvelles
 

@@ -83,7 +83,7 @@ Je ne travaille pas à partir de rien quand même, sinon je pense que je me perd
 
 Et pour l'instant, ça fonctionne. Et je m'amuse énormément&nbsp;! Beaucoup plus qu'en écrivant à partir d'un plan. Alors je croise les doigts pour que cette "méthode" me permette d'arriver jusqu'au mot fin&nbsp;! 🤞
 
-Si vous voulez suivre en même temps que moi les aventures de mes personnages, ça se passe donc sur Fyctia, dans ma comédie romantique intitulée <a href="https://fyctia.com/stories/cercueil-et-prejuges" target="_blank">Cercueil et Préjugés</a>.
+Si vous voulez suivre en même temps que moi les aventures de mes personnages, ça se passe donc sur Fyctia, dans ma comédie romantique intitulée <a href="https://fyctia.com/stories/cercueil-et-prejuges" target="_blank">Cercueil et préjugés</a>.
 {: .notice--info}
 
 

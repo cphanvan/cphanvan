@@ -64,8 +64,8 @@ Cette réserve étant posée, c'est parti&nbsp;!
 | La Vallée cachée (anthologie *Interstices*) | Exemplaires hors droits | 18 | | | | | 0,00€ | **0,00€** |
 | La Vallée cachée (anthologie *Interstices*) | Droits d'auteur S2-2023 | 191 | | | | | 36,91€ | **36,91€** |
 | La Vallée cachée (anthologie *Interstices*) | Droits d'auteur S1-2024 | 21 | | | | | 4,15€ | **4,15€** |
-| Sinistre volonté (*L'Indé Panda n°13*) | Vente directe | 1 | 10,00€ | 3,85€ | | 6,15€ | | **6,15€** |
-| Sinistre volonté (*L'Indé Panda n°13*) | Cession sans droits | | | | | | 0,00€ | **0,00€** |
+| Sinistre Volonté (*L'Indé Panda n°13*) | Vente directe | 1 | 10,00€ | 3,85€ | | 6,15€ | | **6,15€** |
+| Sinistre Volonté (*L'Indé Panda n°13*) | Cession sans droits | | | | | | 0,00€ | **0,00€** |
 | L'Arbre de lune (anthologie *Légendes*) | Cession sans droits | | | | | | 0,00€ | **0,00€** |
 | Échos graphiques (anthologie *Creepy Christmas*) | Exemplaires hors droits | | | | | | 0,00€ | **0,00€** |
 | Échos graphiques (anthologie *Creepy Christmas*) | Droits d'auteur | | | | | | | **0,00€** |
