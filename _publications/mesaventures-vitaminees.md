@@ -21,7 +21,7 @@ sidebar:
 
 Une nouvelle de fantasy qui vous entraînera dans un monde où sévit une étrange maladie…
 
-À paraître en avril 2025 dans l'anthologie ***Festins imaginaires***, publiée par l'association <a href="https://www.instagram.com/imaginarium.asso/" target="_blank">l'Imagin'arium</a>.
+À paraître le 5 avril 2025 dans l'anthologie ***Festins imaginaires***, publiée par l'association <a href="https://www.instagram.com/imaginarium.asso/" target="_blank">l'Imagin'arium</a>.
 
 ## Un extrait&nbsp;?
 

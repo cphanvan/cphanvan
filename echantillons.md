@@ -24,7 +24,7 @@ books:
         
         Jusqu'à ce que sa mère apprenne qu'elle a sympathisé avec lui… Et que sa vie bascule une seconde fois.
         
-        *(roman en cours d'écriture -- disponible à partir du 3 février 2025 en fin d'après-midi)*
+        *(roman en cours d'écriture -- premier jet amené à beaucoup évoluer avant soumission)*
   - maintitle: "Nouvelles"
     title: "Enfin arrivées"
     teaser: "Nouvelle jeunesse"

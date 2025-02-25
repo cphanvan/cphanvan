@@ -35,7 +35,7 @@ Ce roman a été **finaliste** du <a href="https://www.instagram.com/p/C8O5XMRqK
 
 Actuellement, je suis en cours d'écriture de mon nouveau roman, [*45,93&nbsp;grammes*](/publications/projets-en-cours/#4593grammes), une uchronie qui devrait se situer quelque part entre thriller psychologique et thriller politique.
 
-Vous pouvez <a href="https://www.fyctia.com/stories/45-93-grammes-1" target="_blank">lire sur Fyctia le début de ce texte, au fil de l'écriture.</a>
+Vous pouvez <a href="https://www.fyctia.com/stories/45-93-grammes-1" target="_blank">lire sur Fyctia le début de ce texte, au fil de l'écriture</a> (un premier jet, qui est donc amené à beaucoup évoluer avant de pouvoir être soumis).
 
 ### En attente
 

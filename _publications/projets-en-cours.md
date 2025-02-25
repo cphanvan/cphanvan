@@ -47,7 +47,7 @@ Courant 2023, j'avais écrit environ 15&nbsp;000&nbsp;mots sur le premier jet de
 
 Mi-octobre 2024, j'ai donc repris de zéro l'écriture de ce roman, qui va m'occuper ces prochains mois.
 
-À partir du lundi 3 février 2025 en fin d'après-midi, vous pouvez <a href="https://www.fyctia.com/stories/45-93-grammes-1" target="_blank">lire sur Fyctia le début de ce texte.</a>
+Depuis le lundi 3 février 2025, vous pouvez <a href="https://www.fyctia.com/stories/45-93-grammes-1" target="_blank">lire sur Fyctia le début de ce texte</a> (un premier jet, qui est donc amené à beaucoup évoluer avant de pouvoir être soumis).
 
 
 ## À réécrire&nbsp;:
