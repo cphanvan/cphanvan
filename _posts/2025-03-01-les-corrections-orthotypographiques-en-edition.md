@@ -4,8 +4,8 @@ seo_title: "Les corrections orthotypographiques en édition"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
-date: 2025-03-02 00:05:00 +0100
-last_modified_at: 2025-03-02 00:05:00 +0100
+date: 2025-03-01 23:05:00 +0100
+last_modified_at: 2025-03-01 23:05:00 +0100
 categories: ecriture
 tags: viedautrice écriture édition
 sidebar_newsletter: true
@@ -15,7 +15,7 @@ page_js:
   - /assets/js/spoils.min.js
   - /assets/js/contact.min.js
 header:
-  teaser: /assets/images/posts/2025-03-02_teaser-les-corrections-orthotypographiques-en-edition.webp
+  teaser: /assets/images/posts/2025-03-01_teaser-les-corrections-orthotypographiques-en-edition.webp
 ---
 Aujourd'hui, je scrognogne&nbsp;! (Et j'invente des verbes ridicules si je veux.)
 <!--excerptEnd-->
@@ -83,7 +83,7 @@ Et puis il y a les maisons d'édition qui font les choses avec sérieux, mais qu
 
 ### Quelques exemples
 
-Pour quelques exemples concrets de ce à quoi j'ai pu être confrontée jusqu'ici lors de mes diverses expériences éditoriales, je vous renvoie à [ma newsletter de mars 2025](/newsletter/2025-03-02/#les-corrections-orthotypographiques).
+Pour quelques exemples concrets de ce à quoi j'ai pu être confrontée jusqu'ici lors de mes diverses expériences éditoriales, je vous renvoie à [ma newsletter de mars 2025](/newsletter/2025-03-01/#les-corrections-orthotypographiques).
 
 
 ## Pourquoi je scrognogne&nbsp;?
