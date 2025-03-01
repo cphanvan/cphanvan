@@ -4,8 +4,8 @@ seo_title: "Les corrections orthotypographiques en édition"
 layout: blogpost
 excerpt_separator: <!--excerptEnd-->
 classes: wide
-date: 2025-03-02 00:00:00 +0100
-last_modified_at: 2025-03-02 00:00:00 +0100
+date: 2025-03-02 00:05:00 +0100
+last_modified_at: 2025-03-02 00:05:00 +0100
 categories: ecriture
 tags: viedautrice écriture édition
 sidebar_newsletter: true
