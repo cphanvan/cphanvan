@@ -53,7 +53,7 @@ Et puis c'est très pratique pour rédiger avec peu de fautes&hellip; mais c'est
 
 Quel rapport avec l'édition, me demanderez-vous.
 
-Eh bien je déteste tellement les fautes dans les livres en général (et j'espère que vous avez compris que ce n'est pas de la pédanterie de ma part, je suis d'ailleurs convaincue par les arguments des <a href="https://www.tract-linguistes.org/" target="_blank">linguistes atterré·e·s</a> et navrée par la discrimination, notamment dans le milieu professionnel, qui s'opère souvent en fonction de la maîtrise ou non de l'orthographe) que j'ai une hantise&nbsp;: celle qu'il y ait des fautes dans *mes* livres. Parce que je n'ai pas envie que l'expérience de lecture de certaines personnes sur mes textes soit dégradée à cause de ce genre de problèmes.
+Eh bien je déteste tellement les fautes dans les livres en général (et j'espère que vous avez compris que ce n'est pas de la pédanterie de ma part, je suis d'ailleurs convaincue par les arguments des <a href="https://www.tract-linguistes.org/reforme/" target="_blank">linguistes atterré·e·s</a> et navrée par la discrimination, notamment dans le milieu professionnel, qui s'opère souvent en fonction de la maîtrise ou non de l'orthographe) que j'ai une hantise&nbsp;: celle qu'il y ait des fautes dans *mes* livres. Parce que je n'ai pas envie que l'expérience de lecture de certaines personnes sur mes textes soit dégradée à cause de ce genre de problèmes.
 
 ### Le processus éditorial
 
