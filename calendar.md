@@ -17,7 +17,8 @@ page_js:
 - **Samedi 5 avril 2025** au <a href="https://www.instagram.com/p/DBwmr_8uqHz/" target="_blank">salon Imagina'livres</a>, salle du Confluent, à Portet-sur-Garonne (31).<br>
 ⚠️ Attention, le salon se déroule sur le week-end entier, samedi 5 et dimanche 6 avril, mais je ne serai présente que la journée du **samedi**.<br>
 Vous me trouverez sur le stand de l'association organisatrice du salon, où je pourrai vous dédicacer l'une (ou plusieurs 😉) des trois anthologies [*Sorcellerie végétale*](/publications/pot-a-ceder), [*Explorations insolites*](/publications/dragonirie) et [*Festins imaginaires*](/publications/mesaventures-vitaminees).
-<!-- Dimanche 20 avril 2025 sur le stand des <a href="https://herosdepapierfroisse.fr/editionshpf/" target="_blank">éditions HPF</a> au festival <a href="https://www.instagram.com/p/DFdYGWeNMNS/" target="_blank">L'Ouest Hurlant</a>, La Paillette, à Rennes (35).-->
+- **Dimanche 20 avril 2025** au festival <a href="https://www.instagram.com/ouesthurlant/" target="_blank">L'Ouest Hurlant</a>, La Paillette, à Rennes (35).<br>
+⚠️ Attention, le salon se déroule sur le week-end entier, samedi 19 et dimanche 20 avril, mais je ne serai présente que la journée du **dimanche**, et en dédicace sur le stand des <a href="https://herosdepapierfroisse.fr/editionshpf/" target="_blank">éditions HPF</a> uniquement aux horaires indiqués (entre 11h30 à 13h, en attente de confirmation), pour l'anthologie [*Interstices*](/publications/la-vallee-cachee).<br>
 
 
 ## Mes activités d'écriture en cours
