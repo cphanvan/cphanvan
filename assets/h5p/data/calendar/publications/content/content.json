@@ -73,17 +73,26 @@
           },
           "headline": "Salon Imagina'livres",
           "startDate": "2025,04,05",
-          "endDate": "2025,04,06",
+          "endDate": "2025,04,05",
           "text": "<p>Salle du confluent, Portet-sur-Garonne (31)</p><p>Entrée gratuite</p><p>Le salon a lieu les 05 et 06 avril, mais je ne serai présente que la journée du samedi 5.</p><p><a href=\"https://www.instagram.com/p/DBwmr_8uqHz/\" target=\"_blank\">Voir l'événement</a></p>"
         },
         {
           "asset": {
-            "media": "https://catherinephanvan.fr/assets/images/events/coming-soon-cover.jpg"
+            "media": "https://catherinephanvan.fr/assets/images/events/mesaventures-vitaminees-cover.jpg"
           },
           "headline": "Mésaventures vitaminées",
           "startDate": "2025,04,05",
           "endDate": "2025,04,05",
-          "text": "<p>Une nouvelle à paraître dans une belle anthologie reliée et jaspée, <em>Festins imaginaires</em>.</p><p><a href=\"/publications/mesaventures-vitaminees/\">Découvrir la nouvelle</a></p>"
+          "text": "<p>Une nouvelle de fantasy à paraître dans une belle anthologie reliée et jaspée, <em>Festins imaginaires</em>.</p><p><a href=\"/publications/mesaventures-vitaminees/\">Découvrir la nouvelle</a></p>"
+        },
+        {
+          "asset": {
+            "media": "https://catherinephanvan.fr/assets/images/events/affiche-ouest-hurlant-2025.jpg"
+          },
+          "headline": "L'Ouest Hurlant",
+          "startDate": "2025,04,20",
+          "endDate": "2025,04,20",
+          "text": "<p>La Paillette, Rennes (35)</p><p>Entrée gratuite</p><p>Le festival a lieu les 19 et 20 avril, mais je ne serai présente que la journée du <strong>dimanche 20</strong>. Vous me trouverez en dédicace sur le stand des <strong>éditions HPF</strong> de 11h30 à 13h.</p><p><a href=\"https://www.instagram.com/ouesthurlant/\" target=\"_blank\">Voir l'événement</a></p>"
         },
         {
           "asset": {

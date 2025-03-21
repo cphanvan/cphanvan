@@ -4,7 +4,7 @@ description: Roman à paraître à l'été 2025 aux éditions Alter Real
 layout: single
 classes: wide
 share: true
-publication_date: 2024-07-19T20:00:00Z
+publication_date: 2025-03-21T20:00:00Z
 excerpt: |
   Une comédie romantique à l'héroïne déjantée (à paraître)<!--excerptEnd-->
 header:

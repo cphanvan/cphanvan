@@ -8,14 +8,14 @@ publication_date: 2025-01-18T14:00:00Z
 excerpt: |
   Une nouvelle de fantasy, dans un monde où sévit une étrange maladie…<!--excerptEnd-->
 header:
-  teaser: /assets/images/publications/coming-soon-teaser.webp
+  teaser: /assets/images/publications/mesaventures-vitaminees-teaser.webp
 sidebar:
   - title: "Mésaventures vitaminées"
-    image: /assets/images/publications/coming-soon-cover.webp
-    image_alt: "couverture vierge (en attente de la couverture officielle)"
+    image: /assets/images/publications/mesaventures-vitaminees-cover.jpg
+    image_alt: "couverture de l'anthologie Festins imaginaires"
     text: |
       Nouvelle de fantasy\
-      À paraître dans l'anthologie *Festins imaginares*, publiée par  L'Imagin'arium\
+      À paraître dans l'anthologie *Festins imaginaires*, publiée par  L'Imagin'arium\
       Avril 2025
 ---
 
@@ -34,19 +34,19 @@ Au sommaire&nbsp;:
 - ***Le Bal de l'automne***, de Bastienne
 - ***À toi qui m'as appris la faim***, de Xandra Beyerski
 - ***Le Meilleur Burger de l'univers***, de Donovan Lain
-- ***Dîner aux chandelles***, de Noe Natt
+- ***Dîner aux chandelles***, de Noë Natt
 - ***Mésaventures vitaminées***, de Catherine phan van
 - ***Mauvais Crocs***, de Yohan Poilbarbe
 - ***Leurres d'ailleurs***, de Charles Daniel Sarre
 - ***Lunx Park***, de Marie Andree
-- ***Un festin pour H. Schmidt***, de Alexie Lenn
+- ***Un festin pour H. Schmidt***, d'Alexie Lenn
 - ***Gardien de phare***, de M&ograve;r Khan
-- ***Un gueuleton goulu***, de Agnès Aleya
+- ***Un gueuleton goulu***, d'Agnès Aleya
 - ***Le Banquet du diable***, de Bezuth
 - ***La Sixième Saveur***, de Nicolas Avon
-- ***Opulence***, de Ophé Eclipsea
+- ***Opulence***, d'Ophé Eclipsea
 - ***Un festin presque parfait -- saison 9***, de Carole Nguyen vo
 - ***Éternel banquet***, de Sascha Lahaie
-- ***Les Caprices du palais***, de Aude Lapadu-Hargues
+- ***Les Caprices du palais***, d'Aude Lapadu-Hargues
 - ***Gastronomie royale***, de Thierry Fauquembergue
 - ***La Stratégie des fourneaux***, de Julien Molla
