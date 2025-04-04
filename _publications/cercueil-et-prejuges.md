@@ -16,7 +16,9 @@ sidebar:
     text: |
       Roman\
       À paraître aux éditions Alter Real\
-      Juin 2025
+      Collection Real Love\
+      20 juin 2025 (ebook)\
+      26 juin 2025 (grand format)
 ---
 
 ## Le roman

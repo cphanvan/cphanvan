@@ -7,18 +7,18 @@ main:
   - title: "Publications"
     url: /publications
     icon: "fas fa-book"
-  - title: "Textes gratuits"
-    url: /echantillons
-    icon: "fas fa-pen-fancy"
   - title: "Newsletter"
     url: /newsletter
     icon: "fas fa-envelope-open-text"
-  - title: "Agenda"
-    url: /agenda
-    icon: "fas fa-calendar"
   - title: "Blog"
     url: /blog
     icon: "fas fa-blog"
+  - title: "Agenda"
+    url: /agenda
+    icon: "fas fa-calendar"
+  - title: "Textes gratuits"
+    url: /echantillons
+    icon: "fas fa-pen-fancy"
   - title: "Contact"
     url: /contact
     icon: "fas fa-envelope"

@@ -17,7 +17,7 @@ header:
       url: "/publications/cercueil-et-prejuges"
     - label: "Mes autres publications"
       url: "/publications"
-summary: "Ma comédie romantique &laquo;&nbsp;<em><strong>Cercueil et préjugés</strong></em>&nbsp;&raquo; a trouvé sa maison d'édition&nbsp;: rendez-vous en juin&nbsp;2025&nbsp;!"
+summary: "Ma comédie romantique &laquo;&nbsp;<em><strong>Cercueil et préjugés</strong></em>&nbsp;&raquo; a trouvé sa maison d'édition&nbsp;: rendez-vous le 20&nbsp;juin&nbsp;2025 en numérique et le 26&nbsp;juin&nbsp;2025 pour le format papier&nbsp;!"
 a_propos:
   - summary: |
       **Qui suis-je&nbsp;?**
@@ -35,30 +35,30 @@ contenu_site:
     summary: "Découvrez ici mes nouvelles et romans publiés ou à paraître, mais aussi tous mes textes qui trépignent de suivre un jour le même chemin."
     url: "/publications"
     btn_label: "Je découvre"
-  - image_path: /assets/images/echantillons.webp
-    alt: "Textes gratuits"
-    title: "Textes gratuits"
-    summary: "Quelques-uns de mes textes sont ici en accès libre&nbsp;: nouvelles solo ou à quatre mains (avec des autrices amies), micronouvelles, jeux d'écriture..."
-    url: "/echantillons"
-    btn_label: "Je lis"
   - image_path: /assets/images/newsletter.webp
     alt: "Newsletter"
     title: "L'épître(ries)"
     summary: "Abonnez-vous à ma newsletter mensuelle et découvrez <strike>mes bourdes</strike> les coulisses de ma vie d'autrice."
     url: "/newsletter#abonnez-vous"
     btn_label: "Je m'abonne"
-  - image_path: /assets/images/agenda.webp
-    alt: "Agenda"
-    title: "Agenda"
-    summary: "Vous souhaitez me rencontrer lors d'une séance de dédicaces ou connaître la date de mes prochaines sorties&nbsp;?"
-    url: "/agenda"
-    btn_label: "Mon agenda"
   - image_path: /assets/images/blog.webp
     alt: "Blog"
     title: "Blog"
     summary: "Retrouvez mes avis sur mes lectures, interviews d'autrices ou auteurs, billets sur l'écriture, et états d'âme en tous genres&hellip;"
     url: "/blog"
     btn_label: "Mon blog"
+  - image_path: /assets/images/agenda.webp
+    alt: "Agenda"
+    title: "Agenda"
+    summary: "Vous souhaitez me rencontrer lors d'une séance de dédicaces ou connaître la date de mes prochaines sorties&nbsp;?"
+    url: "/agenda"
+    btn_label: "Mon agenda"
+  - image_path: /assets/images/echantillons.webp
+    alt: "Textes gratuits"
+    title: "Textes gratuits"
+    summary: "Quelques-uns de mes textes sont ici en accès libre&nbsp;: nouvelles solo ou à quatre mains (avec des autrices amies), micronouvelles, jeux d'écriture..."
+    url: "/echantillons"
+    btn_label: "Je lis"
   - image_path: /assets/images/contact.webp
     alt: "Contact"
     title: "Contact"
