@@ -8,7 +8,7 @@ publication_date: 2025-03-21T20:00:00Z
 excerpt: |
   Une comédie romantique contemporaine feel good désopilante, au cœur de la métropole bordelaise<!--excerptEnd-->
 header:
-  teaser: /assets/images/publications/projets-a-paraitre-teaser.webp
+  teaser: /assets/images/publications/cercueil-et-prejuges-teaser.webp
 sidebar:
   - title: "Cercueil et préjugés"
     image: /assets/images/publications/cercueil-et-prejuges-cover.jpg

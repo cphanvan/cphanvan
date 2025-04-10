@@ -11,7 +11,7 @@ date: 2022-12-02T12:00:00Z
 header:
   overlay_color: "#557a95"
   overlay_filter: "rgba(85, 122, 149, 0.7)"
-  overlay_image: /assets/images/bandeau-romance.webp
+  overlay_image: /assets/images/bandeau-cercueil-et-prejuges.webp
   actions:
     - label: "Cercueil et préjugés"
       url: "/publications/cercueil-et-prejuges"
