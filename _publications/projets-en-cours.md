@@ -19,7 +19,7 @@ toc: true
 
 J'ai changé le titre (mon titre de travail était *Pour que refleurisse son sourire*), mais je ne sais pas si celui-ci n'est pas un peu pourri aussi (je suis nulle en titres&nbsp;! 😅)
 
-*comédie romantique contemporaine -- a participé au concours Fyctia <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">Prix de la révélation new romance 2024</a>
+*comédie romantique contemporaine feel good -- a participé au concours Fyctia <a href="https://www.fyctia.com/stories/et-que-refleurisse-son-sourire" target="_blank">Prix de la révélation new romance 2024</a>
 -- a été **finaliste du <a href="https://www.instagram.com/p/C8O5XMRqK0P/?img_index=5" target="_blank">concours Bookbuster Romance 2024</a>***
 
 Le pitch&nbsp;:
@@ -34,20 +34,15 @@ Lors de mon envoi au concours Bookbuster, j'attendais encore les retours de bêt
 
 ## En cours d'écriture&nbsp;:
 
-### 45,93&nbsp;grammes
+### Breizh, son et sentiments
 
-*thriller uchronique*
+*comédie romantique contemporaine feel good*
 
 Le pitch&nbsp;:
-> Chloé était étudiante quand sa vie a basculé. Un traumatisme crânien l'a privée d'une partie de ses souvenirs. Il s'agissait d'une agression, sa mère en est persuadée. Les suspects sont d'ailleurs tout désignés&nbsp;: car les médias le répètent sans cesse, les millions de clandestins qui se pressent aux frontières sont violents, tout comme les rares régularisés autorisés à pénétrer sur le territoire national.<br>
-> Chloé, elle, n'a aucune certitude. Elle a tout oublié, alors comment savoir&nbsp;? Elle n'aspire qu'à une chose&nbsp;: se reconstruire. Mais l'obstination de sa mère à la couper du monde pour la protéger l'étouffe davantage qu'elle ne l'aide, et sa xénophobie la dégoûte. Pour la jeune fille, les clandestins, contraints de fuir des zones de la planète rendues inhabitables par le changement climatique, sont avant tout des êtres humains. Aussi, quand elle fait la connaissance d'Issiaka, un régularisé avec qui elle se découvre des goûts communs, c'est comme une bouffée d'air pur qui s'invite dans son existence.<br>
-> Jusqu'à ce que sa mère apprenne qu'elle a sympathisé avec lui… Et que sa vie bascule une seconde fois.
+> Coincée deux semaines en France suite à l’annulation de son vol, Gaby, une jeune Québécoise venue perfectionner ses talents culinaires dans l’hexagone avant d’ouvrir un restaurant dans son pays, se retrouve à passer les fêtes en Bretagne dans la famille de sa colocataire. Comme tous les ans, Yohann, le frère de cette dernière, monte une comédie musicale de Noël avec sa petite troupe amateur. Mais cette année, la chanteuse qui tient le rôle titre, victime d’une mauvaise chute lors d’un week-end au ski, se blesse au genou. Verdict&nbsp;: une rupture des ligaments croisés qui va l’empêcher de monter sur scène et contraindre Yohann à annuler le spectacle…<br>
+> À moins que la magie de Noël n’opère un miracle&nbsp;?
 
-Courant 2023, j'avais écrit environ 15&nbsp;000&nbsp;mots sur le premier jet de ce roman, soit à peu près un quart. Mais avec trois lignes temporelles distinctes et trois points de vue différents, je ne me facilitais pas la tâche&hellip; et à la lecture, l'ensemble était trop confus.
-
-Mi-octobre 2024, j'ai donc repris de zéro l'écriture de ce roman, qui va m'occuper ces prochains mois.
-
-Depuis le lundi 3 février 2025, vous pouvez <a href="https://www.fyctia.com/stories/45-93-grammes-1" target="_blank">lire sur Fyctia le début de ce texte</a> (un premier jet, qui est donc amené à beaucoup évoluer avant de pouvoir être soumis).
+Le début du premier jet (en cours d'écriture depuis fin mars 2025) de ce roman est <a href="https://www.fyctia.com/stories/breizh-son-et-sentiments" target="_blank">disponible sur Fyctia</a>. N'hésitez pas à me laisser un petit commentaire pour m'encourager si vous venez me lire&nbsp;! 😊
 
 
 ## À réécrire&nbsp;:
@@ -64,6 +59,20 @@ Vous pouvez [en lire le pitch et le prologue par ici](/ecriture/2022/06/23/bêta
 
 
 ## En attente&nbsp;:
+
+### 45,93&nbsp;grammes
+
+*thriller uchronique*
+
+Le pitch&nbsp;:
+> Chloé était étudiante quand sa vie a basculé. Un traumatisme crânien l'a privée d'une partie de ses souvenirs. Il s'agissait d'une agression, sa mère en est persuadée. Les suspects sont d'ailleurs tout désignés&nbsp;: car les médias le répètent sans cesse, les millions de clandestins qui se pressent aux frontières sont violents, tout comme les rares régularisés autorisés à pénétrer sur le territoire national.<br>
+> Chloé, elle, n'a aucune certitude. Elle a tout oublié, alors comment savoir&nbsp;? Elle n'aspire qu'à une chose&nbsp;: se reconstruire. Mais l'obstination de sa mère à la couper du monde pour la protéger l'étouffe davantage qu'elle ne l'aide, et sa xénophobie la dégoûte. Pour la jeune fille, les clandestins, contraints de fuir des zones de la planète rendues inhabitables par le changement climatique, sont avant tout des êtres humains. Aussi, quand elle fait la connaissance d'Issiaka, un régularisé avec qui elle se découvre des goûts communs, c'est comme une bouffée d'air pur qui s'invite dans son existence.<br>
+> Jusqu'à ce que sa mère apprenne qu'elle a sympathisé avec lui… Et que sa vie bascule une seconde fois.
+
+Courant 2023, j'avais écrit environ 15&nbsp;000&nbsp;mots sur le premier jet de ce roman, soit à peu près un quart. Mais avec trois lignes temporelles distinctes et trois points de vue différents, je ne me facilitais pas la tâche&hellip; et à la lecture, l'ensemble était trop confus.
+
+Mi-octobre 2024, j'ai repris de zéro l'écriture de ce roman, en ai écrit environ la moitié&hellip; avant de m'arrêter suite à un retour professionnel sur la structure prévisionnelle de mon intrigue. J'ai besoin de prendre du recul avant de décider de donner ou non une suite à ce projet, et sous quelle forme.
+
 
 ### Cosy mystery (en attente de titre)
 

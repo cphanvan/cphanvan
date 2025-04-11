@@ -12,19 +12,17 @@ header:
   overlay_image: /assets/images/bandeau-echantillons.webp
 books:
   - maintitle: "Romans"
-    title: "45,93 grammes (début du premier jet)"
-    teaser: Un thriller uchronique
-    image_path: /assets/images/publications/45-93-grammes-cover.webp
-    image_alt: "couverture de 45,93 grammes"
-    externalurl: https://www.fyctia.com/stories/45-93-grammes-1
+    title: "Breizh, son et sentiments (début du premier jet)"
+    teaser: Une comédie romantique en Bretagne
+    image_path: /assets/images/publications/breizh-son-et-sentiments-cover.webp
+    image_alt: "couverture de Breizh, son et sentiments"
+    externalurl: https://www.fyctia.com/stories/breizh-son-et-sentiments
     description: |
-        Chloé était étudiante quand sa vie a basculé. Un traumatisme crânien l'a privée d'une partie de ses souvenirs. Il s'agissait d'une agression, sa mère en est persuadée. Les suspects sont d'ailleurs tout désignés&nbsp;: car les médias le répètent sans cesse, les millions de clandestins qui se pressent aux frontières sont violents, tout comme les rares régularisés autorisés à pénétrer sur le territoire national.
+        Coincée deux semaines en France suite à l'annulation de son vol, Gaby, une jeune Québécoise venue perfectionner ses talents culinaires dans l'hexagone avant d'ouvrir un restaurant dans son pays, se retrouve à passer les fêtes en Bretagne dans la famille de sa colocataire. Comme tous les ans, Yohann, le frère de cette dernière, monte une comédie musicale de Noël avec sa petite troupe amateur. Mais cette année, la chanteuse qui tient le rôle titre, victime d'une mauvaise chute lors d'un week-end au ski, se blesse au genou. Verdict&nbsp;: une rupture des ligaments croisés qui va l'empêcher de monter sur scène et contraindre Yohann à annuler le spectacle…
         
-        Chloé, elle, n'a aucune certitude. Elle a tout oublié, alors comment savoir&nbsp;? Elle n'aspire qu'à une chose&nbsp;: se reconstruire. Mais l'obstination de sa mère à la couper du monde pour la protéger l'étouffe davantage qu'elle ne l'aide, et sa xénophobie la dégoûte. Pour la jeune fille, les clandestins, contraints de fuir des zones de la planète rendues inhabitables par le changement climatique, sont avant tout des êtres humains. Aussi, quand elle fait la connaissance d'Issiaka, un régularisé avec qui elle se découvre des goûts communs, c'est comme une bouffée d'air pur qui s'invite dans son existence.
+        À moins que la magie de Noël n'opère un miracle&nbsp;? 
         
-        Jusqu'à ce que sa mère apprenne qu'elle a sympathisé avec lui… Et que sa vie bascule une seconde fois.
-        
-        *(roman en cours d'écriture -- premier jet amené à beaucoup évoluer avant soumission)*
+        *(roman en cours d'écriture -- premier jet très imparfait, merci pour votre indulgence&nbsp;!)*
   - maintitle: "Nouvelles"
     title: "Enfin arrivées"
     teaser: "Nouvelle jeunesse"
