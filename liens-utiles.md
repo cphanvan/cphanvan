@@ -7,28 +7,20 @@ toc: true
 toc_label: Liens utiles
 ---
 
-## 45,93 grammes sur Fyctia
+## Breizh, son et sentiments sur Fyctia
 
-<a href="https://www.fyctia.com/stories/45-93-grammes-1" target="_blank">45,93 grammes</a>{: .btn .btn--info .btn--large .btn--linktree}
+<a href="https://www.fyctia.com/stories/breizh-son-et-sentiments" target="_blank">Breizh, son et sentiments</a>{: .btn .btn--info .btn--large .btn--linktree}
 
 
 ## Mes textes
-
-### Échos graphiques
-
-<a href="https://catherinephanvan.sumupstore.com/article/echos-graphiques-version-ebook-formats-epub-mobi-et-pdf-inclus" target="_blank">Version numérique (formats epub / pdf / mobi inclus)</a>{: .btn .btn--info .btn--large .btn--linktree}
-
-<a href="https://catherinephanvan.sumupstore.com/article/echos-graphiques" target="_blank">Version brochée (dédicace possible)</a>{: .btn .btn--info .btn--large .btn--linktree}
-
-<a href="https://www.amazon.fr/dp/B0DNSJ9CY4" target="_blank">Version numérique via Amazon</a>{: .btn .btn--info .btn--large .btn--linktree}
-
-<a href="https://www.amazon.fr/dp/249362405X" target="_blank">Version brochée via Amazon</a>{: .btn .btn--info .btn--large .btn--linktree}
 
 ### Mon prochain roman à paraître
 
 [*Cercueil et préjugés* (comédie romantique)](/publications/cercueil-et-prejuges){: .btn .btn--info .btn--large .btn--linktree}
 
 ### Mes romans en cours de travail
+
+[*Breizh, son et sentiments* (comédie romantique)](/publications/projets-en-cours/#breizh-son-et-sentiments){: .btn .btn--info .btn--large .btn--linktree}
 
 [*Un mensonge sans conséquence* (comédie romantique)](/publications/projets-en-cours/#un-mensonge-sans-conséquence){: .btn .btn--info .btn--large .btn--linktree}
 
@@ -39,6 +31,10 @@ toc_label: Liens utiles
 [Mes futures histoires](/publications/projets-en-cours){: .btn .btn--info .btn--large .btn--linktree}
 
 ### Mes dernières nouvelles publiées
+
+<a href="https://catherinephanvan.sumupstore.com/article/echos-graphiques-version-ebook-formats-epub-mobi-et-pdf-inclus" target="_blank">*Échos graphiques*, version numérique (formats epub / pdf / mobi inclus)</a>{: .btn .btn--info .btn--large .btn--linktree}
+
+<a href="https://catherinephanvan.sumupstore.com/article/echos-graphiques" target="_blank">*Échos graphiques*, version brochée (dédicace possible)</a>{: .btn .btn--info .btn--large .btn--linktree}
 
 <a href="https://catherinephanvan.sumupstore.com/article/explorations-insolites" target="_blank">*Dragonirie*, in *Explorations insolites*</a>{: .btn .btn--info .btn--large .btn--linktree}
 
@@ -73,7 +69,7 @@ toc_label: Liens utiles
 
 ### En dédicace
 
-[Mes prochains salons](/agenda){: .btn .btn--info .btn--large .btn--linktree}
+[Mes prochains salons et dédicaces](/agenda){: .btn .btn--info .btn--large .btn--linktree}
 
 ### En interview
 
