@@ -24,7 +24,7 @@ sidebar:
       **grand format**\
       26 juin 2025\
       ISBN 978-2-385754-46-4\
-      336 pages\
+      354 pages\
       18 €
 ---
 
