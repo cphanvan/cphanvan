@@ -47,13 +47,6 @@ books:
         Une incursion au pays des sapins, de la neige et du froid…
 
         Retrouvez ici la légende qui a donné naissance à <a href="https://catherinephanvan.sumupstore.com/article/enfants-des-neiges" target="_blank">ma nouvelle Enfants des neiges</a>&nbsp;!
-  - title: "Le Mystère de la maison abandonnée"
-    teaser: "Nouvelle jeunesse"
-    image_path: /assets/images/echantillons/LeMystereDeLaMaisonAbandonnee-couv.webp
-    image_alt: "couverture de la nouvelle jeunesse Le Mystère de la maison abandonnée"
-    url: /assets/textes/Le_mystere_de_la_maison_abandonnee.pdf
-    description: |
-        Une brève nouvelle jeunesse (dès 8&nbsp;ans) sur le thème de &laquo;&nbsp;la grande expédition&nbsp;&raquo;.
   - title: "Le lapin rose"
     teaser: "Récit jeunesse"
     image_path: /assets/images/echantillons/LeLapinRose-couv.webp
