@@ -23,7 +23,7 @@ page_js:
 
 - **Samedi 28 juin 2025, de 14h à 18h**, je serai au magasin **Cultura** de **Bordeaux Lac** pour vous dédicacer mon premier roman, [*Cercueil et préjugés*](/publications/cercueil-et-prejuges).
 - **Samedi 5 juillet 2025 après-midi**, je serai au magasin **Cultura** de **Bègles** pour vous dédicacer mon premier roman, [*Cercueil et préjugés*](/publications/cercueil-et-prejuges).
-- **Samedi 9 août 2025**, je serai toute la journée à l'**Espace Culturel Leclerc** de **Saint-Médard en Jalles** pour vous dédicacer mon premier roman, [*Cercueil et préjugés*](/publications/cercueil-et-prejuges).
+- **Samedi 9 août 2025**, je serai toute la journée à l'**Espace Culturel Leclerc** de **Saint-Médard-en-Jalles** pour vous dédicacer mon premier roman, [*Cercueil et préjugés*](/publications/cercueil-et-prejuges).
 - **Samedi 6 décembre 2025**, je serai toute la journée au magasin **Cultura** de **Bègles** pour vous dédicacer mon premier roman, [*Cercueil et préjugés*](/publications/cercueil-et-prejuges).
 
 D'autres dates potentielles sont en attente de confirmation. 😊
