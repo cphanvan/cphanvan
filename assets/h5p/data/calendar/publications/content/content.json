@@ -105,12 +105,57 @@
         },
         {
           "asset": {
-            "media": "https://catherinephanvan.fr/assets/images/events/coming-soon-cover.jpg"
+            "media": "https://catherinephanvan.fr/assets/images/publications/cercueil-et-prejuges-cover.jpg"
           },
-          "headline": "Cercueil et préjugés",
+          "headline": "Cercueil et préjugés (ebook)",
+          "startDate": "2025,06,20",
+          "endDate": "2025,06,20",
+          "text": "<p>Une comédie romantique contemporaine feel good désopilante, au cœur de la métropole bordelaise.</p><p>Sortie de la version ebook.</p><p><a href=\"/publications/cercueil-et-prejuges/\">Découvrir le roman</a></p>"
+        },
+        {
+          "asset": {
+            "media": "https://catherinephanvan.fr/assets/images/publications/cercueil-et-prejuges-cover.jpg"
+          },
+          "headline": "Cercueil et préjugés (broché)",
           "startDate": "2025,06,26",
           "endDate": "2025,06,26",
-          "text": "<p>Une comédie romantique contemporaine à l'héroïne déjantée.</p><p><a href=\"/publications/cercueil-et-prejuges/\">Découvrir le roman</a></p>"
+          "text": "<p>Une comédie romantique contemporaine feel good désopilante, au cœur de la métropole bordelaise.</p><p>Sortie de la version brochée.</p><p><a href=\"/publications/cercueil-et-prejuges/\">Découvrir le roman</a></p>"
+        },
+        {
+          "asset": {
+            "media": "https://catherinephanvan.fr/assets/images/events/dedicace-cultura-bordeaux-lac.jpg"
+          },
+          "headline": "Dédicace à Cultura Bordeaux Lac",
+          "startDate": "2025,06,28",
+          "endDate": "2025,06,28",
+          "text": "<p>De <strong>14h à 18h</strong>, dédicace du roman <a href=\"/publications/cercueil-et-prejuges/\"><em>Cercueil et préjugés</em></a>.</p><p>Cultura Bordeaux Lac, 90 avenue des 40 journaux, Centre commercial Cœur Ginko, 33000 Bordeaux</p>"
+        },
+        {
+          "asset": {
+            "media": "https://catherinephanvan.fr/assets/images/events/dedicace-cultura-begles.jpg"
+          },
+          "headline": "Dédicace à Cultura Bègles",
+          "startDate": "2025,07,05",
+          "endDate": "2025,07,05",
+          "text": "<p><strong>Tout l'après-midi</strong>, dédicace du roman <a href=\"/publications/cercueil-et-prejuges/\"><em>Cercueil et préjugés</em></a>.</p><p>Cultura Bègles, Rue Denis Papin, ZC Bègles -Tartifumes, 33130 Bègles</p>"
+        },
+        {
+          "asset": {
+            "media": "https://catherinephanvan.fr/assets/images/events/dedicace-leclerc-saint-medard.jpg"
+          },
+          "headline": "Dédicace à l'Espace Culturel Leclerc Saint-Médard",
+          "startDate": "2025,08,09",
+          "endDate": "2025,08,09",
+          "text": "<p><strong>Toute la journée</strong>, dédicace du roman <a href=\"/publications/cercueil-et-prejuges/\"><em>Cercueil et préjugés</em></a>.</p><p>E.Leclerc Saint-Médard-En-Jalles, Avenue Descartes, 33167 Saint-Médard-En-Jalles</p>"
+        },
+        {
+          "asset": {
+            "media": "https://catherinephanvan.fr/assets/images/events/dedicace-cultura-begles.jpg"
+          },
+          "headline": "Dédicace à Cultura Bègles",
+          "startDate": "2025,12,06",
+          "endDate": "2025,12,06",
+          "text": "<p><strong>Toute la journée</strong>, dédicace du roman <a href=\"/publications/cercueil-et-prejuges/\"><em>Cercueil et préjugés</em></a>.</p><p>Cultura Bègles, Rue Denis Papin, ZC Bègles -Tartifumes, 33130 Bègles</p>"
         }
       ],
       "headline": "Mes publications et dédicaces - 2024/2025",
