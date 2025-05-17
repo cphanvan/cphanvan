@@ -150,6 +150,15 @@
         },
         {
           "asset": {
+            "media": "https://catherinephanvan.fr/assets/images/events/dedicace-leclerc-langon.jpg"
+          },
+          "headline": "Dédicace à l'Espace Culturel Leclerc Langon",
+          "startDate": "2025,10,04",
+          "endDate": "2025,10,04",
+          "text": "<p><strong>Toute la journée</strong>, dédicace du roman <a href=\"/publications/cercueil-et-prejuges/\"><em>Cercueil et préjugés</em></a>.</p><p>E.Leclerc Langon, Centre commercial Moléon, 33210 Langon</p>"
+        },
+        {
+          "asset": {
             "media": "https://catherinephanvan.fr/assets/images/events/dedicace-cultura-begles.jpg"
           },
           "headline": "Dédicace à Cultura Bègles",
