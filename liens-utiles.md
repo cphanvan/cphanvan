@@ -7,16 +7,14 @@ toc: true
 toc_label: Liens utiles
 ---
 
-## Breizh, son et sentiments sur Fyctia
-
-<a href="https://www.fyctia.com/stories/breizh-son-et-sentiments" target="_blank">Breizh, son et sentiments</a>{: .btn .btn--info .btn--large .btn--linktree}
-
-
-## Mes textes
-
-### Mon prochain roman à paraître
+## Cercueil et préjugés -- juin 2025
 
 [*Cercueil et préjugés* (comédie romantique)](/publications/cercueil-et-prejuges){: .btn .btn--info .btn--large .btn--linktree}
+
+[Mes prochaines dédicaces](/agenda#prochaines-dédicaces){: .btn .btn--info .btn--large .btn--linktree}
+
+
+## Mes autres textes
 
 ### Mes romans en cours de travail
 
@@ -30,27 +28,13 @@ toc_label: Liens utiles
 
 [Mes futures histoires](/publications/projets-en-cours){: .btn .btn--info .btn--large .btn--linktree}
 
-### Mes dernières nouvelles publiées
+### Toutes mes publications
 
-<a href="https://catherinephanvan.sumupstore.com/article/echos-graphiques-version-ebook-formats-epub-mobi-et-pdf-inclus" target="_blank">*Échos graphiques*, version numérique (formats epub / pdf / mobi inclus)</a>{: .btn .btn--info .btn--large .btn--linktree}
+[Découvrir toutes mes publications (dont 7 nouvelles gratuites)](/publications){: .btn .btn--info .btn--large .btn--linktree}
 
-<a href="https://catherinephanvan.sumupstore.com/article/echos-graphiques" target="_blank">*Échos graphiques*, version brochée (dédicace possible)</a>{: .btn .btn--info .btn--large .btn--linktree}
+### Quelques anciens textes courts
 
-<a href="https://catherinephanvan.sumupstore.com/article/explorations-insolites" target="_blank">*Dragonirie*, in *Explorations insolites*</a>{: .btn .btn--info .btn--large .btn--linktree}
-
-<a href="https://www.anact.fr/sites/default/files/2024-07/recueilaract2023.pdf" target="_blank">*Ceux qui rapportent… et ceux qui coûtent*, in *Nouvelles du travail -- tome 18* (ebook gratuit)</a>{: .btn .btn--info .btn--large .btn--linktree}
-
-<a href="https://catherinephanvan.sumupstore.com/article/enfants-des-neiges" target="_blank">*Enfants des neiges* - version papier</a>{: .btn .btn--info .btn--large .btn--linktree}
-
-<a href="https://festival-fantastique.fr/wp-content/uploads/FFB-2023-pdf.pdf" target="_blank">*L'Arbre de lune*&nbsp;: nouvelle fantastique, 3<sup>e</sup> du concours du FFB (ebook gratuit)</a>{: .btn .btn--info .btn--large .btn--linktree}
-
-### Toutes mes nouvelles
-
-[Découvrir toutes mes nouvelles publiées (dont 7 gratuites)](/publications){: .btn .btn--info .btn--large .btn--linktree}
-
-### Mes textes gratuits
-
-[En accès libre](/echantillons){: .btn .btn--info .btn--large .btn--linktree}
+[À lire en accès libre](/echantillons){: .btn .btn--info .btn--large .btn--linktree}
 
 
 ## Ma boutique
@@ -67,7 +51,7 @@ toc_label: Liens utiles
 
 ## Où me trouver
 
-### En dédicace
+### En salon ou dédicace
 
 [Mes prochains salons et dédicaces](/agenda){: .btn .btn--info .btn--large .btn--linktree}
 
