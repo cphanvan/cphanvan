@@ -21,5 +21,5 @@ sidebar:
 
 Je vous propose une petite plongée fantastique au c&oelig;ur des traditions mosellanes avec cette nouvelle à l'ambiance cosy et automnale.
 
-À paraître le 1<sup>er</sup> juin 2025 dans le n°14 de <a href="https://lindepanda.wordpress.com/" target="_blank">***L'Indé Panda***</a>.
+À paraître le 1<sup>er</sup> juin 2025 dans le n°14 de <a href="https://lindepanda.fr/" target="_blank">***L'Indé Panda***</a>.
 
