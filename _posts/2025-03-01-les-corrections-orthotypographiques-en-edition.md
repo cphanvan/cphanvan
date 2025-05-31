@@ -83,7 +83,7 @@ Et puis il y a les maisons d'édition qui font les choses avec sérieux, mais qu
 
 ### Quelques exemples
 
-Pour quelques exemples concrets de ce à quoi j'ai pu être confrontée jusqu'ici lors de mes diverses expériences éditoriales, je vous renvoie à [ma newsletter de mars 2025](/newsletter/2025-03-01/#les-corrections-orthotypographiques).
+Pour quelques exemples concrets de ce à quoi j'ai pu être confrontée jusqu'ici lors de mes diverses expériences éditoriales, je vous renvoie à [ma newsletter de mars 2025](/newsletter/2025-03-02/#les-corrections-orthotypographiques).
 
 
 ## Pourquoi je scrognogne&nbsp;?
