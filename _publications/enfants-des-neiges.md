@@ -25,7 +25,7 @@ Marre des contes de Noël qui ne font qu'égrener tous les codes du genre ?
 
 Offrez-vous cette courte lecture et laissez-vous emporter au pays des sapins 🌲, de la neige ❄ et du froid !
 
-Pour en apprendre plus sur *Enfants des neiges*, n'hésitez pas à aller lire mon interview <a href="https://lindepanda.wordpress.com/2024/01/12/interview-catherine-phan-van/" target="_blank">sur le site de L'Indé Panda</a>&nbsp;!
+Pour en apprendre plus sur *Enfants des neiges*, n'hésitez pas à aller lire mon interview <a href="https://lindepanda.fr/interview-catherine-phan-van/" target="_blank">sur le site de L'Indé Panda</a>&nbsp;!
 {: .notice--info}
 
 **En vente (1€) sur ma boutique en ligne**, en version **<a href="https://catherinephanvan.sumupstore.com/article/enfants-des-neiges-version-epub" target="_blank">epub</a>** ou **<a href="https://catherinephanvan.sumupstore.com/article/enfants-des-neiges-version-pdf" target="_blank">pdf</a>**. \

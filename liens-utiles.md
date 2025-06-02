@@ -57,7 +57,7 @@ toc_label: Liens utiles
 
 ### En interview
 
-<a href="https://lindepanda.wordpress.com/2024/01/12/interview-catherine-phan-van/" target="_blank">Mon interview sur le site de L'Indé Panda</a>{: .btn .btn--info .btn--large .btn--linktree}
+<a href="https://lindepanda.fr/interview-catherine-phan-van/" target="_blank">Mon interview sur le site de L'Indé Panda</a>{: .btn .btn--info .btn--large .btn--linktree}
 
 ### Sur internet
 

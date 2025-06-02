@@ -23,13 +23,13 @@ Lorsqu'il observe l'étrange comportement du jeune Jake Hill, un orphelin dont i
 
 <hr>
 
-Nouvelle parue en octobre 2023 dans le n°13 de <a href="https://lindepanda.wordpress.com/" target="_blank">***L'Indé Panda***</a>, à télécharger gratuitement en version numérique <a href="https://www.amazon.fr/LInd%C3%A9-Panda-n%C2%B013-ebook/dp/B0CHMNK166" target="_blank">au format Kindle</a> ou <a href="https://www.kobo.com/fr/fr/ebook/l-inde-panda-n-13" target="_blank">epub</a>, ou bien à retrouver au petit prix de 10€ <a href="https://www.amazon.fr/LInd%C3%A9-Panda-no13-Elune-Dreel/dp/B0CJSWN2LK/" target="_blank">en version papier</a>.
+Nouvelle parue en octobre 2023 dans le n°13 de <a href="https://lindepanda.fr/recueil/inde-panda-13/" target="_blank">***L'Indé Panda***</a>, à télécharger gratuitement en version numérique <a href="https://www.amazon.fr/LInd%C3%A9-Panda-n%C2%B013-ebook/dp/B0CHMNK166" target="_blank">au format Kindle</a> ou <a href="https://www.kobo.com/fr/fr/ebook/l-inde-panda-n-13" target="_blank">epub</a>, ou bien à retrouver au petit prix de 10€ <a href="https://www.amazon.fr/LInd%C3%A9-Panda-no13-Elune-Dreel/dp/B0CJSWN2LK/" target="_blank">en version papier</a>.
 
 Si vous préférez un **exemplaire dédicacé**, vous pouvez <a href="https://catherinephanvan.sumupstore.com/article/l-inde-panda-n013" target="_blank">le commander directement via ma boutique en ligne</a>.
 
 Envie d'en apprendre plus sur le personnage qui m'a inspiré le Dr&nbsp;Owen&nbsp;? Je vous raconte ça [sur mon blog](/ecriture/2023/09/30/la-science-dans-mes-nouvelles.html#sinistre-volonté-voyage-aux-sources-de-la-neurochirurgie).
 
-Pour découvrir les coulisses de l'écriture de *Sinistre Volonté*, n'hésitez pas à aller lire mon interview <a href="https://lindepanda.wordpress.com/2024/01/12/interview-catherine-phan-van/" target="_blank">sur le site de L'Indé Panda</a>&nbsp;!
+Pour découvrir les coulisses de l'écriture de *Sinistre Volonté*, n'hésitez pas à aller lire mon interview <a href="https://lindepanda.fr/interview-catherine-phan-van/" target="_blank">sur le site de L'Indé Panda</a>&nbsp;!
 {: .notice--info}
 
 ## Un extrait&nbsp;?
