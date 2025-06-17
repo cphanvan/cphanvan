@@ -32,12 +32,27 @@ Une comédie romantique contemporaine feel good désopilante, au cœur de la mé
 
 > &laquo;&nbsp;On ne vous demande pas de prouver que vous êtes en vie, on vous demande de prouver que vous n’êtes pas morte.&nbsp;&raquo;
 
+Bordeaux, février 2023. De retour chez elle après trois mois d’absence coupée du monde, Adélie tombe nez à nez avec un inconnu. Quelle n’est pas sa stupeur lorsqu’elle comprend que son appartement a été reloué car tout le monde la croit morte&nbsp;! Dès lors, la jeune trentenaire va aller de surprise en déconvenue et devoir se confronter aux rouages les plus absurdes de l’administration française pour retrouver une existence légale, trouver un moyen de subvenir à ses besoins… et cohabiter tant bien que mal avec le nouveau locataire de son logement.
+{: .notice}
+
 
 ## Le roman
 
 Il s'agit d'une **comédie romantique contemporaine feel good**, dont la parution est prévue aux éditions Alter Real en juin&nbsp;2025&nbsp;: le 20&nbsp;juin pour la version numérique et le 26&nbsp;juin pour la version papier.
 
 Ce roman a été <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**finaliste du concours Fyctia "Comme dans un film"**</a> en 2023. S'il n'a pas gagné, le jury a pourtant reconnu avoir eu du mal à trancher, car le pitch a plu, et le potentiel comique et émotionnel du texte a été salué.
+
+### Où vous le procurer
+
+* **En boutique**, dans votre librairie habituelle ou n'importe quelle grande surface culturelle (Cultura, Fnac, Espace Culturel Leclerc&hellip;) à partir du 26 juin 2025 (n'hésitez pas à demander à le commander s'il ne se trouve pas en rayon), ou en précommande dès maintenant.
+* **En ligne**, directement <a href="https://editions-alter-real.com/product/cercueil-et-prejuges/" target="_blank">sur le site de la maison d'édition</a>, ou sur toutes les plateformes habituelles, notamment&nbsp;:
+  * <a href="https://www.placedeslibraires.fr/livre/9782385754464-cercueil-et-prejuges-catherine-phan-van/" target="_blank">Place des libraires</a>
+  * <a href="https://www.cultura.com/p-cercueil-et-prejuges-9782385754464.html" target="_blank">Cultura</a>
+  * <a href="https://www.fnac.com/a21354652/Catherine-Phan-Van-Cercueil-et-Prejuges" target="_blank">Fnac</a>
+  * <a href="https://www.kobo.com/fr/fr/ebook/cercueil-et-prejuges?sId=670c2ced-ff1e-4775-9638-15b4f2ad9d6d" target="_blank">Kobo</a>
+  * <a href="https://shop.vivlio.com/product/9782385754457_9782385754457_2/cercueil-et-prejuges" target="_blank">Vivlio</a>
+  * <a href="https://www.amazon.fr/Cercueil-Pr%C3%A9jug%C3%A9s-Catherine-Phan-Van/dp/2385754460" target="_blank">Amazon</a>
+
 
 **La quatrième de couverture officielle**&nbsp;:
 <br /><br />*Une jeune femme forcée de cohabiter avec un colocataire un peu trop exaspérant, et confrontée à une situation administrative ubuesque&nbsp;! Fous rires garantis&nbsp;!*
@@ -53,14 +68,35 @@ Ce roman a été <a href="https://www.fyctia.com/blog/articles/833" target="_bla
 
 ## Les retours des lecteurs et lectrices de la première heure
 
-> "Adélie est géniale, ses commentaires assassins sont incroyables&nbsp;!"
+> "Un feel-good comme on les aime, à mettre entre toutes les mains&nbsp;!" -- bouquineuse67 sur Babelio
 
-> "L'idée de base est géniale, les deux persos sont super attachants chacun à leur manière, avec des histoires personnelles qui rajoutent de la profondeur."
+> "Un moment de lecture véritablement frais, drôle, pétillant et touchant&nbsp;!" -- LaBibliDeNani sur Babelio
 
-> "Un style incroyable, avec une patte certaine et des touches d'humour qui ne loupent pas."
+> "Quel bonheur de lecture&nbsp;! J'ai adoré plonger dans l'univers déjanté d'Adélie, une héroïne aussi malchanceuse qu'attachante." -- bouquineuse67 sur Babelio
 
-> "J’ai beaucoup aimé les dialogues et le ton humoristique d’Adélie dans ses réflexions. Les situations absurdes sont bien dépeintes, les péripéties s’enchaînent bien et on en apprend beaucoup sur les méandres absurdes de l’administration&nbsp;!"
+> "Éclats de rires assurés dès les premières pages" -- LaBibliDeNani sur Babelio
 
+> "Entre le caractère bien trempé d'Adélie, ses réparties et les situations particulièrement cocasses qui se succèdent, il n'y a pas beaucoup de répit pour reprendre son souffle d'une péripétie à une autre." -- LaBibliDeNani sur Babelio
+
+> "L'intrigue est bien ficelée, rythmée, sans temps mort. (&hellip;) La plume de l'autrice est fluide, vive, pleine d'humour et de justesse. Un vrai régal&nbsp;!" -- bouquineuse67 sur Babelio
+
+> "Adélie est géniale, ses commentaires assassins sont incroyables&nbsp;!" -- Julie
+
+> "L'idée de base est géniale, les deux persos sont super attachants chacun à leur manière, avec des histoires personnelles qui rajoutent de la profondeur." -- Anne-Justine
+
+> "Un style incroyable, avec une patte certaine et des touches d'humour qui ne loupent pas." -- Louise
+
+> "J’ai beaucoup aimé les dialogues et le ton humoristique d’Adélie dans ses réflexions. Les situations absurdes sont bien dépeintes, les péripéties s’enchaînent bien et on en apprend beaucoup sur les méandres absurdes de l’administration&nbsp;!" -- Emmanuelle
+
+### Vous l'avez lu&nbsp;?
+
+Les avis sont essentiels pour donner de la visibilité à un roman et l'aider à trouver son lectorat. Alors, n'hésitez surtout pas à laisser le vôtre en ligne, sur les sites de vente et/ou les plateformes de lecture habituelles&nbsp;!
+
+* <a href="https://www.babelio.com/livres/Phan-Van-Cercueil-et-Prejuges/1818928" target="_blank">Babelio</a>
+* <a href="https://booknode.com/cercueil_et_prejuges_03629942" target="_blank">Booknode</a>
+* <a href="https://www.livraddict.com/biblio/livre/cercueil-et-prejuges.html" target="_blank">Livraddict</a>
+* <a href="https://www.goodreads.com/book/show/227994940-cercueil-et-pr-jug-s" target="_blank">Goodreads</a>
+* <a href="https://www.gleeph.com/book/catherine-phan-van-cercueil-et-prejuges/ean/9782385754464" target="_blank">Gleeph</a>
 
 ## La genèse du roman
 
