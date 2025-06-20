@@ -1,6 +1,6 @@
 ---
 title: "Cercueil et préjugés"
-description: Roman à paraître à l'été 2025 aux éditions Alter Real
+description: Cercueil et préjugés, une comédie romantique feel good
 layout: single
 classes: wide
 share: true
@@ -38,7 +38,7 @@ Bordeaux, février 2023. De retour chez elle après trois mois d’absence coup�
 
 ## Le roman
 
-Il s'agit d'une **comédie romantique contemporaine feel good**, dont la parution est prévue aux éditions Alter Real en juin&nbsp;2025&nbsp;: le 20&nbsp;juin pour la version numérique et le 26&nbsp;juin pour la version papier.
+Il s'agit d'une **comédie romantique contemporaine feel good**, publiée aux éditions Alter Real, dans la collection *Real Love*. L'ebook est disponible depuis le 20 juin 2025, et la version brochée peut d'ores et déjà être commandée partout, en librairie ou en ligne, pour une parution le 26&nbsp;juin 2025.
 
 Ce roman a été <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**finaliste du concours Fyctia "Comme dans un film"**</a> en 2023. S'il n'a pas gagné, le jury a pourtant reconnu avoir eu du mal à trancher, car le pitch a plu, et le potentiel comique et émotionnel du texte a été salué.
 
