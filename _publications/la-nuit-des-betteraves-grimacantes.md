@@ -11,7 +11,7 @@ header:
   teaser: /assets/images/publications/la-nuit-des-betteraves-grimacantes-teaser.webp
 sidebar:
   - title: "La Nuit des betteraves grimaçantes"
-    image: /assets/images/publications/la-nuit-des-betteraves-grimacantes-cover.webp
+    image: /assets/images/publications/la-nuit-des-betteraves-grimacantes-cover.jpg
     image_alt: "couverture vierge (en attente de la couverture officielle)"
     text: |
       Nouvelle fantastique\

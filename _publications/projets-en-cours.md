@@ -42,8 +42,6 @@ Le pitch&nbsp;:
 > Coincée deux semaines en France suite à l’annulation de son vol, Gaby, une jeune Québécoise venue perfectionner ses talents culinaires dans l’hexagone avant d’ouvrir un restaurant dans son pays, se retrouve à passer les fêtes en Bretagne dans la famille de sa colocataire. Comme tous les ans, Yohann, le frère de cette dernière, monte une comédie musicale de Noël avec sa petite troupe amateur. Mais cette année, la chanteuse qui tient le rôle titre, victime d’une mauvaise chute lors d’un week-end au ski, se blesse au genou. Verdict&nbsp;: une rupture des ligaments croisés qui va l’empêcher de monter sur scène et contraindre Yohann à annuler le spectacle…<br>
 > À moins que la magie de Noël n’opère un miracle&nbsp;?
 
-Le début du premier jet (en cours d'écriture depuis fin mars 2025) de ce roman est <a href="https://www.fyctia.com/stories/breizh-son-et-sentiments" target="_blank">disponible sur Fyctia</a>. N'hésitez pas à me laisser un petit commentaire pour m'encourager si vous venez me lire&nbsp;! 😊
-
 
 ## À réécrire&nbsp;:
 

@@ -11,18 +11,6 @@ header:
   overlay_filter: "0.2"
   overlay_image: /assets/images/bandeau-echantillons.webp
 books:
-  - maintitle: "Romans"
-    title: "Breizh, son et sentiments (début du premier jet)"
-    teaser: Une comédie romantique en Bretagne
-    image_path: /assets/images/publications/breizh-son-et-sentiments-cover.webp
-    image_alt: "couverture de Breizh, son et sentiments"
-    externalurl: https://www.fyctia.com/stories/breizh-son-et-sentiments
-    description: |
-        Coincée deux semaines en France suite à l'annulation de son vol, Gaby, une jeune Québécoise venue perfectionner ses talents culinaires dans l'hexagone avant d'ouvrir un restaurant dans son pays, se retrouve à passer les fêtes en Bretagne dans la famille de sa colocataire. Comme tous les ans, Yohann, le frère de cette dernière, monte une comédie musicale de Noël avec sa petite troupe amateur. Mais cette année, la chanteuse qui tient le rôle titre, victime d'une mauvaise chute lors d'un week-end au ski, se blesse au genou. Verdict&nbsp;: une rupture des ligaments croisés qui va l'empêcher de monter sur scène et contraindre Yohann à annuler le spectacle…
-        
-        À moins que la magie de Noël n'opère un miracle&nbsp;? 
-        
-        *(roman en cours d'écriture -- premier jet très imparfait, merci pour votre indulgence&nbsp;!)*
   - maintitle: "Nouvelles"
     title: "Enfin arrivées"
     teaser: "Nouvelle jeunesse"
