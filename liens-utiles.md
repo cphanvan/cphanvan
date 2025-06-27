@@ -9,7 +9,9 @@ toc_label: Liens utiles
 
 ## Cercueil et préjugés -- juin 2025
 
-[*Cercueil et préjugés* (comédie romantique)](/publications/cercueil-et-prejuges){: .btn .btn--info .btn--large .btn--linktree}
+[Où vous procurer le roman](/publications/cercueil-et-prejuges/#o%C3%B9-vous-le-procurer){: .btn .btn--info .btn--large .btn--linktree}
+
+[*Cercueil et préjugés*, une comédie romantique feel good](/publications/cercueil-et-prejuges){: .btn .btn--info .btn--large .btn--linktree}
 
 [Mes prochaines dédicaces](/agenda#prochaines-dédicaces){: .btn .btn--info .btn--large .btn--linktree}
 
@@ -30,7 +32,7 @@ toc_label: Liens utiles
 
 ### Toutes mes publications
 
-[Découvrir toutes mes publications (dont 7 nouvelles gratuites)](/publications){: .btn .btn--info .btn--large .btn--linktree}
+[Découvrir toutes mes publications (dont 8 nouvelles gratuites)](/publications){: .btn .btn--info .btn--large .btn--linktree}
 
 ### Quelques anciens textes courts
 
