@@ -38,13 +38,17 @@ Bordeaux, février 2023. De retour chez elle après trois mois d’absence coup�
 
 ## Le roman
 
-Il s'agit d'une **comédie romantique contemporaine feel good**, publiée aux éditions Alter Real, dans la collection *Real Love*. L'ebook est disponible depuis le 20 juin 2025, et la version brochée peut d'ores et déjà être commandée partout, en librairie ou en ligne, pour une parution le 26&nbsp;juin 2025.
+Il s'agit d'une **comédie romantique contemporaine feel good**, publiée aux éditions Alter Real dans la collection *Real Love*, disponible en versions brochée et numérique.
 
 Ce roman a été <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**finaliste du concours Fyctia "Comme dans un film"**</a> en 2023. S'il n'a pas gagné, le jury a pourtant reconnu avoir eu du mal à trancher, car le pitch a plu, et le potentiel comique et émotionnel du texte a été salué.
 
 ### Où vous le procurer
 
-* **En boutique**, dans votre librairie habituelle ou n'importe quelle grande surface culturelle (Cultura, Fnac, Espace Culturel Leclerc&hellip;) à partir du 26 juin 2025 (n'hésitez pas à demander à le commander s'il ne se trouve pas en rayon), ou en précommande dès maintenant.
+* **En boutique**, dans votre librairie habituelle ou n'importe quelle grande surface culturelle (Cultura, Fnac, Espace Culturel Leclerc&hellip;)
+
+⚠️ Sauf rares exceptions, il est probable que le roman ne soit pas en rayon (il n'est pas diffusé), mais n'hésitez pas à demander à votre libraire de vous le commander&nbsp;: cela vous évitera d'avoir à régler des frais de port (et, bonus, cela lui donnera peut-être envie de le découvrir et de le faire découvrir).
+{: .notice}
+
 * **En ligne**, directement <a href="https://editions-alter-real.com/product/cercueil-et-prejuges/" target="_blank">sur le site de la maison d'édition</a>, ou sur toutes les plateformes habituelles, notamment&nbsp;:
   * <a href="https://www.placedeslibraires.fr/livre/9782385754464-cercueil-et-prejuges-catherine-phan-van/" target="_blank">Place des libraires</a>
   * <a href="https://www.cultura.com/p-cercueil-et-prejuges-9782385754464.html" target="_blank">Cultura</a>
@@ -66,19 +70,25 @@ Ce roman a été <a href="https://www.fyctia.com/blog/articles/833" target="_bla
 {: .notice--info}
 
 
-## Les retours des lecteurs et lectrices de la première heure
+## Quelques premiers retours de lectrices
 
-> "Un feel-good comme on les aime, à mettre entre toutes les mains&nbsp;!" -- bouquineuse67 sur Babelio
+> "Quel bonheur de lecture&nbsp;! J'ai adoré plonger dans l'univers déjanté d'Adélie, une héroïne aussi malchanceuse qu'attachante. (&hellip;) L'intrigue est bien ficelée, rythmée, sans temps mort. (&hellip;) La plume de l'autrice est fluide, vive, pleine d'humour et de justesse. Un vrai régal&nbsp;! (&hellip;) Un feel-good comme on les aime, à mettre entre toutes les mains&nbsp;!" -- <a href="https://www.babelio.com/livres/Phan-Van-Cercueil-et-Prejuges/1818928/critiques/4527174" target="_blank">bouquineuse67 sur Babelio</a>
 
-> "Un moment de lecture véritablement frais, drôle, pétillant et touchant&nbsp;!" -- LaBibliDeNani sur Babelio
+> "Éclats de rires assurés dès les premières pages (&hellip;) Entre le caractère bien trempé d'Adélie, ses réparties et les situations particulièrement cocasses qui se succèdent, il n'y a pas beaucoup de répit pour reprendre son souffle d'une péripétie à une autre. (&hellip;) Un moment de lecture véritablement frais, drôle, pétillant et touchant&nbsp;!" -- <a href="https://www.babelio.com/livres/Phan-Van-Cercueil-et-Prejuges/1818928/critiques/4543371" target="_blank">LaBibliDeNani sur Babelio</a>
 
-> "Quel bonheur de lecture&nbsp;! J'ai adoré plonger dans l'univers déjanté d'Adélie, une héroïne aussi malchanceuse qu'attachante." -- bouquineuse67 sur Babelio
+> "ÉNORME COUP DE CŒUR (&hellip;) Un récit d'une grande originalité où l'on rit, on s'attache,  on aime fort les personnages. (&hellip;) J'ai vraiment passé un moment unique avec cette histoire très originale et rondement menée. La plume est drôle et fait mouche&nbsp;! (&hellip;) Beaucoup de belles surprises dans cette lecture,  que ce soit le sujet (juste dingue et génial), la passion d'Adélie (atypique) et cette romance qui prend son temps&hellip; (&hellip;) À lire absolument&nbsp;!!!" -- <a href="https://www.instagram.com/p/DK8yob3shhR/" target="_blank">lectures2thalie sur Instagram</a>
 
-> "Éclats de rires assurés dès les premières pages" -- LaBibliDeNani sur Babelio
+> "Cette lecture est une bouffée de bonne humeur et de fraîcheur. (&hellip;) Une histoire rafraichissante sur fond de quiproquos, d’acte de décès, de problèmes administratifs et de cohabitation forcée. Des personnages aussi drôles qu’attachants.  De quoi vous faire passer un très bon moment." -- <a href="https://www.instagram.com/p/DLLCPEXNIZL/" target="_blank">histoiresenchantees sur Instagram</a>
 
-> "Entre le caractère bien trempé d'Adélie, ses réparties et les situations particulièrement cocasses qui se succèdent, il n'y a pas beaucoup de répit pour reprendre son souffle d'une péripétie à une autre." -- LaBibliDeNani sur Babelio
+> "Ce roman, c’est une bouffée d’air frais. Une comédie pétillante comme on les aime, avec des dialogues savoureux, des situations totalement absurdes (et pourtant si crédibles), un duo qui fonctionne à merveille et des éclats de rire à chaque page. J’ai dévoré cette lecture comme on croque dans une tablette de chocolat un soir de crise existentielle&nbsp;: avec passion, frénésie et un petit bruit de satisfaction à la fin." -- <a href="https://www.instagram.com/p/DLSwWf5NCmC/" target="_blank">misses_kaise sur Instagram</a>
 
-> "L'intrigue est bien ficelée, rythmée, sans temps mort. (&hellip;) La plume de l'autrice est fluide, vive, pleine d'humour et de justesse. Un vrai régal&nbsp;!" -- bouquineuse67 sur Babelio
+> "Une histoire à la fois drôle et surprenamment touchante. (&hellip;) Loufoque serait le premier terme qui me vient en tête en pensant à cette histoire. Mais c’est ce qui fait son unicité. J’aime ce comique de situation où chaque étape termine en cul de sac, où chaque espoir est vite réduit à néant. (&hellip;) Adélie a su me surprendre par sa fragilité et son passé." -- <a href="https://www.instagram.com/p/DLUTCHfygn0/" target="_blank">lili_reading sur Instagram</a>
+
+> "Une rom-com hilarante&nbsp;! Les dialogues sont drôles, le rythme est soutenu, il n’y a pas de longueur dans l’histoire et malgré l’humour, on sent qu’il y a une véritable tendresse qui s’installe entre les protagonistes." -- <a href="https://www.instagram.com/p/DLPjPLbq64D/" target="_blank">lectrice.de.lombre010 sur Instagram</a>
+
+> "J'ai adoré la plume de l'auteure, j'ai été très réceptive à son humour dès le départ et je n'ai pas su retenir mes éclats de rire. (&hellip;) Si l'histoire démarre sur un humour acéré et omniprésent, l'auteure manie tout aussi bien l'aspect dramatique et poignant des relations humaines." -- <a href="https://www.instagram.com/p/DLaLVOxt8_f/" target="_blank">candy_readings sur Instagram</a>
+
+> "C'est une très belle histoire feel good (&hellip;) L’auteure a une plume entraînante, fluide, avec un joli brin d’humour et d’ironie" -- <a href="https://www.instagram.com/p/DLOwJ6XIO1Y/" target="_blank">miluna_lecture sur Instagram</a>
 
 > "Adélie est géniale, ses commentaires assassins sont incroyables&nbsp;!" -- Julie
 

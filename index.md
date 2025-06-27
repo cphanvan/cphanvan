@@ -17,7 +17,7 @@ header:
       url: "/publications/cercueil-et-prejuges"
     - label: "Mes autres publications"
       url: "/publications"
-summary: "Ma comédie romantique feel good &laquo;&nbsp;<em><strong>Cercueil et préjugés</strong></em>&nbsp;&raquo; est disponible partout, immédiatement en version ebook, et en précommande pour le format broché, qui sort le 26&nbsp;juin&nbsp;2025&nbsp;!"
+summary: "Ma comédie romantique feel good &laquo;&nbsp;<em><strong>Cercueil et préjugés</strong></em>&nbsp;&raquo; est disponible partout, aux formats ebook et broché&nbsp;!"
 a_propos:
   - summary: |
       **Qui suis-je&nbsp;?**
