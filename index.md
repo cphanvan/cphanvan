@@ -17,7 +17,7 @@ header:
       url: "/publications/cercueil-et-prejuges"
     - label: "Mes autres publications"
       url: "/publications"
-summary: "Ma comédie romantique feel good &laquo;&nbsp;<em><strong>Cercueil et préjugés</strong></em>&nbsp;&raquo; est disponible partout, aux formats ebook et broché&nbsp;!"
+summary: "Ce 5 juillet après-midi à Cultura Bègles, dédicace de <em><strong>Cercueil et préjugés</strong></em>, ma comédie romantique feel good parue aux éditions Alter Real."
 a_propos:
   - summary: |
       **Qui suis-je&nbsp;?**

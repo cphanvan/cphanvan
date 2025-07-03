@@ -28,6 +28,9 @@ sidebar:
       18 €
 ---
 
+📢 Prochaine séance de **dédicaces samedi 5 juillet 2025 de 14h à 18h à Cultura Bègles.**
+<hr>
+
 Une comédie romantique contemporaine feel good désopilante, au cœur de la métropole bordelaise.
 
 > &laquo;&nbsp;On ne vous demande pas de prouver que vous êtes en vie, on vous demande de prouver que vous n’êtes pas morte.&nbsp;&raquo;
@@ -55,6 +58,7 @@ Ce roman a été <a href="https://www.fyctia.com/blog/articles/833" target="_bla
   * <a href="https://www.fnac.com/a21354652/Catherine-Phan-Van-Cercueil-et-Prejuges" target="_blank">Fnac</a>
   * <a href="https://www.kobo.com/fr/fr/ebook/cercueil-et-prejuges?sId=670c2ced-ff1e-4775-9638-15b4f2ad9d6d" target="_blank">Kobo</a>
   * <a href="https://shop.vivlio.com/product/9782385754457_9782385754457_2/cercueil-et-prejuges" target="_blank">Vivlio</a>
+  * <a href="https://www.7switch.com/fr/ebook/9782385754457/cercueil-et-prejuges" target="_blank">7switch</a>
   * <a href="https://www.amazon.fr/Cercueil-Pr%C3%A9jug%C3%A9s-Catherine-Phan-Van/dp/2385754460" target="_blank">Amazon</a>
 
 
@@ -77,6 +81,8 @@ Ce roman a été <a href="https://www.fyctia.com/blog/articles/833" target="_bla
 > "Éclats de rires assurés dès les premières pages (&hellip;) Entre le caractère bien trempé d'Adélie, ses réparties et les situations particulièrement cocasses qui se succèdent, il n'y a pas beaucoup de répit pour reprendre son souffle d'une péripétie à une autre. (&hellip;) Un moment de lecture véritablement frais, drôle, pétillant et touchant&nbsp;!" -- <a href="https://www.babelio.com/livres/Phan-Van-Cercueil-et-Prejuges/1818928/critiques/4543371" target="_blank">LaBibliDeNani sur Babelio</a>
 
 > "ÉNORME COUP DE CŒUR (&hellip;) Un récit d'une grande originalité où l'on rit, on s'attache,  on aime fort les personnages. (&hellip;) J'ai vraiment passé un moment unique avec cette histoire très originale et rondement menée. La plume est drôle et fait mouche&nbsp;! (&hellip;) Beaucoup de belles surprises dans cette lecture,  que ce soit le sujet (juste dingue et génial), la passion d'Adélie (atypique) et cette romance qui prend son temps&hellip; (&hellip;) À lire absolument&nbsp;!!!" -- <a href="https://www.instagram.com/p/DK8yob3shhR/" target="_blank">lectures2thalie sur Instagram</a>
+
+> "Une comédie romantique pétillante, pleine d’humour, de situations improbables, et de personnages attachants. Catherine Phan&nbsp;van a su me surprendre du début à la fin. C’est drôle, léger, mais pas creux du tout. On rit, on s’attendrit… et en prime, on plonge dans les joies (et les absurdités) de l’administration française. Et ça, franchement, c’est un régal de vérité 😅 Tout est subtilement exagéré et tellement juste à la fois&nbsp;! Une lecture fraîche, intelligente et originale, qui m’a fait passer un super moment." -- <a href="https://www.babelio.com/livres/Phan-Van-Cercueil-et-Prejuges/1818928/critiques/4591188" target="_blank"> LeslecturesdAngie sur Babelio</a>
 
 > "Cette lecture est une bouffée de bonne humeur et de fraîcheur. (&hellip;) Une histoire rafraichissante sur fond de quiproquos, d’acte de décès, de problèmes administratifs et de cohabitation forcée. Des personnages aussi drôles qu’attachants.  De quoi vous faire passer un très bon moment." -- <a href="https://www.instagram.com/p/DLLCPEXNIZL/" target="_blank">histoiresenchantees sur Instagram</a>
 
