@@ -28,7 +28,7 @@ sidebar:
       18 €
 ---
 
-📢 Prochaine séance de **dédicaces samedi 5 juillet 2025 de 14h à 18h à Cultura Bègles.**
+📢 Prochaine séance de **dédicaces samedi 9 août 2025 de 10h à 18h à l'espace culturel Leclerc de Saint-Médard-en-Jalles.**
 <hr>
 
 Une comédie romantique contemporaine feel good désopilante, au cœur de la métropole bordelaise.

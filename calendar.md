@@ -10,10 +10,8 @@ page_js:
   - /assets/js/h5pcalendar.min.js
 ---
 
-## Dédicaces de [*Cercueil et préjugés*](/publications/cercueil-et-prejuges)
+## Prochaines dédicaces de [*Cercueil et préjugés*](/publications/cercueil-et-prejuges)
 
-- **Samedi 28 juin 2025, de 14h à 18h**, au magasin **Cultura** de **Bordeaux Lac**.
-- **Samedi 5 juillet 2025 après-midi**, au magasin **Cultura** de **Bègles**.
 - **Samedi 9 août 2025**, toute la journée à l'**Espace Culturel Leclerc** de **Saint-Médard-en-Jalles**.
 - **Samedi 4 octobre 2025**, toute la journée à l'**Espace Culturel Leclerc** de **Langon**.
 - **Samedi 6 décembre 2025**, toute la journée au magasin **Cultura** de **Bègles**.
@@ -22,9 +20,9 @@ D'autres dates potentielles sont en attente de confirmation. 😊
 
 ## Dernières parutions
 
-- **Dimanche 1er juin 2025**, sortie du numéro 14 de *L'Indé Panda*, avec ma nouvelle [*La Nuit des betteraves grimaçantes*](/publications/la-nuit-des-betteraves-grimacantes).
-- **Vendredi 20 juin 2025**, sortie de la version ebook de mon premier roman, [*Cercueil et préjugés*](/publications/cercueil-et-prejuges).
 - **Jeudi 26 juin 2025**, sortie de la version papier (format broché) de mon premier roman, [*Cercueil et préjugés*](/publications/cercueil-et-prejuges).
+- **Vendredi 20 juin 2025**, sortie de la version ebook de mon premier roman, [*Cercueil et préjugés*](/publications/cercueil-et-prejuges).
+- **Dimanche 1er juin 2025**, sortie du numéro 14 de *L'Indé Panda*, avec ma nouvelle [*La Nuit des betteraves grimaçantes*](/publications/la-nuit-des-betteraves-grimacantes).
 
 <div id="h5p-publications"></div>
 
