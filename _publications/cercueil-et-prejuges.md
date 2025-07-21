@@ -62,16 +62,12 @@ Ce roman a été <a href="https://www.fyctia.com/blog/articles/833" target="_bla
   * <a href="https://www.amazon.fr/Cercueil-Pr%C3%A9jug%C3%A9s-Catherine-Phan-Van/dp/2385754460" target="_blank">Amazon</a>
 
 
-**La quatrième de couverture officielle**&nbsp;:
-<br /><br />*Une jeune femme forcée de cohabiter avec un colocataire un peu trop exaspérant, et confrontée à une situation administrative ubuesque&nbsp;! Fous rires garantis&nbsp;!*
-<br />Deux surprises de taille attendent Adélie, jeune trentenaire aussi attachée à son indépendance qu’à son célibat, lorsqu’elle rentre chez elle après trois mois d’absence.
-<br />La première se prénomme Alex, est immense, a des muscles bien définis et des yeux pétillants de malice. Et surtout, il affirme avoir signé un bail pour l’appartement d’Adélie. Les voilà tous les deux locataires du même logement…
-<br />La seconde concerne son état civil. Décédée. Voilà ce qui est inscrit en face de son nom&nbsp;! Oui, rien que ça…
-<br />Pour récapituler les mauvaises surprises qui se succèdent dans la vie d’Adélie&nbsp;: un licenciement abusif qui l’a amenée à s’éloigner pour faire le point, éloignement pendant lequel elle serait décédée (bon, pas vraiment, mais pour l’administration, oui…), un squatteur au sourire craquant et au pyjama douteux…
-<br />Et si c’était l’occasion pour elle de prendre ce tournant qu’elle désire tant dans sa vie&nbsp;?
-<br />Si pour ça elle doit supporter un colocataire un peu trop exaspérant et affronter l’enfer administratif, qu’à cela ne tienne&nbsp;! Elle est prête.
-<br />Enfin, peut-être…
-{: .notice--info}
+## La presse en parle
+
+* interview dans la matinale d'Ici Gironde du 21&nbsp;juillet.
+<audio controls src="/assets/audio/20250721-interview-ici-gironde.mp3"><a href="/assets/audio/20250721-interview-ici-gironde.mp3">clic droit puis "enregistrer sous" pour télécharger l'audio</a></audio>
+* article dans le journal Sud-Ouest du 4&nbsp;juillet.
+<img alt="article du journal Sud-Ouest sur Cercueil et préjugés" src="/assets/images/newsletter/2025-07-04_sudouest.jpg">
 
 
 ## Quelques premiers retours de lectrices
@@ -114,6 +110,18 @@ Les avis sont essentiels pour donner de la visibilité à un roman et l'aider à
 * <a href="https://www.goodreads.com/book/show/227994940-cercueil-et-pr-jug-s" target="_blank">Goodreads</a>
 * <a href="https://www.gleeph.com/book/catherine-phan-van-cercueil-et-prejuges/ean/9782385754464" target="_blank">Gleeph</a>
 
+**La quatrième de couverture officielle**&nbsp;:
+<br /><br />*Une jeune femme forcée de cohabiter avec un colocataire un peu trop exaspérant, et confrontée à une situation administrative ubuesque&nbsp;! Fous rires garantis&nbsp;!*
+<br />Deux surprises de taille attendent Adélie, jeune trentenaire aussi attachée à son indépendance qu’à son célibat, lorsqu’elle rentre chez elle après trois mois d’absence.
+<br />La première se prénomme Alex, est immense, a des muscles bien définis et des yeux pétillants de malice. Et surtout, il affirme avoir signé un bail pour l’appartement d’Adélie. Les voilà tous les deux locataires du même logement…
+<br />La seconde concerne son état civil. Décédée. Voilà ce qui est inscrit en face de son nom&nbsp;! Oui, rien que ça…
+<br />Pour récapituler les mauvaises surprises qui se succèdent dans la vie d’Adélie&nbsp;: un licenciement abusif qui l’a amenée à s’éloigner pour faire le point, éloignement pendant lequel elle serait décédée (bon, pas vraiment, mais pour l’administration, oui…), un squatteur au sourire craquant et au pyjama douteux…
+<br />Et si c’était l’occasion pour elle de prendre ce tournant qu’elle désire tant dans sa vie&nbsp;?
+<br />Si pour ça elle doit supporter un colocataire un peu trop exaspérant et affronter l’enfer administratif, qu’à cela ne tienne&nbsp;! Elle est prête.
+<br />Enfin, peut-être…
+{: .notice--info}
+
+
 ## La genèse du roman
 
 L'idée de départ de ce roman m'est venue suite à la lecture d'un <a href="https://www.lepoint.fr/societe/declare-mort-il-se-bat-pour-prouver-qu-il-est-toujours-en-vie-21-09-2017-2158820_23.php" target="_blank">fait divers bien réel</a>&nbsp;: l’histoire d’un homme déclaré mort par erreur par les autorités, après la découverte d’un corps sur un terrain qui lui appartenait.
@@ -130,5 +138,5 @@ Au mois de juin&nbsp;2024, j'ai reçu deux oui&hellip; et c'est finalement aux *
 
 ## Les coulisses de la publication
 
-Pour ne pas rater la sortie du roman, pour suivre les coulisses de la publication, ou pour ne rien rater de l'avancée de mes autres projets, n'hésitez pas à <a href="{{ '/newsletter' | relative_url }}">vous abonner à ma newsletter</a>&nbsp;!
+Pour suivre les coulisses de la publication, ou pour ne rien rater de l'avancée de mes autres projets, n'hésitez pas à <a href="{{ '/newsletter' | relative_url }}">vous abonner à ma newsletter</a>&nbsp;!
 
