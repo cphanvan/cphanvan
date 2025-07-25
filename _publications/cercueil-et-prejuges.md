@@ -2,6 +2,7 @@
 title: "Cercueil et préjugés"
 description: Cercueil et préjugés, une comédie romantique feel good
 layout: single
+toc: true
 classes: wide
 share: true
 publication_date: 2025-03-21T20:00:00Z
@@ -28,24 +29,23 @@ sidebar:
       18 €
 ---
 
+## Le roman
+
 📢 Prochaine séance de **dédicaces samedi 9 août 2025 de 10h à 18h à l'espace culturel Leclerc de Saint-Médard-en-Jalles.**
 <hr>
 
-Une comédie romantique contemporaine feel good désopilante, au cœur de la métropole bordelaise.
+Une **comédie romantique contemporaine feel good** désopilante, au cœur de la métropole bordelaise.
 
 > &laquo;&nbsp;On ne vous demande pas de prouver que vous êtes en vie, on vous demande de prouver que vous n’êtes pas morte.&nbsp;&raquo;
 
 Bordeaux, février 2023. De retour chez elle après trois mois d’absence coupée du monde, Adélie tombe nez à nez avec un inconnu. Quelle n’est pas sa stupeur lorsqu’elle comprend que son appartement a été reloué car tout le monde la croit morte&nbsp;! Dès lors, la jeune trentenaire va aller de surprise en déconvenue et devoir se confronter aux rouages les plus absurdes de l’administration française pour retrouver une existence légale, trouver un moyen de subvenir à ses besoins… et cohabiter tant bien que mal avec le nouveau locataire de son logement.
 {: .notice}
 
+Le roman est publié aux éditions Alter Real dans la collection *Real Love*, disponible en versions brochée et numérique.
 
-## Le roman
+Il a été <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**finaliste du concours Fyctia "Comme dans un film"**</a> en 2023. S'il n'a pas gagné, le jury a pourtant reconnu avoir eu du mal à trancher, car le pitch a plu, et le potentiel comique et émotionnel du texte a été salué.
 
-Il s'agit d'une **comédie romantique contemporaine feel good**, publiée aux éditions Alter Real dans la collection *Real Love*, disponible en versions brochée et numérique.
-
-Ce roman a été <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**finaliste du concours Fyctia "Comme dans un film"**</a> en 2023. S'il n'a pas gagné, le jury a pourtant reconnu avoir eu du mal à trancher, car le pitch a plu, et le potentiel comique et émotionnel du texte a été salué.
-
-### Où vous le procurer
+## Où vous le procurer
 
 * **En boutique**, dans votre librairie habituelle ou n'importe quelle grande surface culturelle (Cultura, Fnac, Espace Culturel Leclerc&hellip;)
 
@@ -110,8 +110,26 @@ Les avis sont essentiels pour donner de la visibilité à un roman et l'aider à
 * <a href="https://www.goodreads.com/book/show/227994940-cercueil-et-pr-jug-s" target="_blank">Goodreads</a>
 * <a href="https://www.gleeph.com/book/catherine-phan-van-cercueil-et-prejuges/ean/9782385754464" target="_blank">Gleeph</a>
 
-**La quatrième de couverture officielle**&nbsp;:
-<br /><br />*Une jeune femme forcée de cohabiter avec un colocataire un peu trop exaspérant, et confrontée à une situation administrative ubuesque&nbsp;! Fous rires garantis&nbsp;!*
+Vous pouvez bien sûr aussi [/contact](me contacter) pour me faire part de votre retour de lecture directement. 😊
+
+## Quelques extraits
+
+### Chapitre 3 – La revenante (extrait)
+
+> J’entends la respiration de Monsieur Morgault. Lourde. Saccadée. Seule, avec une violence inouïe,elle occulte les autres sons ambiants. Le temps semble ne pas vouloir cesser de s’étirer. Pétrifiée,j’aperçois un bras qui émerge du fauteuil. Dans un geste d’une infinie lenteur, une main tremblanteécarte Alexandre. Deux yeux exorbités se posent sur moi. La tête qui les abrite oscille d’un côté àl’autre, en un mouvement perpétuel.<br>—&nbsp;Adélie&nbsp;? Non, non… Impossible. Vous êtes morte. J’ai trouvé votre corps moi-même… Il y a deux mois.
+
+### Chapitre 18 – Bien vivante (extrait)
+
+> —&nbsp;Un certificat de vie&nbsp;? Ça existe, ça&nbsp;?<br>Alex réagit avec autant d’étonnement que Tina et moi un peu plus tôt. Je suis assez pressée que cette erreur sur mon décès présumé soit corrigée, parce que depuis mon retour vendredi soir, quand je parle à quelqu’un, j’ai l’impression soit de devoir raconter comment on a pu me croire morte à tort, soit de devoir expliquer des curiosités administratives dont j’ignorais moi-même encore tout il y a quelques jours, voire quelques heures à peine.<br>Ma réponse le fait hocher la tête&nbsp;:<br>—&nbsp;Ça ne doit quand même pas être super courant, je suppose.<br>—&nbsp;J’en sais rien. Peut-être que si, en fait. Y a bien un imprimé Cerfa dédié, pointé-je avec une moue blasée.<br>—&nbsp;Non. T’es sérieuse&nbsp;? s’exclame-t-il d’un ton abasourdi.<br>Je pose le papier sur la table devant lui.<br>—&nbsp;Regarde.<br>—&nbsp;Waouh. Numéroté 11&nbsp;753. Tu imagines&nbsp;? Ça veut dire qu’il existe plus de 11&nbsp;000 sortes de formulaires différents, dans ce pays. L’administration française me fait flipper.
+
+### Chapitre 21 – Ma situation (extrait)
+
+> Elle me scrute d’un œil torve, puis se décolle de son dossier. Ses coudes viennent prendre appui sur son bureau, les doigts de ses deux mains s’étirent en miroir et leurs extrémités se ventousent à celles de leurs jumeaux, sa bouche se pose contre ses index joints et se déforme en une moue écœurée. Alors, seulement, elle me crache son venin au visage&nbsp;:<br>—&nbsp;Vous ne seriez pas la première à tenter de frauder.<br>J’en reste ébahie.<br>—&nbsp;Je vous demande *pardon*&nbsp;? suffoqué-je.<br>—&nbsp;La fraude aux allocations, ça ne vous dit rien&nbsp;? Ne jouez pas les innocentes. Vous ne me bernerez pas&nbsp;: je suis attentive à ce que relatent les médias.<br>Je rectifie&nbsp;: elle est pire que conne, en fait.<br>—&nbsp;Et vous pensez que si je voulais frauder pour toucher des allocations auxquelles je n’aurais pas droit, j’aurais choisi de me faire passer pour morte&nbsp;? Après un petit brainstorming du style&nbsp;: «&nbsp;Voyons voyons, quel pourrait bien être le profil idéal pour palper un maximum d’aides de l’État&nbsp;? Bon sang mais c’est bien sûr&nbsp;: le bon vieux macchabée, parbleu&nbsp;!&nbsp;».<br>Sa paupière droite frémit. Elle pince les lèvres et fait mine de chasser une mouche imaginaire de la main.
+
+
+## La quatrième de couverture officielle
+
+*Une jeune femme forcée de cohabiter avec un colocataire un peu trop exaspérant, et confrontée à une situation administrative ubuesque&nbsp;! Fous rires garantis&nbsp;!*
 <br />Deux surprises de taille attendent Adélie, jeune trentenaire aussi attachée à son indépendance qu’à son célibat, lorsqu’elle rentre chez elle après trois mois d’absence.
 <br />La première se prénomme Alex, est immense, a des muscles bien définis et des yeux pétillants de malice. Et surtout, il affirme avoir signé un bail pour l’appartement d’Adélie. Les voilà tous les deux locataires du même logement…
 <br />La seconde concerne son état civil. Décédée. Voilà ce qui est inscrit en face de son nom&nbsp;! Oui, rien que ça…
