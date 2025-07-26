@@ -110,7 +110,7 @@ Les avis sont essentiels pour donner de la visibilité à un roman et l'aider à
 * <a href="https://www.goodreads.com/book/show/227994940-cercueil-et-pr-jug-s" target="_blank">Goodreads</a>
 * <a href="https://www.gleeph.com/book/catherine-phan-van-cercueil-et-prejuges/ean/9782385754464" target="_blank">Gleeph</a>
 
-Vous pouvez bien sûr aussi [/contact](me contacter) pour me faire part de votre retour de lecture directement. 😊
+Vous pouvez bien sûr aussi [me contacter](/contact) pour me faire part de votre retour de lecture directement. 😊
 
 ## Quelques extraits
 
