@@ -116,7 +116,7 @@ Vous pouvez bien sûr aussi [me contacter](/contact) pour me faire part de votre
 
 ### Chapitre 3 – La revenante (extrait)
 
-> J’entends la respiration de Monsieur Morgault. Lourde. Saccadée. Seule, avec une violence inouïe,elle occulte les autres sons ambiants. Le temps semble ne pas vouloir cesser de s’étirer. Pétrifiée,j’aperçois un bras qui émerge du fauteuil. Dans un geste d’une infinie lenteur, une main tremblanteécarte Alexandre. Deux yeux exorbités se posent sur moi. La tête qui les abrite oscille d’un côté àl’autre, en un mouvement perpétuel.<br>—&nbsp;Adélie&nbsp;? Non, non… Impossible. Vous êtes morte. J’ai trouvé votre corps moi-même… Il y a deux mois.
+> J’entends la respiration de Monsieur Morgault. Lourde. Saccadée. Seule, avec une violence inouïe, elle occulte les autres sons ambiants. Le temps semble ne pas vouloir cesser de s’étirer. Pétrifiée, j’aperçois un bras qui émerge du fauteuil. Dans un geste d’une infinie lenteur, une main tremblante écarte Alexandre. Deux yeux exorbités se posent sur moi. La tête qui les abrite oscille d’un côté à l’autre, en un mouvement perpétuel.<br>—&nbsp;Adélie&nbsp;? Non, non… Impossible. Vous êtes morte. J’ai trouvé votre corps moi-même… Il y a deux mois.
 
 ### Chapitre 18 – Bien vivante (extrait)
 
