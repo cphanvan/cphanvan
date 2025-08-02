@@ -64,13 +64,19 @@ Il a été <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**
 
 ## La presse en parle
 
+* présentation du roman et lecture du premier chapitre sur Radio Bouton dans l'émission spéciale "lectures de vacances" du 27&nbsp;juillet (je n'ai posté ici que les extraits de l'émission qui concernent Cercueil et préjugés, mais vous pouvez écouter l'émission entière via <a href="https://radio-bouton.org/podcast/lecture-de-vacances-27-juillet-2025/" target="_blank">ce lien</a>)&nbsp;:
+<audio controls src="/assets/audio/20250727_radio-bouton_Lecture-de-vacances_extraits.mp3"><a href="/assets/audio/20250727_radio-bouton_Lecture-de-vacances_extraits.mp3">clic droit puis "enregistrer sous" pour télécharger l'audio</a></audio>
 * interview dans la matinale d'Ici Gironde du 21&nbsp;juillet.
 <audio controls src="/assets/audio/20250721-interview-ici-gironde.mp3"><a href="/assets/audio/20250721-interview-ici-gironde.mp3">clic droit puis "enregistrer sous" pour télécharger l'audio</a></audio>
+* article dans l'hebdomadaire Courrier de Gironde du 1er&nbsp;août
+<img alt="article du Courrier de Gironde sur Cercueil et préjugés" src="/assets/images/publications/20250801_courrier-de-gironde.jpg">
 * article dans le journal Sud-Ouest du 4&nbsp;juillet.
 <img alt="article du journal Sud-Ouest sur Cercueil et préjugés" src="/assets/images/newsletter/2025-07-04_sudouest.jpg">
 
 
 ## Quelques premiers retours de lectrices
+
+> "Le pitch est original et le ton génial. (&hellip;) L'auteure maîtrise les jeux de mots, les références culturelles, l'humour, mais sait aussi nous immerger dans un tourbillon d'émotions. On passe du rire aux larmes, on se laisse divertir, on sourit aussi. Mais surtout on rit. De toutes les couleurs&nbsp;! Avec Adélie et Alex, on rit jaune, ou de bon coeur, on pouffe, on explose, d'un rire franc ou modéré. On passe par tous les niveaux du rire. Et ça fait du bien. (&hellip;) C'est une histoire folle, cocasse, fantasque, mais pas que. On y croise des personnages attachants, imparfaits, authentiques. On y côtoie la bienveillance, la compréhension, l'amitié. Mais aussi l'amour. (&hellip;) Ce livre est une bouffée d'air frais, une parenthèse de bienveillance (et de musique&nbsp;!), un condensé d'humour et d'amour en tout genre, un moment de divertissement parfait&nbsp;! -- <a href="https://www.babelio.com/livres/Phan-Van-Cercueil-et-Prejuges/1818928/critiques/4643409" target="_blank">Guyanelle sur Babelio</a>
 
 > "Quel bonheur de lecture&nbsp;! J'ai adoré plonger dans l'univers déjanté d'Adélie, une héroïne aussi malchanceuse qu'attachante. (&hellip;) L'intrigue est bien ficelée, rythmée, sans temps mort. (&hellip;) La plume de l'autrice est fluide, vive, pleine d'humour et de justesse. Un vrai régal&nbsp;! (&hellip;) Un feel-good comme on les aime, à mettre entre toutes les mains&nbsp;!" -- <a href="https://www.babelio.com/livres/Phan-Van-Cercueil-et-Prejuges/1818928/critiques/4527174" target="_blank">bouquineuse67 sur Babelio</a>
 
@@ -83,6 +89,8 @@ Il a été <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**
 > "Cette lecture est une bouffée de bonne humeur et de fraîcheur. (&hellip;) Une histoire rafraichissante sur fond de quiproquos, d’acte de décès, de problèmes administratifs et de cohabitation forcée. Des personnages aussi drôles qu’attachants.  De quoi vous faire passer un très bon moment." -- <a href="https://www.instagram.com/p/DLLCPEXNIZL/" target="_blank">histoiresenchantees sur Instagram</a>
 
 > "Ce roman, c’est une bouffée d’air frais. Une comédie pétillante comme on les aime, avec des dialogues savoureux, des situations totalement absurdes (et pourtant si crédibles), un duo qui fonctionne à merveille et des éclats de rire à chaque page. J’ai dévoré cette lecture comme on croque dans une tablette de chocolat un soir de crise existentielle&nbsp;: avec passion, frénésie et un petit bruit de satisfaction à la fin." -- <a href="https://www.instagram.com/p/DLSwWf5NCmC/" target="_blank">misses_kaise sur Instagram</a>
+
+> "J'ai tellement ri&nbsp;! Il faut dire qu'Adélie n'a pas la langue dans sa poche, ce qui entraîne des situations cocasses tout simplement hilarantes. Elle est pétillante, solaire et super touchante. (&hellip;) Parlons d'Alex maintenant&nbsp;! Il est génial&nbsp;! Doux, altruiste et légèrement maladroit mais sans ses mésaventures, jamais Adélie ne se serait installée chez lui&nbsp;! Leur dynamique est adorable. (&hellip;) *Cercueil et préjugés*, c'est un sacré chaos, bourré d'humour et plein de tendresse, qui m'a fait verser quelques larmes à certains moments. Je ne m'attendais pas à autant aimer et je vous le recommande à 100%&nbsp;! -- <a href="https://www.babelio.com/livres/Phan-Van-Cercueil-et-Prejuges/1818928/critiques/4638482" target="_blank">em_lire_delivre sur Babelio</a>
 
 > "Une histoire à la fois drôle et surprenamment touchante. (&hellip;) Loufoque serait le premier terme qui me vient en tête en pensant à cette histoire. Mais c’est ce qui fait son unicité. J’aime ce comique de situation où chaque étape termine en cul de sac, où chaque espoir est vite réduit à néant. (&hellip;) Adélie a su me surprendre par sa fragilité et son passé." -- <a href="https://www.instagram.com/p/DLUTCHfygn0/" target="_blank">lili_reading sur Instagram</a>
 
