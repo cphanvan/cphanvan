@@ -1,6 +1,6 @@
 ---
 title: "Mésaventures vitaminées"
-description: Une nouvelle de fantasy. À paraître en avril 2025 dans l'anthologie *Festins imaginaires* de  L'Imagin'arium.
+description: Une nouvelle de fantasy. Publiée en avril 2025 dans l'anthologie *Festins imaginaires* pour le salon Imagina'livres.
 layout: single
 classes: wide
 share: true
@@ -15,13 +15,13 @@ sidebar:
     image_alt: "couverture de l'anthologie Festins imaginaires"
     text: |
       Nouvelle de fantasy\
-      À paraître dans l'anthologie *Festins imaginaires*, publiée par  L'Imagin'arium\
+      Parue dans l'anthologie *Festins imaginaires* pour le salon Imagina'livres\
       Avril 2025
 ---
 
 Une nouvelle de fantasy qui vous entraînera dans un monde où sévit une étrange maladie…
 
-À paraître le 5 avril 2025 dans l'anthologie ***Festins imaginaires***, publiée par l'association <a href="https://www.instagram.com/imaginarium.asso/" target="_blank">l'Imagin'arium</a>.
+Parue le 5 avril 2025 dans l'anthologie ***Festins imaginaires*** publiée pour le salon <a href="https://www.instagram.com/imaginalivres/" target="_blank">Imagina'livres</a>.
 
 ## Un extrait&nbsp;?
 

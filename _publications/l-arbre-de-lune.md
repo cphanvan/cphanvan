@@ -19,13 +19,13 @@ sidebar:
       Octobre 2023
 ---
 
-Nouvelle finaliste (3e lauréate), publiée en octobre 2023 dans le recueil du <a href="https://festival-fantastique.fr/" target="_blank"> **Festival du Fantastique de Béziers**</a>, sur le thème «&nbsp;Légendes&nbsp;».
+Nouvelle primée (3e prix) en 2023 lors du <a href="https://festival-fantastique.fr/" target="_blank"> **Festival du Fantastique de Béziers**</a>, publiée en octobre 2023 dans le recueil du festival sur le thème «&nbsp;Légendes&nbsp;».
 
 J'y ai entremêlé une vieille légende du Viêt-Nam et l'histoire des «&nbsp;moon trees&nbsp;» de la NASA.
 
 Envie de découvrir ce que sont les véritables arbres de lune, ces fameux &laquo;&nbsp;moon trees&nbsp;&raquo;&nbsp;? Je vous l'explique [sur mon blog](/ecriture/2023/09/30/la-science-dans-mes-nouvelles.html#larbre-de-lune-lh%C3%A9ritage-de-la-mission-apollo-14).
 
-La version numérique du recueil est **disponible gratuitement** <a href="https://festival-fantastique.fr/editions-precedentes/" target="_blank">sur le site du festival</a>, soit <a href="https://festival-fantastique.fr/wp-content/uploads/ffb2023.epub_.zip" target="_blank">au format epub</a>, soit <a href="https://festival-fantastique.fr/wp-content/uploads/FFB-2023-pdf.pdf" target="_blank">au format pdf</a>.
+La version numérique du recueil est **disponible gratuitement** <a href="https://festival-fantastique.fr/laureat2023/" target="_blank">sur le site du festival</a>, soit <a href="https://festival-fantastique.fr/wp-content/uploads/FFB-2023-epub.zip" target="_blank">au format epub</a>, soit <a href="https://festival-fantastique.fr/wp-content/uploads/FFB-2023-pdf.pdf" target="_blank">au format pdf</a>.
 
 
 ## Illustration par Quentin Aubé

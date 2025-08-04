@@ -1,6 +1,6 @@
 ---
 title: "Pot à céder"
-description: Une nouvelle fantastique. Parue en avril 2023 dans le recueil Sorcellerie végétale, publié par L'Imagin'arium.
+description: Une nouvelle fantastique. Parue en avril 2023 dans le recueil Sorcellerie végétale pour le salon Imagina'livres.
 layout: single
 classes: wide
 share: true
@@ -15,7 +15,7 @@ sidebar:
     image_alt: "couverture"
     text: |
       Nouvelle fantastique\
-      Parue dans l'anthologie *Sorcellerie végétale*, publiée par L'Imagin'arium\
+      Parue dans l'anthologie *Sorcellerie végétale* pour le salon Imagina'livres\
       Avril 2023
 ---
 
@@ -25,9 +25,7 @@ Justement, ce matin-là, sa rédaction l'envoie dans une jardinerie. Les infos q
 
 <hr>
 
-Nouvelle parue en avril 2023 dans l'anthologie ***Sorcellerie végétale***, publiée par l'association <a href="https://www.instagram.com/imaginarium.asso/" target="_blank">L'imagin'arium</a> et disponible à la <a href="https://www.helloasso.com/associations/l-imagin-arium/boutiques/sorcellerie-vegetale" target="_blank">vente à distance via ce lien</a>.
-
-Si vous préférez un **exemplaire dédicacé**, vous pouvez <a href="https://catherinephanvan.sumupstore.com/article/sorcellerie-vegetale" target="_blank">le commander directement via ma boutique en ligne</a>.
+Nouvelle parue en avril 2023 dans l'anthologie ***Sorcellerie végétale***, publiée pour le salon <a href="https://www.instagram.com/imaginalivres/" target="_blank">Imagina'livres</a> et disponible <a href="https://catherinephanvan.sumupstore.com/article/sorcellerie-vegetale" target="_blank">sur ma boutique en ligne</a>.
 
 
 ## Un extrait&nbsp;?
