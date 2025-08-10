@@ -7,9 +7,9 @@ toc: true
 toc_label: Liens utiles
 ---
 
-## Cercueil et préjugés -- juin 2025
+## Cercueil et préjugés
 
-[Où vous procurer le roman](/publications/cercueil-et-prejuges/#o%C3%B9-vous-le-procurer){: .btn .btn--info .btn--large .btn--linktree}
+[Où vous procurer le roman (broché ou numérique)](/publications/cercueil-et-prejuges/#o%C3%B9-vous-le-procurer){: .btn .btn--info .btn--large .btn--linktree}
 
 [*Cercueil et préjugés*, une comédie romantique feel good](/publications/cercueil-et-prejuges){: .btn .btn--info .btn--large .btn--linktree}
 
