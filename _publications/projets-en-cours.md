@@ -1,12 +1,12 @@
 ---
 title: "Projets en cours"
-description: Regard sur l'avenir. Mes projets en cours d'écriture, ceux à paraître, ceux qui attendent que les autres leur laissent la place...
+description: Regard sur l'avenir. Mes projets en cours d'écriture, ceux à paraître, ceux qui attendent que les autres leur laissent la place…
 layout: single
 classes: wide
 share: true
 publication_date: 2970-01-01T00:00:00Z
 excerpt: |
-  Regard sur l'avenir…<!--excerptEnd-->
+  Mes textes en soumission, en cours d'écriture, en préparation…<!--excerptEnd-->
 header:
   teaser: /assets/images/publications/projets-en-cours-teaser.webp
 sidebar_newsletter: true
@@ -32,6 +32,32 @@ Lors de mon envoi au concours Bookbuster, j'attendais encore les retours de bêt
 À partir de mi-septembre, après avoir reçu les retours de bêta-lecture, j'ai effectué de nombreuses corrections sur le roman. La mouture finalisée est en phase de soumissions éditoriales depuis le 11 octobre 2024.
 
 
+### E comme&hellip;
+
+*texte court -- YA*
+
+Il s'agit d'un texte court (novella / novelette) aux accents oniriques, destiné à un public young adult, qui aborde des thématiques graves&nbsp;: euthanasie, handicap visible ou invisible, validisme.
+
+J'ai lancé une première vague de soumissions en août 2025. C'est un manuscrit que j'aime vraiment beaucoup, mais en raison de son format particulier, je crains malheureusement qu'il soit très compliqué à placer.
+
+Le pitch&nbsp;:
+> Césaire, un lycéen solitaire et timide, dénigré par ses camarades, est chargé de trier des lettres pour une exposition. Ému par plusieurs d'entre elles, récentes et signées par une mystérieuse «&nbsp;E&nbsp;», il se lance à la recherche de cette inconnue qui lui ressemble.
+
+
+### Chasseuse de rêves
+
+*roman ado*
+
+Il s'agit d'un roman contemporain destiné aux adolescents de 12/13 ans et plus. J'ai mûri l'histoire au début du premier trimestre 2022 et ai terminé l'écriture du premier jet en juin de la même année. La [phase de bêtalecture](/ecriture/2022/06/23/b%C3%AAta-lecture-chasseuse-de-r%C3%AAves.html) et les corrections sont terminées depuis mi-septembre 2022.
+
+La première vague de soumissions de ce roman a essuyé quelques refus éditoriaux, mais suite à ma participation à la quatrième édition des <a href="https://www.murmures-litteraires.fr/" target="_blank">Murmures Littéraires</a>, j'ai effectué au cours de l'été 2025 une nouvelle phase de corrections avant de poursuivre les soumissions.
+
+Le pitch&nbsp;:
+> Maïssane, quinze ans, cherche un job d’été pour financer un voyage en Guadeloupe, où vient de déménager sa meilleure amie. Après des premiers contacts difficiles avec le monde du travail, elle trouve enfin le poste idéal&nbsp;: la voilà embauchée par un homme mystérieux, qui affirme vouloir donner vie aux rêves des personnes âgées isolées.
+> <br>Mais cet inconnu dit-il la vérité&nbsp;? Et Maïssane ne risque-t-elle pas de se trouver impliquée malgré elle dans des affaires louches&nbsp;?
+
+
+
 ## En cours d'écriture&nbsp;:
 
 ### Breizh, son et sentiments
@@ -39,21 +65,10 @@ Lors de mon envoi au concours Bookbuster, j'attendais encore les retours de bêt
 *comédie romantique contemporaine feel good*
 
 Le pitch&nbsp;:
-> Coincée deux semaines en France suite à l’annulation de son vol, Gaby, une jeune Québécoise venue perfectionner ses talents culinaires dans l’hexagone avant d’ouvrir un restaurant dans son pays, se retrouve à passer les fêtes en Bretagne dans la famille de sa colocataire. Comme tous les ans, Yohann, le frère de cette dernière, monte une comédie musicale de Noël avec sa petite troupe amateur. Mais cette année, la chanteuse qui tient le rôle titre, victime d’une mauvaise chute lors d’un week-end au ski, se blesse au genou. Verdict&nbsp;: une rupture des ligaments croisés qui va l’empêcher de monter sur scène et contraindre Yohann à annuler le spectacle…<br>
-> À moins que la magie de Noël n’opère un miracle&nbsp;?
+> Coincée deux semaines en France suite à l’annulation de son vol, Gaby, une jeune Québécoise venue perfectionner ses talents culinaires dans l’hexagone avant d’ouvrir un restaurant dans son pays, se retrouve à passer les fêtes en Bretagne dans la famille de sa colocataire.
+> <br> Comme tous les ans, Yohann, le frère de cette dernière, monte une comédie musicale avec sa petite troupe amateur. Mais cette année, la chanteuse qui tient le rôle titre, victime d’une mauvaise chute lors d’un week-end au ski, se blesse au genou. Verdict&nbsp;: une rupture des ligaments croisés qui va l’empêcher de monter sur scène et contraindre Yohann à annuler le spectacle.
+> <br>À moins qu'une solution inattendue se présente&nbsp;?
 
-
-## À réécrire&nbsp;:
-
-### Chasseuse de rêves
-
-*roman jeunesse*
-
-Il s'agit d'un roman contemporain destiné aux adolescents de 12 ans et plus. J'ai mûri l'histoire au début du premier trimestre 2022 et ai terminé l'écriture du premier jet courant juin. La [phase de bêtalecture](/ecriture/2022/06/23/b%C3%AAta-lecture-chasseuse-de-r%C3%AAves.html) et les corrections sont terminées depuis mi-septembre 2022.
-
-La première version de ce roman a essuyé quelques refus éditoriaux, mais suite à ma participation à la quatrième édition des <a href="https://www.murmures-litteraires.fr/" target="_blank">Murmures Littéraires</a>, j'ai décidé d'entreprendre une réécriture complète avant de poursuivre les soumissions.
-
-Vous pouvez [en lire le pitch et le prologue par ici](/ecriture/2022/06/23/bêta-lecture-chasseuse-de-rêves.html#chasseuse-de-rêves-quest-ce-que-cest-).
 
 
 ## En attente&nbsp;:
@@ -87,9 +102,9 @@ Sauf que&hellip; Courant juillet 2022, je me suis rendu compte de deux choses&nb
 
 Ce qui me laisse avec sur les bras une novella solitaire, et un projet de roman qui nécessite de mûrir davantage avant d'être mené à bien. 🤔
 
-Après mûre réflexion (un an, quand même 😅 mais bon, je n'ai pas fait que ça, heureusement&nbsp;!), j'envisage donc une réécriture complète de ma novella de 2021, avec un travail de fond, notamment sur les personnages principaux, pour la transformer en *cosy mystery*. Ensuite seulement, je me lancerai dans le deuxième récit&hellip; et plus si affinités. (Oui, il est possible que j'ambitionne d'en faire une série, parce que pourquoi pas, hein&nbsp;!)
+Après réflexion, j'envisage une réécriture complète de ma novella de 2021, avec un travail de fond, notamment sur les personnages principaux, pour la transformer en *cosy mystery*. Ensuite seulement, je me lancerai dans le deuxième récit&hellip; et plus si affinités. (Oui, il est possible que j'ambitionne d'en faire une série, parce que pourquoi pas, hein&nbsp;!)
 
-Et j'ai vraiment envie, avec ces histoires, de tenter à fond l'expérience de l'autoédition. En 2024, si tout va bien. On croise les doigts&nbsp;!
+Affaire à suivre, donc.
 
 
 ### Les Oubliées d'Epeirandria

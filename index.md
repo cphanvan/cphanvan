@@ -17,7 +17,7 @@ header:
       url: "/publications/cercueil-et-prejuges"
     - label: "Mes autres publications"
       url: "/publications"
-summary: "Samedi 9 août à l'espace culturel Leclerc de St-Médard-en-Jalles, dédicace de <em><strong>Cercueil et préjugés</strong></em>, ma comédie romantique feel good parue aux éditions Alter Real."
+summary: "Samedi 4 octobre à l'espace culturel Leclerc de Langon, dédicace de <em><strong>Cercueil et préjugés</strong></em>, ma comédie romantique feel good parue aux éditions Alter Real."
 a_propos:
   - summary: |
       **Qui suis-je&nbsp;?**
