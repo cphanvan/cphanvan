@@ -24,7 +24,7 @@ toc_label: Liens utiles
 
 [*Un mensonge sans conséquence* (comédie romantique)](/publications/projets-en-cours/#un-mensonge-sans-conséquence){: .btn .btn--info .btn--large .btn--linktree}
 
-[*45,93&nbsp;grammes* (thriller psychologique)](/publications/projets-en-cours/#4593grammes){: .btn .btn--info .btn--large .btn--linktree}
+[*E comme&hellip;* (texte court YA)](/publications/projets-en-cours/#e-comme){: .btn .btn--info .btn--large .btn--linktree}
 
 [*Chasseuse de rêves* (roman ado)](/publications/projets-en-cours/#chasseuse-de-rêves){: .btn .btn--info .btn--large .btn--linktree}
 
