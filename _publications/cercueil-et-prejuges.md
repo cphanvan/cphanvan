@@ -29,10 +29,9 @@ sidebar:
       18 €
 ---
 
-## Le roman
-
 📢 Prochaine séance de **dédicaces samedi 4 octobre 2025 toute la journée à l'espace culturel Leclerc de Langon.**
-<hr>
+
+## Le roman
 
 Une **comédie romantique contemporaine feel good** désopilante, au cœur de la métropole bordelaise.
 
