@@ -13,21 +13,14 @@ header:
 books:
   - maintitle: "Nouvelles"
     title: "Enfin arrivées"
-    teaser: "Nouvelle jeunesse"
+    teaser: "(2024) Nouvelle jeunesse"
     image_path: /assets/images/echantillons/EnfinArrivees-couv.webp
     image_alt: "couverture de la nouvelle jeunesse Enfin arrivées"
     url: /assets/textes/Enfin_arrivees.pdf
     description: |
         Une brève nouvelle jeunesse (dès 8&nbsp;ans) sur le thème de &laquo;&nbsp;la surprise&nbsp;&raquo;.
-  - title: "Mauvais swing"
-    teaser: "Courte nouvelle contemporaine"
-    image_path: /assets/images/echantillons/MauvaisSwing-couv.webp
-    image_alt: "couverture de Mauvais swing"
-    url: /assets/textes/Mauvais_Swing.pdf
-    description: |
-        Une pianiste, un saxophoniste, du jazz… Et un jour, un mauvais swing.
   - title: "La légende de la Fée Neige"
-    teaser: "Une légende inconnue"
+    teaser: "(2021) Une légende inconnue"
     image_path: /assets/images/echantillons/LaLegendeDeLaFeeNeige-couv.webp
     image_alt: "couverture de La légende de la Fée Neige"
     url: /assets/textes/La_Legende_De_La_Fee_Neige.pdf
@@ -36,31 +29,15 @@ books:
 
         Retrouvez ici la légende qui a donné naissance à <a href="https://catherinephanvan.sumupstore.com/article/enfants-des-neiges" target="_blank">ma nouvelle Enfants des neiges</a>&nbsp;!
   - title: "Le Mystère de la maison abandonnée"
-    teaser: "Nouvelle jeunesse"
+    teaser: "(2023) Nouvelle jeunesse"
     image_path: /assets/images/echantillons/LeMystereDeLaMaisonAbandonnee-couv.webp
     image_alt: "couverture de la nouvelle jeunesse Le Mystère de la maison abandonnée"
     url: /assets/textes/Le_mystere_de_la_maison_abandonnee.pdf
     description: |
         Une brève nouvelle jeunesse (dès 8&nbsp;ans) sur le thème de &laquo;&nbsp;la grande expédition&nbsp;&raquo;.
-  - title: "Le lapin rose"
-    teaser: "Récit jeunesse"
-    image_path: /assets/images/echantillons/LeLapinRose-couv.webp
-    image_alt: "couverture du récit jeunesse Le lapin rose"
-    url: /assets/textes/Le_Lapin_Rose.pdf
-    description: |
-        Au travers d’une expérience qui ne tourne pas comme prévu, ce court récit jeunesse aborde le thème de la différence.
-
-        Prenez le temps d’admirer la couverture, entièrement créée par mon tout jeune fils (9 ans)&nbsp;!
-  - title: "Pitchi et la Gardienne des Âmes"
-    teaser: "Un texte de fantasy né lors d'un défi d'écriture"
-    image_path: /assets/images/echantillons/PitchiEtLaGardienneDesAmes-couv.webp
-    image_alt: "couverture de Pitchi et la Gardienne des Âmes"
-    url: /assets/textes/Pitchi_Et_La_Gardienne_Des_Ames.pdf
-    description: |
-        Quand Greer doit se résoudre à confier sa fille, âgée de sept jours à peine, à celui que lui a envoyé la gardiennes des âmes pour protéger l’enfant, Pitchi n’est sûrement pas le sauveur qu’elle espérait…
   - maintitle: "Nouvelles à 4 mains"
     title: "Cœur brisé et tasse de thé"
-    teaser: "Une Saint-Valentin en solitaire... ou pas !"
+    teaser: "(2022) Une Saint-Valentin en solitaire... ou pas !"
     image_path: /assets/images/echantillons/coeur-brise-et-tasse-de-the.webp
     image_alt: "couverture de Cœur brisé et tasse de thé"
     url: /assets/textes/Coeur_brise_et_tasse_de_the.pdf
@@ -70,7 +47,7 @@ books:
 
         En cette mi-février, nous avons décidé de récidiver et avons donc commis un nouveau texte à quatre mains, que nous vous proposons de retrouver ici. Si vous vous apprêtez à passer une Saint-Valentin en solitaire, rassurez-vous, c'est aussi le cas pour la charmante Alicia. À moins que&hellip;
   - title: "Derrière la porte"
-    teaser: "Un même début, pour une histoire très différente !"
+    teaser: "(2022) Un même début, pour une histoire très différente !"
     image_path: /assets/images/echantillons/derriere-la-porte.webp
     image_alt: "couverture de Derrière la porte"
     url: /assets/textes/Derriere_la_porte.pdf
@@ -89,7 +66,7 @@ books:
 {% include books %}
 
 
-### Halloween sous la neige
+### Halloween sous la neige (2021)
 
 {% include figure image_path="/assets/images/echantillons/halloween-sous-la-neige.webp" alt="paysage enneigé" caption="Image de rawpixel.com" %}
 
@@ -102,7 +79,7 @@ En cette fin de mois d'octobre, nous vous proposons donc de retrouver un texte d
 Vous pouvez retrouver Charlie Boireau <a href="https://bsky.app/profile/captnettle.bsky.social" target="_blank">sur son compte BlueSky</a>.
 
 
-## Défi Sprint 2021
+## Défi Sprint (2021)
 
 Du 8 au 14 juillet 2021, j'ai participé au Défi Sprint organisé par
 <a href="https://vickysaintange.wordpress.com/" target="_blank">Vicky Saint-Ange</a>.
@@ -362,64 +339,10 @@ Blam&nbsp;! Je sursaute. La porte vient de claquer derrière moi. J’ai la chai
 
 ### Jour 7
 
-{% include figure image_path="/assets/images/echantillons/defi-sprint-7.webp" alt="défi sprint 7" %}
+Elle n’avait jamais réussi à en cultiver. Elle avait pourtant procédé à une multitude d’essais, sur divers types d’écorces. Mais tous s’étaient soldés par des échecs… Ce matin-là, dès l’aube, une fois encore, elle avait donc arpenté longuement la forêt, vérifié chaque branche d’arbre, chaque rocher. Car les filles de l’air se montraient capricieuses, et ne donnaient que de rares petites fleurs jaunes. Certains les nommaient « barbe de vieillard », ou encore « mousse espagnole », mais elle préférait « filles de l’air ». Car après tout, qui d’autre que des fées aurait choisi de les doter de tels pouvoirs ?
 
-## Nanonouvelles
+Aujourd’hui, elle était satisfaite de sa récolte. Elle avait pu ajouter le dernier et indispensable ingrédient à sa potion, et en remplir une pleine fiole.
 
-### Dérive
+Elle sortit la pierre incandescente du foyer, s’assit à sa table de travail, et déposa avec délicatesse une goutte du précieux liquide doré sur le fragment de roche rougeoyant.
 
-{% include figure image_path="/assets/images/echantillons/derive.webp" alt="derive" caption="Image par Jupi Lu de Pixabay" %}
-
-Tu t'es éteint, et la nuit m'a envahie.
-
-Il pleut sur mes jours, il pleut sur ma vie.
-
-Je dérive, portée par les flots d'un océan de regrets, le cœur serré de ces mots d'amour trop longtemps retenus&hellip;
-
-
-### Dernier soupir
-
-{% include figure image_path="/assets/images/echantillons/dernier-soupir.webp" alt="dernier soupir" caption="Image par Erika Varga de Pixabay" %}
-
-Son regard se posa sur elle, et il sut qu’il l’avait enfin retrouvée. Les couleurs avaient déserté ce monde depuis bien longtemps. Pourtant, il n’avait jamais oublié l’indigo profond de ses pupilles.
-
-Tremblant d’émotion, il se pencha vers elle. Elle demeura muette, mais une multitude de larmes perlèrent dans ses yeux toujours aussi bleus. Alors, le cœur comblé, il s’allongea à ses côtés.
-
-Ils restèrent ainsi, immobiles, jusqu’au soir. Puis, lorsque la dernière lueur du jour disparut, les paupières du vieil homme se fermèrent, et la rose se flétrit.
-
-
-### Divination
-
-{% include figure image_path="/assets/images/echantillons/divination.webp" alt="divination" caption="Image par Free-Photos de Pixabay" %}
-
-La sphère de cristal luisait dans l'obscurité, illuminait son visage d'un éclat énigmatique. Ce qu'elle y avait déchiffré ne m'importait plus. Elle avait relevé sa capuche, et le monde s'était noyé dans son regard. Seuls existaient encore ses yeux de braise, posés sur les miens.
-
-
-### Atoll
-
-{% include figure image_path="/assets/images/echantillons/atoll.webp" alt="atoll" caption="Image par Bessi de Pixabay" %}
-
-Le mage retint son souffle et ouvrit timidement un œil. Pitié, pas à nouveau un champignon&hellip;
-
-Miracle, enfin !
-
-Il observa son œuvre. Parfaite.
-
-Il s'assit, savoura le silence, offrit son visage au firmament. Plus rien n'existait que cet atoll, cet arbre, cet astre. Et l'immensité.
-
-
-### Alzheimer
-
-{% include figure image_path="/assets/images/echantillons/alzheimer.webp" alt="mains" %}
-
-Ding. Elle n’attend pourtant personne. Elle regarde par l’œilleton&nbsp;: un beau jeune-homme brun attend patiemment derrière la porte. Qui peut-il bien être&nbsp;? Elle lisse les plis de sa jupe, passe machinalement une main dans ses cheveux avant d’ouvrir.
-
-Sans y être invité, il entre, se dirige aussitôt vers la cuisine, balaie rapidement la pièce du regard, puis soupire.
-
-– Il est tard, tu n’as rien mangé aujourd’hui&nbsp;?
-
-Elle réalise alors qu’elle a faim. Elle hésite, ne sait que faire.
-
-Il la prend par la main, la guide vers la table.
-
-– Allons, assieds-toi maman, je vais te préparer quelque chose.
+La manœuvre était délicate, la moindre erreur pouvait faire échouer son projet. Mais en voyant la potion miroitante se propager sur toute la surface de la pierre, elle sut tout de suite que cette fois-ci, elle avait réussi. De brûlante, la pierre était devenue glacée. Sa surface irrégulière s’était lissée, et son apparence terne avait laissé place à une brillance reflétant les choses plus précisément encore que n’importe quel miroir. Une pierre de savoir. Elle qui n’avait aucune formation, qui avait été rejetée par les autres pratiquantes des magies oubliées, elle avait créé l’artefact le plus puissant de sa génération. Elle n’osait même pas poser la pierre, ni lâcher ses outils. Une main crispée sur la pipette, l’autre sur sa pince, elle contemplait le prodige accompli sans en croire ses yeux. Un souffle frais agita ses cheveux et la fit revenir à la réalité. Elle était à présent maîtresse d’un immense pouvoir, il ne lui restait plus qu’à réfléchir à la meilleure façon de l’utiliser.
