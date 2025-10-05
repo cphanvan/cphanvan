@@ -2,9 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: "Dernières nouvelles&hellip;"
+title: "Site officiel de l'autrice Catherine Phan van"
 seo_title: "Catherine Phan van"
-description: Site officiel de l'autrice Catherine Phan van. Retrouvez ses publications, des textes gratuits et inédits en exclusivité, son actu...
+description: Site officiel de l'autrice Catherine Phan van. Retrouvez ses publications, des textes gratuits et inédits en exclusivité, son actu&hellip;
 layout: splash
 permalink: /
 date: 2022-12-02T12:00:00Z
@@ -17,7 +17,7 @@ header:
       url: "/publications/cercueil-et-prejuges"
     - label: "Mes autres publications"
       url: "/publications"
-summary: "Samedi 4 octobre à l'espace culturel Leclerc de Langon, dédicace de <em><strong>Cercueil et préjugés</strong></em>, ma comédie romantique feel good parue aux éditions Alter Real."
+summary: "Samedi 6 décembre à Cultura Bègles, dédicace de <em><strong>Cercueil et préjugés</strong></em>, ma comédie romantique feel good parue aux éditions Alter Real."
 a_propos:
   - summary: |
       **Qui suis-je&nbsp;?**

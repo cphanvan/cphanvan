@@ -29,7 +29,7 @@ sidebar:
       18 €
 ---
 
-📢 Prochaine séance de **dédicaces samedi 4 octobre 2025 toute la journée à l'espace culturel Leclerc de Langon.**
+📢 Prochaine séance de **dédicaces samedi 6 décembre 2025 toute la journée au magasin Cultura de Bègles.**
 
 ## Le roman
 

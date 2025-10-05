@@ -12,8 +12,8 @@ page_js:
 
 ## Prochaines dédicaces de [*Cercueil et préjugés*](/publications/cercueil-et-prejuges)
 
-- **Samedi 4 octobre 2025**, toute la journée à l'**Espace Culturel Leclerc** de **Langon**.
 - **Samedi 6 décembre 2025**, toute la journée au magasin **Cultura** de **Bègles**.
+- **Samedi 10 janvier 2026**, de 11h à 18h à la **librairie Bloom Book** de **Bordeaux-Talence**.
 
 D'autres dates potentielles sont en attente de confirmation. 😊
 
