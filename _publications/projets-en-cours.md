@@ -65,9 +65,8 @@ Le pitch&nbsp;:
 *comédie romantique contemporaine feel good*
 
 Le pitch&nbsp;:
-> Coincée deux semaines en France suite à l’annulation de son vol, Gaby, une jeune Québécoise venue perfectionner ses talents culinaires dans l’hexagone avant d’ouvrir un restaurant dans son pays, se retrouve à passer les fêtes en Bretagne dans la famille de sa colocataire.
-> <br> Comme tous les ans, Yohann, le frère de cette dernière, monte une comédie musicale avec sa petite troupe amateur. Mais cette année, la chanteuse qui tient le rôle titre, victime d’une mauvaise chute lors d’un week-end au ski, se blesse au genou. Verdict&nbsp;: une rupture des ligaments croisés qui va l’empêcher de monter sur scène et contraindre Yohann à annuler le spectacle.
-> <br>À moins qu'une solution inattendue se présente&nbsp;?
+> Quand Gabrielle se déguise en homme pour accompagner son amie Lizenn quelques jours dans sa famille et la débarrasser d'un prétendant un peu encombrant, elle ne s'attend ni à devoir remplacer au pied levé une chanteuse dans une réécriture bretonne en forme de comédie musicale de *Raison et sentiments*, le roman de Jane Austen… ni à tomber sous le charme du frère de Lizenn. 
+> <br> Mais alors que ce dernier, sûr de sa propre hétérosexualité, est persuadé que Gabrielle s'écrit au masculin, des sentiments pourraient-ils naître entre eux&nbsp;?
 
 
 
