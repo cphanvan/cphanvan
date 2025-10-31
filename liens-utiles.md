@@ -7,6 +7,29 @@ toc: true
 toc_label: Liens utiles
 ---
 
+## Lectures d'Halloween
+
+### Les gratuites
+
+[*La Nuit des betteraves grimaçantes*](/publications/la-nuit-des-betteraves-grimacantes){: .btn .btn--info .btn--large .btn--linktree}
+
+[*Sinistre Volonté*](/publications/sinistre-volonte/){: .btn .btn--info .btn--large .btn--linktree}
+
+[*Halloween sous la neige*](/assets/textes/Halloween_sous_la_neige.pdf){: .btn .btn--info .btn--large .btn--linktree}
+
+[*Coeur brisé et tasse de thé*](/assets/textes/Coeur_brise_et_tasse_de_the.pdf){: .btn .btn--info .btn--large .btn--linktree}
+
+[*Derrière la porte*](/assets/textes/Derriere_la_porte.pdf){: .btn .btn--info .btn--large .btn--linktree}
+
+[*Les Pipistrelles de Gabriel*](/publications/les-pipistrelles-de-gabriel/){: .btn .btn--info .btn--large .btn--linktree}
+
+### Les autres
+
+[*Pot à céder*](https://catherinephanvan.sumupstore.com/article/sorcellerie-vegetale){: .btn .btn--info .btn--large .btn--linktree}
+
+[*Échos graphiques*](/publications/echos-graphiques/){: .btn .btn--info .btn--large .btn--linktree}
+
+
 ## Cercueil et préjugés
 
 [Où vous procurer le roman (broché ou numérique)](/publications/cercueil-et-prejuges/#o%C3%B9-vous-le-procurer){: .btn .btn--info .btn--large .btn--linktree}
