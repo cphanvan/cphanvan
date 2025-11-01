@@ -17,6 +17,10 @@ page_js:
 
 D'autres dates potentielles sont en attente de confirmation. 😊
 
+## Prochains salons
+
+- **Samedi 7 février 2026**, de 14h30 à 18h, "Salon des auteurs villenavais", à la **médiathèque d'Ornon**, à **Villenave d'Ornon**.
+
 ## Dernières parutions
 
 - **Jeudi 26 juin 2025**, sortie de la version papier (format broché) de mon premier roman, [*Cercueil et préjugés*](/publications/cercueil-et-prejuges).
@@ -38,7 +42,9 @@ Après une nouvelle phase de corrections au cours de l'été 2025, j'ai égaleme
 
 ### En cours d'écriture
 
-Actuellement, je suis en cours d'écriture d'une nouvelle comédie romantique feel good, [*Breizh, son et sentiments*](/publications/projets-en-cours/#breizh-son-et-sentiments), qui, comme son titre l'indique, se déroule en Bretagne.
+Actuellement, je suis en cours d'écriture d'un roman junior, [*Le Lapin rose*](/publications/projets-en-cours/#le-lapin-rose), de la fantasy légère qui met la science et la solidarité à l'honneur.
+
+Ma dernière comédie romantique feel good, [*Breizh, son et sentiments*](/publications/projets-en-cours/#breizh-son-et-sentiments), qui, comme son titre l'indique, se déroule en Bretagne, est en cours de bêta-lecture. Je m'attaquerai aux corrections quand j'aurai reçu tous les retours.
 
 ### En attente
 

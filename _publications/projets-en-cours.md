@@ -64,10 +64,40 @@ Le pitch&nbsp;:
 
 *comédie romantique contemporaine feel good*
 
+Ce roman est actuellement en bêta-lecture. J'attends les retours pour attaquer les corrections.
+
 Le pitch&nbsp;:
 > Quand Gabrielle se déguise en homme pour accompagner son amie Lizenn quelques jours dans sa famille et la débarrasser d'un prétendant un peu encombrant, elle ne s'attend ni à devoir remplacer au pied levé une chanteuse dans une réécriture bretonne en forme de comédie musicale de *Raison et sentiments*, le roman de Jane Austen… ni à tomber sous le charme du frère de Lizenn. 
 > <br> Mais alors que ce dernier, sûr de sa propre hétérosexualité, est persuadé que Gabrielle s'écrit au masculin, des sentiments pourraient-ils naître entre eux&nbsp;?
 
+### Le Lapin rose
+
+*roman junior - fantasy*
+
+Ce roman est en cours d'écriture. Au menu&nbsp;: une héroïne qui adore la science, un demi-frère pénible, une école haute en couleurs, de la solidarité, de la tolérance, des expériences plus ou moins hasardeuses&hellip; et peut-être un lapin rose.
+
+Le prologue, pour vous allécher 😉 (c'est du premier jet, merci de votre indulgence)&nbsp;:
+
+> Vous savez ce qu’écrivait Gabriel-Marie Legouvé sur les liens fraternels&nbsp;? «&nbsp;Un frère est un ami donné par la nature.<sup id="lapin-rose-ref-1">[1](#lapin-rose-note-1)</sup>&nbsp;»<br/>
+Le mec était poète et dramaturge à l’époque de la Révolution française. Vous aviez déjà entendu parler de lui&nbsp;? Non&nbsp;? Ça ne m’étonne pas. À mon avis, c’est pas pour rien qu’il est moins connu que Molière ou Victor Hugo. Il suffit de relire sa phrase, là… Il n’y a vraiment qu’un enfant unique pour oser écrire une bêtise pareille, vous ne croyez pas&nbsp;?<br/>
+Ou alors, c’est parce qu’il était humain, et ça ne s’applique pas à nous, les grisous.<br/>
+En tout cas, moi, j’ai un demi-frère, et s’il m’a bien été donné par la nature, je peux vous garantir que ce n’est pas un ami. Pas même un demi-ami. Plutôt une malédiction, en fait – et pas une demie, non, une vraie de vraie, cent pour cent complète.<br/>
+D’ailleurs, je l’entends approcher, dans mon dos. Ernald, il s’appelle. Il se croit discret, mais je l’ai capté dès qu’il a ouvert la porte de sa chambre. La latte qui grince, juste à côté du buffet… Pour le côté furtif, tu repasseras&nbsp;! Encore trois pas, et il va sauter devant moi en hurlant pour me faire peur.<br/>
+Un…<br/>
+Deux…<br/>
+Trois.<br/>
+—&nbsp;Bouh&nbsp;!<br/>
+Je lâche mon microscope, me recule contre le dossier de ma chaise, et lève sur lui un regard blasé.<br/>
+—&nbsp;Qu’est-ce que tu me veux, Ernald&nbsp;? Me changer en lapin rose&nbsp;? On a passé l’âge, tu crois pas&nbsp;?<br/>
+Ses épaules s’affaissent. Il ôte ses dents de vampire en plastique et s’étonne&nbsp;:<br/>
+—&nbsp;T’as pas eu peur&nbsp;?<br/>
+—&nbsp;Eh non, mon vieux. Je t’ai déjà dit&nbsp;: elle est finie, l’époque où tu pouvais me terroriser en me poursuivant partout avec ta fausse baguette magique ou tes stupides déguisements. Va falloir t’y faire. Alors fiche-moi la paix et trouve-toi plutôt une raison d’exister, tu veux bien&nbsp;?<br/>
+Il secoue la tête, me gratifie d’une horrible grimace, puis s’éloigne en fanfaronnant&nbsp;:<br/>
+—&nbsp;Ouais, tu fais la maligne, maintenant, avec tes magazines scientifiques et tes expériences tordues. N’empêche que je m’en souviens, Azénor, je m’en souviens&nbsp;: t’y croyais à fond, au lapin rose.<br/>
+Je réprime un soupir. Je devais avoir quatre ans. Cinq, peut-être&nbsp;? Aujourd’hui, j’en ai dix, et j’ai passé la moitié de ma vie à l’entendre ressasser cette histoire pour se moquer de moi.<br/>
+Un jour, je me vengerai.<br/>
+Je m’en fais le serment.<br/><br/>
+(<span id="lapin-rose-note-1">[1](#lapin-rose-ref-1)</span>-&nbsp;extrait de la tragédie *La Mort d'Abel*, acte&nbsp;3, scène&nbsp;3)
 
 
 ## En attente&nbsp;:
