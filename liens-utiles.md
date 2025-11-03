@@ -7,6 +7,15 @@ toc: true
 toc_label: Liens utiles
 ---
 
+## Cercueil et préjugés
+
+[Où vous procurer le roman (broché ou numérique)](/publications/cercueil-et-prejuges/#o%C3%B9-vous-le-procurer){: .btn .btn--info .btn--large .btn--linktree}
+
+[*Cercueil et préjugés*, une comédie romantique feel good](/publications/cercueil-et-prejuges){: .btn .btn--info .btn--large .btn--linktree}
+
+[Mes prochaines dédicaces](/agenda#prochaines-dédicaces){: .btn .btn--info .btn--large .btn--linktree}
+
+
 ## Lectures d'Halloween
 
 ### Les gratuites
@@ -28,15 +37,6 @@ toc_label: Liens utiles
 [*Pot à céder*](https://catherinephanvan.sumupstore.com/article/sorcellerie-vegetale){: .btn .btn--info .btn--large .btn--linktree}
 
 [*Échos graphiques*](/publications/echos-graphiques/){: .btn .btn--info .btn--large .btn--linktree}
-
-
-## Cercueil et préjugés
-
-[Où vous procurer le roman (broché ou numérique)](/publications/cercueil-et-prejuges/#o%C3%B9-vous-le-procurer){: .btn .btn--info .btn--large .btn--linktree}
-
-[*Cercueil et préjugés*, une comédie romantique feel good](/publications/cercueil-et-prejuges){: .btn .btn--info .btn--large .btn--linktree}
-
-[Mes prochaines dédicaces](/agenda#prochaines-dédicaces){: .btn .btn--info .btn--large .btn--linktree}
 
 
 ## Mes autres textes
