@@ -1,6 +1,6 @@
 ---
 title: "La Nuit des betteraves grimaçantes"
-description: Une nouvelle fantastique. À paraître le 1er juin 2025 dans *L'Indé Panda n°14*.
+description: Une nouvelle fantastique, parue le 1er juin 2025 dans *L'Indé Panda n°14*.
 layout: single
 classes: wide
 share: true
