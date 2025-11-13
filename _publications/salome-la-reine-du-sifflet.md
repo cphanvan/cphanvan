@@ -4,7 +4,7 @@ description: Une nouvelle jeunesse, parue en novembre 2025 dans le recueil *Éme
 layout: single
 classes: wide
 share: true
-publication_date: 2025-11-26T12:00:00Z
+publication_date: 2025-11-08T12:00:00Z
 excerpt: |
   Une nouvelle jeunesse qui parle de handicap et de solidarité.<!--excerptEnd-->
 header:
