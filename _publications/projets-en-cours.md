@@ -29,7 +29,7 @@ Le pitch&nbsp;:
 
 Lors de mon envoi au concours Bookbuster, j'attendais encore les retours de bêta-lecture. C'était donc un quasi premier jet que j'avais soumis, sans y croire, en partant du principe que "sur un malentendu, on ne sait jamais&hellip;" Faire partie des cinq finalistes parmi les plusieurs centaines de romans participants était déjà inespéré&nbsp;! Je n'ai pas été surprise de ne pas aller plus loin.
 
-À partir de mi-septembre, après avoir reçu les retours de bêta-lecture, j'ai effectué de nombreuses corrections sur le roman. La mouture finalisée est en phase de soumissions éditoriales depuis le 11 octobre 2024.
+Après avoir reçu les retours de bêta-lecture, j'ai effectué de nombreuses corrections sur le roman. La mouture finalisée est actuellement en phase de soumissions éditoriales.
 
 
 ### E comme&hellip;
@@ -74,7 +74,7 @@ Le pitch&nbsp;:
 
 *roman junior - fantasy*
 
-Ce roman est en cours d'écriture. Au menu&nbsp;: une héroïne qui adore la science, un demi-frère pénible, une école haute en couleurs, de la solidarité, de la tolérance, des expériences plus ou moins hasardeuses&hellip; et peut-être un lapin rose.
+Ce roman est actuellement en bêta-lecture. Au menu&nbsp;: une héroïne qui adore la science, un demi-frère pénible, une école haute en couleurs, de la solidarité, de la tolérance, des expériences plus ou moins hasardeuses&hellip; et peut-être un lapin rose.
 
 Le prologue, pour vous allécher 😉 (c'est du premier jet, merci de votre indulgence)&nbsp;:
 
