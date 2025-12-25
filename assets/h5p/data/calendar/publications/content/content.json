@@ -114,6 +114,15 @@
         },
         {
           "asset": {
+            "media": "https://catherinephanvan.fr/assets/images/events/mois_des_auteurs_passtemple_2026.jpg"
+          },
+          "headline": "Mois des auteurs",
+          "startDate": "2026,01,23",
+          "endDate": "2026,01,23",
+          "text": "<p><strong>À partir de 15h</strong></p><p>Ludobibliothèque Pass'Temple, 18&nbsp;route du Porge, 33680&nbsp;Le Temple</p>"
+        },
+        {
+          "asset": {
             "media": "https://catherinephanvan.fr/assets/images/events/salon-auteurs-villenavais-2026.jpg"
           },
           "headline": "Salon des auteurs villenavais",

@@ -10,12 +10,10 @@ page_js:
   - /assets/js/h5pcalendar.min.js
 ---
 
-## Prochaines dédicaces de [*Cercueil et préjugés*](/publications/cercueil-et-prejuges)
+## Prochaines rencontres et dédicaces
 
-- **Samedi 6 décembre 2025**, toute la journée au magasin **Cultura** de **Bègles**.
 - **Samedi 10 janvier 2026**, de 11h à 18h à la **librairie Bloom Book** de **Bordeaux-Talence**.
-
-D'autres dates potentielles sont en attente de confirmation. 😊
+- **Vendredi 23 janvier 2026**, à partir de 15h à la **ludobibliothèque Pass'Temple**, 18 route du Porge, **Le Temple** (33680), pour une lecture et rencontre suivie d'une dédicace.
 
 ## Prochains salons
 
