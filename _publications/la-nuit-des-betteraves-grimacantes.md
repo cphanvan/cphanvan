@@ -25,6 +25,10 @@ Je vous propose une petite plongée fantastique au c&oelig;ur des traditions mos
 
 Nouvelle parue en juin 2025 dans le n°14 de <a href="https://lindepanda.fr/recueil/linde-panda-n14/" target="_blank">***L'Indé Panda***</a>, à télécharger gratuitement <a href="https://www.kobo.com/fr/fr/ebook/l-inde-panda-14-1" target="_blank">en version numérique</a>, ou bien à retrouver au petit prix de 10€ <a href="https://www.amazon.fr/LInd%C3%A9-Panda-n%C2%B014/dp/2958997537" target="_blank">en version papier</a>.
 
+Pour découvrir les coulisses de l'écriture de *La Nuit des betteraves grimaçantes*, n'hésitez pas à aller lire mon interview <a href="https://lindepanda.fr/interview-catherine-phan-van-2/" target="_blank">sur le site de L'Indé Panda</a>&nbsp;!
+{: .notice--info}
+
+
 ## Un extrait&nbsp;?
 
 <span style="margin-left: 1em;"></span>—&nbsp;Où est-ce que tu pars comme ça&nbsp;? On vient juste de terminer notre séance. On pensait manger bientôt, la nuit ne va pas tarder à tomber. Comme ça, on sera prêts à sortir pour la *Rommelbootzennaat*.<br/>
