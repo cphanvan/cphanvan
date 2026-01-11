@@ -12,7 +12,6 @@ page_js:
 
 ## Prochaines rencontres et dédicaces
 
-- **Samedi 10 janvier 2026**, de 11h à 18h à la **librairie Bloom Book** de **Bordeaux-Talence**.
 - **Vendredi 23 janvier 2026**, à partir de 15h à la **ludobibliothèque Pass'Temple**, 18 route du Porge, **Le Temple** (33680), pour une lecture et rencontre suivie d'une dédicace.
 
 ## Prochains salons
@@ -21,9 +20,9 @@ page_js:
 
 ## Dernières parutions
 
+- **Novembre 2025**, sortie du recueil *Émergences 2025*, avec ma nouvelle [*Salomé, la reine du sifflet*](/publications/salome-la-reine-du-sifflet)
 - **Jeudi 26 juin 2025**, sortie de la version papier (format broché) de mon premier roman, [*Cercueil et préjugés*](/publications/cercueil-et-prejuges).
 - **Vendredi 20 juin 2025**, sortie de la version ebook de mon premier roman, [*Cercueil et préjugés*](/publications/cercueil-et-prejuges).
-- **Dimanche 1er juin 2025**, sortie du numéro 14 de *L'Indé Panda*, avec ma nouvelle [*La Nuit des betteraves grimaçantes*](/publications/la-nuit-des-betteraves-grimacantes).
 
 <div id="h5p-publications"></div>
 
@@ -40,7 +39,7 @@ Après une nouvelle phase de corrections au cours de l'été 2025, j'ai égaleme
 
 ### En cours d'écriture
 
-Actuellement, je suis en cours d'écriture d'un roman junior, [*Le Lapin rose*](/publications/projets-en-cours/#le-lapin-rose), de la fantasy légère qui met la science et la solidarité à l'honneur.
+Actuellement, je suis en cours de correction d'un roman junior, [*Le Lapin rose*](/publications/projets-en-cours/#le-lapin-rose), de la fantasy légère qui met la science et la solidarité à l'honneur.
 
 Ma dernière comédie romantique feel good, [*Breizh, son et sentiments*](/publications/projets-en-cours/#breizh-son-et-sentiments), qui, comme son titre l'indique, se déroule en Bretagne, est en cours de bêta-lecture. Je m'attaquerai aux corrections quand j'aurai reçu tous les retours.
 

@@ -18,7 +18,7 @@ header:
       url: "/publications/cercueil-et-prejuges"
     - label: "Mes autres publications"
       url: "/publications"
-summary: "Samedi 6 décembre à Cultura Bègles, dédicace de <em><strong>Cercueil et préjugés</strong></em>, ma comédie romantique feel good parue aux éditions Alter Real."
+summary: "Vendredi 23 janvier à 15h à la ludobibliothèque Pass'Temple (33680 Le Temple), rencontre et lecture suivie d'une dédicace."
 a_propos:
   - summary: |
       **Qui suis-je&nbsp;?**
