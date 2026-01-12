@@ -35,6 +35,8 @@ publications:
         url: /publications/cercueil-et-prejuges
   - title: "Nouvelles gratuites"
     children:
+      - title: "Salomé, la reine du sifflet"
+        url: /publications/salome-la-reine-du-sifflet/
       - title: "La Nuit des betteraves grimaçantes"
         url: /publications/la-nuit-des-betteraves-grimacantes
       - title: "Ceux qui rapportent… et ceux qui coûtent"

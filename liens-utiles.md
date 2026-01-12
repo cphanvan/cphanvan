@@ -16,30 +16,11 @@ toc_label: Liens utiles
 [Mes prochaines dédicaces](/agenda#prochaines-dédicaces){: .btn .btn--info .btn--large .btn--linktree}
 
 
-## Lectures d'Halloween
-
-### Les gratuites
-
-[*La Nuit des betteraves grimaçantes*](/publications/la-nuit-des-betteraves-grimacantes){: .btn .btn--info .btn--large .btn--linktree}
-
-[*Sinistre Volonté*](/publications/sinistre-volonte/){: .btn .btn--info .btn--large .btn--linktree}
-
-[*Halloween sous la neige*](/assets/textes/Halloween_sous_la_neige.pdf){: .btn .btn--info .btn--large .btn--linktree}
-
-[*Coeur brisé et tasse de thé*](/assets/textes/Coeur_brise_et_tasse_de_the.pdf){: .btn .btn--info .btn--large .btn--linktree}
-
-[*Derrière la porte*](/assets/textes/Derriere_la_porte.pdf){: .btn .btn--info .btn--large .btn--linktree}
-
-[*Les Pipistrelles de Gabriel*](/publications/les-pipistrelles-de-gabriel/){: .btn .btn--info .btn--large .btn--linktree}
-
-### Les autres
-
-[*Pot à céder*](https://catherinephanvan.sumupstore.com/article/sorcellerie-vegetale){: .btn .btn--info .btn--large .btn--linktree}
-
-[*Échos graphiques*](/publications/echos-graphiques/){: .btn .btn--info .btn--large .btn--linktree}
-
-
 ## Mes autres textes
+
+### Toutes mes publications
+
+[Découvrir toutes mes publications (dont 9 nouvelles gratuites)](/publications){: .btn .btn--info .btn--large .btn--linktree}
 
 ### Mes romans en cours de travail
 
@@ -53,13 +34,14 @@ toc_label: Liens utiles
 
 [Mes futures histoires](/publications/projets-en-cours){: .btn .btn--info .btn--large .btn--linktree}
 
-### Toutes mes publications
-
-[Découvrir toutes mes publications (dont 8 nouvelles gratuites)](/publications){: .btn .btn--info .btn--large .btn--linktree}
-
 ### Quelques anciens textes courts
 
 [À lire en accès libre](/echantillons){: .btn .btn--info .btn--large .btn--linktree}
+
+
+## Ma newsletter
+
+[L'épître(ries)](/newsletter#abonnez-vous){: .btn .btn--info .btn--large .btn--linktree}
 
 
 ## Ma boutique
@@ -69,9 +51,9 @@ toc_label: Liens utiles
 
 ## Mon blog
 
-[Mes avis (lectures, films, séries&hellip;)](/blog/categories#chronique){: .btn .btn--info .btn--large .btn--linktree}
-
 [Mon actu d'écriture](/blog/tags#écriture){: .btn .btn--info .btn--large .btn--linktree}
+
+[Mes avis (lectures, films, séries&hellip;)](/blog/categories#chronique){: .btn .btn--info .btn--large .btn--linktree}
 
 
 ## Où me trouver
@@ -82,13 +64,15 @@ toc_label: Liens utiles
 
 ### En interview
 
-<a href="https://lindepanda.fr/interview-catherine-phan-van/" target="_blank">Mon interview sur le site de L'Indé Panda</a>{: .btn .btn--info .btn--large .btn--linktree}
+<a href="/assets/audio/20250721-interview-ici-gironde.mp3" target="_blank"> Interview sur Ici Gironde</a>{: .btn .btn--info .btn--large .btn--linktree}
+
+<a href="https://lindepanda.fr/interview-catherine-phan-van/" target="_blank">Interview n°1 sur le site de L'Indé Panda</a>{: .btn .btn--info .btn--large .btn--linktree}
+
+<a href="https://lindepanda.fr/interview-catherine-phan-van-2/" target="_blank">Interview n°2 sur le site de L'Indé Panda</a>{: .btn .btn--info .btn--large .btn--linktree}
 
 ### Sur internet
 
 [Mon site](/){: .btn .btn--info .btn--large .btn--linktree}
-
-[Ma newsletter](/newsletter#abonnez-vous){: .btn .btn--info .btn--large .btn--linktree}
 
 <a href="https://www.amazon.fr/stores/author/B09LZ7H52W" target="_blank">Amazon</a>{: .btn .btn--info .btn--large .btn--linktree}
 
@@ -99,6 +83,8 @@ toc_label: Liens utiles
 <a href="https://www.goodreads.com/author/show/21595869.Catherine_Phan_Van" target="_blank">GoodReads</a>{: .btn .btn--info .btn--large .btn--linktree}
 
 <a href="https://www.livraddict.com/biblio/auteur/catherine-phan-van.html" target="_blank">LivrAddict</a>{: .btn .btn--info .btn--large .btn--linktree}
+
+<a href="https://www.gleeph.com/author/catherine-phan-van/id/fc16a5b199ba8a25b586744eeaab888c" target="_blank">Gleeph</a>{: .btn .btn--info .btn--large .btn--linktree}
 
 ### Mes réseaux sociaux
 
