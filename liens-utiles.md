@@ -7,6 +7,11 @@ toc: true
 toc_label: Liens utiles
 ---
 
+## Anaica
+
+[*Anaica*, une nouvelle d'uchronie steampunk](/publications/anaica){: .btn .btn--info .btn--large .btn--linktree}
+
+
 ## Cercueil et préjugés
 
 [Où vous procurer le roman (broché ou numérique)](/publications/cercueil-et-prejuges/#o%C3%B9-vous-le-procurer){: .btn .btn--info .btn--large .btn--linktree}
@@ -23,6 +28,8 @@ toc_label: Liens utiles
 [Découvrir toutes mes publications (dont 9 nouvelles gratuites)](/publications){: .btn .btn--info .btn--large .btn--linktree}
 
 ### Mes romans en cours de travail
+
+[*Le Lapin rose* (cosy fantasy junior)](/publications/projets-en-cours/#le-lapin-rose){: .btn .btn--info .btn--large .btn--linktree}
 
 [*Breizh, son et sentiments* (comédie romantique)](/publications/projets-en-cours/#breizh-son-et-sentiments){: .btn .btn--info .btn--large .btn--linktree}
 

@@ -29,7 +29,7 @@ sidebar:
       18 €
 ---
 
-📢 Prochaine séance de **dédicaces samedi 6 décembre 2025 toute la journée au magasin Cultura de Bègles.**
+📢 **Salon des auteurs villenavais** le samedi **7 février 2026 de 14h30 à 18h** à la médiathèque d'Ornon (33140).
 
 ## Le roman
 

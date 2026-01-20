@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Boutique"
-    url: https://catherinephanvan.sumupstore.com/
+    url: https://catherinephanvan.sumupstore.com/produits
     icon: "fas fa-shopping-bag"
     target: _blank
   - title: "Publications"
@@ -55,6 +55,8 @@ publications:
         url: /publications/plein-sud
   - title: "Nouvelles"
     children:
+      - title: "Anaica"
+        url: /publications/anaica
       - title: "Mésaventures vitaminées"
         url: /publications/mesaventures-vitaminees
       - title: "Dragonirie"
