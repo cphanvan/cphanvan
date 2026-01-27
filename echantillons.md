@@ -28,13 +28,6 @@ books:
         Une incursion au pays des sapins, de la neige et du froid…
 
         Retrouvez ici la légende qui a donné naissance à <a href="https://catherinephanvan.sumupstore.com/article/enfants-des-neiges" target="_blank">ma nouvelle Enfants des neiges</a>&nbsp;!
-  - title: "Le Mystère de la maison abandonnée"
-    teaser: "(2023) Nouvelle jeunesse"
-    image_path: /assets/images/echantillons/LeMystereDeLaMaisonAbandonnee-couv.webp
-    image_alt: "couverture de la nouvelle jeunesse Le Mystère de la maison abandonnée"
-    url: /assets/textes/Le_mystere_de_la_maison_abandonnee.pdf
-    description: |
-        Une brève nouvelle jeunesse (dès 8&nbsp;ans) sur le thème de &laquo;&nbsp;la grande expédition&nbsp;&raquo;.
   - maintitle: "Nouvelles à 4 mains"
     title: "Cœur brisé et tasse de thé"
     teaser: "(2022) Une Saint-Valentin en solitaire... ou pas !"
