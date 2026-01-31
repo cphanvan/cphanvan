@@ -10,16 +10,13 @@ page_js:
   - /assets/js/h5pcalendar.min.js
 ---
 
-## Prochaines rencontres et dédicaces
-
-- **Vendredi 23 janvier 2026**, à partir de 15h à la **ludobibliothèque Pass'Temple**, 18 route du Porge, **Le Temple** (33680), pour une lecture et rencontre suivie d'une dédicace.
-
 ## Prochains salons
 
-- **Samedi 7 février 2026**, de 14h30 à 18h, "Salon des auteurs villenavais", à la **médiathèque d'Ornon**, à **Villenave d'Ornon**.
+- **Samedi 7 février 2026**, de 14h30 à 18h, <a href="https://www.villenavedornon.fr/13-1056/actualites/fiche/salon-des-auteurs-villenavais.htm" target="_blank">"Salon des auteurs villenavais"</a>, à la **médiathèque d'Ornon**, à **Villenave d'Ornon**.
 
 ## Dernières parutions
 
+- **Février 2026**, sortie de ma nouvelle [*Anaica*](/publications/anaica), en versions papier, ebook et audio (uniquement via abonnement pour l'audio).
 - **Novembre 2025**, sortie du recueil *Émergences 2025*, avec ma nouvelle [*Salomé, la reine du sifflet*](/publications/salome-la-reine-du-sifflet)
 - **Jeudi 26 juin 2025**, sortie de la version papier (format broché) de mon premier roman, [*Cercueil et préjugés*](/publications/cercueil-et-prejuges).
 - **Vendredi 20 juin 2025**, sortie de la version ebook de mon premier roman, [*Cercueil et préjugés*](/publications/cercueil-et-prejuges).

@@ -35,7 +35,7 @@ date_format              : "%d/%m/%Y"
 breadcrumbs              : true
 search                   : true
 search_provider          : "google"
-future                   : false
+future                   : true
 
 author:
   name      : "Catherine Phan van"
@@ -129,7 +129,7 @@ footer:
 
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: "default"
 plugins:
   - jekyll-feed
