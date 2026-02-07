@@ -20,7 +20,7 @@ header:
       url: "/publications/anaica"
     - label: "Mes autres publications"
       url: "/publications"
-summary: "Samedi 7 février de 14h30 à 18h, salon des auteurs villenavais à la médiathèque d'Ornon (33140 Villenave d'Ornon)."
+summary: "[*Anaica*](/publications/anaica) est disponible en versions papier, ebook et audio&nbsp;!"
 a_propos:
   - summary: |
       **Qui suis-je&nbsp;?**

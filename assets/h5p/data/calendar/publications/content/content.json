@@ -96,6 +96,15 @@
         },
         {
           "asset": {
+            "media": "https://catherinephanvan.fr/assets/images/publications/salome-la-reine-du-sifflet-cover.jpg"
+          },
+          "headline": "Salomé, la reine du sifflet",
+          "startDate": "2025,11",
+          "endDate": "2025,11",
+          "text": "<p>Publication de ma nouvelle <em>Salomé, la reine du sifflet</em>, lauréate du concours Émergences 2025.</p><p><a href=\"/publications/salome-la-reine-du-sifflet/\">Découvrir la nouvelle</a></p>"
+        },
+        {
+          "asset": {
             "media": "https://catherinephanvan.fr/assets/images/events/dedicace-cultura-begles.jpg"
           },
           "headline": "Dédicace à Cultura Bègles",
@@ -123,6 +132,15 @@
         },
         {
           "asset": {
+            "media": "https://catherinephanvan.fr/assets/images/publications/anaica-cover.jpg"
+          },
+          "headline": "Anaica",
+          "startDate": "2026,02,06",
+          "endDate": "2026,02,06",
+          "text": "<p>Publication d'<em>Anaica</em>, une nouvelle steampunk vaudou qui parle de colonialisme et d'écologie, aux Éditions 1115.</p><p><a href=\"/publications/anaica/\">Découvrir la nouvelle</a></p>"
+        },
+        {
+          "asset": {
             "media": "https://catherinephanvan.fr/assets/images/events/salon-auteurs-villenavais-2026.jpg"
           },
           "headline": "Salon des auteurs villenavais",
@@ -132,7 +150,7 @@
         }
       ],
       "headline": "Mes publications et dédicaces - 2025/2026",
-      "text": "Retrouvez ici les dates de sortie de mes publications et celles de mes séances de dédicaces sur l'année en cours et celle à venir.",
+      "text": "Retrouvez ici les dates de sortie de mes publications et celles de mes séances de dédicaces sur l'année passée et celle en cours.",
       "defaultZoomLevel": "0",
       "language": "fr",
       "era": [

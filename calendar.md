@@ -10,9 +10,9 @@ page_js:
   - /assets/js/h5pcalendar.min.js
 ---
 
-## Prochains salons
+## Prochains salons et dédicaces
 
-- **Samedi 7 février 2026**, de 14h30 à 18h, <a href="https://www.villenavedornon.fr/13-1056/actualites/fiche/salon-des-auteurs-villenavais.htm" target="_blank">"Salon des auteurs villenavais"</a>, à la **médiathèque d'Ornon**, à **Villenave d'Ornon**.
+Pas de nouvelle date prévue à ce jour.
 
 ## Dernières parutions
 
