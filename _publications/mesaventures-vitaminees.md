@@ -21,7 +21,7 @@ sidebar:
 
 Une nouvelle de fantasy qui vous entraînera dans un monde où sévit une étrange maladie…
 
-Parue le 5 avril 2025 dans l'anthologie ***Festins imaginaires*** publiée pour le salon <a href="https://www.instagram.com/imaginalivres/" target="_blank">Imagina'livres</a>.
+Parue le 5 avril 2025 dans l'anthologie ***Festins imaginaires*** publiée pour le salon <a href="https://www.instagram.com/imaginalivres/" target="_blank">Imagina'livres</a>. Vous pouvez la retrouver [sur ma boutique en ligne](https://catherinephanvan.sumupstore.com/article/festins-imaginaires).
 
 ## Un extrait&nbsp;?
 

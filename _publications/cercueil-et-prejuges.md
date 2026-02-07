@@ -51,7 +51,7 @@ Il a été <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**
 ⚠️ Sauf rares exceptions, il est probable que le roman ne soit pas en rayon (il n'est pas diffusé), mais n'hésitez pas à demander à votre libraire de vous le commander&nbsp;: cela vous évitera d'avoir à régler des frais de port (et, bonus, cela lui donnera peut-être envie de le découvrir et de le faire découvrir).
 {: .notice}
 
-* **En ligne**, directement <a href="https://editions-alter-real.com/product/cercueil-et-prejuges/" target="_blank">sur le site de la maison d'édition</a>, ou sur toutes les plateformes habituelles, notamment&nbsp;:
+* **En ligne**, directement [sur ma boutique](https://catherinephanvan.sumupstore.com/product/cercueil-et-prejuges), <a href="https://editions-alter-real.com/product/cercueil-et-prejuges/" target="_blank">sur le site de la maison d'édition</a>, ou sur toutes les plateformes habituelles, notamment&nbsp;:
   * <a href="https://www.placedeslibraires.fr/livre/9782385754464-cercueil-et-prejuges-catherine-phan-van/" target="_blank">Place des libraires</a>
   * <a href="https://www.cultura.com/p-cercueil-et-prejuges-9782385754464.html" target="_blank">Cultura</a>
   * <a href="https://www.fnac.com/a21354652/Catherine-Phan-Van-Cercueil-et-Prejuges" target="_blank">Fnac</a>
