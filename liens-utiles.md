@@ -81,8 +81,6 @@ toc_label: Liens utiles
 
 [Mon site](/){: .btn .btn--info .btn--large .btn--linktree}
 
-<a href="https://www.amazon.fr/stores/author/B09LZ7H52W" target="_blank">Amazon</a>{: .btn .btn--info .btn--large .btn--linktree}
-
 <a href="https://www.babelio.com/auteur/Catherine-Phan-Van/586698" target="_blank">Babelio</a>{: .btn .btn--info .btn--large .btn--linktree}
 
 <a href="https://booknode.com/auteur/catherine-phan-van" target="_blank">BookNode</a>{: .btn .btn--info .btn--large .btn--linktree}

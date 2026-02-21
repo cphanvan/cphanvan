@@ -48,7 +48,7 @@ Il a été <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**
 
 * **En boutique**, dans votre librairie habituelle ou n'importe quelle grande surface culturelle (Cultura, Fnac, Espace Culturel Leclerc&hellip;)
 
-⚠️ Sauf rares exceptions, il est probable que le roman ne soit pas en rayon (il n'est pas diffusé), mais n'hésitez pas à demander à votre libraire de vous le commander&nbsp;: cela vous évitera d'avoir à régler des frais de port (et, bonus, cela lui donnera peut-être envie de le découvrir et de le faire découvrir).
+⚠️ Sauf rares exceptions, il est probable que le roman ne soit pas en rayon (il n'est pas diffusé), mais n'hésitez pas à demander à votre libraire de vous le commander&nbsp;: cela vous évitera d'avoir à régler des frais de port (et, **bonus, cela lui donnera peut-être envie de le découvrir et de le faire découvrir**).
 {: .notice}
 
 * **En ligne**, directement [sur ma boutique](https://catherinephanvan.sumupstore.com/product/cercueil-et-prejuges), <a href="https://editions-alter-real.com/product/cercueil-et-prejuges/" target="_blank">sur le site de la maison d'édition</a>, ou sur toutes les plateformes habituelles, notamment&nbsp;:
@@ -58,7 +58,6 @@ Il a été <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**
   * <a href="https://www.kobo.com/fr/fr/ebook/cercueil-et-prejuges?sId=670c2ced-ff1e-4775-9638-15b4f2ad9d6d" target="_blank">Kobo</a>
   * <a href="https://shop.vivlio.com/product/9782385754457_9782385754457_2/cercueil-et-prejuges" target="_blank">Vivlio</a>
   * <a href="https://www.7switch.com/fr/ebook/9782385754457/cercueil-et-prejuges" target="_blank">7switch</a>
-  * <a href="https://www.amazon.fr/Cercueil-Pr%C3%A9jug%C3%A9s-Catherine-Phan-Van/dp/2385754460" target="_blank">Amazon</a>
 
 
 ## La presse en parle

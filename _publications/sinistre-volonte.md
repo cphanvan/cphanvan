@@ -23,7 +23,7 @@ Lorsqu'il observe l'étrange comportement du jeune Jake Hill, un orphelin dont i
 
 <hr>
 
-Nouvelle parue en octobre 2023 dans le n°13 de <a href="https://lindepanda.fr/recueil/inde-panda-13/" target="_blank">***L'Indé Panda***</a>, à télécharger gratuitement en version numérique <a href="https://www.amazon.fr/LInd%C3%A9-Panda-n%C2%B013-ebook/dp/B0CHMNK166" target="_blank">au format Kindle</a> ou <a href="https://www.kobo.com/fr/fr/ebook/l-inde-panda-n-13" target="_blank">epub</a>, ou bien à retrouver au petit prix de 10€ <a href="https://www.amazon.fr/LInd%C3%A9-Panda-no13-Elune-Dreel/dp/B0CJSWN2LK/" target="_blank">en version papier</a>.
+Nouvelle parue en octobre 2023 dans le n°13 de <a href="https://lindepanda.fr/recueil/inde-panda-13/" target="_blank">***L'Indé Panda***</a>, à télécharger gratuitement en version numérique <a href="https://lindepanda.fr/wp-content/uploads/2025/11/L_Inde_Panda_n%C2%B013.epub" target="_blank">au format epub</a> ou <a href="https://lindepanda.fr/wp-content/uploads/2025/11/idp13.pdf" target="_blank">au format pdf</a>, ou bien à retrouver au petit prix de 10€ en version papier <a href="https://lindepanda.fr/recueil/inde-panda-13/" target="_blank">via l'un des liens référencés sur le site de l'association</a>.
 
 Si vous préférez un **exemplaire dédicacé**, vous pouvez <a href="https://catherinephanvan.sumupstore.com/article/l-inde-panda-n013" target="_blank">le commander directement via ma boutique en ligne</a>.
 

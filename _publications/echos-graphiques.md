@@ -31,14 +31,9 @@ Aurélie et Nicolas attendent un heureux événement. À l'approche des fêtes, 
 
 <hr>
 
-Disponible à la commande
-
-- soit sur ma boutique&nbsp;:
-    - <a href="https://catherinephanvan.sumupstore.com/article/echos-graphiques-version-ebook-formats-epub-mobi-et-pdf-inclus" target="_blank">en version numérique</a> (formats epub / pdf / mobi),
-    - <a href="https://catherinephanvan.sumupstore.com/article/echos-graphiques" target="_blank">en version brochée</a>,
-- soit sur amazon&nbsp;:
-    - <a href="https://www.amazon.fr/dp/B0DNSJ9CY4" target="_blank">en version numérique</a>,
-    - <a href="https://www.amazon.fr/dp/249362405X" target="_blank">en version brochée</a>.
+Disponible à la commande sur ma boutique&nbsp;:
+- <a href="https://catherinephanvan.sumupstore.com/article/echos-graphiques-version-ebook-formats-epub-mobi-et-pdf-inclus" target="_blank">en version numérique</a> (formats epub / pdf / mobi),
+- <a href="https://catherinephanvan.sumupstore.com/article/echos-graphiques" target="_blank">en version brochée</a>.
 
 
 ## Un grand merci pour vos retours de lecture&nbsp;!

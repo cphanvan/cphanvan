@@ -121,6 +121,3 @@ Bref, l'idée, c'est donc tout bonnement d'écrire *moins* de nouvelles, pour é
 
 👉 *Découvrez mes [chroniques de livres et séries](/blog/tags#chronique).*
 {: .text-center}
-
-👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉
-{: .text-center}

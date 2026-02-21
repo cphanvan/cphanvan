@@ -85,6 +85,3 @@ Une (trop) courte lecture, parfaite à savourer en période d'Halloween. Et une 
 
 👉 *Découvrez les [interviews d'auteurs ou autrices](/blog/tags#interview).*
 {: .text-center}
-
-👉 *Vous lisez beaucoup et disposez d'un budget limité&nbsp;? Retrouvez toutes mes astuces pour [lire gratuitement](/lecture/2022/08/22/lire-gratuitement.html) ou à petits prix en toute légalité&nbsp;: le bookcrossing, le désherbage, ou encore les partenariats, n'auront plus de secrets pour vous&nbsp;!* 😉
-{: .text-center}

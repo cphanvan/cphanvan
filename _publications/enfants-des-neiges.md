@@ -28,11 +28,9 @@ Offrez-vous cette courte lecture et laissez-vous emporter au pays des sapins �
 Pour en apprendre plus sur *Enfants des neiges*, n'hésitez pas à aller lire mon interview <a href="https://lindepanda.fr/interview-catherine-phan-van/" target="_blank">sur le site de L'Indé Panda</a>&nbsp;!
 {: .notice--info}
 
-**En vente (1€) sur ma boutique en ligne**, en version **<a href="https://catherinephanvan.sumupstore.com/article/enfants-des-neiges-version-epub" target="_blank">epub</a>** ou **<a href="https://catherinephanvan.sumupstore.com/article/enfants-des-neiges-version-pdf" target="_blank">pdf</a>**. \
-Disponible également <a href="https://www.amazon.fr/Enfants-neiges-Catherine-Phan-van-ebook/dp/B09LXQ7LX7/" target="_blank">sur Amazon</a>.
+**En vente (1€) sur ma boutique en ligne**, en version **<a href="https://catherinephanvan.sumupstore.com/article/enfants-des-neiges-version-epub" target="_blank">epub</a>** ou **<a href="https://catherinephanvan.sumupstore.com/article/enfants-des-neiges-version-pdf" target="_blank">pdf</a>**.
 
 **Version papier en vente (5,00€) depuis le 16 janvier 2024 <a href="https://catherinephanvan.sumupstore.com/article/enfants-des-neiges" target="_blank">sur ma boutique en ligne</a>**.
-Disponible également <a target="_blank" href="https://www.amazon.fr/Enfants-neiges-Catherine-Phan-van/dp/2493624041">sur Amazon</a>.
 
 {% include figure image_path="/assets/images/publications/enfants-des-neiges-teaser.webp" %}
 

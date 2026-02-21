@@ -45,14 +45,13 @@ Avec *Anaica*, Catherine Phan van dresse une table d'honneur aussi savoureuse qu
   * sur le stand des Éditions 1115, lors des salons ou festivals où la maison est présente, 
   * en passant commande auprès de votre libraire.
 
-* en version ebook sur les plateformes habituelles&nbsp;:
+* en version ebook sur les plateformes habituelles, notamment&nbsp;:
   * <a href="https://www.placedeslibraires.fr/ebook/9782385630713-anaica-catherine-phan-van/" target="_blank">Place des libraires</a>
   * <a href="https://www.cultura.com/p-anaica-12963951.html" target="_blank">Cultura</a>
   * <a href="https://www.fnac.com/livre-numerique/a22618055/Catherine-Phan-Van-Anaica" target="_blank">Fnac</a>
   * <a href="https://www.kobo.com/fr/fr/ebook/anaica" target="_blank">Kobo</a>
   * <a href="https://shop.vivlio.com/product/9782385630713_9782385630713_2/anaica" target="_blank">Vivlio</a>
   * <a href="https://www.7switch.com/fr/ebook/9782385630713/anaica" target="_blank">7switch</a>
-  * <a href="https://www.amazon.fr/dp/B0GLHRLKHQ" target="_blank">Amazon</a>
 
 * en version audio&nbsp;:
   * <a href="https://www.patreon.com/posts/anaica-de-phan-149035823" target="_blank">sur Patreon</a>
