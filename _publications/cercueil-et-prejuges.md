@@ -29,8 +29,6 @@ sidebar:
       18 €
 ---
 
-📢 **Salon des auteurs villenavais** le samedi **7 février 2026 de 14h30 à 18h** à la médiathèque d'Ornon (33140).
-
 ## Le roman
 
 Une **comédie romantique contemporaine feel good** désopilante, au cœur de la métropole bordelaise.
