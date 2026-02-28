@@ -23,6 +23,7 @@ Pas de nouvelle date prévue à ce jour.
 
 <div id="h5p-publications"></div>
 
+
 ## Mes activités d'écriture en cours
 
 ### En soumissions
@@ -30,16 +31,14 @@ Pas de nouvelle date prévue à ce jour.
 Ma deuxième comédie romantique contemporaine, [*Un mensonge sans conséquence*](/publications/projets-en-cours/#un-mensonge-sans-conséquence), est en cours de soumissions éditoriales.
 Ce roman a été **finaliste** du <a href="https://www.instagram.com/p/C8O5XMRqK0P/?img_index=5" target="_blank">concours Bookbuster Romance 2024</a>.
 
-J'ai lancé une première vague de soumissions pour *E comme&hellip;*, mon texte court destiné à un public young adult.
+J'ai lancé une première vague de soumissions pour *E comme&hellip;*, mon texte court destiné à un public young adult, ainsi que pour [*Le Lapin rose*](/publications/projets-en-cours/#le-lapin-rose), un roman junior de fantasy légère, qui met la science et la solidarité à l'honneur.
 
 Après une nouvelle phase de corrections au cours de l'été 2025, j'ai également repris les soumissions de mon premier roman ado, [*Chasseuse de rêves*](/publications/projets-en-cours/#chasseuse-de-r%C3%AAves-titre-provisoire).
 
 ### En cours d'écriture
 
-Actuellement, je suis en cours de correction d'un roman junior, [*Le Lapin rose*](/publications/projets-en-cours/#le-lapin-rose), de la fantasy légère qui met la science et la solidarité à l'honneur.
-
-Ma dernière comédie romantique feel good, [*Breizh, son et sentiments*](/publications/projets-en-cours/#breizh-son-et-sentiments), qui, comme son titre l'indique, se déroule en Bretagne, est en cours de bêta-lecture. Je m'attaquerai aux corrections quand j'aurai reçu tous les retours.
+Suite à un retour professionnel début 2025 sur la structure de l'intrigue de [*45,93&nbsp;grammes*](/publications/projets-en-cours/#4593grammes), j'avais mis en pause ce projet. Après plusieurs mois de réflexion, j'ai décidé de nouvelles orientations pour le texte, et depuis fin février 2026, j'ai attaqué l'écriture d'un nouveau premier jet, sous un nouveau titre. Ce sera de l'anticipation young adult, teintée de thriller psychologique.
 
 ### En attente
 
-Suite à un retour professionnel sur la structure de l'intrigue, j'ai mis en pause pour une durée indéterminée l'écriture de [*45,93&nbsp;grammes*](/publications/projets-en-cours/#4593grammes), une uchronie qui se situe entre thriller psychologique et thriller politique. J'ai besoin de prendre du recul sur ce texte avant d'envisager de peut-être le reprendre.
+Ma dernière comédie romantique feel good, [*Breizh, son et sentiments*](/publications/projets-en-cours/#breizh-son-et-sentiments), qui, comme son titre l'indique, se déroule en Bretagne, est en cours de bêta-lecture. Je m'attaquerai aux corrections quand j'aurai reçu tous les retours.

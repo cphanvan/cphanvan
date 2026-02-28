@@ -65,3 +65,6 @@ Avec *Anaica*, Catherine Phan van dresse une table d'honneur aussi savoureuse qu
 ## On parle d'*Anaica*
 
 - <a href="https://www.fantastinet.com/anaica-de-catherine-phan-van/" target="_blank">sur Fantastinet</a>
+- <a href="https://www.babelio.com/livres/Phan-Van-Anaica/1992333#critiques" target="_blank">sur Babelio</a>
+
+Si vous avez lu la nouvelle, n'hésitez pas à en parler autour de vous et à aller déposer, vous aussi, un petit commentaire sur un site comme <a href="https://www.babelio.com/livres/Phan-Van-Anaica/1992333#critiques" target="_blank">Babelio</a>, <a href="https://booknode.com/anaica_03686031/commentaires" target="_blank">Booknode</a>, <a href="https://www.livraddict.com/biblio/livre/anaica.html" target="_blank">Livraddict</a>, <a href="https://www.gleeph.com/book/catherine-phan-van-anaica/ean/9782385630638" target="_blank">Gleeph</a> ou <a href="https://www.goodreads.com/book/show/247649985-anaica" target="_blank">Goodreads</a>. Les avis, même succincts, contribuent toujours à améliorer la visibilité d'un texte. Un immense merci aux personnes qui prennent le temps de donner le leur. 🙏
