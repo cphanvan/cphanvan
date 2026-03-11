@@ -15,7 +15,16 @@ toc: true
 
 ## En phase de soumissions éditoriales&nbsp;:
 
-### Un mensonge sans conséquence
+### *Le Lapin rose*
+
+(roman junior - cosy fantasy scientifique)
+
+J'ai lancé une première vague de soumissions pour ce roman. Au menu&nbsp;: une héroïne qui adore la science, un demi-frère pénible, une école haute en couleurs, de la solidarité, de la tolérance, peut-être un lapin rose&hellip; mais aussi, des expériences de physique, de chimie et de biologie amusantes et faciles à reproduire chez soi 😊.
+
+
+### *Un mensonge sans conséquence*
+
+(comédie romantique contemporaine feel good)
 
 J'ai changé le titre (mon titre de travail était *Pour que refleurisse son sourire*), mais je ne sais pas si celui-ci n'est pas un peu pourri aussi (je suis nulle en titres&nbsp;! 😅)
 
@@ -32,9 +41,9 @@ Lors de mon envoi au concours Bookbuster, j'attendais encore les retours de bêt
 Après avoir reçu les retours de bêta-lecture, j'ai effectué de nombreuses corrections sur le roman. La mouture finalisée est actuellement en phase de soumissions éditoriales.
 
 
-### E comme&hellip;
+### *E comme&hellip;*
 
-*texte court -- YA*
+(texte court -- YA)
 
 Il s'agit d'un texte court (novella / novelette) aux accents oniriques, destiné à un public young adult, qui aborde des thématiques graves&nbsp;: euthanasie, handicap visible ou invisible, validisme.
 
@@ -44,9 +53,9 @@ Le pitch&nbsp;:
 > Césaire, un lycéen solitaire et timide, dénigré par ses camarades, est chargé de trier des lettres pour une exposition. Ému par plusieurs d'entre elles, récentes et signées par une mystérieuse «&nbsp;E&nbsp;», il se lance à la recherche de cette inconnue qui lui ressemble.
 
 
-### Chasseuse de rêves
+### *Chasseuse de rêves*
 
-*roman ado*
+(roman ado)
 
 Il s'agit d'un roman contemporain destiné aux adolescents de 12/13 ans et plus. J'ai mûri l'histoire au début du premier trimestre 2022 et ai terminé l'écriture du premier jet en juin de la même année. La [phase de bêtalecture](/ecriture/2022/06/23/b%C3%AAta-lecture-chasseuse-de-r%C3%AAves.html) et les corrections sont terminées depuis mi-septembre 2022.
 
@@ -60,60 +69,40 @@ Le pitch&nbsp;:
 
 ## En cours d'écriture&nbsp;:
 
-### Breizh, son et sentiments
+### *−195,79°C*
 
-*comédie romantique contemporaine feel good*
+(anticipation YA -- projet anciennement intitulé *45,93&nbsp;grammes*)
 
-Ce roman est actuellement en bêta-lecture. J'attends les retours pour attaquer les corrections.
+Courant 2023, j'avais écrit environ 15&nbsp;000&nbsp;mots sur le premier jet de ce roman, soit à peu près un quart. Mais avec trois lignes temporelles distinctes et trois points de vue différents, je ne me facilitais pas la tâche&hellip; et à la lecture, l'ensemble était trop confus.
+
+Mi-octobre 2024, j'ai repris de zéro l'écriture de ce roman, en ai écrit environ la moitié&hellip; avant de m'arrêter suite à un retour professionnel sur la structure prévisionnelle de mon intrigue&nbsp;: j'avais besoin de prendre du recul avant de décider de donner ou non une suite à ce projet, et sous quelle forme.
+
+Depuis fin février 2026, j'attaque une toute nouvelle version de ce roman, qui, au passage, a changé de titre de travail. Toute la trame est claire dans ma tête (même si mes personnages ont tendance à essayer d'en dévier, les vilains), et j'espère cette fois-ci mener enfin ce projet à son terme, dans une version qui a beaucoup évolué par rapport à ce que j'avais prévu en 2023, même si les thématiques principales restent les mêmes.
+
+Le pitch&nbsp;:
+> Dans un monde reconfiguré par le changement climatique, où les migrations de population se font par centaines de millions de personnes et où l'Europe ne recule devant aucune méthode, aussi inhumaine soit-elle, pour que ses frontières restent fermées aux réfugiés, Chloé suit une formation pour devenir sapeuse-pompière professionnelle.
+Lorsqu'elle est victime d'une agression, sa vie bascule.<br>
+> Atteinte d'amnésie dissociative, elle est cependant incapable de se souvenir de ce qui s'est passé. Et, tandis qu'à la faveur d'une rencontre, des bribes de souvenirs commencent à émerger, elle ne sait plus si elle doit se fier à ce qu'elle croit se rappeler, ou à ce que sa mère lui raconte.
+
+
+### *Breizh, son et sentiments*
+
+(comédie romantique contemporaine feel good)
+
+Ce roman est actuellement en bêta-lecture. J'attends les derniers retours pour attaquer les corrections.
 
 Le pitch&nbsp;:
 > Quand Gabrielle se déguise en homme pour accompagner son amie Lizenn quelques jours dans sa famille et la débarrasser d'un prétendant un peu encombrant, elle ne s'attend ni à devoir remplacer au pied levé une chanteuse dans une réécriture bretonne en forme de comédie musicale de *Raison et sentiments*, le roman de Jane Austen… ni à tomber sous le charme du frère de Lizenn. 
 > <br> Mais alors que ce dernier, sûr de sa propre hétérosexualité, est persuadé que Gabrielle s'écrit au masculin, des sentiments pourraient-ils naître entre eux&nbsp;?
 
-### Le Lapin rose
-
-*roman junior - fantasy*
-
-Ce roman est actuellement en bêta-lecture. Au menu&nbsp;: une héroïne qui adore la science, un demi-frère pénible, une école haute en couleurs, de la solidarité, de la tolérance, des expériences plus ou moins hasardeuses&hellip; et peut-être un lapin rose.
-
-Le prologue, pour vous allécher 😉 (c'est du premier jet, merci de votre indulgence)&nbsp;:
-
-> Vous savez ce qu’écrivait Gabriel-Marie Legouvé sur les liens fraternels&nbsp;? «&nbsp;Un frère est un ami donné par la nature.<sup id="lapin-rose-ref-1">[1](#lapin-rose-note-1)</sup>&nbsp;»<br/>
-Le mec était poète et dramaturge à l’époque de la Révolution française. Vous aviez déjà entendu parler de lui&nbsp;? Non&nbsp;? Ça ne m’étonne pas. À mon avis, c’est pas pour rien qu’il est moins connu que Molière ou Victor Hugo. Il suffit de relire sa phrase, là… Il n’y a vraiment qu’un enfant unique pour oser écrire une bêtise pareille, vous ne croyez pas&nbsp;?<br/>
-Ou alors, c’est parce qu’il était humain, et ça ne s’applique pas à nous, les grisous.<br/>
-En tout cas, moi, j’ai un demi-frère, et s’il m’a bien été donné par la nature, je peux vous garantir que ce n’est pas un ami. Pas même un demi-ami. Plutôt une malédiction, en fait – et pas une demie, non, une vraie de vraie, cent pour cent complète.<br/>
-D’ailleurs, je l’entends approcher, dans mon dos. Ernald, il s’appelle. Il se croit discret, mais je l’ai capté dès qu’il a ouvert la porte de sa chambre. La latte qui grince, juste à côté du buffet… Pour le côté furtif, tu repasseras&nbsp;! Encore trois pas, et il va sauter devant moi en hurlant pour me faire peur.<br/>
-Un…<br/>
-Deux…<br/>
-Trois.<br/>
-—&nbsp;Bouh&nbsp;!<br/>
-Je lâche mon microscope, me recule contre le dossier de ma chaise, et lève sur lui un regard blasé.<br/>
-—&nbsp;Qu’est-ce que tu me veux, Ernald&nbsp;? Me changer en lapin rose&nbsp;? On a passé l’âge, tu crois pas&nbsp;?<br/>
-Ses épaules s’affaissent. Il ôte ses dents de vampire en plastique et s’étonne&nbsp;:<br/>
-—&nbsp;T’as pas eu peur&nbsp;?<br/>
-—&nbsp;Eh non, mon vieux. Je t’ai déjà dit&nbsp;: elle est finie, l’époque où tu pouvais me terroriser en me poursuivant partout avec ta fausse baguette magique ou tes stupides déguisements. Va falloir t’y faire. Alors fiche-moi la paix et trouve-toi plutôt une raison d’exister, tu veux bien&nbsp;?<br/>
-Il secoue la tête, me gratifie d’une horrible grimace, puis s’éloigne en fanfaronnant&nbsp;:<br/>
-—&nbsp;Ouais, tu fais la maligne, maintenant, avec tes magazines scientifiques et tes expériences tordues. N’empêche que je m’en souviens, Azénor, je m’en souviens&nbsp;: t’y croyais à fond, au lapin rose.<br/>
-Je réprime un soupir. Je devais avoir quatre ans. Cinq, peut-être&nbsp;? Aujourd’hui, j’en ai dix, et j’ai passé la moitié de ma vie à l’entendre ressasser cette histoire pour se moquer de moi.<br/>
-Un jour, je me vengerai.<br/>
-Je m’en fais le serment.<br/><br/>
-(<span id="lapin-rose-note-1">[1](#lapin-rose-ref-1)</span>-&nbsp;extrait de la tragédie *La Mort d'Abel*, acte&nbsp;3, scène&nbsp;3)
-
 
 ## En attente&nbsp;:
 
-### 45,93&nbsp;grammes
+### *Que Justice soit*
 
-*thriller uchronique*
+(fantasy YA)
 
-Le pitch&nbsp;:
-> Chloé était étudiante quand sa vie a basculé. Un traumatisme crânien l'a privée d'une partie de ses souvenirs. Il s'agissait d'une agression, sa mère en est persuadée. Les suspects sont d'ailleurs tout désignés&nbsp;: car les médias le répètent sans cesse, les millions de clandestins qui se pressent aux frontières sont violents, tout comme les rares régularisés autorisés à pénétrer sur le territoire national.<br>
-> Chloé, elle, n'a aucune certitude. Elle a tout oublié, alors comment savoir&nbsp;? Elle n'aspire qu'à une chose&nbsp;: se reconstruire. Mais l'obstination de sa mère à la couper du monde pour la protéger l'étouffe davantage qu'elle ne l'aide, et sa xénophobie la dégoûte. Pour la jeune fille, les clandestins, contraints de fuir des zones de la planète rendues inhabitables par le changement climatique, sont avant tout des êtres humains. Aussi, quand elle fait la connaissance d'Issiaka, un régularisé avec qui elle se découvre des goûts communs, c'est comme une bouffée d'air pur qui s'invite dans son existence.<br>
-> Jusqu'à ce que sa mère apprenne qu'elle a sympathisé avec lui… Et que sa vie bascule une seconde fois.
-
-Courant 2023, j'avais écrit environ 15&nbsp;000&nbsp;mots sur le premier jet de ce roman, soit à peu près un quart. Mais avec trois lignes temporelles distinctes et trois points de vue différents, je ne me facilitais pas la tâche&hellip; et à la lecture, l'ensemble était trop confus.
-
-Mi-octobre 2024, j'ai repris de zéro l'écriture de ce roman, en ai écrit environ la moitié&hellip; avant de m'arrêter suite à un retour professionnel sur la structure prévisionnelle de mon intrigue. J'ai besoin de prendre du recul avant de décider de donner ou non une suite à ce projet, et sous quelle forme.
+Un projet de fantasy YA avec une héroïne qui souffre d'hyperthymésie. Ce sera sans doute le prochain projet sur lequel je me pencherai, quand ceux en cours seront prêts à être soumis en maisons d'édition.
 
 
 ### Cosy mystery (en attente de titre)
@@ -136,9 +125,9 @@ Après réflexion, j'envisage une réécriture complète de ma novella de 2021, 
 Affaire à suivre, donc.
 
 
-### Les Oubliées d'Epeirandria
+### *Les Oubliées d'Epeirandria*
 
-*roman de science-fiction young-adult - projet mis en attente*
+(SF YA)
 
 J'ai une idée de départ, quelques personnages, plusieurs scènes. Initialement, j'espérais profiter du NaNoWriMo de novembre 2022 pour commencer à travailler sur ce roman.
 
@@ -149,9 +138,9 @@ Mais la fillette refuse de croire que son aîné est mort. Elle est prête à to
 Sauf que j'ai essayé de l'aborder en architecte, c'est-à-dire en prévoyant un plan détaillé de l'intrigue avant de me lancer dans l'écriture, mais je n'étais jamais satisfaite de mes tentatives. Raison pour laquelle je l'ai mis de côté, et me suis lancée dans l'écriture d'un autre roman (*Cercueil et préjugés*, pour ne pas le nommer), sans rien planifier à l'avance, pour tester si cette méthode me convenait mieux (réponse&nbsp;: **oui**), et&hellip; je ne l'ai pas (encore) repris depuis.
 
 
-### Fragments de solitudes
+### *Fragments de solitudes*
 
-*recueil de nouvelles - projet abandonné*
+(recueil de nouvelles)
 
 L'idée de ce recueil traînait dans un coin de ma tête depuis de longs mois. J'avais déjà 3 nouvelles candidates prêtes à y figurer, et je comptais bien étoffer le matériau et ajouter d'autres récits avant de le publier.
 

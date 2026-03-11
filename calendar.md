@@ -37,7 +37,7 @@ Après une nouvelle phase de corrections au cours de l'été 2025, j'ai égaleme
 
 ### En cours d'écriture
 
-Suite à un retour professionnel début 2025 sur la structure de l'intrigue de [*45,93&nbsp;grammes*](/publications/projets-en-cours/#4593grammes), j'avais mis en pause ce projet. Après plusieurs mois de réflexion, j'ai décidé de nouvelles orientations pour le texte, et depuis fin février 2026, j'ai attaqué l'écriture d'un nouveau premier jet, sous un nouveau titre. Ce sera de l'anticipation young adult, teintée de thriller psychologique.
+Suite à un retour professionnel début 2025 sur la structure de l'intrigue de [*−195,79°C*](/publications/projets-en-cours/#19579c), j'avais mis en pause ce projet. Après plusieurs mois de réflexion, j'ai décidé de nouvelles orientations pour le texte, et depuis fin février 2026, j'ai attaqué l'écriture d'un nouveau premier jet, sous un nouveau titre. Ce sera de l'anticipation young adult, teintée de thriller psychologique.
 
 ### En attente
 
