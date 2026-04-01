@@ -29,6 +29,10 @@ sidebar:
       18 €
 ---
 
+## 💝 PROMO 💝
+
+La version ebook est à moitié prix (2,99€) pendant tout le mois d'avril, sur toutes les plateformes de vente habituelles. N'hésitez pas en en profiter&nbsp;! Retrouvez [les liens d'achat ici](#o%C3%B9-vous-le-procurer).
+
 ## Le roman
 
 Une **comédie romantique contemporaine feel good** désopilante, au cœur de la métropole bordelaise.

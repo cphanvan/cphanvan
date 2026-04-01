@@ -20,7 +20,7 @@ header:
       url: "/publications/anaica"
     - label: "Mes autres publications"
       url: "/publications"
-summary: "[*Anaica*](/publications/anaica) est disponible en versions papier, ebook et audio&nbsp;!"
+summary: "L'ebook de [*Cercueil et préjugés*](/publications/cercueil-et-prejuges) est à moitié prix (2,99€) pendant tout le mois d'avril&nbsp;!"
 a_propos:
   - summary: |
       **Qui suis-je&nbsp;?**
