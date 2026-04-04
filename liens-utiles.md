@@ -7,6 +7,11 @@ toc: true
 toc_label: Liens utiles
 ---
 
+## Promo d'avril&nbsp;: l'ebook de Cercueil et préjugés à 2,99€
+
+[Où l'acheter](/newsletter/2026-04-05/#lebook-de-cercueil-et-pr%C3%A9jug%C3%A9s-%C3%A0-299){: .btn .btn--info .btn--large .btn--linktree}
+
+
 ## Anaica
 
 [*Anaica*, une nouvelle d'uchronie steampunk](/publications/anaica){: .btn .btn--info .btn--large .btn--linktree}

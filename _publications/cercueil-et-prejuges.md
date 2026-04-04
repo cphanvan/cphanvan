@@ -31,7 +31,7 @@ sidebar:
 
 ## 💝 PROMO 💝
 
-La version ebook est à moitié prix (2,99€) pendant tout le mois d'avril, sur toutes les plateformes de vente habituelles. N'hésitez pas en en profiter&nbsp;! Retrouvez [les liens d'achat ici](#o%C3%B9-vous-le-procurer).
+La version ebook est à moitié prix (2,99€) pendant tout le mois d'avril, sur toutes les plateformes de vente habituelles. N'hésitez pas en en profiter&nbsp;! Retrouvez [les liens d'achat ici](/newsletter/2026-04-05/#lebook-de-cercueil-et-pr%C3%A9jug%C3%A9s-%C3%A0-299).
 
 ## Le roman
 
