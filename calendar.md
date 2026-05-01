@@ -12,7 +12,7 @@ page_js:
 
 ## Prochains salons et dédicaces
 
-Pas de nouvelle date prévue à ce jour.
+- **mardi 30 juin 2026, de 10h à 13h**, je serai à l'auditorium d'ALCA à la MÉCA, à Bordeaux, pour présenter *Cercueil et préjugés* dans le cadre de Traverse(s), le mois des auteurs et des autrices de Nouvelle-Aquitaine. Un extrait du roman sera lu par une troupe de comédiens professionnels, et une vente de livres assurée par une librairie indépendante. La journée est ouverte au grand public, vous pouvez vous inscrire <a href="https://alca-nouvelle-aquitaine.fr/fr/actualites/traverses-2026-assister-au-mois-des-auteurs-et-des-autrices-de-nouvelle-aquitaine" target="_blank">via ce lien</a>.
 
 ## Dernières parutions
 

@@ -29,9 +29,10 @@ sidebar:
       18 €
 ---
 
-## 💝 PROMO 💝
+## Prix des Auteurs Inconnus 2026
 
-La version ebook est à moitié prix (2,99€) pendant tout le mois d'avril, sur toutes les plateformes de vente habituelles. N'hésitez pas en en profiter&nbsp;! Retrouvez [les liens d'achat ici](/newsletter/2026-04-05/#lebook-de-cercueil-et-pr%C3%A9jug%C3%A9s-%C3%A0-299).
+*Cercueil et préjugés* figure dans la <a href="https://www.instagram.com/p/DXXOOGojYF6/" target="_blank">sélection 2026 pour le Prix des Auteurs Inconnus, en catégorie "romance"</a>.<br>
+<img alt="couvertures des cinq romans de la sélection" src="/assets/images/publications/PAI-2026-selection-romance.webp">
 
 ## Le roman
 
@@ -74,7 +75,11 @@ Il a été <a href="https://www.fyctia.com/blog/articles/833" target="_blank">**
 <img alt="article du journal Sud-Ouest sur Cercueil et préjugés" src="/assets/images/newsletter/2025-07-04_sudouest.jpg">
 
 
-## Quelques premiers retours de lectrices
+## Quelques retours de lectrices
+
+> "Alex est génial, Adélie haute en couleurs, les situations administratives&hellip; désespérément réalistes et absurdes, et la relation d'Adélie et Alex évolue tout en douceur, et chacun affronte des parties de son passé qu'il avait laissées cachées sous le tapis. J'ai adoré&nbsp;!" -- <a href="https://www.babelio.com/livres/Phan-Van-Cercueil-et-Prejuges/1818928/critiques/4649271" target="_blank">Enirtourenef sur Babelio</a>
+
+> "Ce que j'ai particulièrement aimé dans ce roman, c'est son équilibre entre humour et émotion. On rit beaucoup grâce à des situations improbables mais tellement crédibles (parce que l'administration&hellip;). Les dialogues sont vifs, les scènes s'enchaînent avec fluidité, et certaines rencontres sont tout simplement mémorables. (&hellip;) La relation entre Adélie et Alex se construit en filigrane, sans forcer, avec naturel. Lui, maladroit au point d'en devenir irrésistible. Elle, explosive, piquante, parfois à fleur de peau. (&hellip;) Mais au-delà de l'humour, parfaitement dosé, le roman laisse aussi entrevoir des fêlures plus profondes. Les personnages sont touchants dans leurs fragilités, dans leur manière d'encaisser, de se relever, d'avancer malgré tout. (&hellip;) C'est le premier roman que je lis de Catherine Phan van et j'ai été séduite par sa plume&nbsp;: riche, vivante, pleine de jeux de mots et de trouvailles qui font mouche. (&hellip;) Une très belle découverte&nbsp;: drôle, touchante, originale, le genre de petite pépite qu'on a envie de faire connaître." -- <a href="https://www.babelio.com/livres/Phan-Van-Cercueil-et-Prejuges/1818928/critiques/5071775" target="_blank">Meeko163 sur Babelio</a>
 
 > "Le pitch est original et le ton génial. (&hellip;) L'auteure maîtrise les jeux de mots, les références culturelles, l'humour, mais sait aussi nous immerger dans un tourbillon d'émotions. On passe du rire aux larmes, on se laisse divertir, on sourit aussi. Mais surtout on rit. De toutes les couleurs&nbsp;! Avec Adélie et Alex, on rit jaune, ou de bon coeur, on pouffe, on explose, d'un rire franc ou modéré. On passe par tous les niveaux du rire. Et ça fait du bien. (&hellip;) C'est une histoire folle, cocasse, fantasque, mais pas que. On y croise des personnages attachants, imparfaits, authentiques. On y côtoie la bienveillance, la compréhension, l'amitié. Mais aussi l'amour. (&hellip;) Ce livre est une bouffée d'air frais, une parenthèse de bienveillance (et de musique&nbsp;!), un condensé d'humour et d'amour en tout genre, un moment de divertissement parfait&nbsp;! -- <a href="https://www.babelio.com/livres/Phan-Van-Cercueil-et-Prejuges/1818928/critiques/4643409" target="_blank">Guyanelle sur Babelio</a>
 

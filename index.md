@@ -20,7 +20,7 @@ header:
       url: "/publications/anaica"
     - label: "Mes autres publications"
       url: "/publications"
-summary: "L'ebook de [*Cercueil et préjugés*](/publications/cercueil-et-prejuges) est à moitié prix (2,99€) pendant tout le mois d'avril&nbsp;!"
+summary: "[*Cercueil et préjugés*](/publications/cercueil-et-prejuges) figure dans la sélection pour le Prix des Auteurs Inconnus 2026&nbsp;!"
 a_propos:
   - summary: |
       **Qui suis-je&nbsp;?**
