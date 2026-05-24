@@ -150,6 +150,15 @@
         },
         {
           "asset": {
+            "media": "https://catherinephanvan.fr/assets/images/publications/le-chien-cover.jpg"
+          },
+          "headline": "Le Chien",
+          "startDate": "2026,06,01",
+          "endDate": "2026,06,01",
+          "text": "<p>Une nouvelle de SF, publiée dans <em>L'Indé Panda n°15</em>.</p><p><a href=\"/publications/le-chien/\">Découvrir la nouvelle</a></p>"
+        },
+        {
+          "asset": {
             "media": "https://alca-nouvelle-aquitaine.fr/sites/default/files/alca/styles/16x9_1920/public/ged/visuel_traverse_s_2026_2.jpg"
           },
           "headline": "Traverse(s), le mois des auteurs et autrices de Nouvelle Aquitaine",

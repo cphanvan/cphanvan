@@ -19,11 +19,9 @@ sidebar:
       Novembre 2025
 ---
 
-Sur le thème "50", qui était celui du concours <a href="https://www.la-charte.fr/nos-actions/emergences-un-dispositif-de-professionnalisation-pour-auteurs-et-autrices-emergent%c2%b7es/" target="_blank">Émergences 2025</a>, je vous propose de découvrir ma nouvelle jeunesse lauréate, qui parle de handicap et de solidarité.
+Nouvelle lauréate en 2025 du <a href="https://www.la-charte.fr/nos-actions/emergences-un-dispositif-de-professionnalisation-pour-auteurs-et-autrices-emergent%c2%b7es/" target="_blank">concours Émergences</a> de <a href="https://www.la-charte.fr/" target="_blank">La Charte des auteurs et illustrateurs jeunesse</a>, sur le thème "50". Ce texte parle de handicap et de solidarité.
 
-<hr>
-
-Nouvelle parue en novembre 2025 dans le recueil ***Émergences 2025*** de <a href="https://www.la-charte.fr/" target="_blank">La Charte des auteurs et illustrateurs jeunesse</a>, à télécharger gratuitement <a href="https://www.la-charte.fr/wp-content/uploads/2025/11/Emergences2025web.pdf" target="_blank">en version numérique</a>.
+Le recueil ***Émergences 2025*** est paru en novembre 2025 et peut être téléchargé gratuitement <a href="https://www.la-charte.fr/wp-content/uploads/2025/11/Emergences2025web.pdf" target="_blank">en version numérique</a>.
 
 
 ## Le recueil

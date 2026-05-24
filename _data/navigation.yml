@@ -35,13 +35,15 @@ publications:
         url: /publications/cercueil-et-prejuges
   - title: "Nouvelles gratuites"
     children:
-      - title: "Salomé, la reine du sifflet"
+      - title: "Le Chien"
+        url: /publications/le-chien/
+      - title: "Salomé, la reine du sifflet (primée)"
         url: /publications/salome-la-reine-du-sifflet/
       - title: "La Nuit des betteraves grimaçantes"
         url: /publications/la-nuit-des-betteraves-grimacantes
       - title: "Ceux qui rapportent… et ceux qui coûtent"
         url: /publications/ceux-qui-rapportent-et-ceux-qui-coutent
-      - title: "L'Arbre de lune"
+      - title: "L'Arbre de lune (primée)"
         url: /publications/l-arbre-de-lune
       - title: "Sinistre Volonté"
         url: /publications/sinistre-volonte
