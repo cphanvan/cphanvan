@@ -1,6 +1,6 @@
 ---
 title: "Le Chien"
-description: Une nouvelle de SF, à paraître le 1er juin 2026 dans *L'Indé Panda n°15*.
+description: Une nouvelle de SF, parue en juin 2026 dans *L'Indé Panda n°15*.
 layout: single
 classes: wide
 share: true
@@ -15,7 +15,7 @@ sidebar:
     image_alt: "Couverture de L'Indé Panda n°15, sur laquelle un homme aux jambes brisées marche à côté d'un chien. Dans le fond, d'autres hommes aux corps brisés se dirigent vers des usines."
     text: |
       Nouvelle SF\
-      À paraître dans *L'Indé Panda n°15*\
+      Parue dans *L'Indé Panda n°15*\
       Juin 2026
 ---
 
@@ -23,7 +23,7 @@ Yseline menait une existence parfaitement réglée. Jusqu'au jour où un chien f
 
 <hr>
 
-Nouvelle de SF à paraître le 1er juin 2026 dans le n°15 de <a href="https://lindepanda.fr/" target="_blank">***L'Indé Panda***</a>.
+Nouvelle de SF parue en juin 2026 dans le n°15 de <a href="https://lindepanda.fr/" target="_blank">***L'Indé Panda***</a>, à télécharger gratuitement en version numérique au format epub ou pdf, ou bien à retrouver au petit prix de 10€ en version papier via <a href="https://lindepanda.fr/recueil/linde-panda-n15/" target="_blank">l'un des liens référencés sur le site de l'association</a>.
 
 
 ## Un extrait&nbsp;?
