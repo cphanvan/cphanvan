@@ -12,14 +12,11 @@ page_js:
 
 ## Prochains salons et dédicaces
 
-- **mardi 30 juin 2026, de 10h à 13h**, je serai à l'auditorium d'ALCA à la MÉCA, à Bordeaux, pour présenter *Cercueil et préjugés* dans le cadre de Traverse(s), le mois des auteurs et des autrices de Nouvelle-Aquitaine. Un extrait du roman sera lu par une troupe de comédiens professionnels, et une vente de livres assurée par une librairie indépendante. La journée est ouverte au grand public, vous pouvez vous inscrire <a href="https://alca-nouvelle-aquitaine.fr/fr/actualites/traverses-2026-assister-au-mois-des-auteurs-et-des-autrices-de-nouvelle-aquitaine" target="_blank">via ce lien</a>.
-
-## Prochaines parutions
-
-- **Lundi 1er juin 2026**, sortie de ma nouvelle [*Le Chien*](/publications/le-chien) dans L'Indé Panda n°15, en versions ebook (gratuite) et papier (10€).
+- **mardi 30 juin 2026, de 10h à 13h**, je serai à l'auditorium d'ALCA à la MÉCA, à Bordeaux, pour présenter *Cercueil et préjugés* dans le cadre de Traverse(s), le mois des auteurs et des autrices de Nouvelle-Aquitaine. Un extrait du roman sera lu par une troupe de comédiens professionnels, et une vente de livres assurée par une librairie indépendante. La journée est ouverte au grand public, vous pouvez vous inscrire <a href="https://alca-nouvelle-aquitaine.fr/fr/agenda/traverses-2026-journee-de-presentation-et-de-mise-en-voix" target="_blank">via ce lien</a>.
 
 ## Dernières parutions
 
+- **Lundi 1er juin 2026**, sortie de ma nouvelle [*Le Chien*](/publications/le-chien) dans L'Indé Panda n°15, en versions ebook (gratuite) et papier (10€).
 - **Février 2026**, sortie de ma nouvelle [*Anaica*](/publications/anaica), en versions papier, ebook et audio (uniquement via abonnement pour l'audio).
 - **Novembre 2025**, sortie du recueil *Émergences 2025*, avec ma nouvelle [*Salomé, la reine du sifflet*](/publications/salome-la-reine-du-sifflet)
 - **Jeudi 26 juin 2025**, sortie de la version papier (format broché) de mon premier roman, [*Cercueil et préjugés*](/publications/cercueil-et-prejuges).
