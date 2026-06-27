@@ -25,7 +25,7 @@ Je vous propose une petite plongée fantastique au c&oelig;ur des traditions mos
 
 Nouvelle parue en juin 2025 dans le n°14 de <a href="https://lindepanda.fr/recueil/linde-panda-n14/" target="_blank">***L'Indé Panda***</a>, à télécharger gratuitement en version numérique <a href="https://lindepanda.fr/wp-content/uploads/2025/11/L_Inde_Panda_n%C2%B014.epub" target="_blank">au format epub</a> ou <a href="https://lindepanda.fr/wp-content/uploads/2025/11/idp14.pdf" target="_blank">au format pdf</a>, ou bien à retrouver au petit prix de 10€ en version papier <a href="https://lindepanda.fr/recueil/linde-panda-n14/" target="_blank">via l'un des liens référencés sur le site de l'association</a>.
 
-Pour découvrir les coulisses de l'écriture de *La Nuit des betteraves grimaçantes*, n'hésitez pas à aller lire mon interview <a href="https://lindepanda.fr/interview-catherine-phan-van-2/" target="_blank">sur le site de L'Indé Panda</a>&nbsp;!
+Pour découvrir les coulisses de l'écriture de *La Nuit des betteraves grimaçantes* et découvrir mon portrait chinois, n'hésitez pas à aller lire mon interview <a href="https://lindepanda.fr/interview-catherine-phan-van-2/" target="_blank">sur le site de L'Indé Panda</a>&nbsp;!
 {: .notice--info}
 
 

@@ -23,8 +23,10 @@ Yseline menait une existence parfaitement réglée. Jusqu'au jour où un chien f
 
 <hr>
 
-Nouvelle de SF parue en juin 2026 dans le n°15 de <a href="https://lindepanda.fr/" target="_blank">***L'Indé Panda***</a>, à télécharger gratuitement en version numérique au format epub ou pdf, ou bien à retrouver au petit prix de 10€ en version papier via <a href="https://lindepanda.fr/recueil/linde-panda-n15/" target="_blank">l'un des liens référencés sur le site de l'association</a>.
+Nouvelle de SF parue en juin 2026 dans le n°15 de <a href="https://lindepanda.fr/" target="_blank">***L'Indé Panda***</a>, à télécharger gratuitement en version numérique <a href="https://lindepanda.fr/wp-content/uploads/2026/05/IDP_15.epub" target="_blank">au format epub</a> ou <a href="https://lindepanda.fr/wp-content/uploads/2026/05/idp15.pdf" target="_blank">au format pdf</a>, ou bien à retrouver au petit prix de 10€ en version papier via <a href="https://lindepanda.fr/recueil/linde-panda-n15/" target="_blank">l'un des liens référencés sur le site de l'association</a>.
 
+Pour découvrir les coulisses de l'écriture de la nouvelle *Le Chien* et me découvrir à travers mes lectures, n'hésitez pas à aller lire mon interview <a href="https://lindepanda.fr/interview-catherine-phan-van-3/" target="_blank">sur le site de L'Indé Panda</a>&nbsp;!
+{: .notice--info}
 
 ## Un extrait&nbsp;?
 
