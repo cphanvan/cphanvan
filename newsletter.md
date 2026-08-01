@@ -114,6 +114,9 @@ Alors si le programme vous tente, c'est par là&nbsp;! 😊👇
 
 <!-- End Brevo Form -->
 
+ℹ️ *Cette newsletter n'utilise pas de <a href="https://www.cnil.fr/fr/recommandation-pixel-suivi-courriels" target="_blank">pixels de suivi</a>.*
+{: .notice--info}
+
 
 ## Newsletters précédentes
 
