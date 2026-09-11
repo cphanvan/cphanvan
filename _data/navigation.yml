@@ -57,6 +57,8 @@ publications:
         url: /publications/plein-sud
   - title: "Nouvelles"
     children:
+      - title: "Une fleur parmi les nuages"
+        url: /publications/une-fleur-parmi-les-nuages
       - title: "Anaica"
         url: /publications/anaica
       - title: "Mésaventures vitaminées"
