@@ -12,7 +12,7 @@ page_js:
 
 ## Prochains salons et dédicaces
 
-Pas de date prévue à ce jour au second semestre 2026.
+- **Samedi 3 octobre 2026** à partir de 15h, à la librairie La Dimension fantastique (69 rue de Chabrol, Paris 10e), pour la dédicace de mes nouvelles [*Anaica*](/publications/anaica) et [*Une fleur parmi les nuages*](/publications/une-fleur-parmi-les-nuages), à l'occasion des 10 ans des <a href="https://www.editions1115.com/" target="_blank">éditions 1115</a>.
 
 ## Dernières parutions
 
