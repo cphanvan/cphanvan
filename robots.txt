@@ -2,3 +2,5 @@
 User-agent: googlebot
 Disallow: /404.html
 Disallow: /confirmation.html
+User-agent: meta-externalagent
+Disallow: /
