@@ -12,15 +12,15 @@ page_js:
 
 ## Prochains salons et dédicaces
 
-- **Samedi 3 octobre 2026** à partir de 15h, à la librairie La Dimension fantastique (69 rue de Chabrol, Paris 10e), pour la dédicace de mes nouvelles [*Anaica*](/publications/anaica) et [*Une fleur parmi les nuages*](/publications/une-fleur-parmi-les-nuages), à l'occasion des 10 ans des <a href="https://www.editions1115.com/" target="_blank">éditions 1115</a>.
+- Rien de prévu dans les semaines à venir
 
 ## Dernières parutions
 
-- **Lundi 1er juin 2026**, sortie de ma nouvelle [*Le Chien*](/publications/le-chien) dans L'Indé Panda n°15, en versions ebook (gratuite) et papier (10€).
-- **Février 2026**, sortie de ma nouvelle [*Anaica*](/publications/anaica), en versions papier, ebook et audio (uniquement via abonnement pour l'audio).
-- **Novembre 2025**, sortie du recueil *Émergences 2025*, avec ma nouvelle [*Salomé, la reine du sifflet*](/publications/salome-la-reine-du-sifflet)
-- **Jeudi 26 juin 2025**, sortie de la version papier (format broché) de mon premier roman, [*Cercueil et préjugés*](/publications/cercueil-et-prejuges).
-- **Vendredi 20 juin 2025**, sortie de la version ebook de mon premier roman, [*Cercueil et préjugés*](/publications/cercueil-et-prejuges).
+- **9 octobre 2026**, sortie de ma nouvelle [*Une fleur parmi les nuages*](/publications/une-fleur-parmi-les-nuages) dans l'anthologie *Ces ponts entre nous*, uniquement en version papier (11€), aux éditions 1115.
+- **1er juin 2026**, sortie de ma nouvelle [*Le Chien*](/publications/le-chien) dans L'Indé Panda n°15, en versions ebook (gratuite) et papier (10€).
+- **Février 2026**, sortie de ma nouvelle [*Anaica*](/publications/anaica), en versions papier, ebook et audio (uniquement via abonnement pour l'audio), aux éditions 1115.
+- **Novembre 2025**, sortie du recueil *Émergences 2025*, avec ma nouvelle [*Salomé, la reine du sifflet*](/publications/salome-la-reine-du-sifflet), en versions papier et numérique (sur le site de La Charte des auteurs et illustrateurs jeunesse).
+- **Juin 2025**, sortie de mon premier roman, [*Cercueil et préjugés*](/publications/cercueil-et-prejuges), en versions papier et numérique, aux éditions Alter Real.
 
 <div id="h5p-publications"></div>
 
